@@ -8,6 +8,9 @@ booktitle = {NIPS},
 year = {2016},
 }
 ```
+- Michaël Defferrard, EPFL, Lausanne, Switzerland
+- Xavier Bresson, EPFL, Lausanne, Switzerland
+- Pierre Vandergheynst, EPFL, Lausanne, Switzerland
 
 useful links
 - [arXiv](https://arxiv.org/pdf/1606.09375.pdf)
