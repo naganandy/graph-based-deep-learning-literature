@@ -13,7 +13,7 @@ year = {2016},
 - Pierre Vandergheynst, EPFL, Lausanne, Switzerland
 
 useful links
-- [arXiv](https://arxiv.org/pdf/1606.09375.pdf)
+- [arXiv](https://arxiv.org/abs/1606.09375)
 - [tensorflow code](https://github.com/mdeff/cnn_graph)
 - [pytorch code](https://github.com/xbresson/graph_convnets_pytorch)
 - [nips](https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering)
