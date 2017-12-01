@@ -10,7 +10,7 @@ useful links
 
 short bibtex
 ```
-@article{NIPS2016_6081,
+@incollection{NIPS2016_6081,
 title = {Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering},
 author = {Defferrard, Micha\"{e}l and Bresson, Xavier and Vandergheynst, Pierre},
 booktitle = {NIPS},
