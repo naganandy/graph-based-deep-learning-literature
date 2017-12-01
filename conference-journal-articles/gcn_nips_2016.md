@@ -8,10 +8,6 @@ booktitle = {NIPS},
 year = {2016},
 }
 ```
-- Michaël Defferrard, EPFL, Lausanne, Switzerland
-- Xavier Bresson, EPFL, Lausanne, Switzerland
-- Pierre Vandergheynst, EPFL, Lausanne, Switzerland
-
 useful links
 - [arXiv](https://arxiv.org/abs/1606.09375)
 - [tensorflow_code](https://github.com/mdeff/cnn_graph)
@@ -36,3 +32,8 @@ publisher = {Curran Associates, Inc.},
 url = {http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf}
 }
 ```
+
+- Michaël Defferrard, EPFL, Lausanne, Switzerland
+- Xavier Bresson, EPFL, Lausanne, Switzerland
+- Pierre Vandergheynst, EPFL, Lausanne, Switzerland
+
