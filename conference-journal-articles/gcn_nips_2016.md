@@ -33,6 +33,8 @@ url = {http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-
 }
 ```
 
+authors
+
 - Michaël Defferrard, EPFL, Lausanne, Switzerland
 - Xavier Bresson, EPFL, Lausanne, Switzerland
 - Pierre Vandergheynst, EPFL, Lausanne, Switzerland
