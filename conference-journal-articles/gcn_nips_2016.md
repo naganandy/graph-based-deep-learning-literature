@@ -5,8 +5,11 @@
 
 useful links
 - [arXiv](https://arxiv.org/pdf/1606.09375.pdf)
+- [tensorflow code](https://github.com/mdeff/cnn_graph)
+- [pytorch code](https://github.com/xbresson/graph_convnets_pytorch)
 - [nips](https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering)
 - [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1911.html)
+- [spotlight](https://www.youtube.com/watch?v=cIA_m7vwOVQ)
 
 short bibtex
 ```
