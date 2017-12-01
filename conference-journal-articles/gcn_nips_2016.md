@@ -16,7 +16,7 @@ author = {Defferrard, Micha\"{e}l and Bresson, Xavier and Vandergheynst, Pierre}
 booktitle = {NIPS},
 year = {2016},
 }
-
+```
 
 long bibtex
 ```
