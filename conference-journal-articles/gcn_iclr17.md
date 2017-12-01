@@ -23,5 +23,5 @@ useful llinks
 
 authors
 
-Thomas N. Kipf, University of Amsterdam
-Max Welling, University of Amsterdam, Canadian Institute for Advanced Research (CIFAR)
+- Thomas N. Kipf, University of Amsterdam
+- Max Welling, University of Amsterdam, Canadian Institute for Advanced Research (CIFAR)
