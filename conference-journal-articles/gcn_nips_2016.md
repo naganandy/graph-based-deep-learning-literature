@@ -3,7 +3,7 @@
 - Xavier Bresson, EPFL, Lausanne, Switzerland
 - Pierre Vandergheynst, EPFL, Lausanne, Switzerland
 
-Useful links:
+useful links:
 - [arXiv](https://arxiv.org/pdf/1606.09375.pdf)
 - [nips](https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering)
 - [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1911.html)
