@@ -14,7 +14,7 @@ year = {2016},
 useful links
 - [arXiv](https://arxiv.org/abs/1511.05493)
 - [code](https://github.com/yujiali/ggnn)
-- [video](https://www.youtube.com/watch?v=_Uj-tNjhVDQ) update_scratchd
+- [video](https://www.youtube.com/watch?v=_Uj-tNjhVDQ)
 - [slides](https://www.cs.toronto.edu/~yujiali/files/talks/iclr16_ggnn_talk.pdf)
 
 authors
