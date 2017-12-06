@@ -31,3 +31,7 @@ publisher = {Curran Associates, Inc.},
 url = {http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf}
 }
 ```
+
+William L. Hamilton, Stanford University
+Rex Ying, Stanford University
+Jure Leskovec, Stanford University
