@@ -11,7 +11,7 @@ year = {2016},
 }
 ```
 
-useful links
+links
 - [arXiv](https://arxiv.org/abs/1511.05493)
 - [code](https://github.com/yujiali/ggnn)
 - [video](https://www.youtube.com/watch?v=_Uj-tNjhVDQ)
