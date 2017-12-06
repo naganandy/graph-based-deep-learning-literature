@@ -1,7 +1,7 @@
 #  Gated Graph Sequence Neural Networks
 
 
-short bibtex
+citation
 ```
 @inproceedings{ggnn_iclr16,
 title = {Gated Graph Sequence Neural Networks},
