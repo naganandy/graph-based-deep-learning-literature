@@ -17,8 +17,8 @@ useful llinks
 - [blog2](http://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/)
 - [reviews](https://openreview.net/forum?id=SJU4ayYgl)
 - [iclr](https://openreview.net/pdf?id=SJU4ayYgl)
-- [related_video1](https://www.youtube.com/watch?v=0_O8PdZBc5s) update_scratchd
-- [related_video2](https://www.youtube.com/watch?v=0_O8PdZBc5s) update_scratchd
+- [related_video1](https://www.youtube.com/watch?v=0_O8PdZBc5s)
+- [related_video2](https://www.youtube.com/watch?v=0_O8PdZBc5s)
 - [slides](http://deeploria.gforge.inria.fr/thomasTalk.pdf)
 
 authors
