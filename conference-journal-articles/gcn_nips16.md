@@ -1,5 +1,5 @@
 # Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
-short bibtex
+citation
 ```
 @incollection{NIPS2016_6081,
 title = {Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering},
@@ -8,7 +8,8 @@ booktitle = {NIPS},
 year = {2016},
 }
 ```
-useful links
+
+links
 - [arXiv](https://arxiv.org/abs/1606.09375)
 - [tensorflow_code](https://github.com/mdeff/cnn_graph)
 - [pytorch_code](https://github.com/xbresson/graph_convnets_pytorch)
