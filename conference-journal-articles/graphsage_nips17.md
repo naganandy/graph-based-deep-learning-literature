@@ -1,6 +1,6 @@
 # Inductive Representation Learning on Large Graphs
 
-short bibtex
+citation
 
 ```
  @inproceedings{hamilton2017inductive,
@@ -11,7 +11,7 @@ short bibtex
    }
 ```
 
-useful links
+links
 - [arXiv](https://arxiv.org/abs/1706.02216)
 - [code](https://github.com/williamleif/GraphSAGE)
 - [nips](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs)
