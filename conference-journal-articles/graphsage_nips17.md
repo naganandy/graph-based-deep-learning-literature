@@ -33,6 +33,6 @@ url = {http://papers.nips.cc/paper/6703-inductive-representation-learning-on-lar
 ```
 authors
 
-William L. Hamilton, Stanford University
-Rex Ying, Stanford University
-Jure Leskovec, Stanford University
+- William L. Hamilton, Stanford University
+- Rex Ying, Stanford University
+- Jure Leskovec, Stanford University
