@@ -16,5 +16,5 @@ links
 summary
 
 - traditional ML methods for materials design require manually constructed feature vectors/complex transformations
-- authors construct crystal graphs and use cnns on these graphs to learn material properties
+- authors [construct](https://i.imgur.com/wxApCY2.png) crystal graphs and use [cnns](https://s17.postimg.org/rz77ahzyn/di2.png) on these graphs (with [node/edge features](https://s17.postimg.org/e5iulnx5b/di3.png)) to learn material properties
 - the method achieves same accuracy as DFT (ground truth) for properties of crystals, the framework is interpretable too
