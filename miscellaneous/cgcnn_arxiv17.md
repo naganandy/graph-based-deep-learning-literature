@@ -16,5 +16,5 @@ links
 summary
 
 - traditional ML methods for materials design require manually constructed feature vectors/complex transformations
-- authors [construct](https://i.imgur.com/wxApCY2.png) crystal graphs and use [cnns](https://s17.postimg.org/rz77ahzyn/di2.png) on these graphs ([nodes, edges](https://s17.postimg.org/e5iulnx5b/di3.png) have [features](https://s17.postimg.org/c2d0rbmlr/di4.png)) to learn material properties
+- authors [construct](https://i.imgur.com/wxApCY2.png) crystal graphs and use [cnns](https://s17.postimg.org/rz77ahzyn/di2.png) on these graphs ([nodes, edges](https://s17.postimg.org/e5iulnx5b/di3.png) have [features](https://s17.postimg.org/c2d0rbmlr/di4.png)) to learn [material properties](https://s17.postimg.org/e6xdskvzz/di5.png)
 - the method achieves same accuracy as [DFT](https://en.wikipedia.org/wiki/Density_functional_theory) (ground truth) for properties of crystals, the framework is interpretable too
