@@ -13,6 +13,10 @@ citation
 links
 - [arXiv](https://arxiv.org/abs/1710.10324)
 
+authors
+- Tian Xie, Massachusetts Institute of Technology
+- Jeffrey C. Grossman, Massachusetts Institute of Technology
+
 summary
 
 - traditional ML methods for materials design require manually constructed feature vectors/complex transformations
