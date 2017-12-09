@@ -18,6 +18,6 @@ links
 - [code](https://github.com/deepchem/deepchem)
 
 summary
--
--
+- the authors propose a non-parametric deep learning architecture for [one-shot drug discovery applications](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/acs_drug_osl/pic1.png?raw=true)
+- the architecture [bulds on](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/acs_drug_osl/pic2.png?raw=true) matching nets but uses molecular [gcns](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/acs_drug_osl/pic4.png) ([graph convolutions](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/acs_drug_osl/pic5.png) with [pooling, gathering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/acs_drug_osl/pic6.png?raw=true) instead of cnns
 -
