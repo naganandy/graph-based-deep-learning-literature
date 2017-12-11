@@ -15,6 +15,6 @@ links
 - [spotlight](https://www.youtube.com/watch?v=gN_w30U0cQE)
 
 summary
-- the authors improve performance on [multi-label image classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic1.png?raw=true) using [strucutred prior knowledge](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic2.png?raw=true)
-- they build on GGNNs to introduce a more efficient end-to-end model to incorporate large knowledge graphs into a vision classification pipeline
+- the authors' goal is to improve performance on [multi-label image classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic1.png?raw=true) using [strucutred prior knowledge](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic2.png?raw=true)
+- they introduce an efficient end-to-end model to incorporate large knowledge graphs into a vision classification pipeline
 - 
