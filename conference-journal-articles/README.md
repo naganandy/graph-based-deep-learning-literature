@@ -1,6 +1,9 @@
 # NIPS 2017
 [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17.md)
 
+# CVPR 2017
+[The More You Know: Using Knowledge Graphs for Image Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/README.md)
+
 # ICLR 2017
 [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_iclr17.md)
 
