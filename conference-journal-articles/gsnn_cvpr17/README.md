@@ -16,5 +16,5 @@ links
 
 summary
 - the authors' goal is to improve performance on [multi-label image classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic1.png?raw=true) using [strucutred prior knowledge](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic2.png?raw=true)
-- they introduce an efficient end-to-end model to incorporate large knowledge graphs into a vision classification pipeline
+- they incorporate large knowledge graphs into a vision classification pipeline by introducing an efficient end-to-end model
 - 
