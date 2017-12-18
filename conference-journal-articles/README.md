@@ -1,8 +1,7 @@
 # ICLR 2018
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 
-# AAAI 2018 
-[dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
+# AAAI 2018 [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 - An End-to-End Deep Learning Architecture for Graph Classification
 - Adaptive Graph Convolutional Neural Networks
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
