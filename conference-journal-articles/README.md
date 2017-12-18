@@ -2,6 +2,7 @@
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17.md)
 
 # CVPR 2017
+- [Geometric deep learning on graphs and manifolds using mixture model CNNs]()
 - [The More You Know: Using Knowledge Graphs for Image Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/README.md)
 - [Graph-Structured Representations for Visual Question Answering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graph_vqa_cvpr17/README.md)
 
