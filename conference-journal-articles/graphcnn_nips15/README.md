@@ -1,6 +1,5 @@
 # Convolutional Networks on Graphs for Learning Molecular Fingerprints
 
-citation
 ```
 @incollection{NIPS2015_5954,
 title = {Convolutional Networks on Graphs for Learning Molecular Fingerprints},
