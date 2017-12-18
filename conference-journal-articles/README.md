@@ -11,7 +11,7 @@
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
-[accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf), [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), 
+[accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf), [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/)
 
 # NIPS 2017
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
