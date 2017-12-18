@@ -1,3 +1,11 @@
+# AAAI 2018
+- An End-to-End Deep Learning Architecture for Graph Classification
+- Adaptive Graph Convolutional Neural Networks
+- Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
+- Graph Convolutional Networks with Argument-Aware Pooling for Event Detection
+- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
+- Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
+
 # NIPS 2017
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
 
