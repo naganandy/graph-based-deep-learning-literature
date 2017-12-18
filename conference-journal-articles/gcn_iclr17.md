@@ -1,6 +1,6 @@
 #  Semi-Supervised Classification with Graph Convolutional Networks
 
-short bibtex
+citation
 ```
 @inproceedings{gcn_iclr17,
 title = {Semi-Supervised Classification with Graph Convolutional Networks},
@@ -9,7 +9,7 @@ booktitle = {ICLR},
 year = {2017},
 }
 ```
-useful llinks
+links
 - [arXiv](https://arxiv.org/abs/1609.02907)
 - [tensorflow_code](https://github.com/tkipf/gcn)
 - [pytorch_code](https://github.com/tkipf/pygcn)
@@ -20,8 +20,3 @@ useful llinks
 - [related_video1](https://www.youtube.com/watch?v=0_O8PdZBc5s)
 - [related_video2](https://www.youtube.com/watch?v=0_O8PdZBc5s)
 - [slides](http://deeploria.gforge.inria.fr/thomasTalk.pdf)
-
-authors
-
-- Thomas N. Kipf, University of Amsterdam
-- Max Welling, University of Amsterdam, Canadian Institute for Advanced Research (CIFAR)
