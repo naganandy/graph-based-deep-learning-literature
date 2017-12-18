@@ -1,6 +1,4 @@
 #  The More You Know: Using Knowledge Graphs for Image Classification
-
-citation
 ```
  @InProceedings{Marino_2017_CVPR,
 author = {Marino, Kenneth and Salakhutdinov, Ruslan and Gupta, Abhinav},
