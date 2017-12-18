@@ -11,6 +11,7 @@
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
+early Feb
 [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 
 # NIPS 2017
