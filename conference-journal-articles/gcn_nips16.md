@@ -19,21 +19,6 @@ links
 - [slides](https://ndownloader.figshare.com/files/7253636)
 
 
-
-bibtex
-```
-@incollection{NIPS2016_6081,
-title = {Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering},
-author = {Defferrard, Micha\"{e}l and Bresson, Xavier and Vandergheynst, Pierre},
-booktitle = {Advances in Neural Information Processing Systems 29},
-editor = {D. D. Lee and M. Sugiyama and U. V. Luxburg and I. Guyon and R. Garnett},
-pages = {3844--3852},
-year = {2016},
-publisher = {Curran Associates, Inc.},
-url = {http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf}
-}
-```
-
 authors
 
 - Michaël Defferrard, EPFL, Lausanne, Switzerland
