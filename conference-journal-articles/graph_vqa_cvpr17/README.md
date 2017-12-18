@@ -5,7 +5,7 @@ citation
 @InProceedings{Teney_2017_CVPR,
 author = {Teney, Damien and Liu, Lingqiao and van den Hengel, Anton},
 title = {Graph-Structured Representations for Visual Question Answering},
-booktitle = {CVPR},
+booktitle = {CVPR}
 }
 ```
 
