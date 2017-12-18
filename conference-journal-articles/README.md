@@ -2,13 +2,13 @@
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 
 # AAAI 2018 
-[dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 - An End-to-End Deep Learning Architecture for Graph Classification
 - Adaptive Graph Convolutional Neural Networks
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
 - Graph Convolutional Networks with Argument-Aware Pooling for Event Detection
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
+[dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 
 # NIPS 2017
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
