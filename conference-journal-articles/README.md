@@ -1,8 +1,7 @@
 # [deadlines](https://aideadlin.es/)
 
-- 
-- CVPR 2018 (early June)
-- NAACL 2018 (early June)
+- CVPR 2018 (early June, decision early Mar)
+- NAACL 2018 (early June, decision mid Feb)
 
 # ICLR 2018 (early May)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
