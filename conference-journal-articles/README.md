@@ -1,7 +1,7 @@
 # [deadlines](https://aideadlin.es/)
 
 - 
-- CVPR (early June)
+- CVPR 2018 (early June)
 - NAACL 2018 (early June)
 
 # ICLR 2018 (early May)
