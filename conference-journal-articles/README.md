@@ -20,6 +20,7 @@
 
 # NIPS 2017
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
+- [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mgcnn_nips17/README.md)
 
 # CVPR 2017
 - [Geometric deep learning on graphs and manifolds using mixture model CNNs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/monet_cvpr17/README.md)
