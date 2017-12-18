@@ -5,7 +5,7 @@ citation
 @InProceedings{Simonovsky_2017_CVPR,
 author = {Simonovsky, Martin and Komodakis, Nikos},
 title = {Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+booktitle = {CVPR}
 }
 ```
 links
