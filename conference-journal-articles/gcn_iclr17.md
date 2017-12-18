@@ -1,6 +1,4 @@
 #  Semi-Supervised Classification with Graph Convolutional Networks
-
-citation
 ```
 @inproceedings{gcn_iclr17,
 title = {Semi-Supervised Classification with Graph Convolutional Networks},
