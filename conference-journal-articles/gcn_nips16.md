@@ -1,5 +1,4 @@
 # Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
-citation
 ```
 @incollection{NIPS2016_6081,
 title = {Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering},
