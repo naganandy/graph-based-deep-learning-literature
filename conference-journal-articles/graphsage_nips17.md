@@ -14,20 +14,6 @@ links
 - [nips](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs)
 - [project_website](http://snap.stanford.edu/graphsage/)
 
-bibtex
-
-```
-@incollection{NIPS2017_6703,
-title = {Inductive Representation Learning on Large Graphs},
-author = {Hamilton, Will and Ying, Zhitao and Leskovec, Jure},
-booktitle = {Advances in Neural Information Processing Systems 30},
-editor = {I. Guyon and U. V. Luxburg and S. Bengio and H. Wallach and R. Fergus and S. Vishwanathan and R. Garnett},
-pages = {1025--1035},
-year = {2017},
-publisher = {Curran Associates, Inc.},
-url = {http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf}
-}
-```
 authors
 
 - William L. Hamilton, Stanford University
