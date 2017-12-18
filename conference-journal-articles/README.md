@@ -3,7 +3,7 @@
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](http://www.iclr.cc/doku.php?id=ICLR2018:main&redirect=1)
 
-# AAAI 2018 
+# AAAI 2018 (early Feb)
 - An End-to-End Deep Learning Architecture for Graph Classification
 - Adaptive Graph Convolutional Neural Networks
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
@@ -11,8 +11,7 @@
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
-early Feb
-[dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
+[accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf), [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/), 
 
 # NIPS 2017
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
