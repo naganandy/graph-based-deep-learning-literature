@@ -1,6 +1,4 @@
 # Geometric deep learning on graphs and manifolds using mixture model CNNs
-
-citation
 ```
 @InProceedings{Monti_2017_CVPR,
 author = {Monti, Federico and Boscaini, Davide and Masci, Jonathan and Rodola, Emanuele and Svoboda, Jan and Bronstein, Michael M.},
