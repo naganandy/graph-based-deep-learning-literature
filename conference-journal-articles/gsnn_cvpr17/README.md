@@ -13,6 +13,7 @@ year = {2017}
 links
 - [arXiv](https://arxiv.org/abs/1612.04844)
 - [spotlight](https://www.youtube.com/watch?v=gN_w30U0cQE)
+- [cvpr](http://openaccess.thecvf.com/content_cvpr_2017/html/Marino_The_More_You_CVPR_2017_paper.html)
 
 summary
 - improving performance on [multi-label image classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic1.png?raw=true) using structured prior knowledge forms the [main goal](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/gsnn_cvpr17_pic2.png?raw=true)
