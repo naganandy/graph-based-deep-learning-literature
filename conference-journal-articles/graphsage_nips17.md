@@ -1,7 +1,4 @@
 # Inductive Representation Learning on Large Graphs
-
-citation
-
 ```
  @inproceedings{hamilton2017inductive,
      author = {Hamilton, William L. and Ying, Rex and Leskovec, Jure},
