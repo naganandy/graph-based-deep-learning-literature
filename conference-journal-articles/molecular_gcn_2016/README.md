@@ -2,11 +2,7 @@
 
 ```
 @article{Kearnes2016,
-author={Kearnes, Steven
-and McCloskey, Kevin
-and Berndl, Marc
-and Pande, Vijay
-and Riley, Patrick},
+author={Kearnes, Steven and McCloskey, Kevin and Berndl, Marc and Pande, Vijay and Riley, Patrick},
 title={Molecular graph convolutions: moving beyond fingerprints},
 journal={Journal of Computer-Aided Molecular Design},
 year={2016}
