@@ -3,7 +3,7 @@
 ```
 @incollection{NIPS2016_6398,
 title = {Learning Multiagent Communication with Backpropagation},
-author = {Sukhbaatar, Sainbayar and szlam, arthur and Fergus, Rob},
+author = {Sukhbaatar, Sainbayar and Szlam, Arthur and Fergus, Rob},
 booktitle = {NIPS},
 year = {2016}
 }
