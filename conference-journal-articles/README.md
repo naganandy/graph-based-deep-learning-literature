@@ -1,15 +1,15 @@
 # [deadlines](https://aideadlin.es/)
 
-- CVPR 2018 (early June, decision early Mar)
-- NAACL 2018 (early June, decision mid Feb)
+- CVPR 2018 (June, decision early Mar)
+- NAACL 2018 (June, decision mid Feb)
 
-# ICLR 2018 (early May)
+# ICLR 2018 (May)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 - Few-Shot Learning with Graph Neural Networks
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](http://www.iclr.cc/doku.php?id=ICLR2018:main&redirect=1)
 
-# AAAI 2018 (early Feb)
+# AAAI 2018 (Feb)
 - An End-to-End Deep Learning Architecture for Graph Classification
 - Adaptive Graph Convolutional Neural Networks
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
