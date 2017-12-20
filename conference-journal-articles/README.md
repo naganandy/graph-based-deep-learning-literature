@@ -38,6 +38,7 @@
 
 # NIPS 2016
 - [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_nips16.md)
+- [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/commnet_nips16/README.md)
 
 # ICLR 2016
 - [Gated Graph Sequence Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/ggnn_iclr16.md)
