@@ -4,7 +4,7 @@
   title = 	 {Neural Message Passing for Quantum Chemistry},
   author = 	 {Gilmer, Justin and Schoenholz, Samuel S.  and Riley, Patrick F. and Vinyals, Oriol and Dahl, George E.},
   booktitle = 	 {ICML},
-  year = 	 {2017},
+  year = 	 {2017}
 }
 ```
 
