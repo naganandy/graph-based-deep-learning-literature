@@ -5,7 +5,7 @@
  author = {Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele},
  title = {The Graph Neural Network Model},
  journal = {IEEE Transactions on Neural Networks},
- year = {2009},
+ year = {2009}
  } 
 ```
 links
