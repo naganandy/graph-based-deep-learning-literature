@@ -43,6 +43,9 @@
 # ICLR 2016
 - [Gated Graph Sequence Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/ggnn_iclr16.md)
 
+# Journal of Computer-Aided Molecular Design 2016
+- [Molecular graph convolutions: moving beyond fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/molecular_gcn_2016/README.md)
+
 # NIPS 2015
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphcnn_nips15/README.md)
 
