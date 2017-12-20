@@ -4,7 +4,7 @@
 title = {Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering},
 author = {Defferrard, Micha\"{e}l and Bresson, Xavier and Vandergheynst, Pierre},
 booktitle = {NIPS},
-year = {2016},
+year = {2016}
 }
 ```
 
