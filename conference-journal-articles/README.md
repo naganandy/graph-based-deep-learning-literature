@@ -45,5 +45,8 @@
 # NIPS 2015
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphcnn_nips15/README.md)
 
+# Trans. Neur. Netw 2009
+- [The Graph Neural Network Model](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gnn_tnn09/README.md)
+
 # IJCNN 2005
 - [A new model for learning in graph domains](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gnn_ijcnn05/README.md)
