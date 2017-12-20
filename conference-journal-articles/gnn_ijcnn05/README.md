@@ -2,9 +2,9 @@
 
 ```
 @InProceedings{Gorietal,
-  author    = {Marco Gori and
-               Gabriele Monfardini and
-               Franco Scarselli},
+  author    = {Gori, Marco and
+               Monfardini, Gabriele and
+               Scarselli, Franco},
   title     = {A new model for learning in graph domains},
   booktitle = {IJCNN},
   year      = {2005}
