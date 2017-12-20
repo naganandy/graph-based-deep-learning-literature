@@ -43,7 +43,7 @@
 # ICLR 2016
 - [Gated Graph Sequence Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/ggnn_iclr16.md)
 
-# Journal of Computer-Aided Molecular Design 2016
+# CAMD 2016
 - [Molecular graph convolutions: moving beyond fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/molecular_gcn_2016/README.md)
 
 # NIPS 2015
@@ -52,7 +52,7 @@
 # ICLR 2014
 - [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphcnn_iclr14/README.md)
 
-# Trans. Neur. Netw 2009
+# TNN 2009
 - [The Graph Neural Network Model](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gnn_tnn09/README.md)
 
 # IJCNN 2005
