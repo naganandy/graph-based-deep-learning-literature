@@ -11,4 +11,5 @@
 links
 - [arXiv](https://arxiv.org/abs/1704.01212)
 - [icml](http://proceedings.mlr.press/v70/gilmer17a.html)
-- [related_code](https://github.com/priba/nmp_qc)
+- [related_code1](https://github.com/priba/nmp_qc)
+- [related_code2](https://github.com/pfnet-research/chainer-chemistry)
