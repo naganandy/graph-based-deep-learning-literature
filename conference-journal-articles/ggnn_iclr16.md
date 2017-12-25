@@ -13,6 +13,7 @@ links
 - [code](https://github.com/yujiali/ggnn)
 - [video](https://www.youtube.com/watch?v=_Uj-tNjhVDQ)
 - [slides](https://www.cs.toronto.edu/~yujiali/files/talks/iclr16_ggnn_talk.pdf)
+- [poster](http://www.cs.toronto.edu/~yujiali/files/posters/iclr2016_ggnn_poster.pdf)
 
 authors
 - Yujia Li, Department of Computer Science, University of Toronto, Canada
