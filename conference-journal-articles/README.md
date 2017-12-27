@@ -31,7 +31,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 - [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
 - [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/tigranet_icml17/README.md)
 
-# CVPR 2017
+# [CVPR 2017](https://youtu.be/8CenT_4HWyY?t=8816)
 - [Geometric deep learning on graphs and manifolds using mixture model CNNs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/monet_cvpr17/README.md)
 - [Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/ecc_cvpr17/README.md)
 - [The More You Know: Using Knowledge Graphs for Image Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/README.md)
