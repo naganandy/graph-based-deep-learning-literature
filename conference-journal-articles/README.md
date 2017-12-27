@@ -24,7 +24,7 @@
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mgcnn_nips17/README.md)
 - [Protein Interface Prediction using Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/protein_gcn_nips17/README.md)
 
-[NIPS 17 podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
+[podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
 # ICML 2017
 - [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
