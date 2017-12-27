@@ -19,16 +19,17 @@
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf), [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/)
 
-# NIPS 2017
+# [NIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mgcnn_nips17/README.md)
 - [Protein Interface Prediction using Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/protein_gcn_nips17/README.md)
+[NIPS 17 podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
 # ICML 2017
 - [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
 - [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/tigranet_icml17/README.md)
 
-# CVPR 2017
+# [CVPR 2017]()
 - [Geometric deep learning on graphs and manifolds using mixture model CNNs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/monet_cvpr17/README.md)
 - [Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/ecc_cvpr17/README.md)
 - [The More You Know: Using Knowledge Graphs for Image Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gsnn_cvpr17/README.md)
