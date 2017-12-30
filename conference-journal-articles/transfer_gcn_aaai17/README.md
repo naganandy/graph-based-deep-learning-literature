@@ -1,7 +1,7 @@
 # Transfer Learning for Deep Learning on Graph-Structured Data
 ```
 @paper{AAAI1714803,
-	author = {Jaekoo Lee and Hyunjae Kim and Jongsun Lee and Sungroh Yoon},
+	author = {Lee, Jaekoo and Kim, Hyunjae and Lee, Jongsun and Yoon, Sungroh},
 	title = {Transfer Learning for Deep Learning on Graph-Structured Data},
 	conference = {AAAI},
 	year = {2017}
