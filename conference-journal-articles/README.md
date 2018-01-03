@@ -26,7 +26,7 @@
 
 [podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
-july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoEMrc)_
+july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoEMrc)
 # ICML 2017
 - [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
 - [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/tigranet_icml17/README.md)
