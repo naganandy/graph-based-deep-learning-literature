@@ -4,8 +4,8 @@
 - NAACL 2018 (June, decision mid Feb)
 
 # ICLR 2018 (May)
-- FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 - Few-Shot Learning with Graph Neural Networks
+- FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 - Attention-based Graph Neural Network for Semi-supervised Learning
 - Graph Attention Networks
 
