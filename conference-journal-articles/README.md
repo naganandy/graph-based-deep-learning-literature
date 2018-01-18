@@ -7,6 +7,7 @@
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 - Few-Shot Learning with Graph Neural Networks
 - Attention-based Graph Neural Network for Semi-supervised Learning
+- Graph Attention Networks
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](http://www.iclr.cc/doku.php?id=ICLR2018:main&redirect=1)
 
