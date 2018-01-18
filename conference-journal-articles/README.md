@@ -9,7 +9,7 @@
 - Attention-based Graph Neural Network for Semi-supervised Learning
 - Graph Attention Networks
 
-[openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](http://www.iclr.cc/doku.php?id=ICLR2018:main&redirect=1)
+[openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
 # AAAI 2018 (Feb)
 - An End-to-End Deep Learning Architecture for Graph Classification
