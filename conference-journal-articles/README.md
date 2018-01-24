@@ -21,7 +21,7 @@
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf), [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/)
 
-# [ACM SIGMETRICS 2018]
+# ACM SIGMETRICS 2018
 - Bootstrapped Graph Diffusions: Exposing the Power of Nonlinearity
 
 # [NIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
@@ -53,6 +53,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 
 # NIPS 2016
 - [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_nips16.md)
+- [Diffusion-Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dcnn_nips16/README.md)
 - [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/commnet_nips16/README.md)
 
 # ICLR 2016
