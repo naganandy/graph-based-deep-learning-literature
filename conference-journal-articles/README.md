@@ -32,6 +32,11 @@
 [podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
 july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoEMrc)
+
+# EMNLP 2017
+- [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_srl_emnlp17/README.md)
+- [Graph Convolutional Encoders for Syntax-aware Neural Machine Translation]()
+
 # ICML 2017
 - [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
 - [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/tigranet_icml17/README.md)
