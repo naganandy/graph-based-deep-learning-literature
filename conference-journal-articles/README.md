@@ -4,10 +4,14 @@
 - NAACL 2018 (June, decision mid Feb)
 
 # ICLR 2018 (May)
-- Few-Shot Learning with Graph Neural Networks
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
-- Attention-based Graph Neural Network for Semi-supervised Learning
+- Few-Shot Learning with raph Neural Networks
 - Graph Attention Networks
+- Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
+- Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
+- Learning to Represent Programs with Graphs
+- Automatically Inferring Data Quality for Spatiotemporal Forecasting
+- NerveNet: Learning Structured Policy with Graph Neural Networks
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
