@@ -5,7 +5,7 @@
 
 # ICLR 2018 (May)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
-- Few-Shot Learning with raph Neural Networks
+- Few-Shot Learning with Graph Neural Networks
 - Graph Attention Networks
 - Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
 - Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
