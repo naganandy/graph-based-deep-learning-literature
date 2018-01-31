@@ -16,10 +16,11 @@
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
 # AAAI 2018 (Feb)
+- Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
+- Structural Deep Embedding for Hyper-Networks
+- Graph Convolutional Networks with Argument-Aware Pooling for Event Detection
 - An End-to-End Deep Learning Architecture for Graph Classification
 - Adaptive Graph Convolutional Neural Networks
-- Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
-- Graph Convolutional Networks with Argument-Aware Pooling for Event Detection
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
