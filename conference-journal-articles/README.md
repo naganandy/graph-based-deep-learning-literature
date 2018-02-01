@@ -17,7 +17,7 @@
 
 # AAAI 2018 (Feb)
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
-- Structural Deep Embedding for Hyper-Networks
+- [Structural Deep Embedding for Hyper-Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dhne_aaai18/README.MD)
 - Graph Convolutional Networks with Argument-Aware Pooling for Event Detection
 - An End-to-End Deep Learning Architecture for Graph Classification
 - Adaptive Graph Convolutional Neural Networks
