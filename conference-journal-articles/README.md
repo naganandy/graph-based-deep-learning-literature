@@ -1,5 +1,6 @@
 # [deadlines](https://aideadlin.es/)
 
+- IJCAI 2018 (July, mid Apr)
 - CVPR 2018 (June, decision early Mar)
 - NAACL 2018 (June, decision mid Feb)
 
