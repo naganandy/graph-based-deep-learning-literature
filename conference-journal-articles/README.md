@@ -4,7 +4,6 @@
 - ICML 2018 (July, mid May)
 - IJCAI 2018 (July, mid Apr)
 - CVPR 2018 (June, decision early Mar)
-
 - NAACL 2018 (June, decisions out!)
 
 # ICLR 2018 (May)
