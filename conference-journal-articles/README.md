@@ -18,7 +18,7 @@
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
-# AAAI 2018 (Feb)
+# AAAI 2018
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
 - Graph Convolutional Networks with Argument-Aware Pooling for Event Detection
 - An End-to-End Deep Learning Architecture for Graph Classification
