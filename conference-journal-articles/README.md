@@ -26,7 +26,7 @@
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
-[accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf), [dates](https://aaai.org/Conferences/AAAI-18/calls-and-important-dates/)
+[accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 
 # ACM SIGMETRICS 2018
 - [Bootstrapped Graph Diffusions: Exposing the Power of Nonlinearity](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/bootstrapped_diffusion_2018/README.md)
