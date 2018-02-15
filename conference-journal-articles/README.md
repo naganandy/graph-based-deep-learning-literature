@@ -1,9 +1,11 @@
 # [deadlines](https://aideadlin.es/)
 
+- KDD 2018 (Aug, early May)
 - ICML 2018 (July, mid May)
 - IJCAI 2018 (July, mid Apr)
 - CVPR 2018 (June, decision early Mar)
-- NAACL 2018 (June, decision mid Feb)
+
+- NAACL 2018 (June, decisions out!)
 
 # ICLR 2018 (May)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
