@@ -1,6 +1,7 @@
 latest arXiv papers:
 
 Feb
+ - [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
  - [Convolutional Neural Networks over Control Flow Graphs for Software Defect Prediction](https://arxiv.org/abs/1802.04986)
  - [MotifNet: a motif-based Graph Convolutional Network for directed graphs](https://arxiv.org/abs/1802.01572) 
  - [Modeling Text with Graph Convolutional Network for Cross-Modal Information Retrieval](https://arxiv.org/abs/1802.00985)
