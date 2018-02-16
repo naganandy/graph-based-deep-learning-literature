@@ -11,5 +11,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1703.00356)
-- [icml](http://proceedings.mlr.press/v70/khasanova17a.html)
+- [icml](https://icml.cc/Conferences/2017/Schedule?showEvent=597)
 - [video](https://vimeo.com/238265797)
