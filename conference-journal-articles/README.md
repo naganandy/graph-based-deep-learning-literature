@@ -45,8 +45,8 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 - [Graph Convolutional Encoders for Syntax-aware Neural Machine Translation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_nmt_emnlp17/README.md)
 
 # ICML 2017
-- [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
 - [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/tigranet_icml17/README.md)
+- [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mpnn_icml17/README.md)
 
 # IJCAI 2017
 - [Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gnn_ookb_ijcai17/README.md)
