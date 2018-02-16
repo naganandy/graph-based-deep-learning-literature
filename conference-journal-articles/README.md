@@ -12,9 +12,9 @@
 - Graph Attention Networks
 - Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
 - Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
-- Learning to Represent Programs with Graphs
-- Automatically Inferring Data Quality for Spatiotemporal Forecasting
 - NerveNet: Learning Structured Policy with Graph Neural Networks
+- Automatically Inferring Data Quality for Spatiotemporal Forecasting
+- Learning to Represent Programs with Graphs
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
