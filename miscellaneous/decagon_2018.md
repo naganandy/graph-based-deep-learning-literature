@@ -10,5 +10,5 @@
 ```
 links
 - [arXiv](https://arxiv.org/abs/1802.00543)
-- [code](https://arxiv.org/abs/1802.00543)
+- [code](https://github.com/marinkaz/decagon)
 - [project_page](http://snap.stanford.edu/decagon/)
