@@ -1,7 +1,8 @@
 # [deadlines](https://aideadlin.es/)
 
-- ICML 2018 (July, decisions mid May)
+- ACL 2018 (July, decisions late Apr)
 - KDD 2018 (Aug, decisions early May)
+- ICML 2018 (July, decisions mid May)
 - IJCAI 2018 (July, decisions mid Apr)
 - CVPR 2018 (June, decisions early Mar)
 - NAACL 2018 (June, decisions out!)
