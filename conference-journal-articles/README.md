@@ -7,6 +7,7 @@
 - CVPR 2018 (June, decisions early Mar)
 - NAACL 2018 (June, decisions out!)
 
+
 # ICLR 2018 (May)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
 - Few-Shot Learning with Graph Neural Networks
@@ -16,6 +17,10 @@
 - NerveNet: Learning Structured Policy with Graph Neural Networks
 - Automatically Inferring Data Quality for Spatiotemporal Forecasting
 - Learning to Represent Programs with Graphs
+
+# WWW 2018 (April)
+- Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification
+- Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
