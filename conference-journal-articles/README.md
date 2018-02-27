@@ -18,11 +18,11 @@
 - Automatically Inferring Data Quality for Spatiotemporal Forecasting
 - Learning to Represent Programs with Graphs
 
+[openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
+
 # WWW 2018 (April)
 - Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification
 - Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN
-
-[openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
 # AAAI 2018
 - Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
