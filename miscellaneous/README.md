@@ -1,6 +1,7 @@
 latest arXiv papers:
 
 Feb
+ - [Link Prediction Based on Graph Neural Networks](https://arxiv.org/abs/1802.09691)
  - [GraphRNN: A Deep Generative Model for Graphs](https://arxiv.org/abs/1802.08773)
  - [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
  - [Convolutional Neural Networks over Control Flow Graphs for Software Defect Prediction](https://arxiv.org/abs/1802.04986)
