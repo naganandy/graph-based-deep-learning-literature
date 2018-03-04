@@ -5,8 +5,10 @@
 - ACL 2018 (July, decisions late Apr)
 - IJCAI 2018 (July, decisions mid Apr)
 - CVPR 2018 (June, decisions early Mar)
-- NAACL 2018 (June, decisions out!)
 
+
+# NAACL 2018 (June)
+- Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
 
 # ICLR 2018 (May)
 - FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
