@@ -10,5 +10,4 @@
 ```
 
 links
-
--[paper](https://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
+- [paper](https://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
