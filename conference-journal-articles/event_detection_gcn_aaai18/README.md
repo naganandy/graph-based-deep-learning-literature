@@ -8,3 +8,7 @@
   year      = {2018}
 }
 ```
+
+links
+
+-[paper](https://ix.cs.uoregon.edu/~thien/pubs/graphConv.pdf)
