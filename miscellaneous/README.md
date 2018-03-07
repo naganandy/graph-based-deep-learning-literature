@@ -1,5 +1,8 @@
 latest arXiv papers:
 
+Mar
+- [MIMO Graph Filters for Convolutional Neural Networks](https://arxiv.org/abs/1803.02247)
+
 Feb
  - [Link Prediction Based on Graph Neural Networks](https://arxiv.org/abs/1802.09691)
  - [GraphRNN: A Deep Generative Model for Graphs](https://arxiv.org/abs/1802.08773)
