@@ -1,5 +1,6 @@
 # [deadlines](https://aideadlin.es/)
 
+- UAI 2018 (August, decisions mid May)
 - ICML 2018 (July, decisions mid May)
 - KDD 2018 (Aug, decisions early May)
 - ACL 2018 (July, decisions late Apr)
