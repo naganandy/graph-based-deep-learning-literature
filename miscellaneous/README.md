@@ -1,6 +1,7 @@
 latest arXiv papers:
 
 Mar
+- [Local Spectral Graph Convolution for Point Set Feature Learning](https://arxiv.org/abs/1803.05827)
 - [MIMO Graph Filters for Convolutional Neural Networks](https://arxiv.org/abs/1803.02247)
 
 Feb
