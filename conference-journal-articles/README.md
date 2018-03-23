@@ -5,8 +5,10 @@
 - KDD 2018 (Aug, decisions early May)
 - ACL 2018 (July, decisions late Apr)
 - IJCAI 2018 (July, decisions mid Apr)
-- CVPR 2018 (June, decisions out!)
 
+
+# CVPR 2018 (June)
+ - Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs
 
 # NAACL 2018 (June)
 - Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
