@@ -1,6 +1,7 @@
 latest arXiv papers:
 
 Mar
+- [Tensor graph convolutional neural network](https://arxiv.org/abs/1803.10071) 
 - [Inference in Probabilistic Graphical Models by Graph Neural Networks](https://arxiv.org/abs/1803.07710)
 - [GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs](https://arxiv.org/abs/1803.07294)
 - [Local Spectral Graph Convolution for Point Set Feature Learning](https://arxiv.org/abs/1803.05827)
