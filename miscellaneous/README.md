@@ -8,6 +8,7 @@ Mar
 - [MIMO Graph Filters for Convolutional Neural Networks](https://arxiv.org/abs/1803.02247)
 
 Feb
+ - [Edge Attention-based Multi-Relational Graph Convolutional Networks](https://arxiv.org/abs/1802.04944)
  - [Link Prediction Based on Graph Neural Networks](https://arxiv.org/abs/1802.09691)
  - [GraphRNN: A Deep Generative Model for Graphs](https://arxiv.org/abs/1802.08773)
  - [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
