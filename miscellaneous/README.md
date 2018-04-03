@@ -1,4 +1,6 @@
 latest arXiv papers:
+Apr
+- [Attentional Multilabel Learning over Graphs - A message passing approach](https://arxiv.org/abs/1804.00293)
 
 Mar
 - [Tensor graph convolutional neural network](https://arxiv.org/abs/1803.10071) 
