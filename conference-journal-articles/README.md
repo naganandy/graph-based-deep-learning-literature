@@ -21,7 +21,7 @@
 - Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
 - NerveNet: Learning Structured Policy with Graph Neural Networks
 - Automatically Inferring Data Quality for Spatiotemporal Forecasting
-- Learning to Represent Programs with Graphs
+- [Learning to Represent Programs with Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pr_gnn_iclr18/README.md)
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
