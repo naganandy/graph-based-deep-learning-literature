@@ -1,6 +1,6 @@
 #  The More You Know: Using Knowledge Graphs for Image Classification
 ```
- @InProceedings{Marino_2017_CVPR,
+ @inproceedings{mlc_gnn_cvpr17,
 author = {Marino, Kenneth and Salakhutdinov, Ruslan and Gupta, Abhinav},
 title = {The More You Know: Using Knowledge Graphs for Image Classification},
 booktitle = {CVPR},
