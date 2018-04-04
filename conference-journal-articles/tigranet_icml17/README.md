@@ -1,11 +1,11 @@
 # Graph-based Isometry Invariant Representation Learning
 
 ```
-@InProceedings{pmlr-v70-khasanova17a,
-  title = 	 {Graph-based Isometry Invariant Representation Learning},
-  author = 	 {Khasanova, Renata and Frossard, Pascal},
-  booktitle = 	 {ICML},
-  year = 	 {2017}
+@inproceedings{tigranet_icml17,
+  title =  {Graph-based Isometry Invariant Representation Learning},
+  author =  {Khasanova, Renata and Frossard, Pascal},
+  booktitle =  {ICML},
+  year = {2017}
   }
 ```
 
