@@ -12,6 +12,6 @@
 ```
 
 links
- - [arXiv](https://arxiv.org/pdf/1711.00740.pdf)
+ - [arXiv](https://arxiv.org/abs/1711.00740)
  - [iclr](https://iclr.cc/Conferences/2018/Schedule?showEvent=375)
  - [openreview](https://openreview.net/forum?id=BJOFETxR-)
