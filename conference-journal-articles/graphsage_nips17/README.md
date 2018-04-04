@@ -1,6 +1,6 @@
 # Inductive Representation Learning on Large Graphs
 ```
- @inproceedings{hamilton2017inductive,
+ @inproceedings{graphsage_nisp17,
      author = {Hamilton, William L. and Ying, Rex and Leskovec, Jure},
      title = {Inductive Representation Learning on Large Graphs},
      booktitle = {NIPS},
