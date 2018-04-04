@@ -1,7 +1,7 @@
 #  Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach
 
 ```
-@inproceedings{ijcai2017-250,
+@inproceedings{ookb_gnn_ijcai17,
   author    = {Hamaguchi, Takuo and Oiwa, Hidekazu and Shimbo, Masashi and Matsumoto, Yuji},
   title     = {Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach},
   booktitle = {IJCAI},
