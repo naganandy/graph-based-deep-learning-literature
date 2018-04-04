@@ -19,7 +19,7 @@
 - Graph Attention Networks
 - Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
 - Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
-- NerveNet: Learning Structured Policy with Graph Neural Networks
+- [NerveNet: Learning Structured Policy with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/nervenet_iclr18/README.md)
 - Automatically Inferring Data Quality for Spatiotemporal Forecasting
 - [Learning to Represent Programs with Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pr_gnn_iclr18/README.md)
 
