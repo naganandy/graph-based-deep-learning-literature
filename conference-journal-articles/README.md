@@ -56,7 +56,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 - [Graph Convolutional Encoders for Syntax-aware Neural Machine Translation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_nmt_emnlp17/README.md)
 
 # ICCV 2017
-- Situation Recognition with Graph Neural Networks
+- [Situation Recognition with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/sr_gnn_iccv17/README.md)
 
 # ICML 2017
 - [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/tigranet_icml17/README.md)
