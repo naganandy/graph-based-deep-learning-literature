@@ -13,6 +13,6 @@
 ```
 
 links
- -[iclr](https://iclr.cc/Conferences/2018/Schedule?showEvent=66)
- -[openreview](https://openreview.net/forum?id=S1sqHMZCb)
- -[project_page](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)
+- [iclr](https://iclr.cc/Conferences/2018/Schedule?showEvent=66)
+- [openreview](https://openreview.net/forum?id=S1sqHMZCb)
+- [project_page](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)
