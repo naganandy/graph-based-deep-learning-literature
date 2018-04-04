@@ -1,7 +1,7 @@
 # Spectral Networks and Locally Connected Networks on Graphs
 
 ```
-@InProceedings{DBLP:BrunaZSL13,
+@inproceedings{gcn_iclr14,
   author    = {Bruna, Joan and
                Zaremba, Wojciech and
                Szlam, Arthur and
