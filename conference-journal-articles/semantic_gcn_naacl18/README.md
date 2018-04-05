@@ -7,5 +7,4 @@
   booktitle = {NAACL},
   year      = {2018}
 }
-
 ```
