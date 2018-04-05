@@ -12,6 +12,7 @@
 
 # NAACL 2018 (June)
 - Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+
 [accepted_papers](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/)
 
 # ICLR 2018 (May)
@@ -29,6 +30,7 @@
 # WWW 2018 (April)
 - [Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dual_gcn_www18/README.md)
 - Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN
+
 [accepted_papers](https://www2018.thewebconf.org/research-sessions-details/)
 
 # AAAI 2018
