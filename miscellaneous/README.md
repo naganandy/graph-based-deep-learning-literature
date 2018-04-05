@@ -1,4 +1,4 @@
-latest arXiv papers:
+arXiv papers:
 Apr
 - [Attentional Multilabel Learning over Graphs - A message passing approach](https://arxiv.org/abs/1804.00293)
 
@@ -14,6 +14,7 @@ Feb
  - [Link Prediction Based on Graph Neural Networks](https://arxiv.org/abs/1802.09691)
  - [GraphRNN: A Deep Generative Model for Graphs](https://arxiv.org/abs/1802.08773)
  - [Neural Relational Inference for Interacting Systems](https://arxiv.org/abs/1802.04687)
+ - [Semi-Supervised Learning on Graphs Based on Local Label Distributions](https://arxiv.org/abs/1802.05563)
  - [Convolutional Neural Networks over Control Flow Graphs for Software Defect Prediction](https://arxiv.org/abs/1802.04986)
  - [MotifNet: a motif-based Graph Convolutional Network for directed graphs](https://arxiv.org/abs/1802.01572) 
  - [Modeling Text with Graph Convolutional Network for Cross-Modal Information Retrieval](https://arxiv.org/abs/1802.00985)
