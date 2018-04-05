@@ -5,7 +5,7 @@
   author    = {Chenyi Zhuang and
                Qiang Ma},
   title     = {Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification},
-  booktitle = {WWW},
+  booktitle = {TheWebConf},
   year      = {2018}
 }
 ```
