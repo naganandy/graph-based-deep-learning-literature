@@ -1,6 +1,6 @@
 # Protein Interface Prediction using Graph Convolutional Networks
 ```
-@incollection{NIPS2017_7231,
+@incollection{pgcn_nips17,
 title = {Protein Interface Prediction using Graph Convolutional Networks},
 author = {Fout, Alex and Byrd, Jonathon and Shariat, Basir and Ben-Hur, Asa},
 booktitle = {NIPS},
