@@ -21,7 +21,7 @@
 - [Few-Shot Learning with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/few_shot_gcn_iclr18/README.md)
 - [Graph Attention Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gan_iclr18/README.md)
 - Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
-- Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
+- [Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dcrnn_iclr18/README.md)
 - [NerveNet: Learning Structured Policy with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/nervenet_iclr18/README.md)
 - [Automatically Inferring Data Quality for Spatiotemporal Forecasting](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/stgcn_iclr18/README.md)
 - [Learning to Represent Programs with Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pr_gnn_iclr18/README.md)
