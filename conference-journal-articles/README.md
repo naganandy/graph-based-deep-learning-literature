@@ -20,7 +20,7 @@
 - Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
 - Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
 - [NerveNet: Learning Structured Policy with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/nervenet_iclr18/README.md)
-- Automatically Inferring Data Quality for Spatiotemporal Forecasting
+- [Automatically Inferring Data Quality for Spatiotemporal Forecasting](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/stgcn_iclr18/README.md)
 - [Learning to Represent Programs with Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pr_gnn_iclr18/README.md)
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
