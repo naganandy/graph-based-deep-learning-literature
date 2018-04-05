@@ -34,7 +34,7 @@
 - [Graph Convolutional Networks with Argument-Aware Pooling for Event Detection](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/event_detection_gcn_aaai18/README.md)
 - An End-to-End Deep Learning Architecture for Graph Classification
 - [Adaptive Graph Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/agcn_aaai18/README.md)
-- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
+- [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/stgcn_aaai18/README.md)
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
