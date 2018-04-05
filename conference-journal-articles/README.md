@@ -90,6 +90,9 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 # ICLR 2016
 - [Gated Graph Sequence Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/ggnn_iclr16.md)
 
+# ICML 2016
+- [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_icml16/README.md)
+
 # CAMD 2016
 - [Molecular graph convolutions: moving beyond fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/molecular_gcn_2016/README.md)
 
