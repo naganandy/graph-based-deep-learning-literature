@@ -14,7 +14,7 @@
 - Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
 
 # ICLR 2018 (May)
-- FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
+- [FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/fastgcn_iclr18/README.md)
 - Few-Shot Learning with Graph Neural Networks
 - Graph Attention Networks
 - Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
