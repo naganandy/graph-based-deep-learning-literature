@@ -33,7 +33,7 @@
 - [Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/co_self_gcn_aaai18/README.md)
 - [Graph Convolutional Networks with Argument-Aware Pooling for Event Detection](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/event_detection_gcn_aaai18/README.md)
 - An End-to-End Deep Learning Architecture for Graph Classification
-- Adaptive Graph Convolutional Neural Networks
+- [Adaptive Graph Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/agcn_aaai18/README.md)
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Spatio Temporal Graph Convolution for Skeleton Based Action Recognition
 
