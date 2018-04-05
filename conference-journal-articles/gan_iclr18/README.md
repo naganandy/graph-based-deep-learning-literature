@@ -1,8 +1,7 @@
 # Graph Attention Networks
 
 ```
-@inproceedings{
-  gan_iclr18,
+@inproceedings{gan_iclr18,
   title = {Graph Attention Networks},
   author = {Veli{\v{c}}kovi{\'{c}}, Petar and Cucurull, Guillem and Casanova, Arantxa and Romero, Adriana and Li{\`{o}}, Pietro and Bengio, Yoshua},
   booktitle = {ICLR},
