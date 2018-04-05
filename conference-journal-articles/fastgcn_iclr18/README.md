@@ -13,5 +13,6 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1801.10247)
+- [iclr](https://iclr.cc/Conferences/2018/Schedule?showEvent=145)
 - [openreview](https://openreview.net/forum?id=rytstxWAW&noteId=ByU9EpGSf)
 - [code](https://github.com/matenure/FastGCN)
