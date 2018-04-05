@@ -1,10 +1,11 @@
 # [deadlines](https://aideadlin.es/)
 
-- UAI 2018 (August, decisions mid May)
-- ICML 2018 (July, decisions mid May)
+- ECCV 2018 (Sep, decisions early Jul)
+- UAI 2018 (Aug, decisions mid May)
+- ICML 2018 (Jul, decisions mid May)
 - KDD 2018 (Aug, decisions early May)
-- ACL 2018 (July, decisions late Apr)
-- IJCAI 2018 (July, decisions mid Apr)
+- ACL 2018 (Jul, decisions late Apr)
+- IJCAI 2018 (Jul, decisions mid Apr)
 
 
 # CVPR 2018 (June)
