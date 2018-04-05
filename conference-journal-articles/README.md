@@ -28,6 +28,9 @@
 
 [openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
 
+# ESWC 2018
+- [Modeling Relational Data with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/rgcn_eswc18/README.md)
+
 # TheWebConf 2018 (April)
 - [Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dual_gcn_www18/README.md)
 - Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN
