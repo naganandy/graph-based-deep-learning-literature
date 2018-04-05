@@ -5,8 +5,7 @@
   author    = {Jie Chen and
                Tengfei Ma and
                Cao Xiao},
-  title     = {FastGCN: Fast Learning with Graph Convolutional Networks via Importance
-               Sampling},
+  title     = {FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling},
   booktitle   = {ICLR},
   year      = {2018}
 }
