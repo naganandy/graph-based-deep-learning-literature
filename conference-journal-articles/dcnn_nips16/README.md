@@ -1,7 +1,7 @@
 #  Diffusion-Convolutional Neural Networks
 
 ```
-@incollection{NIPS2016_6212,
+@inproceedings{dcnn_nips16,
 title = {Diffusion-Convolutional Neural Networks},
 author = {Atwood, James and Towsley, Don},
 booktitle = {NIPS},
