@@ -21,7 +21,7 @@
 - [FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/fastgcn_iclr18/README.md)
 - [Few-Shot Learning with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/few_shot_gcn_iclr18/README.md)
 - [Graph Attention Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gan_iclr18/README.md)
-- Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking
+- [Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graph2gauss_iclr18/README.md)
 - [Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dcrnn_iclr18/README.md)
 - [NerveNet: Learning Structured Policy with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/nervenet_iclr18/README.md)
 - [Automatically Inferring Data Quality for Spatiotemporal Forecasting](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/stgcn_iclr18/README.md)
