@@ -9,6 +9,7 @@
 
 
 # CVPR 2018 (June)
+ - SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
  - Image Generation from Scene Graphs
  - [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/zero_shot_gcn_cvpr18/README.md)
 
