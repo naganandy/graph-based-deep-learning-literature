@@ -34,7 +34,7 @@
 
 # TheWebConf 2018
 - [Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dual_gcn_www18/README.md)
-- Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN
+- [Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_text_www18/README.md)
 
 [accepted_papers](https://www2018.thewebconf.org/research-sessions-details/)
 
