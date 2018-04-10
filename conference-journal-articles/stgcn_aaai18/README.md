@@ -13,4 +13,4 @@
 }
 ```
 links
- -[arXiv](https://arxiv.org/abs/1802.09834)
+- [arXiv](https://arxiv.org/abs/1802.09834)
