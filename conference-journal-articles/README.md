@@ -9,9 +9,10 @@
 
 
 # CVPR 2018 (June)
- - Image Generation from Scene Graphs
  - [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/zero_shot_gcn_cvpr18/README.md)
-  - SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
+ - Multi-Label Zero-Shot Learning with Structured Knowledge Graphs
+ - Image Generation from Scene Graphs
+ - SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
 
 # NAACL 2018 (June)
 - [Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/semantic_gcn_naacl18/README.md)
