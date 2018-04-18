@@ -13,6 +13,8 @@
  - Multi-Label Zero-Shot Learning with Structured Knowledge Graphs
  - Image Generation from Scene Graphs
  - SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
+ 
+ [accepted_papers](http://cvpr2018.thecvf.com/program/main_conference)
 
 # NAACL 2018 (June)
 - [Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/semantic_gcn_naacl18/README.md)
