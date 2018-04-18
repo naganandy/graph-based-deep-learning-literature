@@ -31,7 +31,7 @@
 - [Automatically Inferring Data Quality for Spatiotemporal Forecasting](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/stgcn_iclr18/README.md)
 - [Learning to Represent Programs with Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pr_gnn_iclr18/README.md)
 
-[openreview](https://openreview.net/submissions?id=ICLR.cc/2018), [dates](https://iclr.cc/Conferences/2018/Dates)
+[openreview](https://openreview.net/submissions?id=ICLR.cc/2018)
 
 # ESWC 2018
 - [Modeling Relational Data with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/rgcn_eswc18/README.md)
