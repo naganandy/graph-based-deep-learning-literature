@@ -50,9 +50,6 @@
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 
-# ACM SIGMETRICS 2018
-- [Bootstrapped Graph Diffusions: Exposing the Power of Nonlinearity](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/bootstrapped_diffusion_2018/README.md)
-
 # [NIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graphsage_nips17/README.md)
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/mgcnn_nips17/README.md)
