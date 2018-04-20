@@ -2,13 +2,13 @@
 
 bibtex
 ```
-@article{DBLP:journals/corr/Altae-TranRPP16,
+@article{lddg_acs16,
   author    = {Han Altae{-}Tran and
                Bharath Ramsundar and
                Aneesh S. Pappu and
                Vijay S. Pande},
   title     = {Low Data Drug Discovery with One-shot Learning},
-  journal   = {CoRR},
+  journal   = {ACS},
   year      = {2016}
 }
 ```
