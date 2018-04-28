@@ -4,7 +4,6 @@
 - UAI 2018 (Aug, decisions mid May)
 - ICML 2018 (Jul, decisions mid May)
 - KDD 2018 (Aug, decisions early May)
-- ACL 2018 (Jul, decisions out!)
 - IJCAI 2018 (Jul, decisions out!)
 
 # ACL 2018 (July)
