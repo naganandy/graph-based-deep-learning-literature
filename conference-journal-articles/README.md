@@ -8,9 +8,9 @@
 - IJCAI 2018 (Jul, decisions out!)
 
 # ACL 2018 (July)
-- [Dating Documents using Graph Convolution Networks]
-- [Semi-supervised User Geolocation via Graph Convolutional Networks]
-- [Graph-to-Sequence Learning using Gated Graph Neural Networks]
+- Dating Documents using Graph Convolution Networks
+- Semi-supervised User Geolocation via Graph Convolutional Networks
+- Graph-to-Sequence Learning using Gated Graph Neural Networks
 
 # CVPR 2018 (June)
  - [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/zero_shot_gcn_cvpr18/README.md)
