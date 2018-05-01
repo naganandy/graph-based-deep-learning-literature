@@ -7,6 +7,7 @@
 
 # IJCAI 2018 (July)
 - Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders
+- Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting
 
 # ACL 2018 (July)
 - Dating Documents using Graph Convolution Networks
