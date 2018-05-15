@@ -4,7 +4,7 @@
 - UAI 2018 (Aug, decisions mid May)
 - KDD 2018 (Aug, decisions early May)
 
-# ICML 2018 (jULY)
+# ICML 2018 (July)
 -  Neural Relational Inference for Interacting Systems
 
 # IJCAI 2018 (July)
