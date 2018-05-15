@@ -2,8 +2,10 @@
 
 - ECCV 2018 (Sep, decisions early Jul)
 - UAI 2018 (Aug, decisions mid May)
-- ICML 2018 (Jul, decisions mid May)
 - KDD 2018 (Aug, decisions early May)
+
+# ICML 2018 (jULY)
+-  Neural Relational Inference for Interacting Systems
 
 # IJCAI 2018 (July)
 - Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders
