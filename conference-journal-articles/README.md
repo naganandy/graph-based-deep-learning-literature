@@ -1,5 +1,6 @@
 # [deadlines](https://aideadlin.es/)
 
+- NIPS 2018 (Dec, decisions early Sep)
 - ECCV 2018 (Sep, decisions early Jul)
 - UAI 2018 (Aug, decisions mid May)
 - KDD 2018 (Aug, decisions early May)
