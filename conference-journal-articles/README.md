@@ -9,9 +9,15 @@
 -  Neural Relational Inference for Interacting Systems
 
 # IJCAI 2018 (July)
+- Commonsense Knowledge Aware Conversation Generation with Graph Attention
+- Adversarially Regularized Graph Autoencoder
 - Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders
 - Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting
+- Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification
 
+
+ [accepted_papers](http://www.ijcai-18.org/accepted-papers/)
+ 
 # ACL 2018 (July)
 - Dating Documents using Graph Convolution Networks
 - Semi-supervised User Geolocation via Graph Convolutional Networks
