@@ -1,6 +1,7 @@
 # [deadlines](https://aideadlin.es/)
 
 - NIPS 2018 (Dec, decisions early Sep)
+- EMNLP 2018 (Nov, decisions early Aug)
 - ECCV 2018 (Sep, decisions early Jul)
 - UAI 2018 (Aug, decisions mid May)
 
