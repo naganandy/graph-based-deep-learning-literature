@@ -7,6 +7,7 @@
 # KDD 2018 (Aug)
 - Large-Scale Learnable Graph Convolutional Networks
 - Graph Convolutional Neural Networks for Web-Scale Recommender Systems
+- DeepInf: Modeling Influence Locality in Large Social Networks
 
 [accepted_papers](http://www.kdd.org/kdd2018/accepted-papers)
 
