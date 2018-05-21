@@ -13,13 +13,15 @@
 -  Neural Relational Inference for Interacting Systems
 -  GraphRNN: A Deep Generative Model for Graphs
 
+ [accepted_papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
+ 
+
 # IJCAI 2018 (July)
 - Commonsense Knowledge Aware Conversation Generation with Graph Attention
 - Adversarially Regularized Graph Autoencoder
 - Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders
 - Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting
 - Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification
-
 
  [accepted_papers](http://www.ijcai-18.org/accepted-papers/)
  
