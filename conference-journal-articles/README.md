@@ -3,10 +3,15 @@
 - NIPS 2018 (Dec, decisions early Sep)
 - ECCV 2018 (Sep, decisions early Jul)
 - UAI 2018 (Aug, decisions mid May)
-- KDD 2018 (Aug, decisions early May)
+
+# KDD 2018 (Aug)
+- Large-Scale Learnable Graph Convolutional Networks
+- Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
 # ICML 2018 (July)
+-  Stochastic Training of Graph Convolutional Networks
 -  Neural Relational Inference for Interacting Systems
+-  GraphRNN: A Deep Generative Model for Graphs
 
 # IJCAI 2018 (July)
 - Commonsense Knowledge Aware Conversation Generation with Graph Attention
