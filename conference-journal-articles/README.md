@@ -8,6 +8,8 @@
 - Large-Scale Learnable Graph Convolutional Networks
 - Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
+[accepted_papers](http://www.kdd.org/kdd2018/accepted-papers)
+
 # ICML 2018 (July)
 -  Stochastic Training of Graph Convolutional Networks
 -  Neural Relational Inference for Interacting Systems
