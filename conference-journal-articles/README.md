@@ -48,7 +48,7 @@
 
 [accepted_papers](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/)
 
-# ICLR 2018 (May)
+# ICLR 2018
 - [FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/fastgcn_iclr18/README.md)
 - [Few-Shot Learning with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/few_shot_gcn_iclr18/README.md)
 - [Graph Attention Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gan_iclr18/README.md)
