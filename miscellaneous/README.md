@@ -1,7 +1,7 @@
 arXiv papers:
 
 May
-[Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://arxiv.org/abs/1805.11724)
+- [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://arxiv.org/abs/1805.11724)
 
 Apr
 - [Attentional Multilabel Learning over Graphs - A message passing approach](https://arxiv.org/abs/1804.00293)
