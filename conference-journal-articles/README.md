@@ -16,6 +16,7 @@
 -  Stochastic Training of Graph Convolutional Networks
 -  Neural Relational Inference for Interacting Systems
 -  GraphRNN: A Deep Generative Model for Graphs
+- Anonymous Walk Embeddings
 
  [accepted_papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
  
