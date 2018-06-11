@@ -1,9 +1,15 @@
 # [deadlines](https://aideadlin.es/)
 
 - NIPS 2018 (Dec, decisions early Sep)
+- ICDM 2018 (Nov, decisions mid Aug)
 - EMNLP 2018 (Nov, decisions early Aug)
 - ECCV 2018 (Sep, decisions early Jul)
 - UAI 2018 (Aug, decisions mid May)
+
+# UAI 2018 (Aug)
+- GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs
+
+[accepted_papers](http://auai.org/uai2018/accepted.php)
 
 # KDD 2018 (Aug)
 - Large-Scale Learnable Graph Convolutional Networks
