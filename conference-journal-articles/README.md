@@ -18,7 +18,7 @@
 [accepted_papers](http://www.kdd.org/kdd2018/accepted-papers)
 
 # ICML 2018 (July)
--  Representation Learning on Graphs with Jumping Knowledge Networks
+-  [Representation Learning on Graphs with Jumping Knowledge Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/jk_net_icml18/README.md)
 -  Stochastic Training of Graph Convolutional Networks
 -  Neural Relational Inference for Interacting Systems
 -  GraphRNN: A Deep Generative Model for Graphs
