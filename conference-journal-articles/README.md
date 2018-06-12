@@ -11,7 +11,7 @@
 [accepted_papers](http://auai.org/uai2018/accepted.php)
 
 # KDD 2018 (Aug)
-- Large-Scale Learnable Graph Convolutional Networks
+- [Large-Scale Learnable Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/lgcn_kdd18/README.md)
 - Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 - DeepInf: Modeling Influence Locality in Large Social Networks
 
