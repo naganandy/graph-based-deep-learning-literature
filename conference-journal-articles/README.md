@@ -50,8 +50,9 @@
  - Zero-Shot Sketch-Image Hashing
  - Image Generation from Scene Graphs
  - SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
+ - Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams
  
- [accepted_papers](http://cvpr2018.thecvf.com/program/main_conference)
+ [accepted_papers](http://openaccess.thecvf.com/CVPR2018.py)
 
 # NAACL 2018 (June)
 - [Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/semantic_gcn_naacl18/README.md)
