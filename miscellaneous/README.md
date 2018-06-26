@@ -1,5 +1,10 @@
 arXiv papers:
 
+June
+- [Diffusion Scattering Transforms on Graphs](https://arxiv.org/abs/1806.08829) (NIPS?)
+- [Hierarchical Graph Representation Learning withDifferentiable Pooling](https://arxiv.org/abs/1806.08804) (NIPS?)
+- [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://arxiv.org/abs/1806.07243)
+
 May
 - [Dual-Primal Graph Convolutional Networks](https://arxiv.org/abs/1806.00770)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://arxiv.org/abs/1805.11724)
