@@ -1,9 +1,9 @@
 arXiv papers:
 
 June
-- [Diffusion Scattering Transforms on Graphs](https://arxiv.org/abs/1806.08829) (NIPS?)
-- [Hierarchical Graph Representation Learning withDifferentiable Pooling](https://arxiv.org/abs/1806.08804) (NIPS?)
-- [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://arxiv.org/abs/1806.07243)
+- [Diffusion Scattering Transforms on Graphs](https://arxiv.org/abs/1806.08829) (NIPS submission?)
+- [Hierarchical Graph Representation Learning withDifferentiable Pooling](https://arxiv.org/abs/1806.08804) (NIPS submission?)
+- [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://arxiv.org/abs/1806.07243) (NIPS submission?)
 
 May
 - [Dual-Primal Graph Convolutional Networks](https://arxiv.org/abs/1806.00770)
