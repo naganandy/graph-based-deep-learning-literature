@@ -30,7 +30,7 @@
 
 # IJCAI 2018 (July)
 - Commonsense Knowledge Aware Conversation Generation with Graph Attention
-- Knowledge-Embedded Representation Learning for Fine-Grained Image Recognition
+- [Knowledge-Embedded Representation Learning for Fine-Grained Image Recognition](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/kerl_ijcai18/README.md)
 - Adversarially Regularized Graph Autoencoder
 - Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders
 - Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting
