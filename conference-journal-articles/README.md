@@ -3,7 +3,15 @@
 - NIPS 2018 (Dec, decisions early Sep)
 - ICDM 2018 (Nov, decisions mid Aug)
 - EMNLP 2018 (Nov, decisions early Aug)
-- ECCV 2018 (Sep, decisions early Jul)
+
+
+# ECCV 2018 (Sep)
+-  Local Spectral Graph Convolution for Point Set Feature Learning
+- Graph R-CNN for Scene Graph Generation
+- Efficient Relative Attribute Learning using Graph Neural Networks
+- Person Re-identification with Deep Similarity-Guided Graph Neural Network
+
+[accepted_papers](https://eccv2018.org/program/sessions/)
 
 # UAI 2018 (Aug)
 - GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs
