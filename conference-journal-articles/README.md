@@ -69,7 +69,7 @@
 
 [accepted_papers](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/)
 
-# ICLR 2018
+# ICLR 2018 (May)
 - [FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/fastgcn_iclr18/README.md)
 - [Few-Shot Learning with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/few_shot_gcn_iclr18/README.md)
 - [Graph Attention Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gan_iclr18/README.md)
@@ -84,13 +84,13 @@
 # ESWC 2018
 - [Modeling Relational Data with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/rgcn_eswc18/README.md)
 
-# WWW 2018
+# WWW 2018 (April)
 - [Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dual_gcn_www18/README.md)
 - [Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_text_www18/README.md)
 
 [accepted_papers](https://www2018.thewebconf.org/proceedings/)
 
-# AAAI 2018
+# AAAI 2018 (Feb)
 - [Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/co_self_gcn_aaai18/README.md)
 - [Graph Convolutional Networks with Argument-Aware Pooling for Event Detection](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/event_detection_gcn_aaai18/README.md)
 - [An End-to-End Deep Learning Architecture for Graph Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dgcnn_aaai18/README.md)
