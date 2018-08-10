@@ -6,8 +6,8 @@
 
 
 # ECCV 2018 (Sep)
--  Local Spectral Graph Convolution for Point Set Feature Learning
 - Graph R-CNN for Scene Graph Generation
+- Local Spectral Graph Convolution for Point Set Feature Learning
 - Efficient Relative Attribute Learning using Graph Neural Networks
 - Person Re-identification with Deep Similarity-Guided Graph Neural Network
 
