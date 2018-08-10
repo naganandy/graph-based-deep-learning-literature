@@ -6,7 +6,7 @@
 
 
 # ECCV 2018 (Sep)
-- Graph R-CNN for Scene Graph Generation
+- [Graph R-CNN for Scene Graph Generation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graph_rcnn_eccv18/README.md)
 - Local Spectral Graph Convolution for Point Set Feature Learning
 - Efficient Relative Attribute Learning using Graph Neural Networks
 - Person Re-identification with Deep Similarity-Guided Graph Neural Network
