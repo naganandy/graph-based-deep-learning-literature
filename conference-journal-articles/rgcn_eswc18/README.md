@@ -2,10 +2,16 @@
 
 ```
 @inproceedings{rgcn_eswc18,
-  title={Modeling Relational Data with Graph Convolutional Networks},
-  author={Schlichtkrull, Michael and Kipf, Thomas N and Bloem, Peter and Berg, Rianne van den and Titov, Ivan and Welling, Max},
-  booktitle={ESWC},
-  year={2018}
+author={Schlichtkrull, Michael
+and Kipf, Thomas N.
+and Bloem, Peter
+and van den Berg, Rianne
+and Titov, Ivan
+and Welling, Max},
+title={Modeling Relational Data with Graph Convolutional Networks},
+booktitle={Extended Semantic Web Conference (ESWC)},
+year={2018},
+pages={593--607}
 }
 ```
 
