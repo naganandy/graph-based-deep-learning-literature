@@ -2,10 +2,12 @@
 
 ```
 @inproceedings{gcn_srl_emnlp17,
-  author    = {Marcheggiani, Diego and Titov, Ivan},
-  title     = {Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling},
-  booktitle = {EMNLP},
-  year      = {2017}
+  author = 	{Marcheggiani, Diego
+		and Titov, Ivan},
+  title = 	{Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling},
+  booktitle = 	{Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year = 	{2017},
+  pages = 	{1506--1515}
 }
 ```
 
