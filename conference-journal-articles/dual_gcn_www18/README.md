@@ -14,3 +14,4 @@
 links
 - [TheWebConf](https://www2018.thewebconf.org/program/social-network-analysis/)
 - [acm](https://dl.acm.org/citation.cfm?id=3186116)
+- [code](https://github.com/ZhuangCY/DGCN)
