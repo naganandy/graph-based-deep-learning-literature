@@ -7,7 +7,8 @@
                Feiyun Zhu and
                Junzhou Huang},
   title     = {Adaptive Graph Convolutional Neural Networks},
-  booktitle = {AAAI},
+  booktitle = {Proceedings of the Thirty-Second Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {3546--3553},
   year      = {2018}
 }
 ```
