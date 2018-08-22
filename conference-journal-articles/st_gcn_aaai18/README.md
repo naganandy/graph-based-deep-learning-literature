@@ -15,3 +15,4 @@
 links
 - [arXiv](https://arxiv.org/abs/1801.07455)
 - [code](https://github.com/yysijie/st-gcn)
+- [aaai](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17135)
