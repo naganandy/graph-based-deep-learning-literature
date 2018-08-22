@@ -3,7 +3,7 @@
 @inproceedings{graph2gauss_iclr18,
 title={Deep Gaussian Embedding of Graphs:  Unsupervised Inductive Learning via Ranking},
 author={Aleksandar Bojchevski and Stephan Günnemann},
-booktitle={ICLR},
+booktitle={International Conference on Learning Representations (ICLR)},,
 year={2018}
 }
 ```
