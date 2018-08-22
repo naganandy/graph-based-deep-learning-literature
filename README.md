@@ -1,4 +1,4 @@
-# geometric-deep-learning-literature
+# graph-based-deep-learning-literature
 
 The repository contains recent articles/papers in geometric deep learning, an umbrella term for emerging techniques attempting to generalise (structured) deep neural models to non-Euclidean domains such as graphs
 
