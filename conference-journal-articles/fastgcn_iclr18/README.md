@@ -6,7 +6,7 @@
                Tengfei Ma and
                Cao Xiao},
   title     = {FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling},
-  booktitle   = {ICLR},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year      = {2018}
 }
 ```
