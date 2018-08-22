@@ -1,11 +1,13 @@
 # Learning Multiagent Communication with Backpropagation
 
 ```
-@incollection{NIPS2016_6398,
+@incollection{macb_nips16,
 title = {Learning Multiagent Communication with Backpropagation},
-author = {Sukhbaatar, Sainbayar and Szlam, Arthur and Fergus, Rob},
-booktitle = {NIPS},
-year = {2016}
+author = {Sukhbaatar, Sainbayar and szlam, arthur and Fergus, Rob},
+booktitle = {Advances in Neural Information Processing Systems (NIPS) 29},
+pages = {2244--2252},
+year = {2016},
+publisher = {Curran Associates, Inc.}
 }
 ```
 links
