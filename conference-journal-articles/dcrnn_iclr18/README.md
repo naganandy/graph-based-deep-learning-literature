@@ -4,7 +4,7 @@
 @inproceedings{dcrnn_iclr18,
 title={Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting},
 author={Yaguang Li and Rose Yu and Cyrus Shahabi and Yan Liu},
-booktitle={ICLR},
+booktitle={International Conference on Learning Representations (ICLR)},
 year={2018}
 }
 ```
