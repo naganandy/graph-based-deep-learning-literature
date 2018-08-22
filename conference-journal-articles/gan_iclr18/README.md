@@ -4,7 +4,7 @@
 @inproceedings{gat_iclr18,
   title = {Graph Attention Networks},
   author = {Veli{\v{c}}kovi{\'{c}}, Petar and Cucurull, Guillem and Casanova, Arantxa and Romero, Adriana and Li{\`{o}}, Pietro and Bengio, Yoshua},
-  booktitle = {ICLR},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year={2018}
 }
 ```
