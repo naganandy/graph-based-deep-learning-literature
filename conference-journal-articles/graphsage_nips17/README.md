@@ -1,11 +1,13 @@
 # Inductive Representation Learning on Large Graphs
 ```
-@inproceedings{graphsage_nips17,
-     author = {Hamilton, William L. and Ying, Rex and Leskovec, Jure},
-     title = {Inductive Representation Learning on Large Graphs},
-     booktitle = {NIPS},
-     year = {2017}
-   }
+@incollection{graphsage_nips17,
+title = {Inductive Representation Learning on Large Graphs},
+author = {Hamilton, Will and Ying, Zhitao and Leskovec, Jure},
+booktitle = {Advances in Neural Information Processing Systems (NIPS) 30},
+pages = {1024--1034},
+year = {2017},
+publisher = {Curran Associates, Inc.}
+}
 ```
 
 links
