@@ -1,11 +1,18 @@
 # Molecular Graph Convolutions: Moving Beyond Fingerprints
 
 ```
-@article{Kearnes2016,
-author={Kearnes, Steven and McCloskey, Kevin and Berndl, Marc and Pande, Vijay and Riley, Patrick},
+@article{gcn_camd16,
+author={Kearnes, Steven
+and McCloskey, Kevin
+and Berndl, Marc
+and Pande, Vijay
+and Riley, Patrick},
 title={Molecular graph convolutions: moving beyond fingerprints},
-journal={Journal of Computer-Aided Molecular Design},
-year={2016}
+journal={Journal of Computer-Aided Molecular Design (CAMD)},
+year={2016},
+volume={30},
+number={8},
+pages={595--608}
 }
 ```
 
