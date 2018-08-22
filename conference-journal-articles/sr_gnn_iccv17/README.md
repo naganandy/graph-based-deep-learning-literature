@@ -2,10 +2,16 @@
 
 ```
 @inproceedings{sr_gnn_iccv17,
-author = {Li, Ruiyu and Tapaswi, Makarand and Liao, Renjie and Jia, Jiaya and Urtasun, Raquel and Fidler, Sanja},
-title = {Situation Recognition With Graph Neural Networks},
-booktitle = {ICCV},
-year = {2017}
+  author    = {Ruiyu Li and
+               Makarand Tapaswi and
+               Renjie Liao and
+               Jiaya Jia and
+               Raquel Urtasun and
+               Sanja Fidler},
+  title     = {Situation Recognition with Graph Neural Networks},
+  booktitle = {{IEEE} International Conference on Computer Vision, (ICCV)},
+  pages     = {4183--4192},
+  year      = {2017}
 }
 ```
 
