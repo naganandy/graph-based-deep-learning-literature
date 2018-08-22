@@ -6,7 +6,7 @@
                Marc Brockschmidt and
                Mahmoud Khademi},
   title     = {Learning to Represent Programs with Graphs},
-  booktitle = {ICLR},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year      = {2018}
 }
 ```
