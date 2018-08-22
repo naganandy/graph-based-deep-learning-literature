@@ -2,8 +2,9 @@
 ```
 @inproceedings{mpnn_icml17,
   title = 	 {Neural Message Passing for Quantum Chemistry},
-  author = 	 {Gilmer, Justin and Schoenholz, Samuel S.  and Riley, Patrick F. and Vinyals, Oriol and Dahl, George E.},
-  booktitle = 	 {ICML},
+  author = 	 {Justin Gilmer and Samuel S. Schoenholz and Patrick F. Riley and Oriol Vinyals and George E. Dahl},
+  booktitle = 	 {Proceedings of the 34th International Conference on Machine Learning (ICML)},
+  pages = 	 {1263--1272},
   year = 	 {2017}
 }
 ```
