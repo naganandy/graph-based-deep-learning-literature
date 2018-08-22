@@ -1,11 +1,13 @@
 # Convolutional Networks on Graphs for Learning Molecular Fingerprints
 
 ```
-@inproceedings{gcn_nips15,
+@incollection{gcn_nips15,
 title = {Convolutional Networks on Graphs for Learning Molecular Fingerprints},
 author = {Duvenaud, David K and Maclaurin, Dougal and Iparraguirre, Jorge and Bombarell, Rafael and Hirzel, Timothy and Aspuru-Guzik, Alan and Adams, Ryan P},
-booktitle = {NIPS},
-year = {2015}
+booktitle = {Advances in Neural Information Processing Systems (NIPS) 28},
+pages = {2224--2232},
+year = {2015},
+publisher = {Curran Associates, Inc.}
 }
 
 ```
