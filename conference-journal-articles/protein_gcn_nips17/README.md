@@ -8,7 +8,6 @@ pages = {6530--6539},
 year = {2017},
 publisher = {Curran Associates, Inc.}
 }
-}
 ```
 links
 - [pdf](http://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
