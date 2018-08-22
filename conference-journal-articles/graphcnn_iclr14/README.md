@@ -7,7 +7,7 @@
                Szlam, Arthur and
                LeCun,  Yann},
   title     = {Spectral Networks and Locally Connected Networks on Graphs},
-  booktitle   = {ICLR},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year      = {2014}
 }
 ```
