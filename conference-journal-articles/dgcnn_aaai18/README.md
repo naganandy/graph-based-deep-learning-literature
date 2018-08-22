@@ -2,10 +2,14 @@
 
 ```
 @inproceedings{dgcnn_aaai18,
-  title={An End-to-End Deep Learning Architecture for Graph Classification.},
-  author={Zhang, Muhan and Cui, Zhicheng and Neumann, Marion and Chen, Yixin},
-  booktitle={AAAI},
-  year={2018}
+  author    = {Muhan Zhang and
+               Zhicheng Cui and
+               Marion Neumann and
+               Yixin Chen},
+  title     = {An End-to-End Deep Learning Architecture for Graph Classification},
+  booktitle = {Proceedings of the Thirty-Second Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {4438--4445},
+  year      = {2018}
 }
 ```
 
