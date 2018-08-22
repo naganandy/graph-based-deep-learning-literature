@@ -1,10 +1,12 @@
 # Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
 ```
-@inproceedings{chebnet_nips16,
+@incollection{chebnet_nips16,
 title = {Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering},
 author = {Defferrard, Micha\"{e}l and Bresson, Xavier and Vandergheynst, Pierre},
-booktitle = {NIPS},
-year = {2016}
+booktitle = {Advances in Neural Information Processing Systems (NIPS) 29},
+pages = {3844--3852},
+year = {2016},
+publisher = {Curran Associates, Inc.}
 }
 ```
 
