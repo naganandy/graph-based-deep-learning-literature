@@ -4,7 +4,7 @@
 @inproceedings{stgcn_iclr18,
 title={Automatically Inferring Data Quality for Spatiotemporal Forecasting},
 author={Sungyong Seo and Arash Mohegh and George Ban-Weiss and Yan Liu},
-booktitle={ICLR},
+booktitle={International Conference on Learning Representations (ICLR)},
 year={2018}
 }
 ```
