@@ -3,7 +3,7 @@
 @inproceedings{ggnn_iclr16,
 title = {Gated Graph Sequence Neural Networks},
 author = {Li, Yujia N and Tarlow, Daniel and Brockschmidt, Marc and Zemel, Richard},
-booktitle = {ICLR},
+booktitle={International Conference on Learning Representations (ICLR)},
 year = {2016},
 }
 ```
