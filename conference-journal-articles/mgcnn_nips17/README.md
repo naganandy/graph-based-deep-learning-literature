@@ -9,7 +9,6 @@ pages = {3697--3707},
 year = {2017},
 publisher = {Curran Associates, Inc.}
 }
-}
 ```
 links
 - [arXiv](https://arxiv.org/abs/1704.06803)
