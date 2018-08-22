@@ -1,13 +1,12 @@
 # A new model for learning in graph domains
 
 ```
-@InProceedings{Gorietal,
-  author    = {Gori, Marco and
-               Monfardini, Gabriele and
-               Scarselli, Franco},
-  title     = {A new model for learning in graph domains},
-  booktitle = {IJCNN},
-  year      = {2005}
+@inproceedings{gnn05, 
+author={M. Gori and G. Monfardini and F. Scarselli}, 
+booktitle={Proceedings. 2005 IEEE International Joint Conference on Neural Networks (IJCNN)}, 
+title={A new model for learning in graph domains}, 
+year={2005},  
+pages={729-734}
 }
 ```
 links
