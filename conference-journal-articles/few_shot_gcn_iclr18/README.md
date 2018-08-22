@@ -5,7 +5,7 @@
   author    = {Victor Garcia and
                Joan Bruna},
   title     = {Few-Shot Learning with Graph Neural Networks},
-  booktitle   = {ICLR},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year      = {2018}
 }
 ```
