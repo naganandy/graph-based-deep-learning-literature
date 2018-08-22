@@ -12,3 +12,4 @@
 links
 - [preprint](http://www.cse.wustl.edu/~ychen/public/DGCNN.pdf)
 - [code](https://github.com/muhanzhang/DGCNN)
+- [aaai](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146)
