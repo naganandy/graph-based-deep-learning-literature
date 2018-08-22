@@ -1,10 +1,13 @@
 # Graph-Structured Representations for Visual Question Answering
 ```
-@inproceedings{vqa_gnn_cvpr17,
-author = {Teney, Damien and Liu, Lingqiao and van den Hengel, Anton},
-title = {Graph-Structured Representations for Visual Question Answering},
-booktitle = {CVPR},
-year = {2017}
+@inproceedings{gvqa_cvpr17,
+  author    = {Damien Teney and
+               Lingqiao Liu and
+               Anton van den Hengel},
+  title     = {Graph-Structured Representations for Visual Question Answering},
+  booktitle = {The {IEEE} Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages     = {3233--3241},
+  year      = {2017}
 }
 ```
 
