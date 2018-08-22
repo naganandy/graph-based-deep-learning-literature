@@ -2,10 +2,15 @@
  
 ```
 @inproceedings{gcn_nmt_emnlp17,
-  author    = {Bastings, Joost and Titov, Ivan and Aziz, Wilker and Marcheggiani, Diego and Sima\'an, Khalil},
-  title     = {Graph Convolutional Encoders for Syntax-aware Neural Machine Translation},
-  booktitle = {EMNLP},
-  year      = {2017}
+  author = 	{Bastings, Joost
+		and Titov, Ivan
+		and Aziz, Wilker
+		and Marcheggiani, Diego
+		and Simaan, Khalil},
+  title = 	{Graph Convolutional Encoders for Syntax-aware Neural Machine Translation},
+  booktitle = 	{Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year = 	{2017},
+  pages = 	{1957--1967}
 }
 ```
 
