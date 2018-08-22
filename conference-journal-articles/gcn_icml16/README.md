@@ -2,12 +2,11 @@
 
 ```
 @inproceedings{gcn_icml16,
-  author    = {Mathias Niepert and
-               Mohamed Ahmed and
-               Konstantin Kutzkov},
-  title     = {Learning Convolutional Neural Networks for Graphs},
-  booktitle = {ICML},
-  year      = {2016}
+  title = 	 {Learning Convolutional Neural Networks for Graphs},
+  author = 	 {Mathias Niepert and Mohamed Ahmed and Konstantin Kutzkov},
+  booktitle = 	 {Proceedings of The 33rd International Conference on Machine Learning (ICML)},
+  pages = 	 {2014--2023},
+  year = 	 {2016}
 }
 ```
 
