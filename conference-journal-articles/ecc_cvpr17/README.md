@@ -1,11 +1,15 @@
 # Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs
 ```
 @inproceedings{ecc_cvpr17,
-author = {Simonovsky, Martin and Komodakis, Nikos},
-title = {Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs},
-booktitle = {CVPR},
-year = {2017}
+  author    = {Martin Simonovsky and
+               Nikos Komodakis},
+  title     = {Dynamic Edge-Conditioned Filters in Convolutional Neural Networks
+               on Graphs},
+  booktitle = {The {IEEE} Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages     = {29--38},
+  year      = {2017}
 }
+
 ```
 links
 - [arXiv](https://arxiv.org/abs/1704.02901)
