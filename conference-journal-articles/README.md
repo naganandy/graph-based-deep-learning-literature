@@ -60,7 +60,7 @@
  - Zero-Shot Sketch-Image Hashing
  - Image Generation from Scene Graphs
  - SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
- - Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams
+ - [Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dggn_cvpr18/README.md)
  
  [accepted_papers](http://openaccess.thecvf.com/CVPR2018.py)
 
