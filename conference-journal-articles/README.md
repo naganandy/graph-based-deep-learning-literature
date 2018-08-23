@@ -50,7 +50,7 @@
 # ACL 2018 (July)
 - Dating Documents using Graph Convolution Networks
 - Semi-supervised User Geolocation via Graph Convolutional Networks
-- Graph-to-Sequence Learning using Gated Graph Neural Networks
+- [Graph-to-Sequence Learning using Gated Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graph2seq_acl18/README.md)
 
  [accepted_papers](http://acl2018.org/conference/accepted-papers/)
 
