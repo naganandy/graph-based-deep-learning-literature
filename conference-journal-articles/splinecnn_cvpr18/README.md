@@ -5,7 +5,7 @@
 author = {Kim, Daesik and Yoo, YoungJoon and Kim, Jee-Soo and Lee, SangKuk and Kwak, Nojun},
 title = {Dynamic Graph Generation Network: Generating Relational Knowledge From Diagrams},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-pages     = {4167--4175},
+pages     = {869--877},
 year = {2018}
 }
 ```
