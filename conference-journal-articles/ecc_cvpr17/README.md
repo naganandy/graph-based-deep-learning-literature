@@ -9,7 +9,6 @@
   pages     = {29--38},
   year      = {2017}
 }
-
 ```
 links
 - [arXiv](https://arxiv.org/abs/1704.02901)
