@@ -1,7 +1,7 @@
 # Image Generation from Scene Graphs
 
 ```
-@inproceedings{imsg_cvpr18,
+@inproceedings{sg2im_cvpr18,
 author = {Johnson, Justin and Gupta, Agrim and Fei-Fei, Li},
 title = {Image Generation From Scene Graphs},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
