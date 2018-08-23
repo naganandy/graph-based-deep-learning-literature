@@ -1,6 +1,6 @@
 # Graph-Structured Representations for Visual Question Answering
 ```
-@inproceedings{gvqa_cvpr17,
+@inproceedings{vqa_gnn_cvpr17,
   author    = {Damien Teney and
                Lingqiao Liu and
                Anton van den Hengel},
