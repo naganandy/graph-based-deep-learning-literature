@@ -12,3 +12,4 @@
 ```
 links
 - [arXiv](https://arxiv.org/abs/1803.08035)
+- [code](https://github.com/JudyYe/zero-shot-gcn)
