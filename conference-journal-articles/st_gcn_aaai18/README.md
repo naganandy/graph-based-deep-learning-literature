@@ -7,7 +7,8 @@
                Dahua Lin},
   title     = {Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action
                Recognition},
-  booktitle   = {AAAI},
+  booktitle = {Proceedings of the Thirty-Second Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {7444--7452},
   year      = {2018}
 }
 ```
