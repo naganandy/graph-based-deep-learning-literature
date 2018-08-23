@@ -48,7 +48,7 @@
  [accepted_papers](http://www.ijcai-18.org/accepted-papers/)
  
 # ACL 2018 (July)
-- Dating Documents using Graph Convolution Networks
+- [Dating Documents using Graph Convolution Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/neuraldater_acl18/README.md)
 - [Semi-supervised User Geolocation via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/geographconv_acl18/README.md)
 - [Graph-to-Sequence Learning using Gated Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graph2seq_acl18/README.md)
 
