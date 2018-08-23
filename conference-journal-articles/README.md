@@ -57,7 +57,7 @@
 # CVPR 2018 (June)
  - [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/zero_shot_gcn_cvpr18/README.md)
  - Multi-Label Zero-Shot Learning with Structured Knowledge Graphs
- - Zero-Shot Sketch-Image Hashing
+ - [Zero-Shot Sketch-Image Hashing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/zsih_cvpr18/README.md)
  - [Image Generation from Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/imsg_cvpr18/README.md)
  - [SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/splinecnn_cvpr18/README.md)
  - [Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dggn_cvpr18/README.md)
