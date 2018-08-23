@@ -1,9 +1,9 @@
 #  SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
 
 ```
-@inproceedings{dggn_cvpr18,
-author = {Kim, Daesik and Yoo, YoungJoon and Kim, Jee-Soo and Lee, SangKuk and Kwak, Nojun},
-title = {Dynamic Graph Generation Network: Generating Relational Knowledge From Diagrams},
+@inproceedings{splinecnn_cvpr18,
+author = {Fey, Matthias and Eric Lenssen, Jan and Weichert, Frank and Müller, Heinrich},
+title = {SplineCNN: Fast Geometric Deep Learning With Continuous B-Spline Kernels},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 pages     = {869--877},
 year = {2018}
