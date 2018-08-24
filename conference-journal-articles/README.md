@@ -41,7 +41,7 @@
 - Deep Reasoning with Knowledge Graph for Social Relationship Understanding
 - [Knowledge-Embedded Representation Learning for Fine-Grained Image Recognition](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/kerl_ijcai18/README.md)
 - Adversarially Regularized Graph Autoencoder
-- Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders
+- [Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/mvgae_ijcai18/README.md)
 - [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/stgcn_ijcai18/README.md)
 - [Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcnbc_ijcai18/README.md)
 
