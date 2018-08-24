@@ -1,8 +1,15 @@
 # [deadlines](https://aideadlin.es/)
 
 - NIPS 2018 (Dec, decisions early Sep)
-- ICDM 2018 (Nov, decisions mid Aug)
-- EMNLP 2018 (Nov, decisions early Aug)
+
+# ICDM 2018 (Nov)
+- Signed Graph Convolutional Network
+
+# EMNLP 2018 (Nov)
+- RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
+- AD3: Attentive Deep Document Dater
+- Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
+- Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation
 
 
 # ECCV 2018 (Sep)
