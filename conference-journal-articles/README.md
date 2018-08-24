@@ -32,6 +32,7 @@
 -  GraphRNN: A Deep Generative Model for Graphs
 -  Adversarial Attack on Graph Structured Data
 -  Graph Networks as Learnable Physics Engines for Inference and Control
+-  NetGAN: Generating Graphs via Random Walks
 
  [accepted_papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
  
