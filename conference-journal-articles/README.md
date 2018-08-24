@@ -8,8 +8,9 @@
 # EMNLP 2018 (Nov)
 - RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
 - AD3: Attentive Deep Document Dater
-- Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
+- Graph Convolution over Pruned Dependency Trees Improves Relation Extraction
 - Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation
+- Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
 
 [accepted_papers](http://emnlp2018.org/program/accepted/long-papers)
 
