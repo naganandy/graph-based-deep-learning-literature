@@ -6,7 +6,7 @@
                Amir Akbarnejad and
                Stephan G{\"{u}}nnemann},
   title     = {Adversarial Attacks on Neural Networks for Graph Data},
-  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, (KDD)},
+  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   pages     = {2847--2856},
   year      = {2018}
 }
