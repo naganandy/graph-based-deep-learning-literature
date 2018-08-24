@@ -13,4 +13,4 @@
 links
 - [arXiv](https://arxiv.org/abs/1806.01242)
 - [icml](http://proceedings.mlr.press/v80/sanchez-gonzalez18a.html)
-- [video](https://www.facebook.com/icml.imls/videos/session-1-deep-learning-neural-network-architectures/429607650887089/) (53:00 - 
+- [video](https://www.facebook.com/icml.imls/videos/session-1-deep-learning-neural-network-architectures/429607650887089/) (53:00 - 1:04:00)
