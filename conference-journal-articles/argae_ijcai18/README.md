@@ -1,4 +1,4 @@
-#  Adversarially Regularized Graph Autoencoder
+#  Adversarially Regularized Graph Autoencoder for Graph Embedding
 
 ```
 @inproceedings{argae_ijcai18,
