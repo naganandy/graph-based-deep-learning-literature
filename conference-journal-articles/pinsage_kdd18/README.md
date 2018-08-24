@@ -9,7 +9,7 @@
                William L. Hamilton and
                Jure Leskovec},
   title     = {Graph Convolutional Neural Networks for Web-Scale Recommender Systems},
-  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, (KDD)},
+  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   pages     = {974--983},
   year      = {2018}
 }
