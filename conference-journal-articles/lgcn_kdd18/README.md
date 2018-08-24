@@ -6,7 +6,7 @@
                Zhengyang Wang and
                Shuiwang Ji},
   title     = {Large-Scale Learnable Graph Convolutional Networks},
-  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, (KDD)},
+  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   pages     = {1416--1424},
   year      = {2018}
 }
