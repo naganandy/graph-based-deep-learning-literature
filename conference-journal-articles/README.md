@@ -11,6 +11,7 @@
 - Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
 - Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation
 
+[accepted_papers](http://emnlp2018.org/program/accepted/long-papers)
 
 # ECCV 2018 (Sep)
 - [Graph R-CNN for Scene Graph Generation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/graph_rcnn_eccv18/README.md)
