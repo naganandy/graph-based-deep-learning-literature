@@ -22,6 +22,7 @@
 - [Large-Scale Learnable Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/lgcn_kdd18/README.md)
 - [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pinsage_kdd18/README.md)
 - DeepInf: Modeling Influence Locality in Large Social Networks
+- Adversarial Attacks on Neural Networks for Graph Data
 
 [accepted_papers](http://www.kdd.org/kdd2018/accepted-papers)
 
