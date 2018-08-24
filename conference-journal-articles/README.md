@@ -30,11 +30,11 @@
 -  [Representation Learning on Graphs with Jumping Knowledge Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/jk_net_icml18/README.md)
 -  Stochastic Training of Graph Convolutional Networks
 -  Learning Steady-States of Iterative Algorithms over Graphs
--  Neural Relational Inference for Interacting Systems
 -  GraphRNN: A Deep Generative Model for Graphs
 -  Adversarial Attack on Graph Structured Data
--  [Graph Networks as Learnable Physics Engines for Inference and Control](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gn_icml18/README.md)
 -  [NetGAN: Generating Graphs via Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/netgan_icml18/README.md)
+-  Neural Relational Inference for Interacting Systems
+-  [Graph Networks as Learnable Physics Engines for Inference and Control](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gn_icml18/README.md)
 
  [accepted_papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
  
