@@ -41,7 +41,7 @@
 -  GraphRNN: A Deep Generative Model for Graphs
 -  [Adversarial Attack on Graph Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gaa_icml18/README.md)
 -  [NetGAN: Generating Graphs via Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/netgan_icml18/README.md)
--  Neural Relational Inference for Interacting Systems
+-  [Neural Relational Inference for Interacting Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nri_icml18/README.md)
 -  [Graph Networks as Learnable Physics Engines for Inference and Control](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gn_icml18/README.md)
 
  [accepted_papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
