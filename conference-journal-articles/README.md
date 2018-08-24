@@ -23,7 +23,7 @@
 [accepted_papers](https://eccv2018.org/program/sessions/)
 
 # UAI 2018 (Aug)
-- GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs
+- [GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gaan_uai18/README.md)
 
 [accepted_papers](http://auai.org/uai2018/accepted.php)
 
