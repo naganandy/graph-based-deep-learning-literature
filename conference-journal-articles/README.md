@@ -37,7 +37,7 @@
 # ICML 2018 (July)
 -  [Representation Learning on Graphs with Jumping Knowledge Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/jk_net_icml18/README.md)
 -  Stochastic Training of Graph Convolutional Networks
--  Learning Steady-States of Iterative Algorithms over Graphs
+-  [Learning Steady-States of Iterative Algorithms over Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sse_icml18/README.md)
 -  [GraphRNN: A Deep Generative Model for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graphrnn_icml18/README.md)
 -  [Adversarial Attack on Graph Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gaa_icml18/README.md)
 -  [NetGAN: Generating Graphs via Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/netgan_icml18/README.md)
