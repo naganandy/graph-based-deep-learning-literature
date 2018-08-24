@@ -9,7 +9,7 @@
                Kuansan Wang and
                Jie Tang},
   title     = {DeepInf: Social Influence Prediction with Deep Learning},
-  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, (KDD)},
+  booktitle = {Proceedings of the 24th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   pages     = {2110--2119},
   year      = {2018}
 }
