@@ -16,4 +16,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1803.07294)
-- [auai](http://auai.org/uai2018/accepted.php)
+- [auai](http://auai.org/uai2018/proceedings/papers/139.pdf)
