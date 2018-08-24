@@ -28,8 +28,8 @@
 [accepted_papers](http://auai.org/uai2018/accepted.php)
 
 # KDD 2018 (Aug)
-- [Large-Scale Learnable Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/lgcn_kdd18/README.md)
 - [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/pinsage_kdd18/README.md)
+- [Large-Scale Learnable Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/lgcn_kdd18/README.md)
 - [DeepInf: Modeling Influence Locality in Large Social Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/deepinf_kdd18/README.md)
 - [Adversarial Attacks on Neural Networks for Graph Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nettack_kdd18/README.md)
 
