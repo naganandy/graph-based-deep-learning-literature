@@ -39,7 +39,7 @@
 -  Stochastic Training of Graph Convolutional Networks
 -  Learning Steady-States of Iterative Algorithms over Graphs
 -  GraphRNN: A Deep Generative Model for Graphs
--  Adversarial Attack on Graph Structured Data
+-  [Adversarial Attack on Graph Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gaa_icml18/README.md)
 -  [NetGAN: Generating Graphs via Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/netgan_icml18/README.md)
 -  Neural Relational Inference for Interacting Systems
 -  [Graph Networks as Learnable Physics Engines for Inference and Control](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gn_icml18/README.md)
