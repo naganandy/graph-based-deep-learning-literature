@@ -9,7 +9,7 @@
                Irwin King and
                Dit{-}Yan Yeung},
   title     = {GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs},
-  booktitle = {Proceedings of the Thirty-Fourth Conference on Uncertainty in Artificial Intelligence, (UAI)},
+  booktitle = {Proceedings of the Thirty-Fourth Conference on Uncertainty in Artificial Intelligence (UAI)},
   year      = {2018}
 }
 ```
