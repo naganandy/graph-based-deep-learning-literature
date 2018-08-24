@@ -37,7 +37,7 @@
  
 
 # IJCAI 2018 (July)
-- Commonsense Knowledge Aware Conversation Generation with Graph Attention
+- [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ccm_ijcai18/README.md)
 - [Deep Reasoning with Knowledge Graph for Social Relationship Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/kgsru_ijcai18/README.md)
 - [Knowledge-Embedded Representation Learning for Fine-Grained Image Recognition](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/kerl_ijcai18/README.md)
 - [Adversarially Regularized Graph Autoencoder for Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/argae_ijcai18/README.md)
