@@ -4,6 +4,11 @@
 
 # ICDM 2018 (Nov)
 - Signed Graph Convolutional Network
+- Rational Neural Networks for Approximating Jump Discontinuities of Graph Convolution Operator
+- A Low Rank Weighted Graph Convolutional Approach to Weather Prediction
+- Integrative Analysis of Patient Health Records and Neuroimages via Memory-based Graph Convolutional Network
+
+[accepted_papers](http://icdm2018.org/program/list-of-accepted-papers/)
 
 # EMNLP 2018 (Nov)
 - RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
