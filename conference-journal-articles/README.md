@@ -3,6 +3,7 @@
 - NIPS 2018 (Dec, decisions early Sep)
 
 # ICDM 2018 (Nov)
+- HHNE: Heterogeneous Hyper-Network Embedding
 - Signed Graph Convolutional Network
 - Rational Neural Networks for Approximating Jump Discontinuities of Graph Convolution Operator
 - A Low Rank Weighted Graph Convolutional Approach to Weather Prediction
