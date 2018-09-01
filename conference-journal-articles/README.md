@@ -15,6 +15,7 @@
 - RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
 - AD3: Attentive Deep Document Dater
 - Graph Convolution over Pruned Dependency Trees Improves Relation Extraction
+- One-Shot Relational Learning for Knowledge Graphs
 - Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation
 - Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
 
