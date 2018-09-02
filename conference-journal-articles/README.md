@@ -3,7 +3,7 @@
 - NIPS 2018 (Dec, decisions early Sep)
 
 # ICDM 2018 (Nov)
-- HHNE: Heterogeneous Hyper-Network Embedding
+- [HHNE: Heterogeneous Hyper-Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/hhne_icdm18/README.md)
 - [Signed Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/signedgcn_icdm18/README.md)
 - [Rational Neural Networks for Approximating Jump Discontinuities of Graph Convolution Operator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/rnet_icdm18/README.md)
 - [A Low Rank Weighted Graph Convolutional Approach to Weather Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/wpgcn_icdm18/README.md)
