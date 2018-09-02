@@ -15,7 +15,7 @@
 - [RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/reside_emnlp18/README.md)
 - [AD3: Attentive Deep Document Dater](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ad3_emnlp18/README.md)
 - [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/cgcn_emnlp18/README.md)
-- One-Shot Relational Learning for Knowledge Graphs
+- [One-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gmatching_emnlp18/README.md)
 - Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation
 - Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks
 
