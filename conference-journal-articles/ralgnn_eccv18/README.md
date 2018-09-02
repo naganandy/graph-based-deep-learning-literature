@@ -12,3 +12,6 @@
   year      = {2018}
 }
 ```
+
+links
+- [code](https://github.com/zihangm/RAL_GNN)
