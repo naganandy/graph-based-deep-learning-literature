@@ -7,7 +7,7 @@
 - Signed Graph Convolutional Network
 - Rational Neural Networks for Approximating Jump Discontinuities of Graph Convolution Operator
 - A Low Rank Weighted Graph Convolutional Approach to Weather Prediction
-- Integrative Analysis of Patient Health Records and Neuroimages via Memory-based Graph Convolutional Network
+- [Integrative Analysis of Patient Health Records and Neuroimages via Memory-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/memgcn_icdm18/README.md)
 
 [accepted_papers](http://icdm2018.org/program/list-of-accepted-papers/)
 
