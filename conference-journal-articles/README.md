@@ -12,7 +12,7 @@
 [accepted_papers](http://icdm2018.org/program/list-of-accepted-papers/)
 
 # EMNLP 2018 (Nov)
-- RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
+- [RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/reside_emnlp18/README.md)
 - AD3: Attentive Deep Document Dater
 - Graph Convolution over Pruned Dependency Trees Improves Relation Extraction
 - One-Shot Relational Learning for Knowledge Graphs
