@@ -22,7 +22,7 @@
 [accepted_papers](http://emnlp2018.org/program/accepted/long-papers)
 
 # CIKM 2018 (Oct)
-- Semi-supervised Learning on Graphs with Generative Adversarial Nets
+- [Semi-supervised Learning on Graphs with Generative Adversarial Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graphsgan_cikm18/README.md)
 
 # ECCV 2018 (Sep)
 - [Graph R-CNN for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graphrcnn_eccv18/README.md)
