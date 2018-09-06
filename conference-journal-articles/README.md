@@ -1,6 +1,9 @@
 # [deadlines](https://aideadlin.es/)
 
-- NIPS 2018 (Dec, decisions early Sep)
+- AAAI 2019 (Feb, decisions early Nov)
+
+# NIPS 2018 (Dec)
+- Learning Conditioned Graph Structures for Interpretable Visual Question Answering
 
 # ICDM 2018 (Nov)
 - [HHNE: Heterogeneous Hyper-Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/hhne_icdm18/README.md)
