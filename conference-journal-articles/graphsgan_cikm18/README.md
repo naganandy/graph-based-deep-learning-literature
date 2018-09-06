@@ -7,7 +7,7 @@
                Jie Zhang},
   title     = {Semi-supervised Learning on Graphs with Generative Adversarial Nets},
   booktitle = {Proceedings of the Conference on Information and Knowledge
-               Management, (CIKM})},
+               Management, (CIKM)},
   year      = {2018}
 }
 ```
