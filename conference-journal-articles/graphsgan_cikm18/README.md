@@ -1,7 +1,7 @@
 # Semi-supervised Learning on Graphs with Generative Adversarial Nets
 
 ```
-@inproceedings{DBLP:conf/cikm/HuCHFL17,
+@inproceedings{graphsgan_cikm18,
   author    = {Ming Ding and
                Jie Tang and
                Jie Zhang},
