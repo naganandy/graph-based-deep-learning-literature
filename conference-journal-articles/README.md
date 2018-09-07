@@ -8,6 +8,7 @@
 - [Adaptive Sampling Towards Fast Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/asgcn_nips18/README.md)
 - [Watch Your Step: Learning Graph Embeddings Through Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/wus_nips18/README.md)
 - [Hierarchical Graph Representation Learning with Differentiable Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/diffpool_nips18/README.md)
+- [Mean-field theory of graph neural networks in graph partitioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/mftgnn_nips18/README.md)
 - [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcpn_nips18/README.md)
 
 [accepted_papers](https://nips.cc/Conferences/2018/Schedule?type=Poster)
