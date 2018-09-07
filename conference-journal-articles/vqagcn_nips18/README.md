@@ -11,4 +11,5 @@ year = {2018}
 
 links
 - [arXiv](https://arxiv.org/abs/1806.07243)
+- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11797)
 - [code](https://github.com/aimbrain/vqa-project)
