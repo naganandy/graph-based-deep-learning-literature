@@ -5,6 +5,9 @@
 # NIPS 2018 (Dec)
 - [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vqagcn_nips18/README.md)
 
+[accepted_papers](https://nips.cc/Conferences/2018/Schedule?type=Poster)
+
+
 # ICDM 2018 (Nov)
 - [HHNE: Heterogeneous Hyper-Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/hhne_icdm18/README.md)
 - [Signed Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/signedgcn_icdm18/README.md)
