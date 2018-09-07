@@ -5,6 +5,7 @@
 # NIPS 2018 (Dec)
 - [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vqagcn_nips18/README.md)
 - [Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ootbfvqa_nips18/README.md)
+- [Adaptive Sampling Towards Fast Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/asgcn_nips18/README.md)
 - [Watch Your Step: Learning Graph Embeddings Through Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/wus_nips18/README.md)
 - [Hierarchical Graph Representation Learning with Differentiable Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/diffpool_nips18/README.md)
 - [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcpn_nips18/README.md)
