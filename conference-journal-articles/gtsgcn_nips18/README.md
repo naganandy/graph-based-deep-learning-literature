@@ -11,4 +11,4 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://nips.cc/Conferences/2018/Schedule?showEvent=11077)
+- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11077)
