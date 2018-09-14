@@ -46,7 +46,7 @@
 - [Local Spectral Graph Convolution for Point Set Feature Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/psgcn_eccv18/README.md)
 - [Person Re-identification with Deep Similarity-Guided Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sggnn_eccv18/README.md)
 
-[accepted_papers](https://eccv2018.org/program/sessions/)
+[accepted_papers](http://openaccess.thecvf.com/ECCV2018.py)
 
 # UAI 2018 (Aug)
 - [GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gaan_uai18/README.md)
