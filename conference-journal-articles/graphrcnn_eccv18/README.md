@@ -1,12 +1,11 @@
 # Graph R-CNN for Scene Graph Generation
 
 ```
-@InProceedings{graphrcnn_eccv18,
+@inproceedings{graphrcnn_eccv18,
 author = {Yang, Jianwei and Lu, Jiasen and Lee, Stefan and Batra, Dhruv and Parikh, Devi},
 title = {Graph R-CNN for Scene Graph Generation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 year = {2018}
-}
 }
 ```
 
