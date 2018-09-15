@@ -2,16 +2,13 @@
 
 ```
 @inproceedings{ralgnn_eccv18,
-  author    = {Zihang Meng and
-               Nagesh Adluru and
-               Hyunwoo J. Kim and
-               Glenn Fung and
-               Vikas Singh},
-  title     = {Efficient Relative Attribute Learning using Graph Neural Networks},
-  booktitle = {Proceedings of the 15th European Conference on Computer Vision (ECCV)},
-  year      = {2018}
-}
+author = {Meng, Zihang and Adluru, Nagesh and Kim, Hyunwoo J. and Fung, Glenn and Singh, Vikas},
+title = {Efficient Relative Attribute Learning using Graph Neural Networks},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+year = {2018}
+} 
 ```
 
 links
+- [eccv](http://openaccess.thecvf.com/content_ECCV_2018/html/Zihang_Meng_Efficient_Relative_Attribute_ECCV_2018_paper.html)
 - [code](https://github.com/zihangm/RAL_GNN)
