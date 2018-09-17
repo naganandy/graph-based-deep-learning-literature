@@ -34,6 +34,7 @@
 - [One-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gmatching_emnlp18/README.md)
 - [Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/jmee_emnlp18/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/clkgcn_emnlp18/README.md)
+- [SQL-to-Text Generation with Graph-to-Sequence Model]()
 
 [accepted_papers](http://emnlp2018.org/program/accepted/long-papers)
 
