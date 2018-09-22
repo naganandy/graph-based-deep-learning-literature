@@ -16,7 +16,7 @@
 - [Structure-Aware Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sacnn_nips18/README.md)
 - [Diffusion Maps for Textual Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dmte_nips18/README.md)
 
-[accepted_papers](https://nips.cc/Conferences/2018/Schedule?type=Poster)
+[accepted_papers](https://nips.cc/Conferences/2018/Schedule)
 
 
 # ICDM 2018 (Nov)
