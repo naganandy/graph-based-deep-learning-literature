@@ -3,6 +3,7 @@
 - AAAI 2019 (Feb, decisions early Nov)
 
 # NIPS 2018 (Dec)
+- [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/seal_nips18/README.md)
 - [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vqagcn_nips18/README.md)
 - [Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ootbfvqa_nips18/README.md)
 - [Adaptive Sampling Towards Fast Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/asgcn_nips18/README.md)
