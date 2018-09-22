@@ -3,7 +3,7 @@
 ```
 @incollection{seal_nips18,
 title = {Link Prediction Based on Graph Neural Networks},
-author = {Zhang, Muhan  and Chen, YixIn},
+author = {Zhang, Muhan  and Chen, Yixin},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
 publisher = {Curran Associates, Inc.}
