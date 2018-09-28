@@ -43,7 +43,7 @@
 
 # CIKM 2018 (Oct)
 - [Semi-supervised Learning on Graphs with Generative Adversarial Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graphsgan_cikm18/README.md)
-- Multiresolution Graph Attention Networksfor Relevance Matching
+- Multiresolution Graph Attention Networks for Relevance Matching
 
 [accepted_papers](http://www.cikm2018.units.it/program.html)
 
