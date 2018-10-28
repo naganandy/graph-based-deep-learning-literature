@@ -5,6 +5,7 @@
 author = {Yang, Jianwei and Lu, Jiasen and Lee, Stefan and Batra, Dhruv and Parikh, Devi},
 title = {Graph R-CNN for Scene Graph Generation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
+pages = {690--706},
 year = {2018}
 }
 ```
