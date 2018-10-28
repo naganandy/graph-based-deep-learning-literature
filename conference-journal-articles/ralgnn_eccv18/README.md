@@ -5,6 +5,7 @@
 author = {Meng, Zihang and Adluru, Nagesh and Kim, Hyunwoo J. and Fung, Glenn and Singh, Vikas},
 title = {Efficient Relative Attribute Learning using Graph Neural Networks},
 booktitle = {The European Conference on Computer Vision (ECCV)},
+pages = {575--590},
 year = {2018}
 } 
 ```
