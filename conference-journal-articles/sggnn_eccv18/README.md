@@ -5,6 +5,7 @@
 author = {Shen, Yantao and Li, Hongsheng and Yi, Shuai and Chen, Dapeng and Wang, Xiaogang},
 title = {Person Re-identification with Deep Similarity-Guided Graph Neural Network},
 booktitle = {The European Conference on Computer Vision (ECCV)},
+pages = {508--526},
 year = {2018}
 } 
 ```
