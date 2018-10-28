@@ -5,6 +5,7 @@
 author = {Yao, Ting and Pan, Yingwei and Li, Yehao and Mei, Tao},
 title = {Exploring Visual Relationship for Image Captioning},
 booktitle = {The European Conference on Computer Vision (ECCV)},
+pages = {711--727},
 year = {2018}
 }
 ```
