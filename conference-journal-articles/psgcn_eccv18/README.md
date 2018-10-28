@@ -13,3 +13,4 @@ year = {2018}
 links
 - [arXiv](https://arxiv.org/abs/1803.05827)
 - [eccv](http://openaccess.thecvf.com/content_ECCV_2018/html/Chu_Wang_Local_Spectral_Graph_ECCV_2018_paper.html)
+ -[code](https://github.com/fate3439/LocalSpecGCN)
