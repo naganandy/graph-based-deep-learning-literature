@@ -5,6 +5,7 @@
 author = {Wang, Chu and Samari, Babak and Siddiqi, Kaleem},
 title = {Local Spectral Graph Convolution for Point Set Feature Learning},
 booktitle = {The European Conference on Computer Vision (ECCV)},
+pages = {56--71},
 year = {2018}
 } 
 ```
