@@ -8,7 +8,7 @@
   title = 	{Sentence-State LSTM for Text Representation},
   booktitle = 	{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year = 	{2018},
-  pages = 	{1616–-1626 }
+  pages = 	{317–327}
 }
 ```
 
