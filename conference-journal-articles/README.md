@@ -1,6 +1,6 @@
 # [deadlines](https://aideadlin.es/)
 
-- ICLR 2019 (May)
+- ICLR 2019 (May, decisions late Dec)
 - AAAI 2019 (Feb, decisions early Nov)
 
 # NIPS 2018 (Dec)
