@@ -50,6 +50,7 @@ ICLR 2019 submissions
 - [Language Modeling with Graph Temporal Convolutional Networks](https://openreview.net/forum?id=HJlYzhR9tm)
 - [DEEP GRAPH TRANSLATION](https://openreview.net/forum?id=SJz6MnC5YQ)
 - [CGNF: Conditional Graph Neural Fields](https://openreview.net/forum?id=ryxMX2R9YQ)
+- [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 
 arXiv papers:
 
