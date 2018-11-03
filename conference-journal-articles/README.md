@@ -44,6 +44,7 @@
 # CIKM 2018 (Oct)
 - [Semi-supervised Learning on Graphs with Generative Adversarial Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graphsgan_cikm18/README.md)
 - [Multiresolution Graph Attention Networks for Relevance Matching](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-journal-articles/mgan_cikm18)
+- [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcn_spp_cikm18/README.md)
 
 [accepted_papers](http://www.cikm2018.units.it/program.html)
 
