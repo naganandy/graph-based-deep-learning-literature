@@ -2,12 +2,12 @@
 
 ```
 @inproceedings{cgcn_emnlp18,
-  author =  {Yuhao Zhang and 
+  author = {Yuhao Zhang and 
             Peng Qi and
             Christopher D. Manning},
-  title =   {Graph Convolution over Pruned Dependency Trees Improves Relation Extraction},
-  booktitle =   {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  pages = 	{2205--2215},
+  title = {Graph Convolution over Pruned Dependency Trees Improves Relation Extraction},
+  booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages = {2205--2215},
   year =  {2018}
 }
 ```
