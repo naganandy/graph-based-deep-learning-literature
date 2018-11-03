@@ -2,7 +2,7 @@
 
 - ICLR 2019 (May, decisions late Dec)
 
-# AAAI 2019 (Dec)
+# AAAI 2019 (Feb)
 - Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks
 
 # NIPS 2018 (Dec)
