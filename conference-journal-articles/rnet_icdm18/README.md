@@ -8,7 +8,7 @@
                Xuchao Zhang and
                Chang-Tien Lu},
   title     = {Rational Neural Networks for Approximating Jump Discontinuities of Graph Convolution Operator},
-  booktitle = {{IEEE} International Conference on Data Mining, (ICDM)},
+  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2018}
 }
 ```
