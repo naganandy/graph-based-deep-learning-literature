@@ -11,5 +11,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-
+- [arXiv](https://arxiv.org/abs/1810.11908)
 - [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11431)
