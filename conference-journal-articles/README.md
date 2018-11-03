@@ -1,7 +1,9 @@
 # [deadlines](https://aideadlin.es/)
 
 - ICLR 2019 (May, decisions late Dec)
-- AAAI 2019 (Feb, decisions early Nov)
+
+# AAAI 2019 (Dec)
+- Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks
 
 # NIPS 2018 (Dec)
 - [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/seal_nips18/README.md)
