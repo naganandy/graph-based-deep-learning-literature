@@ -35,6 +35,7 @@
 - [AD3: Attentive Deep Document Dater](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ad3_emnlp18/README.md)
 - [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/cgcn_emnlp18/README.md)
 - [One-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gmatching_emnlp18/README.md)
+- [A Unified Syntax-aware Framework for Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/unisrl_emnlp18/README.md)
 - [Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/jmee_emnlp18/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/clkgcn_emnlp18/README.md)
 - [SQL-to-Text Generation with Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sqltotext_emnlp18/README.md)
