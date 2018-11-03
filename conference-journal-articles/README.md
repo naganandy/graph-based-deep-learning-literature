@@ -41,7 +41,7 @@
 - [SQL-to-Text Generation with Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sqltotext_emnlp18/README.md)
 - [N-ary Relation Extraction using Graph State LSTM](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gslstm_emnlp18/README.md)
 
-[accepted_papers](http://emnlp2018.org/schedule)
+[accepted_papers](https://aclanthology.coli.uni-saarland.de/events/emnlp-2018)
 
 # CIKM 2018 (Oct)
 - [Semi-supervised Learning on Graphs with Generative Adversarial Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/graphsgan_cikm18/README.md)
