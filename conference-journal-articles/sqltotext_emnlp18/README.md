@@ -17,4 +17,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1809.05255)
-- [ACLANTHOLOGY](https://aclanthology.coli.uni-saarland.de/papers/D18-1112/d18-1112)
+- [aclanthology](https://aclanthology.coli.uni-saarland.de/papers/D18-1112/d18-1112)
