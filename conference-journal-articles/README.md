@@ -38,6 +38,7 @@
 - [Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/jmee_emnlp18/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/clkgcn_emnlp18/README.md)
 - [SQL-to-Text Generation with Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sqltotext_emnlp18/README.md)
+- [N-ary Relation Extraction using Graph State LSTM](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gslstm_emnlp18/README.md)
 
 [accepted_papers](http://emnlp2018.org/schedule)
 
