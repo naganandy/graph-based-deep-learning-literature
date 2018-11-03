@@ -8,7 +8,7 @@
                Anil K. Jain and
                Jiayu Zhou},
   title     = {HHNE: Heterogeneous Hyper-Network Embedding},
-  booktitle = {{IEEE} International Conference on Data Mining, (ICDM)},
+  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2018}
 }
 ```
