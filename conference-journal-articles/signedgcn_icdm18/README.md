@@ -6,7 +6,7 @@
                Yao Ma and
                Jiliang Tang},
   title     = {Signed Graph Convolutional Network},
-  booktitle = {{IEEE} International Conference on Data Mining, (ICDM)},
+  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2018}
 }
 ```
