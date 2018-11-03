@@ -1,7 +1,7 @@
 # Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks
 
 ```
-@inproceedings{co_self_gcn_aaai18,
+@inproceedings{kgnn_aaai19,
   author    = {Christopher Morris and
                Martin Ritzert and
                Matthias Fey and
