@@ -4,6 +4,7 @@
 
 # AAAI 2019 (Feb)
 - [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/kgnn_aaai19/README.md)
+- Learning to Solve NP-Complete Problems - A Graph Neural Network for the Decision TSP
 
 # NIPS 2018 (Dec)
 - [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/seal_nips18/README.md)
