@@ -6,7 +6,7 @@
                Pang-Ning Tan and
                Lifeng Luo},
   title     = {A Low Rank Weighted Graph Convolutional Approach to Weather Prediction},
-  booktitle = {{IEEE} International Conference on Data Mining, (ICDM)},
+  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2018}
 }
 ```
