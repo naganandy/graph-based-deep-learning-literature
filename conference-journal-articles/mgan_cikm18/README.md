@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{mgan_cikm18,
-  author    = {Ming Ding and
-               Jie Tang and
-               Jie Zhang},
-  title     = {Semi-supervised Learning on Graphs with Generative Adversarial Nets},
+  author    = {Ting Zhang and
+               Bang Liu and
+               Di Niu and
+               Kunfeng Lai and
+               Yu Xu},
+  title     = {Multiresolution Graph Attention Networks for Relevance Matching},
   booktitle = {Proceedings of the 27th {ACM} International Conference on Information
                and Knowledge Management ({CIKM})},
-  pages     = {913--922},
+  pages     = {933--942},
   year      = {2018}
 }
 ```
