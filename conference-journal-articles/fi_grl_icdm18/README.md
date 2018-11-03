@@ -7,7 +7,7 @@
                Jin Xu and
                Philip S. Yu},
   title     = {FI-GRL: Fast Inductive Graph Representation Learning via Projection-Cost Preservation},
-  booktitle = {{IEEE} International Conference on Data Mining, (ICDM)},
+  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2018}
 }
 ```
