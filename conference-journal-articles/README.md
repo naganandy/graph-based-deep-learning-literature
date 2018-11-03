@@ -3,7 +3,7 @@
 - ICLR 2019 (May, decisions late Dec)
 
 # AAAI 2019 (Feb)
-- Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks
+- [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/kgnn_aaai19/README.md)
 
 # NIPS 2018 (Dec)
 - [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/seal_nips18/README.md)
