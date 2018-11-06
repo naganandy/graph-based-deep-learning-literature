@@ -11,7 +11,6 @@ ICLR 2019 submissions
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
-- [Link Prediction in Hypergraphs using Graph Convolutional Networks](https://openreview.net/forum?id=ryeaZhRqFm)
 - [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
 - [Language Modeling with Graph Temporal Convolutional Networks](https://openreview.net/forum?id=HJlYzhR9tm)
@@ -40,6 +39,7 @@ ICLR 2019 submissions
 - [Graph Classification with Geometric Scattering](https://openreview.net/forum?id=SygK6sA5tX)
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/forum?id=r1xYr3C5t7)
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
+- [Link Prediction in Hypergraphs using Graph Convolutional Networks](https://openreview.net/forum?id=ryeaZhRqFm)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 - [Generalized Label Propagation Methods for Semi-Supervised Learning](https://openreview.net/forum?id=SygjB3AcYX)
 
