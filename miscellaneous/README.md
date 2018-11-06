@@ -3,6 +3,8 @@ ICLR 2019 submissions
 1
 
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
+- [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
+- [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
@@ -11,8 +13,6 @@ ICLR 2019 submissions
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
-- [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
-- [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
 
 2
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
