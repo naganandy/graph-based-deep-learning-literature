@@ -31,7 +31,6 @@ ICLR 2019 submissions
 - [DEEP GRAPH TRANSLATION](https://openreview.net/forum?id=SJz6MnC5YQ)
 - [Label Propagation Networks](https://openreview.net/forum?id=r1g7y2RqYX)
 - [DyReP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
-- [CGNF: Conditional Graph Neural Fields](https://openreview.net/forum?id=ryxMX2R9YQ)
 - [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Dynamic Graph Representation Learning via Self-Attention Networks](https://openreview.net/forum?id=HylsgnCcFQ)
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://openreview.net/forum?id=SkNSehA9FQ)
@@ -46,6 +45,7 @@ ICLR 2019 submissions
 3
 - [GRAPH TRANSFORMATION POLICY NETWORK FOR CHEMICAL REACTION PREDICTION](https://openreview.net/forum?id=r1f78iAcFm)
 - [An Attention-Based Model for Learning Dynamic Interaction Networks](https://openreview.net/forum?id=rJEGwo0cFX)
+- [CGNF: Conditional Graph Neural Fields](https://openreview.net/forum?id=ryxMX2R9YQ)
 - [Unsupervised Graph Embedding using Dynamic Routing Between Capsules](https://openreview.net/forum?id=SkeiPsAqK7)
 - [BIGSAGE: unsupervised inductive representation learning of graph via bi-attended sampling and global-biased aggregating ](https://openreview.net/forum?id=SygxYoC5FX)
 - [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
