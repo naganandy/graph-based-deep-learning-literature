@@ -2,9 +2,9 @@ ICLR 2019 submissions
 
 1
 
-- [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
+- [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
