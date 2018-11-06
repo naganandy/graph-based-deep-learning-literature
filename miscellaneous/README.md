@@ -10,7 +10,6 @@ ICLR 2019 submissions
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
-- [ATTACK GRAPH CONVOLUTIONAL NETWORKS BY ADDING FAKE NODES](https://openreview.net/forum?id=rke8ZhCcFQ)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
 - [Link Prediction in Hypergraphs using Graph Convolutional Networks](https://openreview.net/forum?id=ryeaZhRqFm)
 - [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
@@ -57,6 +56,7 @@ ICLR 2019 submissions
 - [DEEP GEOMETRICAL GRAPH Classification WITH DYNAMIC POOLING](https://openreview.net/forum?id=Hkes0iR9KX)
 - [Spectral Convolutional Networks on Hierarchical Multigraphs](https://openreview.net/forum?id=ryxsCiAqKm)
 - [Graph Learning Network: A Structure Learning Algorithm](https://openreview.net/forum?id=HylRk2A5FQ)
+- [ATTACK GRAPH CONVOLUTIONAL NETWORKS BY ADDING FAKE NODES](https://openreview.net/forum?id=rke8ZhCcFQ)
 
 
 
