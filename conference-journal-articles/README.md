@@ -8,9 +8,10 @@
 - Hypergraph Neural Networks
 - Designing Deep Generative Models for Molecular Graphs
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
+- Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
 - Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding
--  Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  GraphConvolutional  Networks  and  Knowledge  Graphs
+- Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  GraphConvolutional  Networks  and  Knowledge  Graphs
 - Graph Convolutional Networks for Text Classification
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
