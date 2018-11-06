@@ -9,7 +9,6 @@ ICLR 2019 submissions
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
-- [Graph Learning Network: A Structure Learning Algorithm](https://openreview.net/forum?id=HylRk2A5FQ)
 - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks](https://openreview.net/forum?id=SkeXehR9t7)
 - [Overlapping Community Detection with Graph Neural Networks](https://openreview.net/forum?id=HklQxnC5tX)
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://openreview.net/forum?id=SkNSehA9FQ)
@@ -57,6 +56,7 @@ ICLR 2019 submissions
 - [Relational Graph Attention Networks](https://openreview.net/forum?id=Bklzkh0qFm)
 - [DEEP GEOMETRICAL GRAPH Classification WITH DYNAMIC POOLING](https://openreview.net/forum?id=Hkes0iR9KX)
 - [Spectral Convolutional Networks on Hierarchical Multigraphs](https://openreview.net/forum?id=ryxsCiAqKm)
+- [Graph Learning Network: A Structure Learning Algorithm](https://openreview.net/forum?id=HylRk2A5FQ)
 
 
 
