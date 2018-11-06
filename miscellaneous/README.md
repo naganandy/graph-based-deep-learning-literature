@@ -9,7 +9,6 @@ ICLR 2019 submissions
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
-- [Relational Graph Attention Networks](https://openreview.net/forum?id=Bklzkh0qFm)
 - [Label Propagation Networks](https://openreview.net/forum?id=r1g7y2RqYX)
 - [Graph Learning Network: A Structure Learning Algorithm](https://openreview.net/forum?id=HylRk2A5FQ)
 - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks](https://openreview.net/forum?id=SkeXehR9t7)
@@ -55,6 +54,7 @@ ICLR 2019 submissions
 - [BIGSAGE: unsupervised inductive representation learning of graph via bi-attended sampling and global-biased aggregating ](https://openreview.net/forum?id=SygxYoC5FX)
 - [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
 - [Few-shot Classification on Graphs with Structural Regularized GCNs](https://openreview.net/forum?id=r1znKiAcY7)
+- [Relational Graph Attention Networks](https://openreview.net/forum?id=Bklzkh0qFm)
 - [DEEP GEOMETRICAL GRAPH Classification WITH DYNAMIC POOLING](https://openreview.net/forum?id=Hkes0iR9KX)
 - [Spectral Convolutional Networks on Hierarchical Multigraphs](https://openreview.net/forum?id=ryxsCiAqKm)
 
