@@ -8,7 +8,6 @@ ICLR 2019 submissions
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
-- [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://openreview.net/forum?id=B1xJAsA5F7)
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
 - [Graph U-Net](https://openreview.net/forum?id=HJePRoAct7)
 - [Characterizing Malicious Edges targeting on Graph Neural Networks](https://openreview.net/forum?id=HJxdAoCcYX)
@@ -37,6 +36,7 @@ ICLR 2019 submissions
 2
 - [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
+- [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://openreview.net/forum?id=B1xJAsA5F7)
 - [Invariant and Equivariant Graph Networks](https://openreview.net/forum?id=Syx72jC9tm)
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
