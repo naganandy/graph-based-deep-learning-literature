@@ -13,12 +13,12 @@ ICLR 2019 submissions
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
 - [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
-- [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 
 2
 - [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://openreview.net/forum?id=B1xJAsA5F7)
+- [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 - [Invariant and Equivariant Graph Networks](https://openreview.net/forum?id=Syx72jC9tm)
 - [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://openreview.net/forum?id=HJeKCi0qYX)
 - [Graph U-Net](https://openreview.net/forum?id=HJePRoAct7)
