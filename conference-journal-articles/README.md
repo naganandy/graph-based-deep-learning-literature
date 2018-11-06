@@ -12,7 +12,8 @@
 - Graph Convolutional Networks for Text Classification
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting
-- Attention  Based  Spatial-­‐Temporal  Graph  Convolutional  Networks  for  Traffic  FlowForecasting
+- Attention  Based  Spatial-Temporal  Graph  Convolutional  Networks  for  Traffic  FlowForecasting
+- Dynamic  Spatial Temporal  Graph  Convolutional  Neural  Networks  for  Traffic  Forecasting
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 
