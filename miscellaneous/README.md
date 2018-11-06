@@ -13,7 +13,6 @@ ICLR 2019 submissions
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
 - [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
-- [DEEP GRAPH TRANSLATION](https://openreview.net/forum?id=SJz6MnC5YQ)
 - [CGNF: Conditional Graph Neural Fields](https://openreview.net/forum?id=ryxMX2R9YQ)
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 
@@ -30,6 +29,7 @@ ICLR 2019 submissions
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX)
+- [DEEP GRAPH TRANSLATION](https://openreview.net/forum?id=SJz6MnC5YQ)
 - [Label Propagation Networks](https://openreview.net/forum?id=r1g7y2RqYX)
 - [DyReP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 - [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
