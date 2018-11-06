@@ -8,6 +8,7 @@
 - Hypergraph Neural Networks
 - Designing Deep Generative Models for Molecular Graphs
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
+- Gaussian Induced  Convolution  for  Graphs
 - Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
