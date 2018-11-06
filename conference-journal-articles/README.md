@@ -9,6 +9,7 @@
 - Designing Deep Generative Models for Molecular Graphs
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
 - Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification
+- Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
 - Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding
 - Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  GraphConvolutional  Networks  and  Knowledge  Graphs
