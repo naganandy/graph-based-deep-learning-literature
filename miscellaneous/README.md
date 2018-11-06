@@ -7,7 +7,6 @@ ICLR 2019 submissions
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
-- [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Invariant and Equivariant Graph Networks](https://openreview.net/forum?id=Syx72jC9tm)
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 - [Graph Classification with Geometric Scattering](https://openreview.net/forum?id=SygK6sA5tX)
@@ -40,6 +39,7 @@ ICLR 2019 submissions
 
 2
 - [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
+- [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX)
