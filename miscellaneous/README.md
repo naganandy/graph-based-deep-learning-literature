@@ -1,7 +1,6 @@
 ICLR 2019 submissions
 
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
-- [GRAPH TRANSFORMATION POLICY NETWORK FOR CHEMICAL REACTION PREDICTION](https://openreview.net/forum?id=r1f78iAcFm)
 - [An Attention-Based Model for Learning Dynamic Interaction Networks](https://openreview.net/forum?id=rJEGwo0cFX)
 - [Unsupervised Graph Embedding using Dynamic Routing Between Capsules](https://openreview.net/forum?id=SkeiPsAqK7)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
@@ -53,7 +52,7 @@ ICLR 2019 submissions
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 
 
-
+- [GRAPH TRANSFORMATION POLICY NETWORK FOR CHEMICAL REACTION PREDICTION](https://openreview.net/forum?id=r1f78iAcFm)
 
 arXiv papers:
 
