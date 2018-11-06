@@ -5,7 +5,6 @@ ICLR 2019 submissions
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
-- [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
 - [Confidence-based Graph Convolutional Networks for Semi-Supervised Learning ](https://openreview.net/forum?id=HklUN3RcFX)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
@@ -57,6 +56,7 @@ ICLR 2019 submissions
 - [An Attention-Based Model for Learning Dynamic Interaction Networks](https://openreview.net/forum?id=rJEGwo0cFX)
 - [Unsupervised Graph Embedding using Dynamic Routing Between Capsules](https://openreview.net/forum?id=SkeiPsAqK7)
 - [BIGSAGE: unsupervised inductive representation learning of graph via bi-attended sampling and global-biased aggregating ](https://openreview.net/forum?id=SygxYoC5FX)
+- [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
 - [Few-shot Classification on Graphs with Structural Regularized GCNs](https://openreview.net/forum?id=r1znKiAcY7)
 
 
