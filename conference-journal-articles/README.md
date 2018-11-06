@@ -8,6 +8,7 @@
 - Hypergraph Neural Networks
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
 - Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding
+-  Know  the  Relationships:  Zero-­‐Shot  Action  Recognition  via  Two-­‐Stream  GraphConvolutional  Networks  and  Knowledge  Graphs
 - Graph Convolutional Networks for Text Classification
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting
