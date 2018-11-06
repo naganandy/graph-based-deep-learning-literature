@@ -13,7 +13,7 @@
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
 - Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding
-- Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  GraphConvolutional  Networks  and  Knowledge  Graphs
+- Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs
 - Graph Convolutional Networks for Text Classification
 - Graph  based  Translation  Memory  for  Neural  Machine  Translation
 - ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB-­‐D  SceneRecognition
