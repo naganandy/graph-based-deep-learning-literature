@@ -1,6 +1,7 @@
 ICLR 2019 submissions
 
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
+- [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX)
 - [Few-shot Classification on Graphs with Structural Regularized GCNs](https://openreview.net/forum?id=r1znKiAcY7)
@@ -47,7 +48,6 @@ ICLR 2019 submissions
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 
 2
-- [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 
 3
