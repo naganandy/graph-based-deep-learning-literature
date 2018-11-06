@@ -1,8 +1,9 @@
 ICLR 2019 submissions
 
+1
+
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
-- [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Generalized Label Propagation Methods for Semi-Supervised Learning ](https://openreview.net/group?id=ICLR.cc/2019/Conference)
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/pdf?id=r1xYr3C5t7)
@@ -45,6 +46,7 @@ ICLR 2019 submissions
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 
 2
+- [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX)
