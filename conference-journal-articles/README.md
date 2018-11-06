@@ -17,6 +17,7 @@
 - Graph  based  Translation  Memory  for  Neural  Machine  Translation
 - ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB-­‐D  SceneRecognition
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
+- Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
 - Multi-CGN:  Graph  Convolutional  Networks  forMulti‐View  Networks,  with  Applications  to Global  Poverty
 - Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting
