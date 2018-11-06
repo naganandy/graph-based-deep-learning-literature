@@ -7,7 +7,6 @@ ICLR 2019 submissions
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
-- [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 - [Graph Classification with Geometric Scattering](https://openreview.net/forum?id=SygK6sA5tX)
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://openreview.net/forum?id=B1xJAsA5F7)
@@ -46,6 +45,7 @@ ICLR 2019 submissions
 - [DyReP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 - [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/forum?id=r1xYr3C5t7)
+- [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 - [Generalized Label Propagation Methods for Semi-Supervised Learning](https://openreview.net/forum?id=SygjB3AcYX)
 
