@@ -5,7 +5,6 @@ ICLR 2019 submissions
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
-- [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/pdf?id=r1xYr3C5t7)
 - [DyReP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 - [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
@@ -49,6 +48,7 @@ ICLR 2019 submissions
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX)
+- [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/forum?id=r1xYr3C5t7)
 - [Generalized Label Propagation Methods for Semi-Supervised Learning](https://openreview.net/forum?id=SygjB3AcYX)
 
 
