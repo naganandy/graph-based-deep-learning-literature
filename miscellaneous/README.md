@@ -5,7 +5,6 @@ ICLR 2019 submissions
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
-- [Generalized Label Propagation Methods for Semi-Supervised Learning ](https://openreview.net/group?id=ICLR.cc/2019/Conference)
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/pdf?id=r1xYr3C5t7)
 - [DyReP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
@@ -50,6 +49,7 @@ ICLR 2019 submissions
 - [Learning to Generate Parameters from Natural Languages for Graph Neural Networks](https://openreview.net/forum?id=SkgzYiRqtX)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [Generative Code Modeling with Graphs](https://openreview.net/forum?id=Bke4KsA5FX)
+- [Generalized Label Propagation Methods for Semi-Supervised Learning](https://openreview.net/forum?id=SygjB3AcYX)
 
 
 3
@@ -58,6 +58,7 @@ ICLR 2019 submissions
 - [Unsupervised Graph Embedding using Dynamic Routing Between Capsules](https://openreview.net/forum?id=SkeiPsAqK7)
 - [BIGSAGE: unsupervised inductive representation learning of graph via bi-attended sampling and global-biased aggregating ](https://openreview.net/forum?id=SygxYoC5FX)
 - [Few-shot Classification on Graphs with Structural Regularized GCNs](https://openreview.net/forum?id=r1znKiAcY7)
+
 
 
 arXiv papers:
