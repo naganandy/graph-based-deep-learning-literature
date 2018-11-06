@@ -14,6 +14,7 @@
 - Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  GraphConvolutional  Networks  and  Knowledge  Graphs
 - Graph Convolutional Networks for Text Classification
 - Graph  based  Translation  Memory  for  Neural  Machine  Translation
+- ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB-­‐D  SceneRecognition
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
 - Multi-CGN:  Graph  Convolutional  Networks  forMulti‐View  Networks,  with  Applications  to Global  Poverty
