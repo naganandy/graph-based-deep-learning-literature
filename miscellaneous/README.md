@@ -6,7 +6,6 @@ ICLR 2019 submissions
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
-- [Confidence-based Graph Convolutional Networks for Semi-Supervised Learning ](https://openreview.net/forum?id=HklUN3RcFX)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
