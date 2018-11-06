@@ -7,9 +7,12 @@
 - [Learning to Solve NP-Complete Problems - A Graph Neural Network for the Decision TSP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/tspgnn_aaai19/README.md)
 - Hypergraph Neural Networks
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
+- Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding
 - Graph Convolutional Networks for Text Classification
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting
+- Attention  Based  Spatial-­‐Temporal  Graph  Convolutional  Networks  for  Traffic  FlowForecasting
+
 [accepted_papers](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 
 # NIPS 2018 (Dec)
