@@ -5,6 +5,7 @@
 # AAAI 2019 (Feb)
 - [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/kgnn_aaai19/README.md)
 - [Learning to Solve NP-Complete Problems - A Graph Neural Network for the Decision TSP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/tspgnn_aaai19/README.md)
+- [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Hypergraph Neural Networks
 - Designing Deep Generative Models for Molecular Graphs
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
@@ -17,7 +18,6 @@
 - Graph Convolutional Networks for Text Classification
 - Graph  based  Translation  Memory  for  Neural  Machine  Translation
 - ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB-­‐D  SceneRecognition
-- [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
 - Multi-CGN:  Graph  Convolutional  Networks  forMulti‐View  Networks,  with  Applications  to Global  Poverty
