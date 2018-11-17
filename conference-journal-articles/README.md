@@ -1,4 +1,5 @@
 # [deadlines](https://aideadlin.es/)
+- CVPR 2019 (June, decisions early Mar)
 - WWW 2019 (May, decisions late Jan)
 - ICLR 2019 (May, decisions late Dec)
 
