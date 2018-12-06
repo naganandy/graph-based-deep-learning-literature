@@ -1,3 +1,5 @@
+# Hypergraph Neural Networks
+
 ```
 @inproceedings{hgnn_aaai19,
   author    = {Yifan Feng and
