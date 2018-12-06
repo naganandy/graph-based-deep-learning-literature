@@ -3,6 +3,7 @@ ICLR 2019 submissions
 1
 
 - [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
+- [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
 - [Diffusion Scattering Transforms on Graphs](https://openreview.net/forum?id=BygqBiRcFQ)
@@ -14,7 +15,6 @@ ICLR 2019 submissions
 2
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 - [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
-- [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
