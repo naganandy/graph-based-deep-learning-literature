@@ -39,6 +39,7 @@ ICLR 2019 submissions
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://openreview.net/forum?id=SkNSehA9FQ)
 - [Graph Classification with Geometric Scattering](https://openreview.net/forum?id=SygK6sA5tX)
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/forum?id=r1xYr3C5t7)
+- [Few-shot Classification on Graphs with Structural Regularized GCNs](https://openreview.net/forum?id=r1znKiAcY7)
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 - [Link Prediction in Hypergraphs using Graph Convolutional Networks](https://openreview.net/forum?id=ryeaZhRqFm)
 
@@ -50,7 +51,6 @@ ICLR 2019 submissions
 - [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
 - [Overlapping Community Detection with Graph Neural Networks](https://openreview.net/forum?id=HklQxnC5tX)
 - [Language Modeling with Graph Temporal Convolutional Networks](https://openreview.net/forum?id=HJlYzhR9tm)
-- [Few-shot Classification on Graphs with Structural Regularized GCNs](https://openreview.net/forum?id=r1znKiAcY7)
 - [Relational Graph Attention Networks](https://openreview.net/forum?id=Bklzkh0qFm)
 - [DEEP GEOMETRICAL GRAPH Classification WITH DYNAMIC POOLING](https://openreview.net/forum?id=Hkes0iR9KX)
 - [Spectral Convolutional Networks on Hierarchical Multigraphs](https://openreview.net/forum?id=ryxsCiAqKm)
