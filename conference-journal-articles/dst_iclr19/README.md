@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{dst_iclr19,    
-title={LanczosNet: Multi-Scale Deep Graph Convolutional Networks},    
+title={Diffusion Scattering Transforms on Graphs},    
 author={Fernando Gama and
         Alejandro Ribeiro and
         Joan Bruna},    
