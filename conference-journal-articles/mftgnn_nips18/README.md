@@ -6,6 +6,7 @@ title = {Mean-field theory of graph neural networks in graph partitioning},
 author = {Kawamoto, Tatsuro},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
+pages = {4366--4376},
 publisher = {Curran Associates, Inc.}
 }
 ```
