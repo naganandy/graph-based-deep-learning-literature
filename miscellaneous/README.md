@@ -7,6 +7,7 @@ ICLR 2019 submissions
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lanczosnet_iclr19/README.md)
 - [Diffusion Scattering Transforms on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dst_iclr19/README.md)
 - [Generative Code Modeling with Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcm_iclr19/README.md)
+- [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dgi_iclr19/README.md)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
@@ -14,7 +15,6 @@ ICLR 2019 submissions
 
 2
 - [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
-- [Deep Graph Infomax](https://openreview.net/forum?id=rklz9iAcKQ)
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
