@@ -6,6 +6,7 @@ title = {Diffusion Maps for Textual Network Embedding},
 author = {Zhang, Xinyuan and Li, Yitong and Shen, Dinghan and Carin, Lawrence},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
+pages = {7598--7608},
 publisher = {Curran Associates, Inc.}
 }
 ```
