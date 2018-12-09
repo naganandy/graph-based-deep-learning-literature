@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/1810.11908)
+- [poster](https://github.com/tatsuro-kawamoto/posters/blob/master/NIPS2018poster.pdf)
 - [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11431)
