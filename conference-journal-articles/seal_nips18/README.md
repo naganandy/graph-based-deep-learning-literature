@@ -13,4 +13,5 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/1802.09691)
 - [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11505)
+- [video](https://www.facebook.com/nipsfoundation/videos/592283224559965/) (50:30 - 55:30)
 - [code](https://github.com/muhanzhang/SEAL)
