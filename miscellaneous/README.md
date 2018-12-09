@@ -46,7 +46,6 @@ ICLR 2019 submissions
 3
 - [An Attention-Based Model for Learning Dynamic Interaction Networks](https://openreview.net/forum?id=rJEGwo0cFX)
 - [CGNF: Conditional Graph Neural Fields](https://openreview.net/forum?id=ryxMX2R9YQ)
-- [Unsupervised Graph Embedding using Dynamic Routing Between Capsules](https://openreview.net/forum?id=SkeiPsAqK7)
 - [BIGSAGE: unsupervised inductive representation learning of graph via bi-attended sampling and global-biased aggregating ](https://openreview.net/forum?id=SygxYoC5FX)
 - [Graph Generation via Scattering](https://openreview.net/forum?id=HyxSBh09t7)
 - [Overlapping Community Detection with Graph Neural Networks](https://openreview.net/forum?id=HklQxnC5tX)
