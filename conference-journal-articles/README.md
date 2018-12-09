@@ -10,14 +10,14 @@
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - [End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sacn_aaai19/README.md)
 - [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lan_aaai19/README.md)
-- Designing Deep Generative Models for Molecular Graphs
-- GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
+- [GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/geniepath_aaai19/README.md)
 - Gaussian Induced  Convolution  for  Graphs
 - Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification
+- Graph Convolutional Networks for Text Classification
+- Designing Deep Generative Models for Molecular Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
 - Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs
-- Graph Convolutional Networks for Text Classification
 - ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB‐D  Scene Recognition
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
