@@ -6,6 +6,7 @@ title = {Link Prediction Based on Graph Neural Networks},
 author = {Zhang, Muhan  and Chen, Yixin},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
+pages = {5171--5181},
 publisher = {Curran Associates, Inc.}
 }
 ```
