@@ -1,11 +1,12 @@
 # Bayesian Semi-supervised Learning with Graph Gaussian Processes
 
 ```
-@incollection{gtsgcn_nips18,
-title = {Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search},
+@incollection{bggp_nips18,
+title = {Bayesian Semi-supervised Learning with Graph Gaussian Processes},
 author = {Cheng Ng, Yin and Silva, Ricardo},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
+pages = {1690--1701},
 publisher = {Curran Associates, Inc.}
 }
 ```
