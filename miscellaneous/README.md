@@ -12,12 +12,12 @@ ICLR 2019 submissions
 - [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vjtnn_iclr19/README.md)
 - [DyReP: Learning Representations over Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/miscellaneous/dyrep_iclr19/README.md)
 - [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ghn_iclr19/README.md)
+- [A generative model for electron paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/electro_iclr19/README.md)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX) ***
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
 
 2
-- [A generative model for electron paths](https://openreview.net/forum?id=r1x4BnCqKX&noteId=Byxatx75nQ)
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://openreview.net/forum?id=BkgWHnR5tm)
