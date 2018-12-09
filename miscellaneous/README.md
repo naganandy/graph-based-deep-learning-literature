@@ -40,7 +40,6 @@ ICLR 2019 submissions
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/forum?id=r1xYr3C5t7)
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 - [Link Prediction in Hypergraphs using Graph Convolutional Networks](https://openreview.net/forum?id=ryeaZhRqFm)
-- [Generalized Label Propagation Methods for Semi-Supervised Learning](https://openreview.net/forum?id=SygjB3AcYX)
 
 
 3
