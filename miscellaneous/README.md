@@ -20,11 +20,11 @@ ICLR 2019 submissions
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
+- [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 
 
 2
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
-- [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://openreview.net/forum?id=HJeKCi0qYX)
 - [Graph U-Net](https://openreview.net/forum?id=HJePRoAct7)
 - [Characterizing Malicious Edges targeting on Graph Neural Networks](https://openreview.net/forum?id=HJxdAoCcYX)
