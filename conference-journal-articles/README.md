@@ -12,7 +12,7 @@
 - [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lan_aaai19/README.md)
 - [GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/geniepath_aaai19/README.md)
 - [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gic_aaai19/README.md)
-- Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification
+- [Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/bgcn_aaai19/README.md)
 - Graph Convolutional Networks for Text Classification
 - Designing Deep Generative Models for Molecular Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
