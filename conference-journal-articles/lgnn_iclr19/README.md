@@ -1,8 +1,7 @@
 # Supervised Community Detection with Line Graph Neural Networks
 
 ```
-@inproceedings{    
-lgnn_iclr19,    
+@inproceedings{lgnn_iclr19,    
 title={Supervised Community Detection with Line Graph Neural Networks},    
 author={Zhengdao Chen and
         Xiang Li and
