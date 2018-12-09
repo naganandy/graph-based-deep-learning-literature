@@ -16,9 +16,9 @@ ICLR 2019 submissions
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX) ***
 - [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/han_iclr19/README.md)
 - [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
+- [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sns_iclr19/README.md)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7) ***
 - [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm) ***
-- [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm) ***
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ) ***
 - [Graph U-Net](https://openreview.net/forum?id=HJePRoAct7) ***
