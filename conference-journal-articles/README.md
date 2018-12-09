@@ -8,7 +8,7 @@
 - [Learning to Solve NP-Complete Problems - A Graph Neural Network for the Decision TSP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/tspgnn_aaai19/README.md)
 - [Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/hgnn_aaai19/README.md)
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
-- End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion
+- [End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sacn_aaai19/README.md)
 - Designing Deep Generative Models for Molecular Graphs
 - GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths
 - Gaussian Induced  Convolution  for  Graphs
