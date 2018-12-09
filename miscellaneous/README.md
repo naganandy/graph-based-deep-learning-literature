@@ -14,8 +14,8 @@ ICLR 2019 submissions
 - [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ghn_iclr19/README.md)
 - [A generative model for electron paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/electro_iclr19/README.md)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX) ***
-- [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
+- [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
 
 2
