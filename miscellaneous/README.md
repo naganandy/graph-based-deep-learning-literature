@@ -34,6 +34,7 @@ ICLR 2019 submissions
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [DEEP GRAPH TRANSLATION](https://openreview.net/forum?id=SJz6MnC5YQ)
 - [Label Propagation Networks](https://openreview.net/forum?id=r1g7y2RqYX)
+- [GRAPH TRANSFORMATION POLICY NETWORK FOR CHEMICAL REACTION PREDICTION](https://openreview.net/forum?id=r1f78iAcFm)
 - [Dynamic Graph Representation Learning via Self-Attention Networks](https://openreview.net/forum?id=HylsgnCcFQ)
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://openreview.net/forum?id=SkNSehA9FQ)
 - [Graph Classification with Geometric Scattering](https://openreview.net/forum?id=SygK6sA5tX)
@@ -43,7 +44,6 @@ ICLR 2019 submissions
 
 
 3
-- [GRAPH TRANSFORMATION POLICY NETWORK FOR CHEMICAL REACTION PREDICTION](https://openreview.net/forum?id=r1f78iAcFm)
 - [An Attention-Based Model for Learning Dynamic Interaction Networks](https://openreview.net/forum?id=rJEGwo0cFX)
 - [CGNF: Conditional Graph Neural Fields](https://openreview.net/forum?id=ryxMX2R9YQ)
 - [Unsupervised Graph Embedding using Dynamic Routing Between Capsules](https://openreview.net/forum?id=SkeiPsAqK7)
