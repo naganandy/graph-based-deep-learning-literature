@@ -10,9 +10,9 @@ ICLR 2019 submissions
 - [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dgi_iclr19/README.md)
 - [Invariant and Equivariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/iegn_iclr19/README.md)
 - [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vjtnn_iclr19/README.md)
+- [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ghn_iclr19/README.md)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX) ***
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
-- [Graph HyperNetworks for Neural Architecture Search](https://openreview.net/forum?id=rkgW0oA9FX)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
 
 2
