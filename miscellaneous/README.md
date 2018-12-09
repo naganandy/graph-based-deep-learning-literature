@@ -17,9 +17,12 @@ ICLR 2019 submissions
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ)
 - [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
 - [Graph Transformer](https://openreview.net/forum?id=HJei-2RcK7)
+- [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
+- [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
+- [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
+
 
 2
-- [Graph Convolutional Network with Sequential Attention For Goal-Oriented Dialogue Systems](https://openreview.net/forum?id=Skz-3j05tm)
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
 - [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://openreview.net/forum?id=HJeKCi0qYX)
@@ -31,14 +34,12 @@ ICLR 2019 submissions
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://openreview.net/forum?id=S1xiOjC9F7)
 - [DEEP GRAPH TRANSLATION](https://openreview.net/forum?id=SJz6MnC5YQ)
 - [Label Propagation Networks](https://openreview.net/forum?id=r1g7y2RqYX)
-- [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Dynamic Graph Representation Learning via Self-Attention Networks](https://openreview.net/forum?id=HylsgnCcFQ)
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://openreview.net/forum?id=SkNSehA9FQ)
 - [Graph Classification with Geometric Scattering](https://openreview.net/forum?id=SygK6sA5tX)
 - [Graph2Graph Networks for Multi-Label Classification](https://openreview.net/forum?id=r1xYr3C5t7)
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
 - [Link Prediction in Hypergraphs using Graph Convolutional Networks](https://openreview.net/forum?id=ryeaZhRqFm)
-- [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 - [Generalized Label Propagation Methods for Semi-Supervised Learning](https://openreview.net/forum?id=SygjB3AcYX)
 
 
