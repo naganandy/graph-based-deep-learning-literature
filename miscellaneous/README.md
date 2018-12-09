@@ -2,7 +2,7 @@ ICLR 2019 submissions
 
 1
 
-- [Supervised Community Detection with Line Graph Neural Networks](https://openreview.net/forum?id=H1g0Z3A9Fm)
+- [Supervised Community Detection with Line Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lgnn_iclr19/README.md)
 - [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
 - [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/forum?id=BkedznAqKQ)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX)
