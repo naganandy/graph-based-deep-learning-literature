@@ -6,6 +6,7 @@ title = {Combinatorial Optimization with Graph Convolutional Networks and Guided
 author = {Li, Zhuwen and Chen, Qifeng and Koltun, Vladlen},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
+pages = {537--546},
 publisher = {Curran Associates, Inc.}
 }
 ```
