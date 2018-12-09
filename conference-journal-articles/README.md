@@ -18,7 +18,6 @@
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
 - Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs
 - Graph Convolutional Networks for Text Classification
-- Graph  based  Translation  Memory  for  Neural  Machine  Translation
 - ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB-­‐D  SceneRecognition
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
