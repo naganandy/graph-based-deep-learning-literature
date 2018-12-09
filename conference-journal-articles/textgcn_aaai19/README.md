@@ -1,7 +1,7 @@
 # Graph Convolutional Networks for Text Classification
 
 ```
-@inproceedings{extgcn_aaai19,
+@inproceedings{textgcn_aaai19,
   author    = {Liang Yao and
                Chengsheng Mao and
                Yuan Luo},
