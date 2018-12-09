@@ -53,7 +53,6 @@ ICLR 2019 submissions
 - [Language Modeling with Graph Temporal Convolutional Networks](https://openreview.net/forum?id=HJlYzhR9tm)
 - [Relational Graph Attention Networks](https://openreview.net/forum?id=Bklzkh0qFm)
 - [DEEP GEOMETRICAL GRAPH Classification WITH DYNAMIC POOLING](https://openreview.net/forum?id=Hkes0iR9KX)
-- [Spectral Convolutional Networks on Hierarchical Multigraphs](https://openreview.net/forum?id=ryxsCiAqKm)
 - [Graph Learning Network: A Structure Learning Algorithm](https://openreview.net/forum?id=HylRk2A5FQ)
 - [ATTACK GRAPH CONVOLUTIONAL NETWORKS BY ADDING FAKE NODES](https://openreview.net/forum?id=rke8ZhCcFQ)
 
