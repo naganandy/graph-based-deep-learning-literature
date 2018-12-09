@@ -6,6 +6,7 @@ title = {Learning to Multitask},
 author = {Zhang, Yu  and Wei, Ying and Yang, Qiang},
 booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
 year = {2018},
+pages = {5776--5787},
 publisher = {Curran Associates, Inc.}
 }
 ```
