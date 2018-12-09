@@ -21,12 +21,12 @@ ICLR 2019 submissions
 - [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
 - [Capsules Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm)
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ)
+- [Graph U-Net](https://openreview.net/forum?id=HJePRoAct7)
 
 
 2
 - [Adversarial Attacks on Node Embeddings](https://openreview.net/forum?id=Sye7qoC5FQ)
 - [MILE: A Multi-Level Framework for Scalable Graph Embedding](https://openreview.net/forum?id=HJeKCi0qYX)
-- [Graph U-Net](https://openreview.net/forum?id=HJePRoAct7)
 - [Characterizing Malicious Edges targeting on Graph Neural Networks](https://openreview.net/forum?id=HJxdAoCcYX)
 - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks](https://openreview.net/forum?id=SkeXehR9t7)
 - [Personalized Embedding Propagation: Combining Neural Networks on Graphs with Personalized PageRank](https://openreview.net/forum?id=H1gL-2A9Ym)
