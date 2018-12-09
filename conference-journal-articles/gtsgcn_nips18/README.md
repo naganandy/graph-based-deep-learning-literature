@@ -14,3 +14,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/1810.10659)
 - [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11077)
+- [code](https://github.com/IntelVCL/NPHard)
