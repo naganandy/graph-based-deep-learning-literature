@@ -8,7 +8,7 @@
                Jun Zhou and
                Xiaolong Li and
                Le Song and
-               Yuan Qi },
+               Yuan Qi},
   title     = {GeniePath: Graph Neural Networks with Adaptive Receptive Paths},
   booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
   year      = {2019}
