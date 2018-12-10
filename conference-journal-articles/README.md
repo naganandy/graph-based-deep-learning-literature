@@ -28,7 +28,7 @@
 - [Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/stmgcn_aaai19/README.md)
 - [Attention  Based  Spatial-Temporal  Graph  Convolutional  Networks  for  Traffic  Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/astgcn_aaai19/README.md)
 - [Dynamic  Spatial Temporal  Graph  Convolutional  Neural  Networks  for  Traffic  Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dstgcn_aaai19/README.md)
-- Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition
+- [Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcnmvtb_aaai19/README.md)
 - MRes-RGNN:  A  Novel  Deep  Learning  based  Framework  for  Traffic  Predictio
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
