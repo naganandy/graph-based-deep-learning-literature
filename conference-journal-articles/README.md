@@ -20,9 +20,9 @@
 - Deep Bayesian Optimization on Attributed Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
-- Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs
-- ACM:  Adaptive  Cross-­Modal  Graph  Convolutional  Neural  Networks  for  RGB‐D  Scene Recognition
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
+ Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs
+- ACM:  Adaptive  Cross-Modal  Graph  Convolutional  Neural  Networks  for  RGB‐D  Scene Recognition
 - Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
 - Multi-CGN:  Graph  Convolutional  Networks  forMulti‐View  Networks,  with  Applications  to Global  Poverty
 - Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting
