@@ -12,3 +12,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1805.08905)
+- [code](https://github.com/BeautyOfWeb/AffinityNet)
