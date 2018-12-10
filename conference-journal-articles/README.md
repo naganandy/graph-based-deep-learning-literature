@@ -23,7 +23,7 @@
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
 - [I Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/iktr_aaai19/README.md)
 - [ACM:  Adaptive  Cross-Modal  Graph  Convolutional  Neural  Networks  for  RGB‐D  Scene Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/acm_aaai19/README.md)
-- Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data
+- [Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dhgc_aaai19/README.md)
 - Multi-CGN:  Graph  Convolutional  Networks  forMulti‐View  Networks,  with  Applications  to Global  Poverty
 - Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting
 - Attention  Based  Spatial-Temporal  Graph  Convolutional  Networks  for  Traffic  Flow Forecasting
