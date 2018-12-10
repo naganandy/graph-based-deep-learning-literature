@@ -7,20 +7,20 @@
 - [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/kgnn_aaai19/README.md)
 - [Learning to Solve NP-Complete Problems - A Graph Neural Network for the Decision TSP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/tspgnn_aaai19/README.md)
 - [Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/hgnn_aaai19/README.md)
+- [GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/geniepath_aaai19/README.md)
 - [End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sacn_aaai19/README.md)
 - [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lan_aaai19/README.md)
-- [GeniePath:  Graph  Neural  Networks  with  Adaptive  Receptive  Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/geniepath_aaai19/README.md)
 - [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gic_aaai19/README.md)
 - [Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/bgcn_aaai19/README.md)
-- [Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/textgcn_aaai19/README.md)
-- [Neural Relation Extraction Within and Across Sentence Boundaries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/idepnn_aaai19/README.md)
-- [AffinityNet: semi-supervised few-shot learning for disease type prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/affinitynet_aaai19/README.md)
-- [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - Designing Deep Generative Models for Molecular Graphs
 - Deep Bayesian Optimization on Attributed Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 - Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
+- [Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/textgcn_aaai19/README.md)
+- [Neural Relation Extraction Within and Across Sentence Boundaries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/idepnn_aaai19/README.md)
+- [AffinityNet: semi-supervised few-shot learning for disease type prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/affinitynet_aaai19/README.md)
+- [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/srgnn_aaai19/README.md)
 - [I Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/iktr_aaai19/README.md)
 - [ACM:  Adaptive  Cross-Modal  Graph  Convolutional  Neural  Networks  for  RGB‐D  Scene Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/acm_aaai19/README.md)
 - [Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dhgc_aaai19/README.md)
