@@ -14,6 +14,7 @@
 - [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gic_aaai19/README.md)
 - [Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/bgcn_aaai19/README.md)
 - [Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/textgcn_aaai19/README.md)
+- Neural Relation Extraction Within and Across Sentence Boundaries
 - Designing Deep Generative Models for Molecular Graphs
 - Deep Bayesian Optimization on Attributed Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
