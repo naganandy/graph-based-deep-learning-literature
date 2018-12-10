@@ -15,7 +15,7 @@
 - [Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/bgcn_aaai19/README.md)
 - [Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/textgcn_aaai19/README.md)
 - [Neural Relation Extraction Within and Across Sentence Boundaries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/idepnn_aaai19/README.md)
-- AffinityNet: semi-supervised few-shot learning for disease type prediction
+- [AffinityNet: semi-supervised few-shot learning for disease type prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/affinitynet_aaai19/README.md)
 - Designing Deep Generative Models for Molecular Graphs
 - Deep Bayesian Optimization on Attributed Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
