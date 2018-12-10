@@ -27,6 +27,7 @@
 - Attention  Based  Spatial-Temporal  Graph  Convolutional  Networks  for  Traffic  Flow Forecasting
 - Dynamic  Spatial Temporal  Graph  Convolutional  Neural  Networks  for  Traffic  Forecasting
 - Graph  CNNs  with  Motif  and  Variable  Temporal  Blockfor  Skeleton-­‐based  ActionRecognition
+- MRes-RGNN:  A  Novel  Deep  Learning  based  Framework  for  Traffic  Predictio
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 
