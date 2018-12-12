@@ -1,4 +1,4 @@
-# NeVAE: A Deep Generative Model for Molecular Graphs
+# Designing Deep Generative Models for Molecular Graphs
 
 ```
 @inproceedings{nevae_aaai19,
