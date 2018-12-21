@@ -19,6 +19,10 @@
 - [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/han_iclr19/README.md)
 - [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
 - [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sns_iclr19/README.md)
+- [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ) ***
+- [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm) ***
+- [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://openreview.net/forum?id=H1gL-2A9Ym)
+
 
 
 # AAAI 2019 (Feb)
