@@ -2,7 +2,24 @@
 - CVPR 2019 (June, decisions early Mar)
 - NAACL 2019 (June, decisions late Feb)
 - WWW 2019 (May, decisions late Jan)
-- ICLR 2019 (May, decisions late Dec)
+
+# ICLR 2019 (May)
+- [Supervised Community Detection with Line Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lgnn_iclr19/README.md)
+- [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gin_iclr19/README.md)
+- [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/lanczosnet_iclr19/README.md)
+- [Diffusion Scattering Transforms on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dst_iclr19/README.md)
+- [Generative Code Modeling with Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcm_iclr19/README.md)
+- [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dgi_iclr19/README.md)
+- [Invariant and Equivariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/iegn_iclr19/README.md)
+- [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vjtnn_iclr19/README.md)
+- [DyReP: Learning Representations over Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dyrep_iclr19/README.md)
+- [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ghn_iclr19/README.md)
+- [A generative model for electron paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/electro_iclr19/README.md)
+- [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX) ***
+- [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/han_iclr19/README.md)
+- [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
+- [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sns_iclr19/README.md)
+
 
 # AAAI 2019 (Feb)
 - [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/kgnn_aaai19/README.md)
