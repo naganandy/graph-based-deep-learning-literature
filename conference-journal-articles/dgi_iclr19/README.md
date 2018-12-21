@@ -17,3 +17,4 @@ year={2019},
 links
 - [arXiv](https://arxiv.org/abs/1809.10341)
 - [openreview](https://openreview.net/forum?id=rklz9iAcKQ)
+- [code](https://github.com/PetarV-/DGI)
