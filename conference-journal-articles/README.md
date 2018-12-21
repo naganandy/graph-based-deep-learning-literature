@@ -18,6 +18,7 @@
 - [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vjtnn_iclr19/README.md)
 - [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ghn_iclr19/README.md)
 - [A generative model for electron paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/electro_iclr19/README.md)
+- [PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks](https://openreview.net/forum?id=Sk4jFoA9K7)
 - [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/forum?id=Bylnx209YX) ***
 - [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/han_iclr19/README.md)
 - [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
