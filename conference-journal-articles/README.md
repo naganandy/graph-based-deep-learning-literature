@@ -11,7 +11,7 @@
 - [Diffusion Scattering Transforms on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dst_iclr19/README.md)
 - [Invariant and Equivariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/iegn_iclr19/README.md)
 - [DyReP: Learning Representations over Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dyrep_iclr19/README.md)
-- [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm) ***
+- [Capsule Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/capsgnn_19/README.md)
 - [Graph Wavelet Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gwnn_iclr19/README.md)
 - [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ppnp_iclr19/README.md)
 - [Generative Code Modeling with Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcm_iclr19/README.md)
