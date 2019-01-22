@@ -1,7 +1,7 @@
 # Capsule Graph Neural Network
 
 ```
-@inproceedings{xinyi2018capsule,
+@inproceedings{capsgnn_iclr19,
 title={Capsule Graph Neural Network},
 author={Zhang Xinyi and Lihui Chen},
 booktitle={International Conference on Learning Representations (ICLR)},
