@@ -1,3 +1,4 @@
+# Adversarial Attacks on Graph Neural Networks via Meta Learning
 ```
 @inproceedings{mettack_iclr19,
 title={Adversarial Attacks on Graph Neural Networks via Meta Learning},
@@ -8,4 +9,4 @@ year={2019}
 ```
 
 links
-- [openreview_link](https://openreview.net/forum?id=Bylnx209YX)
+- [openreview](https://openreview.net/forum?id=Bylnx209YX)
