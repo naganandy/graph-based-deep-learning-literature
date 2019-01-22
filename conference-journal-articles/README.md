@@ -13,7 +13,7 @@
 - [DyReP: Learning Representations over Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dyrep_iclr19/README.md)
 - [Capsule Graph Neural Network](https://openreview.net/forum?id=Byl8BnRcYm) ***
 - [Graph Wavelet Neural Network](https://openreview.net/forum?id=H1ewdiR5tQ) ***
-- [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://openreview.net/forum?id=H1gL-2A9Ym) ***
+- [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ppnp_iclr19/README.md)
 - [Generative Code Modeling with Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gcm_iclr19/README.md)
 - [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/vjtnn_iclr19/README.md)
 - [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/ghn_iclr19/README.md)
