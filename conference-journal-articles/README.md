@@ -3,6 +3,7 @@
 - NAACL 2019 (June, decisions late Feb)
 - WWW 2019 (May, decisions late Jan)
 
+
 # ICLR 2019 (May)
 - [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gin_iclr19/README.md)
 - [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/dgi_iclr19/README.md)
@@ -23,6 +24,12 @@
 - [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/han_iclr19/README.md)
 - [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
 - [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sns_iclr19/README.md)
+
+
+# AISTATS 2019 (Apr)
+- Confidence-based Graph Convolutional Networks for Semi-Supervised Learning
+- Lovász Convolutional Networks
+- Amortized Variational Inference with Graph Convolutional Networks for Gaussian Processes
 
 
 # AAAI 2019 (Feb)
