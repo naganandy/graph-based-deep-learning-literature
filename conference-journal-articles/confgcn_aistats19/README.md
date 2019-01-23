@@ -8,6 +8,6 @@ author={Shikhar Vashishth and
         Manik Bhandari and
         Partha Talukdar},    
 booktitle={International Conference on Artificial Intelligence and Statistics (AISTATS)},    
-year={2019},    
+year={2019}   
 }
 ```
