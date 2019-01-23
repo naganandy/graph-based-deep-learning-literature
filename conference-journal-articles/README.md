@@ -1,6 +1,4 @@
 # [deadlines](https://aideadlin.es/)
-
-# conferences
 - ICML 2019 (June, decisions late Apr)
 - CVPR 2019 (June, decisions early Mar)
 - NAACL 2019 (June, decisions late Feb)
