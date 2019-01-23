@@ -31,7 +31,7 @@
 
 
 # AISTATS 2019 (Apr)
-- Confidence-based Graph Convolutional Networks for Semi-Supervised Learning
+- [Confidence-based Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/confgcn_aistats19/README.md)
 - Lovász Convolutional Networks
 - Amortized Variational Inference with Graph Convolutional Networks for Gaussian Processes
 
