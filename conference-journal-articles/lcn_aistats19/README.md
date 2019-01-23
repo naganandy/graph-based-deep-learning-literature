@@ -1,8 +1,8 @@
 # Lovasz Convolutional Networks
 
 ```
-@inproceedings{confgcn_aistats19,    
-title={Confidence-based Graph Convolutional Networks for Semi-Supervised Learning},    
+@inproceedings{lcn_aistats19,    
+title={Lovasz Convolutional Networks},    
 author={Prateek Yadav and
         Madhav R Nimishakavi and
         Naganand Yadati and
