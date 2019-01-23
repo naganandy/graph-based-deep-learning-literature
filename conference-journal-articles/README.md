@@ -68,7 +68,7 @@
 
 [accepted_papers](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 
-# NIPS 2018 (Dec)
+# NeurIPS 2018 (Dec)
 - [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/seal_nips18/README.md)
 - [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gtsgcn_nips18/README.md)
 - [Adaptive Sampling Towards Fast Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/asgcn_nips18/README.md)
