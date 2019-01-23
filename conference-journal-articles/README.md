@@ -25,12 +25,15 @@
 - [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/han_iclr19/README.md)
 - [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/nge_iclr19/README.md)
 - [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/sns_iclr19/README.md)
+[accepted_papers](https://openreview.net/group?id=ICLR.cc/2019/Conference)
+
 
 
 # AISTATS 2019 (Apr)
 - Confidence-based Graph Convolutional Networks for Semi-Supervised Learning
 - Lovász Convolutional Networks
 - Amortized Variational Inference with Graph Convolutional Networks for Gaussian Processes
+[accepted_papers](https://www.aistats.org/accepted.html)
 
 
 # AAAI 2019 (Feb)
