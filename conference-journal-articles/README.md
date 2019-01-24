@@ -2,8 +2,9 @@
 - ICML 2019 (June, decisions late Apr)
 - CVPR 2019 (June, decisions early Mar)
 - NAACL 2019 (June, decisions late Feb)
-- WWW 2019 (May, decisions late Jan)
 
+# WWW 2019 (May)
+- [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gpool_www19/README.md)
 
 # ICLR 2019 (May)
 - [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gin_iclr19/README.md)
