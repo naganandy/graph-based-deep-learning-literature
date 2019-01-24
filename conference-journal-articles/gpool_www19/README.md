@@ -7,7 +7,7 @@
               Shuiwang Ji},
   title     = {Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations},
   booktitle = {Proceedings of the 2019 World Wide Web Conference (WWW)},
-  year      = {2018}
+  year      = {2019}
 }
 ```
 
