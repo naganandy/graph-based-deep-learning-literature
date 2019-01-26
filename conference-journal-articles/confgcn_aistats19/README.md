@@ -14,3 +14,4 @@ year={2019}
 
 links
 - [arXiv](https://arxiv.org/abs/1901.08255)
+- [code](https://github.com/malllabiisc/ConfGCN)
