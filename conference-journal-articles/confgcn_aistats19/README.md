@@ -13,4 +13,4 @@ year={2019}
 ```
 
 links
--[arXiv](https://arxiv.org/abs/1901.08255)
+- [arXiv](https://arxiv.org/abs/1901.08255)
