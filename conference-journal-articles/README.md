@@ -3,7 +3,7 @@
 - CVPR 2019 (June, decisions early Mar)
 - NAACL 2019 (June, decisions late Feb)
 
-# WWW 2019 (May)
+# The Web Conference 2019 (May)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gpool_www19/README.md)
 - Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System
 - Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks
