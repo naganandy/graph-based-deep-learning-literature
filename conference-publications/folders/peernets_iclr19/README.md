@@ -11,4 +11,7 @@ url={https://openreview.net/forum?id=Sk4jFoA9K7},
 ```
 
 links
+- [arXiv](https://arxiv.org/abs/1806.00088)
 - [openreview](https://openreview.net/forum?id=Sk4jFoA9K7)
+- [video](https://www.youtube.com/watch?v=VQsG_Yk9KuQ)
+- [code](https://github.com/tantara/PeerNets-pytorch)
