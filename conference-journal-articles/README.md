@@ -5,16 +5,16 @@
 
 # The Web Conference 2019 (May)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gpool_www19/README.md)
+- Heterogeneous Graph Attention Network
+- Knowledge Graph Convolutional Networks for Recommender Systems
+- Graph Neural Networks for Social Recommendation
+- ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs
+- Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 - Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System
 - Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks
 - Semi-Supervised Graph Classification: A Hierarchical Graph Perspective
-- Graph Neural Networks for Social Recommendation
-- Heterogeneous Graph Attention Network
-- ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs
 - Generative Graph Models based on Laplacian Spectra
 - DDGK: Learning Graph Representations via Deep Divergence Graph Kernels
-- Knowledge Graph Convolutional Networks for Recommender Systems
-- Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 - Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network
 
 [accepted_papers](https://www2019.thewebconf.org/accepted-papers)
