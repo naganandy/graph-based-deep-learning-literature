@@ -4,7 +4,6 @@
 - CVPR 2019 (Jun, decisions early Mar)
 - NAACL 2019 (Jun, decisions late Feb)
 
-
 # WWW 2019 (May)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gpool_www19/README.md)
 - Heterogeneous Graph Attention Network
