@@ -265,7 +265,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 - [Graph-Structured Representations for Visual Question Answering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/graph_vqa_cvpr17/README.md)
 
 # ICLR 2017
-- [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17.md)
+- [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17/README.md)
 
 # AAAI 2017
 - [Transfer Learning for Deep Learning on Graph-Structured Data](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/transfer_gcn_aaai17/README.md)
