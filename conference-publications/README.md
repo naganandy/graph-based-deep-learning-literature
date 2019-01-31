@@ -272,7 +272,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 - [Transfer Learning for Deep Learning on Graph-Structured Data](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/transfer_gcn_aaai17/README.md)
 
 # NIPS 2016
-- [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gcn_nips16.md)
+- [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chebnet_nips16/README.md)
 - [Diffusion-Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/dcnn_nips16/README.md)
 - [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/commnet_nips16/README.md)
 
