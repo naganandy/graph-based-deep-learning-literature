@@ -277,7 +277,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 - [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/commnet_nips16/README.md)
 
 # ICLR 2016
-- [Gated Graph Sequence Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/ggnn_iclr16.md)
+- [Gated Graph Sequence Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ggnn_iclr16/README.md)
 
 # ICML 2016
 - [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gcn_icml16/README.md)
