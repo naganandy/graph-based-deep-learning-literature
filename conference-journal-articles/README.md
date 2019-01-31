@@ -3,7 +3,7 @@
 - CVPR 2019 (June, decisions early Mar)
 - NAACL 2019 (June, decisions late Feb)
 
-# The Web Conference 2019 (May)
+# WWW 2019 (May)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-journal-articles/gpool_www19/README.md)
 - Heterogeneous Graph Attention Network
 - Knowledge Graph Convolutional Networks for Recommender Systems
@@ -218,7 +218,7 @@
 # ESWC 2018
 - [Modeling Relational Data with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/rgcn_eswc18/README.md)
 
-# TheWebConf 2018 (April)
+# WWW 2018 (April)
 - [Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/dual_gcn_www18/README.md)
 - [Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-journal-articles/gcn_text_www18/README.md)
 
