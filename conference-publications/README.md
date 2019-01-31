@@ -156,7 +156,7 @@
 
 [accepted_papers](http://www.kdd.org/kdd2018/accepted-papers)
 
-# ICML 2018 (July)
+# ICML 2018 (Jul)
 -  [Representation Learning on Graphs with Jumping Knowledge Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/jk_net_icml18/README.md)
 -  [Stochastic Training of Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cv_icml18/README.md)
 -  [Learning Steady-States of Iterative Algorithms over Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sse_icml18/README.md)
@@ -169,7 +169,7 @@
  [accepted_papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
  
 
-# IJCAI 2018 (July)
+# IJCAI 2018 (Jul)
 - [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ccm_ijcai18/README.md)
 - [Deep Reasoning with Knowledge Graph for Social Relationship Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgsru_ijcai18/README.md)
 - [Knowledge-Embedded Representation Learning for Fine-Grained Image Recognition](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/kerl_ijcai18/README.md)
@@ -180,7 +180,7 @@
 
  [accepted_papers](http://www.ijcai-18.org/accepted-papers/)
  
-# ACL 2018 (July)
+# ACL 2018 (Jul)
 - [Dating Documents using Graph Convolution Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neuraldater_acl18/README.md)
 - [Semi-supervised User Geolocation via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geographconv_acl18/README.md)
 - [Graph-to-Sequence Learning using Gated Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graph2seq_acl18/README.md)
@@ -189,7 +189,7 @@
 
  [accepted_papers](http://acl2018.org/conference/accepted-papers/)
 
-# CVPR 2018 (June)
+# CVPR 2018 (Jun)
  - [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/zero_shot_gcn_cvpr18/README.md)
  - [Multi-Label Zero-Shot Learning with Structured Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mlzsl_cvpr18/README.md)
  - [Zero-Shot Sketch-Image Hashing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/zsih_cvpr18/README.md)
@@ -199,7 +199,7 @@
  
  [accepted_papers](http://openaccess.thecvf.com/CVPR2018.py)
 
-# NAACL 2018 (June)
+# NAACL 2018 (Jun)
 - [Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/semantic_gcn_naacl18/README.md)
 
 [accepted_papers](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/)
