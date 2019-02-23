@@ -4,6 +4,10 @@
 - CVPR 2019 (Jun, decisions early Mar)
 - NAACL 2019 (Jun, decisions late Feb)
 
+# NAACL 2019 (Jun)
+- GraphIE: A Graph-Based Framework for Information Extraction
+
+
 # WWW 2019 (May)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpool_www19/README.md)
 - Heterogeneous Graph Attention Network
