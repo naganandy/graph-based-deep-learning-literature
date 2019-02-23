@@ -2,10 +2,12 @@
 - KDD 2019 (Aug, decisions late Apr)
 - ICML 2019 (Jun, decisions late Apr)
 - CVPR 2019 (Jun, decisions early Mar)
-- NAACL 2019 (Jun, decisions late Feb)
+
+
 
 # NAACL 2019 (Jun)
 - GraphIE: A Graph-Based Framework for Information Extraction
+
 
 
 # WWW 2019 (May)
