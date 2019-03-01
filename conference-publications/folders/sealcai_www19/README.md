@@ -1,4 +1,4 @@
-# Semi-Supervised Graph Classification: A Hierarchical GraphPerspective
+# Semi-Supervised Graph Classification: A Hierarchical Graph Perspective
 
 ```
 @inproceedings{sealcai_www19,
