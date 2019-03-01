@@ -1,8 +1,4 @@
-# [deadlines](https://aideadlin.es/)
-
-## -----------------------------------------------------------------------------
-
-# upcoming conferences
+# [upcoming conferences](https://aideadlin.es/)
 
 - IJCAI 2019 (Aug, decisions mid May)
 - KDD 2019 (Aug, decisions late Apr)
