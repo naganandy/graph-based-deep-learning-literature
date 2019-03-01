@@ -1,7 +1,7 @@
 # Question Answering by Reasoning Across Documents with Graph Convolutional Networks
 
 ```
-@inproceedings{entitygcn_www19,
+@inproceedings{entitygcn_naacl19,
   author =  {Nicola De Cao and
             Wilker Aziz and
             Ivan Titov},
