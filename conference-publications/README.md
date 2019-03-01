@@ -19,12 +19,12 @@
 # WWW 2019 (May)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpool_www19/README.md)
 - [Heterogeneous Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/han_www19/README.md)
+- [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sealcai_www19/README.md)
 - [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrec_www19/README.md)
 - Knowledge Graph Convolutional Networks for Recommender Systems
 - ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs
 - Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 - Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System
-- Semi-Supervised Graph Classification: A Hierarchical Graph Perspective
 - Generative Graph Models based on Laplacian Spectra
 - DDGK: Learning Graph Representations via Deep Divergence Graph Kernels
 - Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks
