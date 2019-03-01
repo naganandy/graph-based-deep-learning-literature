@@ -1,7 +1,7 @@
 # Semi-Supervised Graph Classification: A Hierarchical GraphPerspective
 
 ```
-@inproceedings{graphrec_www19,
+@inproceedings{sealcai_www19,
   author    = {Jia Li and
               Yu Rong and
               Hong Cheng and
