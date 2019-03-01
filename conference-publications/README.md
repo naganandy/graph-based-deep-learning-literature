@@ -19,6 +19,7 @@
 - Abusive Language Detection with Graph Convolutional Networks
 - Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
 - Graph Convolution for Multimodal Information Extraction from Visually Rich Documents
+
 [accepted_papers](https://naacl2019.org/program/accepted/)
 
 
