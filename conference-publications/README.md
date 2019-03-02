@@ -7,6 +7,7 @@
 ## -----------------------------------------------------------------------------
 
 # CVPR 2019 (Jun)
+- [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition
 
 ## -----------------------------------------------------------------------------
