@@ -1,10 +1,7 @@
-# graph-based-deep-learning-literature
+# [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
 
-The repository contains links to conference publications in graph-based deep learning, a term for emerging techniques attempting to generalise (structured) deep neural models to non-Euclidean domains (such as graphs)
+The repository contains links to conference publications in graph-based deep learning from the following conferences:
 
-# [conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
-
-conferences covered
 - Machine learning
    * [NeurIPS](https://nips.cc/) 
    * [ICML](https://icml.cc/) 
