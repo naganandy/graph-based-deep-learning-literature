@@ -1,6 +1,8 @@
 # [conferences](https://aideadlin.es/)
 
 - IJCAI 2019 (Aug, decisions mid May)
+- ACL 2019 (July, decisions mid May)
+- UAI 2019 (July, decisions mid May)
 - KDD 2019 (Aug, decisions late Apr)
 - ICML 2019 (Jun, decisions late Apr)
 
