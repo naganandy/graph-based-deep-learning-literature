@@ -122,9 +122,9 @@
 - [Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ootbfvqa_nips18/README.md)
 - [Beyond Grids: Learning Graph Representations for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcu_nips18/README.md)
 - [Diffusion Maps for Textual Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dmte_nips18/README.md)
-- [Recurrent Relational Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rrn_nips18/README.md)
 - [Bayesian Semi-supervised Learning with Graph Gaussian Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bggp_nips18/README.md)
 - [Structure-Aware Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sacnn_nips18/README.md)
+- [Recurrent Relational Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rrn_nips18/README.md)
 - [Learning to Multitask](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/l2mt_nips18/README.md)
 
 [accepted_papers](https://nips.cc/Conferences/2018/Schedule)
