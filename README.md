@@ -21,7 +21,7 @@ conferences covered
    * [AAAI](https://www.aaai.org/)
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
-- Data and knowledge
+- Data
    * [ICDM](http://icdm2018.org/)
    * [KDD](https://www.kdd.org/)
    * [CIKM](https://www.cikm2018.units.it/)
