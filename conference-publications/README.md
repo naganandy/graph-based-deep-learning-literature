@@ -2,7 +2,7 @@
 
 - ACL 2019 (Jul, decisions mid May)
 - UAI 2019 (Jul, decisions mid May)
-- IJCAI 2019 (Aug, decisions early May)
+- IJCAI 2019 (Aug, decisions mid May)
 - KDD 2019 (Aug, decisions late Apr)
 - ICML 2019 (Jun, decisions late Apr)
 
