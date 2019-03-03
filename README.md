@@ -5,11 +5,25 @@ The repository contains links to conference publications in graph-based deep lea
 # [conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
 
 conferences covered
-- Machine learning: 
+- Machine learning
    * [NeurIPS](https://nips.cc/) 
    * [ICML](https://icml.cc/) 
    * [ICLR](https://iclr.cc/)
-- Computer vision: [CVPR](http://cvpr2019.thecvf.com/), [ICCV](http://iccv2019.thecvf.com/), [ECCV](https://eccv2018.org/)
-- Natural language processing: [ACL](http://www.acl2019.org/EN/index.xhtml), [EMNLP](https://www.emnlp-ijcnlp2019.org/), [NAACL](https://naacl2019.org/)
+- Computer vision
+   * [CVPR](http://cvpr2019.thecvf.com/)
+   * [ICCV](http://iccv2019.thecvf.com/)
+   * [ECCV](https://eccv2018.org/)
+- Natural language processing
+   * [ACL](http://www.acl2019.org/EN/index.xhtml)
+   * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
+   * [NAACL](https://naacl2019.org/)
+- Artificial intelligence
+   * [AAAI](https://www.aaai.org/)
+   * [IJCAI](https://www.ijcai.org/)
+   * [UAI](http://www.auai.org/)
+- Data and knowledge
+   * [ICDM](http://icdm2018.org/)
+   * [KDD](https://www.kdd.org/)
+   * [CIKM](https://www.cikm2018.units.it/)
 
 
