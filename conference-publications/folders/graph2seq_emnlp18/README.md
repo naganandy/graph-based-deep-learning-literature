@@ -17,4 +17,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1808.07624)
+- [aclanthology](https://aclanthology.info/papers/D18-1110/d18-1110)
 - [video](https://vimeo.com/305213182)
