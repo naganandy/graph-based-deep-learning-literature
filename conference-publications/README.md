@@ -17,8 +17,8 @@
 # NAACL 2019 (Jun)
 - [GraphIE: A Graph-Based Framework for Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphie_naacl19/README.md)
 - [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/entitygcn_naacl19/README.md)
+- [Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/katt_naacl19/README.md)
 - Text Generation from Knowledge Graphs with Graph Transformers
-- Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks
 - BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering
 - Abusive Language Detection with Graph Convolutional Networks
 - Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning
