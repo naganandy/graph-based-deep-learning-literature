@@ -15,9 +15,9 @@
 ## -----------------------------------------------------------------------------
 
 # NAACL 2019 (Jun)
-- [GraphIE: A Graph-Based Framework for Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphie_naacl19/README.md)
-- [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/entitygcn_naacl19/README.md)
 - [Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/katt_naacl19/README.md)
+- [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/entitygcn_naacl19/README.md)
+- [GraphIE: A Graph-Based Framework for Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphie_naacl19/README.md)
 - Text Generation from Knowledge Graphs with Graph Transformers
 - BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering
 - Abusive Language Detection with Graph Convolutional Networks
@@ -29,9 +29,9 @@
 ## -----------------------------------------------------------------------------
 
 # WWW 2019 (May)
-- [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpool_www19/README.md)
 - [Heterogeneous Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/han_www19/README.md)
 - [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sealcai_www19/README.md)
+- [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpool_www19/README.md)
 - [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrec_www19/README.md)
 - Knowledge Graph Convolutional Networks for Recommender Systems
 - ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs
