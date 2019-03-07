@@ -19,8 +19,8 @@ The repository contains links to conference publications in graph-based deep lea
    * [IJCAI](https://www.ijcai.org/)
    * [UAI](http://www.auai.org/)
 - Data
-   * [ICDM](http://icdm2019.bigke.org/)
    * [KDD](https://www.kdd.org/)
+   * [ICDM](http://icdm2019.bigke.org/)
    * [CIKM](http://www.cikm2019.net/)
 
 
