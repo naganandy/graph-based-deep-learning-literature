@@ -21,6 +21,6 @@ The repository contains links to conference publications in graph-based deep lea
 - Data
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
-   * [CIKM](http://www.cikm2019.net/)
+   * [WWW](https://www2019.thewebconf.org/)
 
 
