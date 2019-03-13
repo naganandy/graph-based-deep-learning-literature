@@ -14,13 +14,13 @@ The repository contains links to conference publications in graph-based deep lea
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
    * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
    * [NAACL](https://naacl2019.org/)
-- Artificial intelligence
-   * [AAAI](https://www.aaai.org/)
-   * [IJCAI](https://www.ijcai.org/)
-   * [UAI](http://www.auai.org/)
 - Data
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
    * [WWW](https://www2019.thewebconf.org/)
+- Artificial intelligence
+   * [AAAI](https://www.aaai.org/)
+   * [IJCAI](https://www.ijcai.org/)
+   * [UAI](http://www.auai.org/)
 
 
