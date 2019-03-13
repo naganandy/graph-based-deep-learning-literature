@@ -11,8 +11,8 @@
 # CVPR 2019 (Jun)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
-- An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition
 - Multi-label Image Recognition with Graph Convolutional Network 
+- An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition
 
 ## -----------------------------------------------------------------------------
 
