@@ -16,4 +16,4 @@
 ```
 
 links
-- [preprint](http://pengcui.thumedialab.com/papers/HeterogeneousGAN.pdf)
+- [arXiv](https://arxiv.org/abs/1903.07293)
