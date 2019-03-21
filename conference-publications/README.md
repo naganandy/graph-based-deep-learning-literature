@@ -253,6 +253,7 @@
  - [Image Generation from Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/imsg_cvpr18/README.md)
  - [SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/splinecnn_cvpr18/README.md)
  - [Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dggn_cvpr18/README.md)
+ - [Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/polyrnnpp_cvpr18/README.md)
  
  [accepted_papers](http://openaccess.thecvf.com/CVPR2018.py)
  
