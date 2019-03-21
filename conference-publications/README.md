@@ -40,12 +40,12 @@
 - [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrec_www19/README.md)
 - [Knowledge Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_www19/README.md)
 - [Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/splitter_www19)
+- [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngnn_www19/README.md)
 - ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs
 - Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 - Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System
 - Generative Graph Models based on Laplacian Spectra
 - DDGK: Learning Graph Representations via Deep Divergence Graph Kernels
-- Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks
 - Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network
 
 [accepted_papers](https://www2019.thewebconf.org/accepted-papers)
