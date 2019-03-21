@@ -98,7 +98,7 @@
 - [Designing Deep Generative Models for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nevae_aaai19/README.md)
 - Deep Bayesian Optimization on Attributed Graphs
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
-- Markov  Random  Field  meets  Graph  Convolutional  Network:  End to End  Learning  for Semi Supervised  Community  Detection
+- [Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attributed Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrfasgcn_aaai19/README.md)
 - Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
 - [Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/textgcn_aaai19/README.md)
 - [Neural Relation Extraction Within and Across Sentence Boundaries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/idepnn_aaai19/README.md)
