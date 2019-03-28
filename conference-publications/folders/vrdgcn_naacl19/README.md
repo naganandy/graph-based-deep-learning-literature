@@ -6,7 +6,7 @@
             Feiyu Gao and
             Qiong Zhang and
             Huasha Zhao},
-  title =   {Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning},
+  title =   {Graph Convolution for Multimodal Information Extraction from Visually Rich Documents},
   booktitle =   {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
   year =  {2019}
 }
