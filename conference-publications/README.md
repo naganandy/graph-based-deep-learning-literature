@@ -27,9 +27,9 @@
 - [Text Generation from Knowledge Graphs with Graph Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphwriter_naacl19/README.md)
 - [GraphIE: A Graph-Based Framework for Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphie_naacl19/README.md)
 - [Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgdqn_naacl19/README.md)
+- [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vrdgcn_naacl19/README.md)
 - BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering
 - Abusive Language Detection with Graph Convolutional Networks
-- [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vrdgcn_naacl19/README.md)
 
 [accepted_papers](https://naacl2019.org/program/accepted/)
 
