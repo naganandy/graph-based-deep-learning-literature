@@ -11,4 +11,4 @@ year={2019}
 
 links
 - [openreview](https://openreview.net/forum?id=H1ewdiR5tQ)
-- [code](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
+- [implementation](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
