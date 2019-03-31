@@ -8,8 +8,8 @@
               Bai Wang and
               Yanfang Ye and
               Peng Cui and
-              Philip S. Yu},
-  title     = {Graph Neural Networks for Social Recommendation},
+              Yanfang Ye},
+  title     = {Heterogeneous Graph Attention Network},
   booktitle = {Proceedings of the 2019 World Wide Web Conference (WWW)},
   year      = {2019}
 }
