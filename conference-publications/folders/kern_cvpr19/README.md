@@ -3,7 +3,7 @@
 ```
 @inproceedings{kern_cvpr19,
   author    = {Tianshui Chen and
-	             Weihao Yu and
+	       Weihao Yu and
                Riquan Chen and
                Liang Lin },
   title     = {Knowledge-Embedded Routing Network for Scene Graph Generation},
