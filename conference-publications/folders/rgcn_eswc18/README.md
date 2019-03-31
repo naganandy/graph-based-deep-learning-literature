@@ -19,3 +19,4 @@ links
 - [arXiv](https://arxiv.org/abs/1703.06103)
 - [code](https://github.com/tkipf/relational-gcn)
 - [code_link_prediction](https://github.com/MichSchli/RelationPrediction)
+- [video](http://videolectures.net/eswc2018_kipf_convolutional_networks/)
