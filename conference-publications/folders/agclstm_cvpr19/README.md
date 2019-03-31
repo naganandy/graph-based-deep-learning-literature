@@ -3,7 +3,7 @@
 ```
 @inproceedings{agclstm_cvpr19,
   author    = {Chenyang Si and
-	             Wentao Chen and
+	       Wentao Chen and
                Wei Wang and
                Liang Wang and
                Tieniu Tan},
