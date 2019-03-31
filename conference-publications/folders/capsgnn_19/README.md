@@ -11,3 +11,4 @@ year={2019}
 
 links
 - [openreview](https://openreview.net/forum?id=Byl8BnRcYm)
+- [implementation](https://github.com/benedekrozemberczki/CapsGNN)
