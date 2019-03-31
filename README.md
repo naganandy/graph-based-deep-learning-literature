@@ -24,3 +24,7 @@ The repository contains links to conference publications in graph-based deep lea
    * [UAI](http://www.auai.org/)
 
 
+
+
+Workshops
+- [NeurIPS 2018](https://r2learning.github.io/)
