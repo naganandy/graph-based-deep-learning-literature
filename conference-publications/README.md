@@ -208,6 +208,7 @@
 - [DeepInf: Modeling Influence Locality in Large Social Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/deepinf_kdd18/README.md)
 - [Adversarial Attacks on Neural Networks for Graph Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nettack_kdd18/README.md)
 - [Deep Variational Network Embedding in Wasserstein Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvne_kdd18/README.md)
+- [Graph Classification using Structural Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gam_kdd18/README.md)
 
 [accepted_papers](http://www.kdd.org/kdd2018/accepted-papers)
 
