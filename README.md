@@ -12,8 +12,8 @@ The repository contains links to conference publications in graph-based deep lea
    * [ECCV](https://eccv2018.org/)
 - Natural language processing
    * [ACL](http://www.acl2019.org/EN/index.xhtml)
-   * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
    * [NAACL](https://naacl2019.org/)
+   * [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
 - Data
    * [KDD](https://www.kdd.org/)
    * [ICDM](http://icdm2019.bigke.org/)
