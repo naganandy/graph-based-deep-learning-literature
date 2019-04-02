@@ -26,5 +26,5 @@ The repository contains links to conference publications in graph-based deep lea
 
 
 
-Workshops
+Graph reprsentation learning workshops
 - [NeurIPS 2018](https://r2learning.github.io/)
