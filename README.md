@@ -24,7 +24,6 @@ The repository contains links to conference publications in graph-based deep lea
    * [UAI](http://www.auai.org/)
 
 <br> </br>
-<br></br>
 
 Graph reprsentation learning workshops
 - [ICML 2019](https://graphreason.github.io/)
