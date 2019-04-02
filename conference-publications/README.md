@@ -96,9 +96,9 @@
 - [Deep Bayesian Optimization on Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgbo_aaai19/README.md)
 - Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
 
-<h1> <details>
- <summary>  more  </summary> <br>
-</h1>
+<details> 
+ <h1>  <summary>  more  </summary> <br> </h1>
+
  
 - [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gic_aaai19/README.md)
 - [Designing Deep Generative Models for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nevae_aaai19/README.md)
