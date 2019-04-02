@@ -261,7 +261,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# ESWC 2018
+# [ESWC 2018](https://2018.eswc-conferences.org/program/accepted-papers/)
 - [Modeling Relational Data with Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/rgcn_eswc18/README.md)
 
 ## -----------------------------------------------------------------------------
