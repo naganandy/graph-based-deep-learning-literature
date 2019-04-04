@@ -16,6 +16,7 @@
 - [Linkage Based Face Clustering via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lfcgcn_cvpr19/README.md)
 - [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/curvegcn_cvpr19/README.md)
 - [Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ntg_cvpr19/README.md)
+- [Learning Context Graph for Person Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/reidgcn_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgcn_cvpr19/README.md)
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
 - Multi-label Image Recognition with Graph Convolutional Network 
