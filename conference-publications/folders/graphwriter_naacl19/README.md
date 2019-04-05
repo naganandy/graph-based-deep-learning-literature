@@ -15,4 +15,5 @@
 ```
 
 links
+- [arXiv](https://arxiv.org/abs/1904.02342)
 - [video](https://www.youtube.com/watch?v=BiRyvB2NmCM)
