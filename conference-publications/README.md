@@ -31,8 +31,8 @@
 - [Structural Neural Encoders for AMR-to-text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/amrgcn_naacl19/README.md)
 - [Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgdqn_naacl19/README.md)
 - [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vrdgcn_naacl19/README.md)
-- BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering
 - [Abusive Language Detection with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aldgcn_naacl19/README.mdk)
+- BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering
 
 ## -----------------------------------------------------------------------------
 
