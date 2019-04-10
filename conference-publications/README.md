@@ -22,7 +22,6 @@
  
  - [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/semgcn_cvpr19/README.md)
 - [Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ntg_cvpr19/README.md)
-
 - [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphonomy_cvpr19/README.md)
 - [Learning Context Graph for Person Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/reidgcn_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgcn_cvpr19/README.md)
