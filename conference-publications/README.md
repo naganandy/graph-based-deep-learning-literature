@@ -28,14 +28,14 @@
 
 # [NAACL 2019 (Jun)](https://naacl2019.org/program/accepted/)
 - [Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/katt_naacl19/README.md)
-- [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/entitygcn_naacl19/README.md)
 - [Text Generation from Knowledge Graphs with Graph Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphwriter_naacl19/README.md)
+- [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/entitygcn_naacl19/README.md)
+- [BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bag_naacl19/README.md)
 - [GraphIE: A Graph-Based Framework for Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphie_naacl19/README.md)
 - [Structural Neural Encoders for AMR-to-text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/amrgcn_naacl19/README.md)
 - [Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgdqn_naacl19/README.md)
 - [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vrdgcn_naacl19/README.md)
 - [Abusive Language Detection with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aldgcn_naacl19/README.mdk)
-- BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering
 
 ## -----------------------------------------------------------------------------
 
