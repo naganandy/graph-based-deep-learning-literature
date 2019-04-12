@@ -36,7 +36,7 @@
 - [Graph Convolution for Multimodal Information Extraction from Visually Rich Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vrdgcn_naacl19/README.md)
 - [Structural Neural Encoders for AMR-to-text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/amrgcn_naacl19/README.md)
 - [Playing Text-Adventure Games with Graph-Based Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgdqn_naacl19/README.md)
-- [Abusive Language Detection with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aldgcn_naacl19/README.mdk)
+- [Abusive Language Detection with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aldgcn_naacl19/README.md)
 
 ## -----------------------------------------------------------------------------
 
