@@ -1,7 +1,7 @@
 # Factor Graph Attention
 
 ```
-@inproceedings{mlgcn_cvpr19,
+@inproceedings{fga_cvpr19,
   author    = {Idan Schwartz and
                Seunghak Yu and
                Tamir Hazan and
