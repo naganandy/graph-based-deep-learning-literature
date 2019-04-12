@@ -1,7 +1,7 @@
 # Learning Context Graph for Person Search
 
 ```
-@inproceedings{kern_cvpr19,
+@inproceedings{reidgcn_cvpr19,
   author    = {Yichao Yan and
               Qiang Zhang and
               Bingbing Ni1 and
