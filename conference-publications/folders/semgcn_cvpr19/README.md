@@ -1,7 +1,7 @@
 # Semantic Graph Convolutional Networks for 3D Human Pose Regression
 
 ```
-@inproceedings{mlgcn_cvpr19,
+@inproceedings{semgcn_cvpr19,
   author    = {Long Zhao and
                Xi Peng and
                Yu Tian and
