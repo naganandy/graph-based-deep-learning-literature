@@ -1,7 +1,7 @@
 # Graphonomy: Universal Human Parsing via Graph Transfer Learning
 
 ```
-@inproceedings{mlgcn_cvpr19,
+@inproceedings{graphonomy_cvpr19,
   author    = {Ke Gong and
                Yiming Gao and
                Xiaodan Liang and
