@@ -2,7 +2,7 @@
 
 
 ```
-@inproceedings{katt_naacl19,
+@inproceedings{aldgcn_naacl19,
   author =  {Pushkar Mishra and
             Marco Del Tredici and
             Helen Yannakoudakis and
