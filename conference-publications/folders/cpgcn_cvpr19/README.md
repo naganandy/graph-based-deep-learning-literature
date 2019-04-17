@@ -3,7 +3,7 @@
 ```
 @inproceedings{cpgcn_cvpr19,
   author    = {Guillem Cucurull and
-	             Perouz Taslakian and
+	       Perouz Taslakian and
                David Vazquez},
   title     = {Context-Aware Visual Compatibility Prediction},
   booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
