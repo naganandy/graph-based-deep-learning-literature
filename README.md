@@ -26,6 +26,7 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
 
 Graph reprsentation learning workshops:
+- [KDD 2019](https://dlg2019.bitbucket.io/)
 - [ICML 2019](https://graphreason.github.io/)
 - [ICLR 2019](https://rlgm.github.io/)
 - [NeurIPS 2018](https://r2learning.github.io/)
