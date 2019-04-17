@@ -34,6 +34,7 @@
 - Edge-Labeling Graph Neural Network for Few-shot Learning
 - Generating Classification Weights with Graph Neural Networks for Few-Shot Learning
 - GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
+- Graph Convolutional Tracking
 - Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Skeleton-Based Action Recognition with Directed Graph Neural Networks
 
