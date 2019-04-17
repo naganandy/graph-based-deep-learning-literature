@@ -9,7 +9,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# CVPR 2019 (Jun)
+# [CVPR 2019 (Jun)](https://docs.google.com/spreadsheets/u/1/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#)
 - [Multi-label Image Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mlgcn_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
