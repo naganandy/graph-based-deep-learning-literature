@@ -3,7 +3,7 @@
 ```
 @inproceedings{curvegcn_cvpr19,
   author    = {Huan Ling and
-	             Jun Gao and
+	       Jun Gao and
                Amlan Kar and
                Wenzheng Chen and
                Sanja Fidler},
