@@ -15,6 +15,7 @@
 - Rethinking Knowledge Graph Propagation for Zero-Shot Learning
 - Label Efficient Semi-Supervised Learning via Graph Filtering
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
+- Exploiting Edge Features in Graph Neural Networks
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
 - Auto-Encoding Scene Graphs for Image Captioning
 - Learning to Cluster Faces on an Affinity Graph
