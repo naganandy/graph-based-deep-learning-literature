@@ -3,7 +3,7 @@
 ```
 @inproceedings{ntg_cvpr19,
   author    = {De-An Huang and
-	             Suraj Nair and
+	       Suraj Nair and
                Danfei Xu and
                Yuke Zhu and
                Animesh Garg and
