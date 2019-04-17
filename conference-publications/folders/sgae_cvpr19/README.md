@@ -3,7 +3,7 @@
 ```
 @inproceedings{adgcn_cvpr19,
   author    = {Xu Yang and
-	             Kaihua Tang and
+	       Kaihua Tang and
                THanwang Zhang and
                Jianfei Cai},
   title     = {Auto-Encoding Scene Graphs for Image Captioning},
