@@ -11,8 +11,11 @@
 
 # [CVPR 2019 (Jun)](https://docs.google.com/spreadsheets/u/1/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#)
 - [Multi-label Image Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mlgcn_cvpr19/README.md)
+- Semi-supervised Learning with Graph Learning-Convolutional Networks
+- Rethinking Knowledge Graph Propagation for Zero-Shot Learning
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
+- Learning to Cluster Faces on an Affinity Graph
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
 - [Linkage Based Face Clustering via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lfcgcn_cvpr19/README.md)
@@ -25,6 +28,7 @@
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
 - Edge-Labeling Graph Neural Network for Few-shot Learning
 - Generating Classification Weights with Graph Neural Networks for Few-Shot Learning
+- Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 
 
 
