@@ -21,6 +21,14 @@
 - [Learning to Cluster Faces on an Affinity Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnds_cvpr19/README.md)
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
+- Edge-Labeling Graph Neural Network for Few-shot Learning
+- Generating Classification Weights with Graph Neural Networks for Few-Shot Learning
+- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
+- Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks
+
+<details> 
+<summary> more </summary> 
+ 
 - [Linkage Based Face Clustering via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lfcgcn_cvpr19/README.md)
 - [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/curvegcn_cvpr19/README.md) 
  - [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/semgcn_cvpr19/README.md)
@@ -31,15 +39,13 @@
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgcn_cvpr19/README.md)
 - [Graph Attention Convolution for Point Cloud Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gacnet_cvpr19/README.md)
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
-- Edge-Labeling Graph Neural Network for Few-shot Learning
-- Generating Classification Weights with Graph Neural Networks for Few-Shot Learning
-- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
-- Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks
 - Explainability Methods for Graph Convolutional Neural Networks
 - Graph Convolutional Tracking
 - Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Skeleton-Based Action Recognition with Directed Graph Neural Networks
 - Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition
+
+</details>
 
 
 
