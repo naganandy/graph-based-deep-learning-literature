@@ -33,6 +33,7 @@
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
 - Edge-Labeling Graph Neural Network for Few-shot Learning
 - Generating Classification Weights with Graph Neural Networks for Few-Shot Learning
+- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
 - Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 
 
