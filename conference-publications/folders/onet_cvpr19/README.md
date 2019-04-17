@@ -1,7 +1,7 @@
 # Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks
 
 ```
-@inproceedings{mlgcn_cvpr19,
+@inproceedings{onet_cvpr19,
   author    = {N. Dinesh Reddy and
                Minh Vo and
                Srinivasa G. Narasimhan},
