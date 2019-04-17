@@ -13,7 +13,7 @@
 - [Multi-label Image Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mlgcn_cvpr19/README.md)
 - [Semi-supervised Learning with Graph Learning-Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glcn_cvpr19/README.md)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgp_cvpr19/README.md)
-- Label Efficient Semi-Supervised Learning via Graph Filtering
+- [Label Efficient Semi-Supervised Learning via Graph Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igcn_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
 - Exploiting Edge Features in Graph Neural Networks
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
