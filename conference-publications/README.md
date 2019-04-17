@@ -27,7 +27,7 @@
 - [Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ntg_cvpr19/README.md)
 - [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphonomy_cvpr19/README.md)
 - [Learning Context Graph for Person Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/reidgcn_cvpr19/README.md)
-- [Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks](Label Efficient Semi-Supervised Learning via Graph Filtering)
+- [Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/onet_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgcn_cvpr19/README.md)
 - [Graph Attention Convolution for Point Cloud Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gacnet_cvpr19/README.md)
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
