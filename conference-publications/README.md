@@ -37,6 +37,7 @@
 - [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphonomy_cvpr19/README.md)
 - [Learning Context Graph for Person Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/reidgcn_cvpr19/README.md)
 - [Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/onet_cvpr19/README.md)
+- [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/man_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgcn_cvpr19/README.md)
 - [Graph Attention Convolution for Point Cloud Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gacnet_cvpr19/README.md)
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
