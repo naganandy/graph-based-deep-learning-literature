@@ -5,7 +5,8 @@
   author    = {Bo Jiang and
                Ziyan Zhang and
                Doudou Lin and
-               Jin Tang},
+               Jin Tang and
+               Bin Luo},
   title     = {Semi-supervised Learning with Graph Learning-Convolutional Networks},
   booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2019}
