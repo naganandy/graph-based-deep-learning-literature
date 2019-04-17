@@ -37,6 +37,7 @@
 - Graph Convolutional Tracking
 - Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Skeleton-Based Action Recognition with Directed Graph Neural Networks
+- Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition
 
 
 
