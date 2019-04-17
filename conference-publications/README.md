@@ -29,6 +29,7 @@
 <details> 
 <summary> more </summary> 
  
+ - [Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgran_cvpr19/README.md)
 - [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814)
 - [Linkage Based Face Clustering via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lfcgcn_cvpr19/README.md)
 - [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/curvegcn_cvpr19/README.md) 
