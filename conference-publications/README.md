@@ -18,7 +18,7 @@
 - [Exploiting Edge Features in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egnn_cvpr19/README.md)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
 - [Auto-Encoding Scene Graphs for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgae_cvpr19/README.md)
-- Learning to Cluster Faces on an Affinity Graph
+- [Learning to Cluster Faces on an Affinity Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnds_cvpr19/README.md)
 - Explainability Methods for Graph Convolutional Neural Networks
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
