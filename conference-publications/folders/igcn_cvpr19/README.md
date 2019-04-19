@@ -7,7 +7,7 @@
                Han Liu and
                Xiaotong Zhang  and
                Zhichao GUAN},
-  title     = {Rethinking Knowledge Graph Propagation for Zero-Shot Learning},
+  title     = {Label Efficient Semi-Supervised Learning via Graph Filtering},
   booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2019}
 }
