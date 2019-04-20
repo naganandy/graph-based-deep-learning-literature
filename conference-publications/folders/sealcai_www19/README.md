@@ -15,4 +15,4 @@
 ```
 
 links
-- [researchgate](https://www.researchgate.net/publication/331166210_Semi-Supervised_Graph_Classification_A_Hierarchical_Graph_Perspective_ACM_Reference_Format)
+- [arXiv](https://arxiv.org/abs/1904.05003)
