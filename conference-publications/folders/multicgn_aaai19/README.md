@@ -2,10 +2,10 @@
 
 ```
 @inproceedings{multigcn_aaai19,
-  author    = {Muhammad  R  Khan and
-               Joshua    Blumenstock},
-  title     = {Multi-CGN: Graph Convolutional Networks for Multi‐View Networks, with Applications to Global Poverty},
-  booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  author    = {Muhammed R Khan
+               Joshua Blummenstock},
+  title     = {Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty},
+  booktitle = {AAAI},
   year      = {2019}
 }
 ```
