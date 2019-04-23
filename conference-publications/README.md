@@ -5,7 +5,16 @@
 - UAI 2019 (Jul, decisions mid May)
 - IJCAI 2019 (Aug, decisions mid May)
 - KDD 2019 (Aug, decisions late Apr)
-- ICML 2019 (Jun, decisions late Apr)
+
+
+## -----------------------------------------------------------------------------
+
+# ICML 2019 (Jun)
+- [Adversarial Attacks on Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aane_icml19/README.md)
+
+## -----------------------------------------------------------------------------
+
+
 
 ## -----------------------------------------------------------------------------
 
