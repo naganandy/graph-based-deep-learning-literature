@@ -12,8 +12,6 @@
 # ICML 2019 (Jun)
 - [Adversarial Attacks on Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aane_icml19/README.md)
 
-## -----------------------------------------------------------------------------
-
 
 
 ## -----------------------------------------------------------------------------
