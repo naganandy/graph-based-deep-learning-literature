@@ -24,6 +24,7 @@
 - [Label Efficient Semi-Supervised Learning via Graph Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igcn_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
 - [Exploiting Edge Features in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egnn_cvpr19/README.md)
+- [Attentive Relational Networks for Mapping Images to Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/arn_cvpr19/README.md)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
 - [Auto-Encoding Scene Graphs for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgae_cvpr19/README.md)
 - [Learning to Cluster Faces on an Affinity Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnds_cvpr19/README.md)
