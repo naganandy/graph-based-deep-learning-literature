@@ -1,7 +1,7 @@
 # ABC: A Big CAD Model Dataset For Geometric Deep Learning
 
 ```
-@inproceedings{arn_cvpr19,
+@inproceedings{abc_cvpr19,
   author    = {Sebastian Koch and
                Albert Matveev and
                Zhongshi Jiang and
