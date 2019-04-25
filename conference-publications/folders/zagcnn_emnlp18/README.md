@@ -5,8 +5,8 @@
     title = {Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces},
     author = {Rios, Anthony  and
       Kavuluru, Ramakanth},
-    pages = {3132–3142},
     booktitle = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {3132–3142},
     year = {2018}
     }
 ```
