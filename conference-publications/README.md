@@ -38,6 +38,7 @@
 <details> 
 <summary> more </summary> 
  
+ - [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/abc_cvpr19/README.md)
  - [Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgran_cvpr19/README.md)
 - [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814)
 - [Linkage Based Face Clustering via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lfcgcn_cvpr19/README.md)
