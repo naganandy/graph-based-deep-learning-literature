@@ -1,3 +1,4 @@
+# DDGK: Learning Graph Representations via Deep Divergence Graph Kernels
 
 ```
 @inproceedings{ddgk_www19,
