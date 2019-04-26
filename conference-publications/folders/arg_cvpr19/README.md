@@ -1,7 +1,7 @@
 # Learning Actor Relation Graphs for Group Activity Recognition
 
 ```
-@inproceedings{mlgcn_cvpr19,
+@inproceedings{arg_cvpr19,
   author    = {Jianchao Wu and
                Limin Wang and
                Li Wang and
