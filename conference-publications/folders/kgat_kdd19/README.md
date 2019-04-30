@@ -11,5 +11,7 @@
     booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   year      = {2019}
 }
-
 ```
+
+links
+- [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
