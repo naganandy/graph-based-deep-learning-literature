@@ -4,7 +4,12 @@
 - ACL 2019 (Jul, decisions mid May)
 - UAI 2019 (Jul, decisions mid May)
 - IJCAI 2019 (Aug, decisions mid May)
-- KDD 2019 (Aug, decisions late Apr)
+
+## -----------------------------------------------------------------------------
+
+# KDD 2019 (Aug)
+- KGAT: Knowledge Graph Attention Network for Recommendation 
+
 
 
 ## -----------------------------------------------------------------------------
