@@ -13,6 +13,7 @@
 - [DAG-GNN: DAG Structure Learning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daggnn_icml19/README.md)
 - [Self-Attention Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sagpool_icml19/README.md)
 - [Graph U-Net](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gunet_icml19/README.md)
+- [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmn_icml19/README.md)
 - [Adversarial Attacks on Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aane_icml19/README.md)
 
 
