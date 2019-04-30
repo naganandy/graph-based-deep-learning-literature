@@ -8,7 +8,7 @@
 ## -----------------------------------------------------------------------------
 
 # KDD 2019 (Aug)
-- KGAT: Knowledge Graph Attention Network for Recommendation 
+- [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
 
 
 
