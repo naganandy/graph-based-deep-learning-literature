@@ -16,3 +16,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1904.05003)
+- [implementation](https://github.com/benedekrozemberczki/SEAL-CI)
