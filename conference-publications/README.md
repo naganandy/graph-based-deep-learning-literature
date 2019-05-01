@@ -31,6 +31,7 @@
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgp_cvpr19/README.md)
 - [Label Efficient Semi-Supervised Learning via Graph Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igcn_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
+- [Reasoning Visual Dialogs with Structural and Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/visdialgnn_cvpr19/README.md)
 - [Exploiting Edge Features in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egnn_cvpr19/README.md)
 - [Attentive Relational Networks for Mapping Images to Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/arn_cvpr19/README.md)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kern_cvpr19/README.md)
