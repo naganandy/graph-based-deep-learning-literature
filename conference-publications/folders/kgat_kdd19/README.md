@@ -8,7 +8,7 @@
                Meng Liu and
                Tat-Seng Chua},
   title     = {KGAT: Knowledge Graph Attention Network for Recommendation},
-    booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
+  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   year      = {2019}
 }
 ```
