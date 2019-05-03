@@ -17,4 +17,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1903.07293)
-- [cdoe](https://github.com/Jhy1993/HAN)
+- [code](https://github.com/Jhy1993/HAN)
