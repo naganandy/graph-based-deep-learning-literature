@@ -1,4 +1,4 @@
-# Multi-CGN: Graph Convolutional Networks for Multi‐View Networks, with Applications to Global Poverty
+# Multi-GCN: Graph Convolutional Networks for Multi‐View Networks, with Applications to Global Poverty
 
 ```
 @inproceedings{multigcn_aaai19,
