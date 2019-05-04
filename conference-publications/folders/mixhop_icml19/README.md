@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{mixhop_icml19,
-  title = {Adversarial Attacks on Node Embeddings}
+  title = {MixHop: Higher-Order Graph Convolution Architectures via Sparsified Neighborhood Mixing}
   author = {Sami Abu-El-Haija and
             Bryan Perozzi and
             Amol Kapoor and
