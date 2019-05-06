@@ -18,3 +18,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1905.00067)
+- [implementation](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
