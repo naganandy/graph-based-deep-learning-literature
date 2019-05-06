@@ -31,6 +31,7 @@
 - [Semi-supervised Learning with Graph Learning-Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glcn_cvpr19/README.md)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgp_cvpr19/README.md)
 - [Label Efficient Semi-Supervised Learning via Graph Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igcn_cvpr19/README.md)
+- [Generating Classification Weights with Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wdaegnn_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
 - [Reasoning Visual Dialogs with Structural and Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/visdialgnn_cvpr19/README.md)
 - [Exploiting Edge Features in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egnn_cvpr19/README.md)
@@ -41,7 +42,6 @@
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
 - Edge-Labeling Graph Neural Network for Few-shot Learning
-- Generating Classification Weights with Graph Neural Networks for Few-Shot Learning
 - GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation
 - Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks
 
