@@ -11,5 +11,5 @@
 ```
 
 links
-- [preprint](http://epasto.org/papers/www2019splitter.pdf)
+- [arXiv](https://arxiv.org/abs/1905.02138)
 - [implementation](https://github.com/benedekrozemberczki/Splitter)
