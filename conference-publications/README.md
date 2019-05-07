@@ -24,6 +24,7 @@
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmn_icml19/README.md)
 - [Adversarial Attacks on Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aane_icml19/README.md)
 - [MixHop: Higher-Order Graph Convolution Architectures via Sparsified Neighborhood Mixing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mixhop_icml19/README.md)
+- [Graph Element Networks: adaptive, structured computation and memory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gen_icml19/README.md)
 
 
 
