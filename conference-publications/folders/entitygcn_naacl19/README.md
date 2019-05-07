@@ -12,4 +12,4 @@
 ```
 
 links
-- [arXv](https://arxiv.org/abs/1808.09920)
+- [arXiv](https://arxiv.org/abs/1808.09920)
