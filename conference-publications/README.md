@@ -8,6 +8,7 @@
 ## -----------------------------------------------------------------------------
 
 # KDD 2019 (Aug)
+- [Stability and Generalization of Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgb_kdd19/README.md)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gatne_kdd19/README.md)
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
 
