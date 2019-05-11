@@ -32,6 +32,8 @@
 - [Geometric Scattering for Graph Data Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs_icml19/README.md)
 - [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geometrics_icml19/README.md)
 - Stochastic Blockmodels meet Graph Neural Networks
+- Position-aware Graph Neural Networks
+
 
 
 
