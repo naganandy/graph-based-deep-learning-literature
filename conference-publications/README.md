@@ -34,7 +34,9 @@
 - [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geometrics_icml19/README.md)
 - Stochastic Blockmodels meet Graph Neural Networks
 - Position-aware Graph Neural Networks
+- Graph Convolutional Gaussian Processes
 - Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
+
 
 
 
