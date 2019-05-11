@@ -37,6 +37,7 @@
 - Stochastic Blockmodels meet Graph Neural Networks
 - Position-aware Graph Neural Networks
 - Graph Convolutional Gaussian Processes
+- Circuit-GNN: Graph Neural Networks for Distributed Circuit Design
 - Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
 
 
