@@ -18,6 +18,7 @@
 
 # ICML 2019 (Jun)
 - [Simplifying Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgc_icml19/README.md)
+- [Disentangled Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/disengcn_icml19/README.md)
 - [DAG-GNN: DAG Structure Learning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daggnn_icml19/README.md)
 - [Learning Discrete Structures for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ldsgcn_icml19/README.md)
 - [Self-Attention Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sagpool_icml19/README.md)
