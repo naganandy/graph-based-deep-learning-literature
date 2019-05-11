@@ -17,7 +17,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# ICML 2019 (Jun)
+# [ICML 2019 (Jun)](https://icml.cc/Conferences/2019/AcceptedPapersInitial)
 - [Simplifying Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgc_icml19/README.md)
 - [Disentangled Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/disengcn_icml19/README.md)
 - [DAG-GNN: DAG Structure Learning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daggnn_icml19/README.md)
