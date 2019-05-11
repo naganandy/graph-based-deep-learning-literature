@@ -1,4 +1,4 @@
-# 
+# Simplifying Graph Convolutional Networks
 
 ```
 @inproceedings{sgc_icml19,
