@@ -117,12 +117,12 @@
 - [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sealcai_www19/README.md)
 - [DDGK: Learning Graph Representations via Deep Divergence Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ddgk_www19/README.md)
 - [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpool_www19/README.md)
+- [Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs2a_www19/README.md)
 - [Knowledge Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_www19/README.md)
 - [Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/splitter_www19)
 - [Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/danser_www19/README.md)
 - [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrec_www19/README.md)
 - [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngnn_www19/README.md)
-- [Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs2a_www19/README.md)
 - Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 
 ## -----------------------------------------------------------------------------
