@@ -3,7 +3,6 @@
 - ICCV 2019 (Nov, decisions late Jul)
 - ACL 2019 (Jul, decisions mid May)
 - UAI 2019 (Jul, decisions mid May)
-- IJCAI 2019 (Aug, decisions mid May)
 
 ## -----------------------------------------------------------------------------
 
@@ -13,6 +12,11 @@
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
 -  Robust Graph Convolutional Networks Against Adversarial Attacks
 
+
+## -----------------------------------------------------------------------------
+
+ # IJCAI 2019 (Aug)
+ - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppn_ijcai19/README.md)
 
 
 ## -----------------------------------------------------------------------------
