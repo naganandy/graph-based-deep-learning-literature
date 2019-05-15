@@ -11,4 +11,4 @@
 ```
 
 links
-- [arXiv](Graph Convolutional Gaussian Processes)
+- [arXiv](https://arxiv.org/abs/1905.05739)
