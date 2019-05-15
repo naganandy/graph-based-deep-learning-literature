@@ -22,7 +22,7 @@
 ## -----------------------------------------------------------------------------
 
  # ACL 2019 (Jul)
-- Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks
+- [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wordgcn_acl19/README.md)
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cogqa_acl19/README.md)
 
 
