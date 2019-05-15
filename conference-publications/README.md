@@ -38,12 +38,12 @@
 - [Graph Element Networks: adaptive, structured computation and memory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gen_icml19/README.md)
 - [Iterative Deep Generative Modeling of Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphite_icml19/README.md)
 - [Functional Transparency for Structured Data: a Game-Theoretic Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ftgt_icml19/README.md)
+- [Graph Convolutional Gaussian Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcgp_icml19/README.md)
 - [Geometry Aware Convolutional Filters for Omnidirectional Images Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gac_icml19/README.md)
 - [Geometric Scattering for Graph Data Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs_icml19/README.md)
 - [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geometrics_icml19/README.md)
 - Stochastic Blockmodels meet Graph Neural Networks
 - Position-aware Graph Neural Networks
-- Graph Convolutional Gaussian Processes
 - Circuit-GNN: Graph Neural Networks for Distributed Circuit Design
 - Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
 
