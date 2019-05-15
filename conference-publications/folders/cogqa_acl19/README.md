@@ -8,8 +8,8 @@
              Hongxia Yang and
              Jie Tang},
   title = 	{Cognitive Graph for Multi-Hop Reading Comprehension at Scale},
-  booktitle = 	{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year = 	{2018}
+  booktitle = 	{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year = 	{2019}
 }
 ```
 
