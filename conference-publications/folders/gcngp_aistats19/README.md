@@ -11,4 +11,4 @@ year={2019}
 ```
 
 links
-- [preprint](https://arxiv.org/abs/1809.02838)
+- [pmlr](http://proceedings.mlr.press/v89/liu19c.html)
