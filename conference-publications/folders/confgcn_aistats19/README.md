@@ -14,4 +14,5 @@ year={2019}
 
 links
 - [arXiv](https://arxiv.org/abs/1901.08255)
+- [pmlr](http://proceedings.mlr.press/v89/vashishth19a.html)
 - [code](https://github.com/malllabiisc/ConfGCN)
