@@ -137,7 +137,6 @@
 - [Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/danser_www19/README.md)
 - [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrec_www19/README.md)
 - [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngnn_www19/README.md)
-- Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference
 
 ## -----------------------------------------------------------------------------
 
