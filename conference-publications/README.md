@@ -55,7 +55,6 @@
 - [Geometry Aware Convolutional Filters for Omnidirectional Images Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gac_icml19/README.md)
 - [Geometric Scattering for Graph Data Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs_icml19/README.md)
 - [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geometrics_icml19/README.md)
-- Position-aware Graph Neural Networks
 - Circuit-GNN: Graph Neural Networks for Distributed Circuit Design
 - Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
 
