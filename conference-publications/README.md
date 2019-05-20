@@ -71,6 +71,7 @@
 - [Label Efficient Semi-Supervised Learning via Graph Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igcn_cvpr19/README.md)
 - [Edge-Labeling Graph Neural Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fsegnn_cvpr19/README.md)
 - [Generating Classification Weights with Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wdaegnn_cvpr19/README.md)
+- [Explainability Methods for Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/explainability_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
 - [Reasoning Visual Dialogs with Structural and Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/visdialgnn_cvpr19/README.md)
 - [Exploiting Edge Features in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egnn_cvpr19/README.md)
@@ -104,7 +105,6 @@
 - [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agclstm_cvpr19/README.md)
 - [Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/asgcn_icml19/README.md)
 - [Graph Convolutional Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gct_cvpr19/README.md)
-- Explainability Methods for Graph Convolutional Neural Networks
 - Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 - Skeleton-Based Action Recognition with Directed Graph Neural Networks
 
