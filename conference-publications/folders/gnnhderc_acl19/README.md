@@ -9,7 +9,7 @@
              Yun Tang and
              Xiaodong He and
              Bowen Zhou},
-  title = 	{Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks},
+  title = 	{Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs},
   booktitle = 	{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year = 	{2019}
 }
