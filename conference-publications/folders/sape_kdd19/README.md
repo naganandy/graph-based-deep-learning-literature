@@ -1,7 +1,7 @@
 # Predicting Path Failure In Time-Evolving Graphs
 
 ```
-@inproceedings{sgb_kdd19,
+@inproceedings{sape_kdd19,
   author    = {Jia Li and
                Zhichao Han and
                Hong Cheng and
