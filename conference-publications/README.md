@@ -12,6 +12,7 @@
 - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_kdd19/README.md)
 - [Exact-K Recommendation via Maximal Clique Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gatmco_kdd19/README.md)
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
+- [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
 -  Robust Graph Convolutional Networks Against Adversarial Attacks
 
 
