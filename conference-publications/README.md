@@ -26,6 +26,7 @@
 
  # ACL 2019 (Jul)
 - [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wordgcn_acl19/README.md)
+- [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/paperrobot_acl19/README.md)
 - [Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnhderc_acl19/README.md)
 - [Dynamically Fused Graph Network for Multi-hop Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfgn_acl19/README.md)
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cogqa_acl19/README.md)
