@@ -14,4 +14,5 @@
 ```
 
 links
+- [paper](https://arxiv.org/abs/1905.07854)
 - [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
