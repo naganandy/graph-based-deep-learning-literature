@@ -1,7 +1,10 @@
 # [conferences](https://aideadlin.es/)
 
+- NeurIPS 2019 (Dec, decisions early Sep)
+- ICDM 2019 (Nov, decisions mid Aug)
+- EMNLP 2019 (Nov, decisions mid Aug)
 - ICCV 2019 (Nov, decisions late Jul)
-- UAI 2019 (Jul, decisions mid May)
+- UAI 2019 (Jul)
 
 ## -----------------------------------------------------------------------------
 
