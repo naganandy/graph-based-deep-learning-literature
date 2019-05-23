@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{disengcn_icml19,
-  title = {Disentangled Graph Convolutional Networks}
+  title = {Disentangled Graph Convolutional Networks},
   author = {Jianxin Ma and
             Peng Cui and
             Kun Kuang and
