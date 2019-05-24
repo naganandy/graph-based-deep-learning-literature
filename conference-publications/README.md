@@ -25,6 +25,7 @@
  # IJCAI 2019 (Aug)
  - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ahne_ijcai19/README.md)
  - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppn_ijcai19/README.md)
+ - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
 
 ## -----------------------------------------------------------------------------
 
