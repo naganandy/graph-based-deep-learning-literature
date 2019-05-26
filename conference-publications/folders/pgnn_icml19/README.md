@@ -12,5 +12,5 @@
 ```
 
 links
-- [icml](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4000)
+- [pmlr](http://proceedings.mlr.press/v97/you19b.html)
 - [code](https://github.com/JiaxuanYou/P-GNN)
