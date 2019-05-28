@@ -19,9 +19,9 @@
 - [MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mcne_kdd19/README.md)
 - [Exact-K Recommendation via Maximal Clique Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gatmco_kdd19/README.md)
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
+- [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rgcn_kdd19/README.md)
 - [Graph Recurrent Networks with Attributed Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grn_kdd19/README.md)
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
--  Robust Graph Convolutional Networks Against Adversarial Attacks
 
 
 ## -----------------------------------------------------------------------------
