@@ -70,7 +70,7 @@
 - [Geometric Scattering for Graph Data Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs_icml19/README.md)
 - [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geometrics_icml19/README.md)
 - [Circuit-GNN: Graph Neural Networks for Distributed Circuit Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/circuitgnn_icml19/README.md)
-- Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance
+- [Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmusic_icml19/README.md)
 
 
 
