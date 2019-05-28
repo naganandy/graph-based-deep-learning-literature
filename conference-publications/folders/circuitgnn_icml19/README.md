@@ -1,4 +1,4 @@
-# 
+# Circuit-GNN: Graph Neural Networks for Distributed Circuit Design
 ```
 @inproceedings{circuitgnn_icml19,
   title = 	 {Circuit-{GNN}: Graph Neural Networks for Distributed Circuit Design},
