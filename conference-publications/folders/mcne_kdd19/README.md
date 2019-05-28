@@ -1,7 +1,7 @@
 # MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network
 
 ```
-@inproceedings{sgb_kdd19,
+@inproceedings{mcne_kdd19,
   author    = {Hao Wang and
                Tong Xu and
                Qi Liu and
