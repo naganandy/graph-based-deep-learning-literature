@@ -12,4 +12,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1905.11634)
+- [pmlr](http://proceedings.mlr.press/v97/zhang19f.html)
 - [code](https://github.com/latentgnn/LatentGNN-V1-PyTorch)
