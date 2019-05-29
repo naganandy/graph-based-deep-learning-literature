@@ -53,6 +53,7 @@
 - [Position-aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pgnn_icml19/README.md)
 - [DAG-GNN: DAG Structure Learning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daggnn_icml19/README.md)
 - [Learning Discrete Structures for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ldsgcn_icml19/README.md)
+- [LatentGNN: Learning Efficient Non-local Relations for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/latentgnn_kdd19/README.md)
 - [Self-Attention Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sagpool_icml19/README.md)
 - [Graph U-Net](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gunet_icml19/README.md)
 - [Deep Relational Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/drp_icml19/README.md)
