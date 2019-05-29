@@ -41,6 +41,7 @@
 - [Dynamically Fused Graph Network for Multi-hop Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfgn_acl19/README.md)
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cogqa_acl19/README.md)
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
+- [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 
 
