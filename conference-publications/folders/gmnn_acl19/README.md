@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{gmnn_acl19,
-  author = 	{Kun Xu and
+  author =  {Kun Xu and
             Liwei Wang and
             Mo Yu and
             Yansong Feng and
