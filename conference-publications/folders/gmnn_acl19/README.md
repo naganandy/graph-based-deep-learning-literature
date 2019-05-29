@@ -1,7 +1,7 @@
 # Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network
 
 ```
-@inproceedings{wordgcn_acl19,
+@inproceedings{gmnn_acl19,
   author = 	{Kun Xu and
   Liwei Wang and
   Mo Yu and
