@@ -3,12 +3,12 @@
 ```
 @inproceedings{gmnn_acl19,
   author = 	{Kun Xu and
-  Liwei Wang and
-  Mo Yu and
-  Yansong Feng and
-  Yan Song and
-  Ziguo Wang and
-  Dong Yu},
+            Liwei Wang and
+            Mo Yu and
+            Yansong Feng and
+            Yan Song and
+            Ziguo Wang and
+            Dong Yu},
   title = 	{Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network},
   booktitle = 	{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year = 	{2019}
