@@ -1,16 +1,12 @@
 # Lovasz Convolutional Networks
 
 ```
-@inproceedings{lcn_aistats19,    
-title={Lovasz Convolutional Networks},    
-author={Prateek Yadav and
-        Madhav R Nimishakavi and
-        Naganand Yadati and
-        Shikhar Vashishth and
-        Arun Rajkumar and
-        Partha Talukdar},    
-booktitle={International Conference on Artificial Intelligence and Statistics (AISTATS)},    
-year={2019}   
+@inproceedings{lcn_aistats19,
+  title = 	 {Lovasz Convolutional Networks},
+  author = 	 {Yadav, Prateek and Nimishakavi, Madhav and Yadati, Naganand and Vashishth, Shikhar and Rajkumar, Arun and Talukdar, Partha},
+  booktitle = 	 {International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  pages = 	 {1978--1987},
+  year = 	 {2019}
 }
 ```
 
