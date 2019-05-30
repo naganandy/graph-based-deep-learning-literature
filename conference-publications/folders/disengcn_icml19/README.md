@@ -2,14 +2,11 @@
 
 ```
 @inproceedings{disengcn_icml19,
-  title = {Disentangled Graph Convolutional Networks},
-  author = {Jianxin Ma and
-            Peng Cui and
-            Kun Kuang and
-            Xin Wang and
-            Wenwu Zhu},
-  booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
-  year = {2019}
+  title = 	 {Disentangled Graph Convolutional Networks},
+  author = 	 {Ma, Jianxin and Cui, Peng and Kuang, Kun and Wang, Xin and Zhu, Wenwu},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
+  pages = 	 {4212--4221},
+  year = 	 {2019}
 }
 ```
 
