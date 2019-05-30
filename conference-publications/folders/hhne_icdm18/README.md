@@ -9,7 +9,7 @@
                Jiayu Zhou},
   title     = {HHNE: Heterogeneous Hyper-Network Embedding},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
-  year      = {2018}
   pages     = {875--880},
+  year      = {2018}
 }
 ```
