@@ -2,12 +2,11 @@
 
 ```
 @inproceedings{pgnn_icml19,
-  title = {Position-aware Graph Neural Networks}
-  author = {Jiaxuan You and
-            Rex Ying and
-            Jure Leskovec},
-  booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
-  year = {2019}
+  title = 	 {Position-aware Graph Neural Networks},
+  author = 	 {You, Jiaxuan and Ying, Rex and Leskovec, Jure},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
+  pages = 	 {7134--7143},
+  year = 	 {2019}
 }
 ```
 
