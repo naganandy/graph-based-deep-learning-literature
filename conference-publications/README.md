@@ -31,6 +31,7 @@
  - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ahne_ijcai19/README.md)
  - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppn_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
+ - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](folders/hgcn_ijcai19/README.md)
 
 ## -----------------------------------------------------------------------------
 
@@ -102,7 +103,7 @@
 
 <details> 
 <summary> more </summary> 
- 
+
  - [Learning Actor Relation Graphs for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/arg_cvpr19/README.md)
  - [An End-to-End Network for Generating Social Relationship Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srggn_cvpr19/README.md)
  - [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/abc_cvpr19/README.md)
@@ -316,7 +317,7 @@
 -  [Neural Relational Inference for Interacting Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nri_icml18/README.md)
 -  [Graph Networks as Learnable Physics Engines for Inference and Control](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gn_icml18/README.md)
 
- 
+
  ## -----------------------------------------------------------------------------
 
 # [IJCAI 2018 (Jul)](http://www.ijcai-18.org/accepted-papers/)
@@ -328,16 +329,16 @@
 - [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stgcn_ijcai18/README.md)
 - [Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnbc_ijcai18/README.md)
 
- 
+
  ## -----------------------------------------------------------------------------
- 
+
 # [ACL 2018 (Jul)](http://acl2018.org/conference/accepted-papers/)
 - [Dating Documents using Graph Convolution Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neuraldater_acl18/README.md)
 - [Semi-supervised User Geolocation via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geographconv_acl18/README.md)
 - [Graph-to-Sequence Learning using Gated Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graph2seq_acl18/README.md)
 - [A Graph-to-Sequence Model for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/amr2text_acl18/README.md)
 - [Sentence-State LSTM for Text Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/slstm_acl18/README.md)
- 
+
  ## -----------------------------------------------------------------------------
 
 # [CVPR 2018 (Jun)](http://openaccess.thecvf.com/CVPR2018.py)
@@ -348,8 +349,8 @@
  - [SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/splinecnn_cvpr18/README.md)
  - [Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dggn_cvpr18/README.md)
  - [Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/polyrnnpp_cvpr18/README.md)
- 
- 
+
+
  ## -----------------------------------------------------------------------------
 
 # [NAACL 2018 (Jun)](https://naacl2018.wordpress.com/2018/03/02/list-of-accepted-papers/)
