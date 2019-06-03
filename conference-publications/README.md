@@ -36,6 +36,7 @@
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
 - Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology
+- Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Dynamic Hypergraph Neural Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
