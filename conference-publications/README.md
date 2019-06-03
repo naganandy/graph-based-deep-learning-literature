@@ -36,6 +36,7 @@
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
  - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
+ - Adversarial Graph Embedding for Ensemble Clustering
  - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 
 ## -----------------------------------------------------------------------------
