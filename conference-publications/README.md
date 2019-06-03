@@ -49,10 +49,13 @@
 
 <details> 
 <summary> more </summary> 
+ 
+
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
 - Adversarial Graph Embedding for Ensemble Clustering
+
 </details>
 
 
