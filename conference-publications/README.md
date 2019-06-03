@@ -41,6 +41,7 @@
  - Attributed Graph Clustering via Adaptive Graph Convolution
  - Attributed Graph Clustering: A Deep Attentional Embedding Approach
  - Adversarial Graph Embedding for Ensemble Clustering
+ - Crafting Efficient Neural Graph of Large Entropy
  - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
  - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
  - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
