@@ -16,3 +16,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1811.00855)
+- [code](https://github.com/CRIPAC-DIG/SR-GNN)
