@@ -74,6 +74,7 @@
 - [Self-Attention Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sagpool_icml19/README.md)
 - [Graph U-Net](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gunet_icml19/README.md)
 - [Deep Relational Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/drp_icml19/README.md)
+- [Distributed, Egocentric Representations of Graphs for Detecting Critical Structures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egocnn_icml19/README.md)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmn_icml19/README.md)
 - [Graph Markov Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_icml19/README.md)
 - [Stochastic Blockmodels meet Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dglfrm_icml19/README.md)
