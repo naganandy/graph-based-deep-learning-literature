@@ -29,7 +29,7 @@
 ## -----------------------------------------------------------------------------
 
  # [IJCAI 2019 (Aug)](https://www.ijcai19.org/accepted-papers.html)
-- [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](folders/hgcn_ijcai19/README.md)
+- [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ahne_ijcai19/README.md)
  - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppn_ijcai19/README.md)
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
