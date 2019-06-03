@@ -45,11 +45,16 @@
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Attributed Graph Clustering via Adaptive Graph Convolution
 - Attributed Graph Clustering: A Deep Attentional Embedding Approach
-- Adversarial Graph Embedding for Ensemble Clustering
-- Crafting Efficient Neural Graph of Large Entropy
-- Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
+
+<details> 
+<summary> more </summary> 
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
+- Binarized Collaborative Filtering with Distilling Graph Convolutional Network
+- Crafting Efficient Neural Graph of Large Entropy
+- Adversarial Graph Embedding for Ensemble Clustering
+</details>
+
 
 ## -----------------------------------------------------------------------------
 
