@@ -37,15 +37,16 @@
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
 - Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
- - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
- - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
- - Attributed Graph Clustering via Adaptive Graph Convolution
- - Attributed Graph Clustering: A Deep Attentional Embedding Approach
- - Adversarial Graph Embedding for Ensemble Clustering
- - Crafting Efficient Neural Graph of Large Entropy
- - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
- - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
- - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
+- Dynamic Hypergraph Neural Networks
+- CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
+- An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
+- Attributed Graph Clustering via Adaptive Graph Convolution
+- Attributed Graph Clustering: A Deep Attentional Embedding Approach
+- Adversarial Graph Embedding for Ensemble Clustering
+- Crafting Efficient Neural Graph of Large Entropy
+- Binarized Collaborative Filtering with Distilling Graph Convolutional Network
+- Belief Propagation Network for Hard Inductive Semi-Supervised Learning
+- AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 
 ## -----------------------------------------------------------------------------
 
