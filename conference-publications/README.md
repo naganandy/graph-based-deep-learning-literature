@@ -39,6 +39,7 @@
 - Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Dynamic Hypergraph Neural Networks
+- Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Attributed Graph Clustering via Adaptive Graph Convolution
