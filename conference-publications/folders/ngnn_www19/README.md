@@ -15,3 +15,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1902.08009)
+- [code](https://github.com/CRIPAC-DIG/NGNN)
