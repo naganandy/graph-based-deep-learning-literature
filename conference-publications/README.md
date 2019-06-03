@@ -183,6 +183,13 @@
 
 ## -----------------------------------------------------------------------------
 
+# [ICDE 2019 (Apr)](http://conferences.cis.umac.mo/icde2019/?page_id=516)
+- [Exploiting Centrality Information with Graph Convolutions for Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geml_icde19/README.md)
+- [Stochastic Weight Completion for Road Networks using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcwc_icde19/README.md)
+
+
+## -----------------------------------------------------------------------------
+
 # [AISTATS 2019 (Apr)](https://www.aistats.org/accepted.html)
 - [Confidence-based Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/confgcn_aistats19/README.md)
 - [Lovász Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lcn_aistats19/README.md)
