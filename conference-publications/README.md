@@ -38,6 +38,7 @@
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
 - Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology
 - Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
+- Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Dynamic Hypergraph Neural Networks
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
@@ -52,8 +53,12 @@
  
 
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
+- Graph Convolutional Network Hashing for Cross-Modal Retrieval
 - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
+- Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
+- Graph Contextualized Self-Attention Network for Session-based Recommendation
+- Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
 - Adversarial Graph Embedding for Ensemble Clustering
 
 </details>
