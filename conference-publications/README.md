@@ -89,6 +89,7 @@
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
 - Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning
 - Multi-view Spectral Clustering Network
+- Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
 - Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
 - Learning Network Embedding with Community Structural Information
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
