@@ -25,6 +25,12 @@ The repository contains links to conference publications in graph-based deep lea
 
 <br> </br>
 
+Most cited papers:
+- [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17/README.md)
+- [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chebnet_nips16/README.md)
+
+<br> </br>
+
 Graph representation learning workshops:
 - [ICCV 2019](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
 - [KDD 2019](https://dlg2019.bitbucket.io/)
