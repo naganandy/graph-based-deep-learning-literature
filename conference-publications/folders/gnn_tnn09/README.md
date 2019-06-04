@@ -1,7 +1,7 @@
 # The Graph Neural Network Model
 
 ```
-@article{gnn09,
+@article{gnn_tnn09,
  author = {Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele},
  title = {The Graph Neural Network Model},
  journal = {Trans. Neur. Netw.},
