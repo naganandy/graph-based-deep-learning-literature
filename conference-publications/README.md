@@ -61,6 +61,7 @@
 - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
 - Hierarchical Diffusion Attention Network
+- Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
 - Hierarchical Representation Learning for Bipartite Graphs
@@ -69,6 +70,7 @@
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
 - Adversarial Graph Embedding for Ensemble Clustering
+- Knowledge Amalgamation from Heterogeneous Networks by Common Feature Learning
 - Incorporating Structural Information for Better Coreference Resolution
 
 </details>
