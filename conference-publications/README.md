@@ -68,6 +68,7 @@
 - Graph Space Embedding
 - Masked Graph Convolutional Network
 - Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
+- Neural News Recommendation with Attentive Multi-View Learning
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning
