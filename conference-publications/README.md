@@ -57,6 +57,7 @@
  
 
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
+- Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
 - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
@@ -65,7 +66,8 @@
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
 - Hierarchical Representation Learning for Bipartite Graphs
-- Graph-based Neural Sentence Ordering:
+- Graph-based Neural Sentence Ordering
+- Learning Network Embedding with Community Structural Information
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
