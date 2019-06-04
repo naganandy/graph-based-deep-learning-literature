@@ -50,17 +50,17 @@
 - Dynamic Hypergraph Neural Networks
 - Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - Hypergraph Induced Convolutional Manifold Networks
+
+
+<details> 
+<summary> more </summary> 
+ 
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Attributed Graph Clustering via Adaptive Graph Convolution
 - Attributed Graph Clustering: A Deep Attentional Embedding Approach
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
-
-<details> 
-<summary> more </summary> 
- 
-
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 - Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
@@ -83,6 +83,7 @@
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
 - Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning
 - Multi-view Spectral Clustering Network
+- Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
 - Learning Network Embedding with Community Structural Information
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
