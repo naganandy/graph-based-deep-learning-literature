@@ -28,6 +28,10 @@ The repository contains links to conference publications in graph-based deep lea
 Most cited papers:
 - [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17/README.md)
 - [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chebnet_nips16/README.md)
+- [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcnn_iclr14/README.md)
+- [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcnn_nips15/README.md)
+- [The Graph Neural Network Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnn_tnn09/README.md)
+- [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_icml16/README.md)
 
 <br> </br>
 
