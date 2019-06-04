@@ -66,6 +66,8 @@
 - Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
+- Node Embedding over Temporal Graphs
+- Noise-Resilient Similarity Preserving Network Embedding for Social Networks
 - Masked Graph Convolutional Network
 - Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
 - Neural News Recommendation with Attentive Multi-View Learning
