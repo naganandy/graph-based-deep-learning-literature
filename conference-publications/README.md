@@ -75,6 +75,7 @@
 - SPAGAN: Shortest Path Graph Attention Network
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
+- Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
 - Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning
 - Multi-view Spectral Clustering Network
 - Learning Network Embedding with Community Structural Information
