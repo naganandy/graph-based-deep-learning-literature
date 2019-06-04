@@ -70,6 +70,7 @@
 - Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
+- Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning
 - Multi-view Spectral Clustering Network
 - Learning Network Embedding with Community Structural Information
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
