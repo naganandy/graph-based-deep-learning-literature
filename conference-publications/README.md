@@ -67,6 +67,7 @@
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
 - Masked Graph Convolutional Network
+- Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Multi-view Spectral Clustering Network
