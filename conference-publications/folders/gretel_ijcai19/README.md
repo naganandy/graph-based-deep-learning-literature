@@ -11,4 +11,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1903.07518)
+- [blog](https://andreasloukas.blog/2019/03/18/path-extrapolation-with-gretel/)
 - [code](https://github.com/jbcdnr/gretel-path-extrapolation)
