@@ -58,6 +58,7 @@
 - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
 - Graph Space Embedding
+- Graph-based Neural Sentence Ordering:
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
