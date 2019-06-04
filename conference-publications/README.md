@@ -43,6 +43,7 @@
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Dynamic Hypergraph Neural Networks
+- Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - Hypergraph Induced Convolutional Manifold Networks
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
