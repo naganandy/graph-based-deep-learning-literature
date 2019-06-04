@@ -39,7 +39,7 @@ The repository contains links to conference publications in graph-based deep lea
 
 <br> </br>
 
-## Graph representation learning workshops
+## Relevant workshops
 - [ICCV 2019](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
 - [KDD 2019](https://dlg2019.bitbucket.io/)
 - [ICML 2019](https://graphreason.github.io/)
