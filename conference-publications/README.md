@@ -43,6 +43,7 @@
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Dynamic Hypergraph Neural Networks
+- Hypergraph Induced Convolutional Manifold Networks
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
