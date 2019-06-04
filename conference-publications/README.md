@@ -65,6 +65,7 @@
 - Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
+- Masked Graph Convolutional Network
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Learning Network Embedding with Community Structural Information
