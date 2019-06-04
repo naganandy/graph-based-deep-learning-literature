@@ -61,6 +61,7 @@
 - Hierarchical Diffusion Attention Network
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
+- Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering:
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
