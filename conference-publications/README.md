@@ -58,6 +58,7 @@
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
 - Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
+- Hierarchical Diffusion Attention Network
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
 - Graph-based Neural Sentence Ordering:
