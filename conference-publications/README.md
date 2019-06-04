@@ -55,6 +55,8 @@
 <details> 
 <summary> more </summary> 
  
+- Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective
+- Topology Optimization based Graph Convolutional Network
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
