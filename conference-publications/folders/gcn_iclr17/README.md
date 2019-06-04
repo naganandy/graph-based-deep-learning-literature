@@ -1,6 +1,6 @@
 #  Semi-Supervised Classification with Graph Convolutional Networks
 ```
-@inproceedings{gcniclr17,
+@inproceedings{gcn_iclr17,
 title = {Semi-Supervised Classification with Graph Convolutional Networks},
 author = {Kipf, Thomas N and Welling, Max},
 booktitle={International Conference on Learning Representations (ICLR)},
