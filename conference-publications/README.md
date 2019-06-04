@@ -62,6 +62,7 @@
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Attributed Graph Clustering via Adaptive Graph Convolution
+- Variational Graph Embedding and Clustering with Laplacian Eigenmaps
 - Attributed Graph Clustering: A Deep Attentional Embedding Approach
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
