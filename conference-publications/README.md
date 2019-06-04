@@ -69,6 +69,7 @@
 - Masked Graph Convolutional Network
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
+- Multi-view Spectral Clustering Network
 - Learning Network Embedding with Community Structural Information
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
