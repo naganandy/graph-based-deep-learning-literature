@@ -80,6 +80,7 @@
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
 - Adversarial Graph Embedding for Ensemble Clustering
+- Out-of-sample Node Representation Learning for Heterogeneous Graph in Real-time Android Malware Detection
 - Knowledge Amalgamation from Heterogeneous Networks by Common Feature Learning
 - Incorporating Structural Information for Better Coreference Resolution
 
