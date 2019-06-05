@@ -13,11 +13,7 @@ The repository contains links to conference publications in graph-based deep lea
  <p align="center"> </p>
  
    * ### [Neural Information Processing Systems (NeurIPS)](https://nips.cc/) 
-  <p align="center">
-  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#neurips-2018-dec">2018</a> |
-  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#nips-2017">2017</a> |
-  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#nips-2016">2016</a> 
- </p>
+   [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#neurips-2018-dec) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#nips-2017) | [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#nips-2016)
 
    * ### [International Conference on Machine Learning (ICML)](https://icml.cc/) 
   <p align="center">
