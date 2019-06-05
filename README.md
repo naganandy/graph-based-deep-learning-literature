@@ -9,7 +9,7 @@ The repository contains links to conference publications in graph-based deep lea
   </p>
 
 
-- ## Machine learning
+- ## Machine learning conferences
  <p align="center"> </p>
  
    * ### [Neural Information Processing Systems (NeurIPS)](https://nips.cc/) 
