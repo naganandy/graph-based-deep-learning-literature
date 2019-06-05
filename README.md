@@ -19,9 +19,9 @@ The repository contains links to conference publications in graph-based deep lea
    * ### [ICDM](http://icdm2019.bigke.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icdm-2018-nov)
    * ### [WWW](https://www2019.thewebconf.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#www-2019-may), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#www-2018-april)
 - ## Artificial intelligence
-   * ### [AAAI](https://www.aaai.org/)
-   * ### [IJCAI](https://www.ijcai.org/)
-   * ### [UAI](http://www.auai.org/)
+   * ### [AAAI](https://www.aaai.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2019-feb), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2018-feb), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2017)
+   * ### [IJCAI](https://www.ijcai.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2019-aug), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2018-jul), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2017)
+   * ### [UAI](http://www.auai.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#uai-2018-aug)
 
 <br> </br>
 
