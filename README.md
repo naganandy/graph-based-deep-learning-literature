@@ -7,24 +7,28 @@ The repository contains links to conference publications in graph-based deep lea
    * ### [ICML](https://icml.cc/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2018-jul), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2016)
    * ### [ICLR](https://iclr.cc/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2019-may), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2018-may), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2016), [2014](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2014)  
 
+<br> </br>
 
 - ## Computer vision
    * ### [CVPR](http://cvpr2019.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2018-jun), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2017)
    * ### [ICCV](http://iccv2019.thecvf.com/) - [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iccv-2017)
    * ### [ECCV](https://eccv2018.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#eccv-2018-sep)
    
-   
+<br> </br>
+
 - ## Natural language processing
    * ### [ACL](http://www.acl2019.org/EN/index.xhtml) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2019-jul), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2018-jul)
    * ### [NAACL](https://naacl2019.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#naacl-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#naacl-2018-jun)
    * ### [EMNLP](https://www.emnlp-ijcnlp2019.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#emnlp-2018-nov), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#emnlp-2017)
-   
+
+<br> </br>
    
 - ## Data
    * ### [KDD](https://www.kdd.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#kdd-2019-aug), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#kdd-2018-aug)
    * ### [ICDM](http://icdm2019.bigke.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icdm-2018-nov)
    * ### [WWW](https://www2019.thewebconf.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#www-2019-may), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#www-2018-april)
-   
+
+<br> </br>
    
 - ## Artificial intelligence
    * ### [AAAI](https://www.aaai.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2019-feb), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2018-feb), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2017)
