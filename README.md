@@ -12,7 +12,7 @@ The repository contains links to conference publications in graph-based deep lea
 
 
 - ## Computer vision conferences
-   * ### [Computer Vision and Pattern Recognition (CVPR)](http://cvpr2019.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2018-jun), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2017)
+   * ### [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](http://cvpr2019.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2018-jun), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2017)
    * ### [ICCV](http://iccv2019.thecvf.com/) - [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iccv-2017)
    * ### [ECCV](https://eccv2018.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#eccv-2018-sep)
    
