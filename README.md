@@ -11,7 +11,7 @@ The repository contains links to conference publications in graph-based deep lea
    * ### [ICCV](http://iccv2019.thecvf.com/) - [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iccv-2017)
    * ### [ECCV](https://eccv2018.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#eccv-2018-sep)
 - ## Natural language processing
-   * ### [ACL](http://www.acl2019.org/EN/index.xhtml)
+   * ### [ACL](http://www.acl2019.org/EN/index.xhtml) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2019-jul), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2018-jul)
    * ### [NAACL](https://naacl2019.org/)
    * ### [EMNLP](https://www.emnlp-ijcnlp2019.org/) 
 - ## Data
