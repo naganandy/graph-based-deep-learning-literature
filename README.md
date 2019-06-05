@@ -22,8 +22,16 @@ The repository contains links to conference publications in graph-based deep lea
   <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2019-jun">2019</a> |
   <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2018-jul">2018</a> |
   <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2017">2017</a> 
+ </p>
+ 
    * ### [International Conference on Learning Representations (ICLR)](https://iclr.cc/) 
-   [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2019-may), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2018-may), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2016), [2014](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2014)  
+  <p align="center">
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2019-may">2019</a> |
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2018-may">2018</a> |
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2017">2017</a> |
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2016">2016</a> |
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2014">2014</a>
+  </p>
 
 <br> </br>
 
