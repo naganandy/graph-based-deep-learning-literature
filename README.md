@@ -2,6 +2,13 @@
 
 The repository contains links to conference publications in graph-based deep learning from the following conferences:
 
+  <p align="center">
+  <a href="#">201</a> |
+  <a href="#">201</a> |
+  <a href="#">201</a> 
+  </p>
+
+
 - ## Machine learning
    * ### [Neural Information Processing Systems (NeurIPS)](https://nips.cc/) 
   <p align="center">
@@ -11,7 +18,10 @@ The repository contains links to conference publications in graph-based deep lea
  </p>
 
    * ### [International Conference on Machine Learning (ICML)](https://icml.cc/) 
-   [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2018-jul), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2016)
+  <p align="center">
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2019-jun">2019</a> |
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2018-jul">2018</a> |
+  <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2017">2017</a> 
    * ### [International Conference on Learning Representations (ICLR)](https://iclr.cc/) 
    [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2019-may), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2018-may), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2016), [2014](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2014)  
 
