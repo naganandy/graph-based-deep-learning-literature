@@ -1,4 +1,4 @@
-# [conferences](https://aideadlin.es/)
+# [Upcoming deadlines](https://aideadlin.es/)
 
 - NeurIPS 2019 (Dec, decisions early Sep)
 - ICDM 2019 (Nov, decisions mid Aug)
