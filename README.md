@@ -4,7 +4,7 @@ The repository contains links to conference publications in graph-based deep lea
 
 - ## Machine learning
    * ### [NeurIPS](https://nips.cc/) 
-   * ### [ICML](https://icml.cc/) 
+   * ### [ICML](https://icml.cc/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2018-jul), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icml-2016)
    * ### [ICLR](https://iclr.cc/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2019-may), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2018-may), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2017), [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2016), [2014](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iclr-2014)  
 - ## Computer vision
    * ### [CVPR](http://cvpr2019.thecvf.com/)
