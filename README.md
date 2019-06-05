@@ -36,6 +36,8 @@ The repository contains links to conference publications in graph-based deep lea
    * ### [UAI](http://www.auai.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#uai-2018-aug)
 
 <br> </br>
+<br> </br>
+<br> </br>
 
 # Top 10 most cited papers
 1. [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17/README.md)
@@ -49,6 +51,8 @@ The repository contains links to conference publications in graph-based deep lea
 1. [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mpnn_icml17/README.md)
 1. [Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gan_iclr18/README.md)
 
+<br> </br>
+<br> </br>
 <br> </br>
 
 # Relevant workshops
