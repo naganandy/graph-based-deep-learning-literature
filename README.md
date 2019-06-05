@@ -20,9 +20,9 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
 
 - ## Natural language processing
-   * ### [ACL](http://www.acl2019.org/EN/index.xhtml) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2019-jul), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2018-jul)
-   * ### [NAACL](https://naacl2019.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#naacl-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#naacl-2018-jun)
-   * ### [EMNLP](https://www.emnlp-ijcnlp2019.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#emnlp-2018-nov), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#emnlp-2017)
+   * ### [Association for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) (ACL) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2019-jul), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#acl-2018-jul)
+   * ### [North American chapter of the Association for Computational Linguistics](https://naacl2019.org/) (NAACL) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#naacl-2019-jun), [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#naacl-2018-jun)
+   * ### [Empirical Methods in Natural Language Processing](https://www.emnlp-ijcnlp2019.org/) (EMNLP) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#emnlp-2018-nov), [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#emnlp-2017)
 
 <br> </br>
    
