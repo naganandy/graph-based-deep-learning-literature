@@ -10,6 +10,7 @@ The repository contains links to conference publications in graph-based deep lea
 
 
 - ## Machine learning
+ <p align="center"> </p>
    * ### [Neural Information Processing Systems (NeurIPS)](https://nips.cc/) 
   <p align="center">
   <a href="https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#neurips-2018-dec">2018</a> |
