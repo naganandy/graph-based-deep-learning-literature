@@ -63,7 +63,6 @@
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
-- Attributed Graph Clustering via Adaptive Graph Convolution
 - Variational Graph Embedding and Clustering with Laplacian Eigenmaps
 - Attributed Graph Clustering: A Deep Attentional Embedding Approach
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
