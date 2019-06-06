@@ -32,6 +32,7 @@
  # [IJCAI 2019 (Aug)](https://www.ijcai19.org/accepted-papers.html)
  - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igjsma_ijcai19/README.md)
 - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
+- [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agc_ijcai19/README.md)
 - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ahne_ijcai19/README.md)
 - [DANE: Domain Adaptive Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dane_ijcai19/README.md)
 - [GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnlase_ijcai19/README.md)
