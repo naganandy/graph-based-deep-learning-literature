@@ -74,7 +74,6 @@
 - Multi-view Knowledge Graph Embedding for Entity Alignment
 - Hierarchical Diffusion Attention Network
 - TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics
-- Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
 - Semi-supervised User Profiling with Heterogeneous Graph Attention Networks
