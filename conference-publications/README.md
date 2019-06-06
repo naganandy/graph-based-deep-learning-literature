@@ -39,6 +39,7 @@
  - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppn_ijcai19/README.md)
  - [Path extrapolation using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gretel_ijcai19/README.md)
  - [GSN: A Graph-Structured Network for Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gsn_ijcai19/README.md)
+ - [Binarized Collaborative Filtering with Distilling Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bincf_ijcai19/README.md)
  - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
  - [STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/edit/master/conference-publications/README.md)
 - [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wavenet_ijcai19/README.md)
