@@ -69,7 +69,6 @@
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 - Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
-- Binarized Collaborative Filtering with Distilling Graph Convolutional Network
 - Crafting Efficient Neural Graph of Large Entropy
 - Multi-view Knowledge Graph Embedding for Entity Alignment
 - Hierarchical Diffusion Attention Network
