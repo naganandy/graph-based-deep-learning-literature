@@ -71,7 +71,6 @@
 - Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
 - Crafting Efficient Neural Graph of Large Entropy
-- Multi-view Knowledge Graph Embedding for Entity Alignment
 - Hierarchical Diffusion Attention Network
 - TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
