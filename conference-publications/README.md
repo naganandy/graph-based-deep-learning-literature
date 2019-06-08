@@ -12,6 +12,7 @@
 - [Stability and Generalization of Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgb_kdd19/README.md)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gatne_kdd19/README.md)
 - [Graph Convolutional Networks with EigenPooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/eigengcn_kdd19/README.md)
+- [DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/demonet_kdd19/README.md)
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clustergcn_kdd19/README.md)
 - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_kdd19/README.md)
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
