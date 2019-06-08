@@ -1,7 +1,7 @@
 # DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification
 
 ```
-@inproceedings{sgb_kdd19,
+@inproceedings{demonet_kdd19,
   author    = {Jun Wu and
                Jingrui He and
                Jiejun Xu},
