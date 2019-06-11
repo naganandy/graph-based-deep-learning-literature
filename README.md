@@ -70,6 +70,7 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
 
 # Survey papers / literature reviews
+- ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dlgsurvey_arxiv18/README.md)
 - ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnet_arXiv18/README.md)
 - ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grl_ideb17/README.md)
 - ### [Geometric Deep Learning: Going beyond Euclidean data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gdl_isp17/README.md)
