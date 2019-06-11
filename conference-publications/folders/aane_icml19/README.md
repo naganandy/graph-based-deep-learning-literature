@@ -13,4 +13,5 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/bojchevski19a.html)
 - [arXiv](https://arxiv.org/abs/1809.01093)
+- [code](https://github.com/abojchevski/node_embedding_attack)
 - [video](https://www.facebook.com/icml.imls/videos/689280291532883/) (03:00 - 23:00)
