@@ -11,6 +11,6 @@
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1809.01093)
 - [pmlr](http://proceedings.mlr.press/v97/bojchevski19a.html)
+- [arXiv](https://arxiv.org/abs/1809.01093)
 - [video](https://www.facebook.com/icml.imls/videos/689280291532883/) (03:00 - 23:00)
