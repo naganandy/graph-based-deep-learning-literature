@@ -206,7 +206,7 @@
 - [Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/asgcn_icml19/README.md)
 - [Graph Convolutional Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gct_cvpr19/README.md)
 - [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/2sagcn_cvpr19/README.md)
-- Skeleton-Based Action Recognition with Directed Graph Neural Networks
+- [Skeleton-Based Action Recognition with Directed Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgnn_cvpr19/README.md)
 
 </details>
 
