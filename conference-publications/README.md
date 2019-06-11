@@ -21,6 +21,7 @@
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rgcn_kdd19/README.md)
 - [Graph Recurrent Networks with Attributed Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grn_kdd19/README.md)
 - [Learning Dynamic Context Graphs for Predicting Social Events](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dynamicgcn_kdd19/README.md)
+- [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oag_kdd19/README.md)
 - [Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geml_kdd19/README.md)
 - [AutoNRL: Hyperparameter Optimization for Massive Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/autonrl_kdd19/README.md)
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
