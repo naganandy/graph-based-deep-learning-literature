@@ -28,6 +28,7 @@
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - Graph Representation Learning via Hard and Channel-Wise Attention Networks
+- Certifiable Robustness and Robust Training for Graph Convolutional Networks
 - The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach
 
 
