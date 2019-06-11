@@ -27,7 +27,7 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
    
 - ## Data conferences
-   * ### [KDD](https://www.kdd.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#kdd-2019-aug) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#kdd-2018-aug)
+   * ### [KDD](https://www.kdd.org/kdd2019/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#kdd-2019-aug) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#kdd-2018-aug)
    * ### [ICDM](http://icdm2019.bigke.org/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#icdm-2018-nov)
    * ### [WWW](https://www2019.thewebconf.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#www-2019-may) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#www-2018-april)
 
