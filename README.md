@@ -1,7 +1,7 @@
 # Graph-based deep learning literature
 
-The repository contains 
-- [links to conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
+The repository contains links to
+- [conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md)
 - [the top 10 most cited publications](https://github.com/naganandy/graph-based-deep-learning-literature#top-10-most-cited-publications)
 - [relevant workshops](https://github.com/naganandy/graph-based-deep-learning-literature#relevant-workshops)
 - [surveys / literature reviews](https://github.com/naganandy/graph-based-deep-learning-literature#surveys--literature-reviews) 
