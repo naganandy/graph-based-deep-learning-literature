@@ -69,7 +69,7 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
 <br> </br>
 
-# Survey papers / literature reviews
+# Surveys / literature reviews
 - ### [Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnreview_arxiv18/README.md)
 - ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnsurvey_arxiv19/README.md)
 - ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dlgsurvey_arxiv18/README.md)
