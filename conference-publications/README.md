@@ -4,7 +4,6 @@
 - ICDM 2019 (Nov, decisions mid Aug)
 - EMNLP 2019 (Nov, decisions mid Aug)
 - ICCV 2019 (Nov, decisions late Jul)
-- UAI 2019 (Jul)
 
 ## -----------------------------------------------------------------------------
 
@@ -123,7 +122,12 @@
 - [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 
+## -----------------------------------------------------------------------------
 
+
+# [UAI 2019 (Jul)](http://auai.org/uai2019/schedule.php)
+- Fisher-Bures Adversary Graph Convolutional Networks
+- N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification
 
 ## -----------------------------------------------------------------------------
 
