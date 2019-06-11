@@ -11,4 +11,4 @@ year = {2019}
 ```
 
 links
-- [researchgate](https://www.researchgate.net/publication/332973933_Explainability_Methods_for_Graph_Convolutional_Neural_Networks)
+- [openaccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
