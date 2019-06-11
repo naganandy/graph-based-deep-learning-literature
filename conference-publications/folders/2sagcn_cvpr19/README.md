@@ -1,7 +1,7 @@
 # Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition
 
 ```
-@InProceedings{2sagcn_cvpr19,
+@inproceedings{2sagcn_cvpr19,
 author = {Shi, Lei and Zhang, Yifan and Cheng, Jian and Lu, Hanqing},
 title = {Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
