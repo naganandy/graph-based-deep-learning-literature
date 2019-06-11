@@ -30,6 +30,7 @@
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - Graph Representation Learning via Hard and Channel-Wise Attention Networks
 - Certifiable Robustness and Robust Training for Graph Convolutional Networks
+- End-to-end Modeling of High-order Relations in Knowledge Graph for Recommendation
 - The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach
 - GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation
 
