@@ -182,7 +182,7 @@
 - [Learning to Cluster Faces on an Affinity Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnds_cvpr19/README.md)
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
-- Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks
+- [Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mangonet_cvpr19/README.md)
 
 <details> 
 <summary> more </summary> 
