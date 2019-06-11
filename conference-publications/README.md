@@ -30,6 +30,8 @@
 - Graph Representation Learning via Hard and Channel-Wise Attention Networks
 - Certifiable Robustness and Robust Training for Graph Convolutional Networks
 - The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach
+- GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation
+
 
 
 ## -----------------------------------------------------------------------------
