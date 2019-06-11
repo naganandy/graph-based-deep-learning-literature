@@ -126,7 +126,7 @@
 
 
 # [UAI 2019 (Jul)](http://auai.org/uai2019/schedule.php)
-- Fisher-Bures Adversary Graph Convolutional Networks
+- [Fisher-Bures Adversary Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fishergcn_uai19/README.md)
 - N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification
 
 ## -----------------------------------------------------------------------------
