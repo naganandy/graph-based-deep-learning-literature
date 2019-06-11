@@ -14,4 +14,5 @@ links
 - [pmlr](http://proceedings.mlr.press/v97/bojchevski19a.html)
 - [arXiv](https://arxiv.org/abs/1809.01093)
 - [code](https://github.com/abojchevski/node_embedding_attack)
+- [slides](https://icml.cc/media/Slides/icml/2019/grandball(11-11-00)-11-11-00-4730-adversarial_att.pdf)
 - [video](https://www.facebook.com/icml.imls/videos/689280291532883/) (03:00 - 23:00)
