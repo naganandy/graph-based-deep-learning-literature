@@ -64,3 +64,7 @@ The repository contains links to conference publications in graph-based deep lea
 - ### [Learning and Reasoning with Graph-Structured Representations (ICML 2019)](https://graphreason.github.io/)
 - ### [Representation Learning on Graphs and Manifolds (ICLR 2019)](https://rlgm.github.io/)
 - ### [Relational Representation Learning (NeurIPS 2018)](https://r2learning.github.io/)
+
+
+# Survey papers / literature reviews
+- ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grl_ideb17/README.md)
