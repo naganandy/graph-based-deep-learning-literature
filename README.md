@@ -60,12 +60,12 @@ The repository contains links to conference publications in graph-based deep lea
 
 # Relevant workshops
 - ## 2019
-   * ### [Scene Graph Representation and Learning (ICCV 2019)](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
-   * ### [Deep Learning on Graphs: Methods and Applications (KDD 2019)](https://dlg2019.bitbucket.io/)
-   * ### [Learning and Reasoning with Graph-Structured Representations (ICML 2019)](https://graphreason.github.io/)
-   * ### [Representation Learning on Graphs and Manifolds (ICLR 2019)](https://rlgm.github.io/)
+   * ### [Scene Graph Representation and Learning (ICCV)](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
+   * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://dlg2019.bitbucket.io/)
+   * ### [Learning and Reasoning with Graph-Structured Representations (ICML)](https://graphreason.github.io/)
+   * ### [Representation Learning on Graphs and Manifolds (ICLR)](https://rlgm.github.io/)
 - ## 2018
-   * ### [Relational Representation Learning (NeurIPS 2018)](https://r2learning.github.io/)
+   * ### [Relational Representation Learning (NeurIPS)](https://r2learning.github.io/)
 
 <br> </br>
 <br> </br>
