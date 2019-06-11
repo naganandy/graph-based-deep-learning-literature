@@ -70,11 +70,14 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
 
 # Surveys / literature reviews
-- ### [Learning Representations of Graph Data -- A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lrg_arxiv19/README.md)
-- ### [Adversarial Attack and Defense on Graph Data: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aagsurvey_arxiv18/README.md)
-- ### [Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnreview_arxiv18/README.md)
-- ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnsurvey_arxiv19/README.md)
-- ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dlgsurvey_arxiv18/README.md)
-- ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnet_arXiv18/README.md)
-- ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grl_ideb17/README.md)
-- ### [Geometric Deep Learning: Going beyond Euclidean data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gdl_isp17/README.md)
+- ## 2019
+   * ### [Learning Representations of Graph Data -- A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lrg_arxiv19/README.md)
+- ## 2018
+   * ### [Adversarial Attack and Defense on Graph Data: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aagsurvey_arxiv18/README.md)
+   * ### [Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnreview_arxiv18/README.md)
+   * ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnsurvey_arxiv19/README.md)
+   * ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dlgsurvey_arxiv18/README.md)
+   * ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnet_arXiv18/README.md)
+- ## 2017
+   * ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grl_ideb17/README.md)
+   * ### [Geometric Deep Learning: Going beyond Euclidean data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gdl_isp17/README.md)
