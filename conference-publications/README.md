@@ -27,6 +27,7 @@
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
+- Graph Representation Learning via Hard and Channel-Wise Attention Networks
 - The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach
 
 
