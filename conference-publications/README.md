@@ -378,6 +378,7 @@
 # [ECCV 2018 (Sep)](http://openaccess.thecvf.com/ECCV2018.py)
 - [Graph R-CNN for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrcnn_eccv18/README.md)
 - [Exploring Visual Relationship for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vrugcnlstm_eccv18/README.md)
+- [Learning Human-Object Interactions by Graph Parsing Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpnn_eccv18/README.md)
 - [Efficient Relative Attribute Learning using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ralgnn_eccv18/README.md)
 - [Local Spectral Graph Convolution for Point Set Feature Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/psgcn_eccv18/README.md)
 - [Person Re-identification with Deep Similarity-Guided Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sggnn_eccv18/README.md)
