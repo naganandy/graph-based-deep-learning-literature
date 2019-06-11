@@ -34,9 +34,9 @@ The repository contains links to conference publications in graph-based deep lea
 <br> </br>
 
 - ## Artificial intelligence conferences
-   * ### [AAAI](https://www.aaai.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2019-feb) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2018-feb) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2017)
-   * ### [IJCAI](https://www.ijcai.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2019-aug) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2018-jul) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2017)
-   * ### [UAI](http://www.auai.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#uai-2019-jul) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#uai-2018-aug)
+   * ### [AAAI](https://aaai.org/Conferences/AAAI-20/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2019-feb) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2018-feb) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#aaai-2017)
+   * ### [IJCAI](http://ijcai19.org/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2019-aug) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2018-jul) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#ijcai-2017)
+   * ### [UAI](http://auai.org/uai2019/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#uai-2019-jul) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#uai-2018-aug)
 
 <br> </br>
 <br> </br>
