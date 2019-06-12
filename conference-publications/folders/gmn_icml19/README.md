@@ -2,16 +2,16 @@
 
 ```
 @inproceedings{gmn_icml19,
-  title = {Graph Matching Networks for Learning the Similarity of Graph Structured Objects}
-  author = {Yujia Li and
-            Chenjie Gu and
-            Thomas Dullien and
-            Oriol Vinyals and
-            Pushmeet Kohli},
-  booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
-  year = {2019}
+  title = 	 {Graph Matching Networks for Learning the Similarity of Graph Structured Objects},
+  author = 	 {Li, Yujia and Gu, Chenjie and Dullien, Thomas and Vinyals, Oriol and Kohli, Pushmeet},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  pages = 	 {3835--3845},
+  year = 	 {2019}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v97/li19d.html)
 - [arXiv](https://arxiv.org/abs/1904.12787)
+- [slides](https://icml.cc/media/Slides/icml/2019/halla(11-16-00)-11-16-00-4840-graph_matching_.pdf)
+- [video](https://www.facebook.com/icml.imls/videos/3253466301345987/)(0:05:30 - )
