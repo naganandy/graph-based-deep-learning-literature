@@ -129,6 +129,8 @@
 - Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model
 - Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension
 - Joint Type Inference on Entities and Relations via Graph Convolutional Networks
+- Attention Guided Graph Convolutional Networks for Relation Extraction
+
 
 
 ## -----------------------------------------------------------------------------
