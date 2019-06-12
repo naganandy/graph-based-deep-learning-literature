@@ -114,7 +114,7 @@
 
 ## -----------------------------------------------------------------------------
 
- # ACL 2019 (Jul)
+ # [ACL 2019 (Jul)](http://www.acl2019.org/EN/program/papers.xhtml)
 - [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wordgcn_acl19/README.md)
 - [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_acl19/README.md)
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/paperrobot_acl19/README.md)
@@ -125,6 +125,9 @@
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
+- OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
+- Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model
+- Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension
 
 ## -----------------------------------------------------------------------------
 
