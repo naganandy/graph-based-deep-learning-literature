@@ -132,6 +132,8 @@
 - Attention Guided Graph Convolutional Networks for Relation Extraction
 - GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction
 - The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers
+- Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
+
 
 
 ## -----------------------------------------------------------------------------
