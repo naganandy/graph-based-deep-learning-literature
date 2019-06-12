@@ -42,6 +42,7 @@
 
  # [IJCAI 2019 (Aug)](https://www.ijcai19.org/accepted-papers.html)
  - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igjsma_ijcai19/README.md)
+- [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tadgnn_ijcai19/README.md)
 - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 - [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agc_ijcai19/README.md)
 - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ahne_ijcai19/README.md)
@@ -70,7 +71,6 @@
 <details> 
 <summary> more </summary> 
  
-- Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective
 - Topology Optimization based Graph Convolutional Network
 - Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
