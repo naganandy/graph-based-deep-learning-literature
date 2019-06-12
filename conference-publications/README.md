@@ -134,6 +134,7 @@
 - The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
 - Matching Article Pairs with Graphical Decomposition and Convolutions
+- Graph-based Dependency Parsing with Graph Neural Networks
 
 
 
