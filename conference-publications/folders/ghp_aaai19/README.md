@@ -11,4 +11,4 @@
 ```
 
 links
-- [aaai](https://www.aaai.org/Papers/AAAI/2019/AAAI-ShangJin.7866.pdf)
+- [preprint](https://jshang2.github.io/pubs/geo.pdf)
