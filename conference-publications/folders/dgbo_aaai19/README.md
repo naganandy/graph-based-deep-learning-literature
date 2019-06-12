@@ -12,4 +12,4 @@
 ```
 
 links
-- [preprint](https://www.aaai.org/Papers/AAAI/2019/AAAI-CuiJ.1177.pdf)
+- [arXiv](https://arxiv.org/abs/1905.13403)
