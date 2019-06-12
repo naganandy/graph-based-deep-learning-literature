@@ -128,6 +128,8 @@
 - OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
 - Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model
 - Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension
+- Joint Type Inference on Entities and Relations via Graph Convolutional Networks
+
 
 ## -----------------------------------------------------------------------------
 
