@@ -72,7 +72,7 @@
 <summary> more </summary> 
  
 - Topology Optimization based Graph Convolutional Network
-- Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks
+- [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgcn_ijcai19/README.md)
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Variational Graph Embedding and Clustering with Laplacian Eigenmaps
