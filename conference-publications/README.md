@@ -137,6 +137,7 @@
 - Graph-based Dependency Parsing with Graph Neural Networks
 - Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media
 - Graph Neural Networks with Generated Parameters for Relation Extraction
+- Multi-Channel Graph Neural Network for Entity Alignment
 
 
 
