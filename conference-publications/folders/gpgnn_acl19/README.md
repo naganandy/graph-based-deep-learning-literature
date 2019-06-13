@@ -2,13 +2,12 @@
 
 ```
 @inproceedings{gpgnn_acl19,
-  author    = {Bang Liu and
-               Di Niu and
-               Haojie Wei and
-               Jinghong Lin and
-               Yancheng He and
-               Kunfeng Lai and
-               Yu Xu},
+  author    = {Hao Zhu and
+               Yankai Lin and
+               Zhiyuan Liu and
+               Jie Fu and
+               Tat-seng Chua and
+               Maosong Sun},
   title     = {Graph Neural Networks with Generated Parameters for Relation Extraction},
   booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year      = {2019}
