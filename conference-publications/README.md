@@ -171,7 +171,7 @@
 - [MixHop: Higher-Order Graph Convolution Architectures via Sparsified Neighborhood Mixing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mixhop_icml19/README.md)
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gsc_icml19/README.md)
 - [Graph Element Networks: adaptive, structured computation and memory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gen_icml19/README.md)
-- [Graphite: Iterative Deep Generative Modeling of Large GraphsIterative Deep Generative Modeling of Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphite_icml19/README.md)
+- [Graphite: Iterative Deep Generative Modeling of Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphite_icml19/README.md)
 - [Functional Transparency for Structured Data: a Game-Theoretic Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ftgt_icml19/README.md)
 - [Graph Convolutional Gaussian Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcgp_icml19/README.md)
 - [Geometry Aware Convolutional Filters for Omnidirectional Images Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gac_icml19/README.md)
