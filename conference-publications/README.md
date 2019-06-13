@@ -135,7 +135,7 @@
 - Joint Type Inference on Entities and Relations via Graph Convolutional Networks
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
 - Graph-based Dependency Parsing with Graph Neural Networks
-- Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media
+- Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
 - Graph Neural Networks with Generated Parameters for Relation Extraction
 - Multi-Channel Graph Neural Network for Entity Alignment
 - A2N: Attending to Neighbors for Knowledge Graph Inference
