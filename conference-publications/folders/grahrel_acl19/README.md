@@ -1,7 +1,7 @@
 # GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction
 
 ```
-@inproceedings{aggcn_acl19,
+@inproceedings{graphrel_acl19,
   author    = {Tsu-Jui Fu and
                Peng-Hsuan Li and
                Wei-Yun Ma},
