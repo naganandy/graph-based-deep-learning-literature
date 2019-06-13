@@ -12,4 +12,5 @@
 
 links
 - [pmlr](http://proceedings.mlr.press/v97/you19b.html)
+- [arXiv](https://arxiv.org/abs/1906.04817)
 - [code](https://github.com/JiaxuanYou/P-GNN)
