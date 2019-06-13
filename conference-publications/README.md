@@ -125,6 +125,7 @@
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cogqa_acl19/README.md)
 - [Attention Guided Graph Convolutional Networks for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aggcn_acl19/README.md)
 - [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grahrel_acl19/README.md)
+- [Graph Neural Networks with Generated Parameters for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpgnn_acl19/README.md)
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
 - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cigcn_acl19/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
@@ -136,7 +137,6 @@
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
 - Graph-based Dependency Parsing with Graph Neural Networks
 - Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
-- Graph Neural Networks with Generated Parameters for Relation Extraction
 - Multi-Channel Graph Neural Network for Entity Alignment
 - A2N: Attending to Neighbors for Knowledge Graph Inference
 
