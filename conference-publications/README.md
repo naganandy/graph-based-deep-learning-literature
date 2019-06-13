@@ -126,6 +126,7 @@
 - [Attention Guided Graph Convolutional Networks for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aggcn_acl19/README.md)
 - [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grahrel_acl19/README.md)
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
+- [Matching Article Pairs with Graphical Decomposition and Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cigcn_acl19/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 - [The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbsibl_acl19/README.md)
@@ -133,7 +134,6 @@
 - OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
 - Joint Type Inference on Entities and Relations via Graph Convolutional Networks
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
-- Matching Article Pairs with Graphical Decomposition and Convolutions
 - Graph-based Dependency Parsing with Graph Neural Networks
 - Encoding Social Information with Graph Convolutional Networks forPolitical Perspective Detection in News Media
 - Graph Neural Networks with Generated Parameters for Relation Extraction
