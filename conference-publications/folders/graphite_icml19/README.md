@@ -1,4 +1,4 @@
-# Iterative Deep Generative Modeling of Large Graphs
+# Graphite: Iterative Deep Generative Modeling of Large Graphs
 
 ```
 @inproceedings{graphite_icml19,
