@@ -119,6 +119,7 @@
 - [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_acl19/README.md)
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/paperrobot_acl19/README.md)
 - [Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/intere_acl19/README.md)
+- [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fgcn_acl19/README.md)
 - [Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnhderc_acl19/README.md)
 - [Dynamically Fused Graph Network for Multi-hop Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfgn_acl19/README.md)
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cogqa_acl19/README.md)
@@ -127,7 +128,6 @@
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 - [Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chineseg2s_acl19/README.md)
 - OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
-- Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension
 - Joint Type Inference on Entities and Relations via Graph Convolutional Networks
 - Attention Guided Graph Convolutional Networks for Relation Extraction
 - GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction
