@@ -11,6 +11,7 @@
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1905.11634)
 - [pmlr](http://proceedings.mlr.press/v97/zhang19f.html)
+- [arXiv](https://arxiv.org/abs/1905.11634)
 - [code](https://github.com/latentgnn/LatentGNN-V1-PyTorch)
+- [video](https://www.facebook.com/icml.imls/videos/321425055451434/) (1:13:30 - 1:19:00)
