@@ -11,5 +11,5 @@
 ```
 
 links
-- [preprint](http://pengcui.thumedialab.com/papers/DisenGCN.pdf)
 - [pmlr](http://proceedings.mlr.press/v97/ma19a.html)
+- [slides](https://icml.cc/media/Slides/icml/2019/102(12-16-00)-12-16-35-4503-disentangled_gr.pdf)
