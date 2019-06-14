@@ -14,3 +14,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1903.02541)
+- [slides](https://icml.cc/media/Slides/icml/2019/102(12-16-00)-12-16-30-4502-relational_pool.pdf)
