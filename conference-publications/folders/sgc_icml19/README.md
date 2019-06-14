@@ -11,6 +11,7 @@
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/1902.07153)
 - [pmlr](http://proceedings.mlr.press/v97/wu19e.html)
+- [arXiv](https://arxiv.org/abs/1902.07153)
+- [slides](https://icml.cc/media/Slides/icml/2019/201(11-16-00)-11-17-05-5000-simplifying_gra.pdf)
 - [code](https://github.com/Tiiiger/SGC)
