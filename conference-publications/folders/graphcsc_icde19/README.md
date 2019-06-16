@@ -6,10 +6,12 @@
                Hongzhi Yin and
                Tong Chen and
                Quoc Viet Hung Nguyen and
-               Wen-Chih Peng and
+               Wen{-}Chih Peng and
                Xue Li},
-  title     = {Exploiting Centrality Information with Graph Convolutions for Network Representation Learning},
-  booktitle = {35th {IEEE} International Conference on Data Engineering, (ICDE)},
+  title     = {Exploiting Centrality Information with Graph Convolutions for Network
+               Representation Learning},
+  booktitle = {35th {IEEE} International Conference on Data Engineering (ICDE)},
+  pages     = {590--601},
   year      = {2019}
 }
 ```
