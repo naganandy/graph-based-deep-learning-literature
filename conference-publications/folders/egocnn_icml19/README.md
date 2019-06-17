@@ -12,4 +12,5 @@
 
 links
 - [pmlr](http://proceedings.mlr.press/v97/tzeng19a.html)
+- [slides](https://drive.google.com/file/d/1ypDgm_EVsJCjC0c5Rl7dBvzQSRjSbkXZ/view?usp=sharing)
 - [code](https://github.com/rutzeng/EgoCNN)
