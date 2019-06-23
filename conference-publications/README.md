@@ -132,10 +132,10 @@
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 - [The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbsibl_acl19/README.md)
 - [Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chineseg2s_acl19/README.md)
+- [Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppdgcn_acl19/README.md)
 - OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
 - Graph-based Dependency Parsing with Graph Neural Networks
-- Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
 - Multi-Channel Graph Neural Network for Entity Alignment
 - A2N: Attending to Neighbors for Knowledge Graph Inference
 
