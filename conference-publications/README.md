@@ -46,6 +46,7 @@
 - [Topology Optimization based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/togcn_ijcai19/README.md)
 - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 - [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/maskedgcn_ijcai19/README.md)
+- [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dspgcn_ijcai19/README.md)
 - [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agc_ijcai19/README.md)
 - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ahne_ijcai19/README.md)
 - [DANE: Domain Adaptive Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dane_ijcai19/README.md)
@@ -62,7 +63,6 @@
  - [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ugraphemb_ijcai19/README.md)
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
-- [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dspgcn_ijcai19/README.md)
 - Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - Dynamic Hypergraph Neural Networks
