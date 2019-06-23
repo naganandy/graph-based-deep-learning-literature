@@ -63,6 +63,7 @@
  - [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ugraphemb_ijcai19/README.md)
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
+- [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daegc_ijcai19/README.md)
 - Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - Dynamic Hypergraph Neural Networks
@@ -77,7 +78,6 @@
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Variational Graph Embedding and Clustering with Laplacian Eigenmaps
-- Attributed Graph Clustering: A Deep Attentional Embedding Approach
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 - Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
