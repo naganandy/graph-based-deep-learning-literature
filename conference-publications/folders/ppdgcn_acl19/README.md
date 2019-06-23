@@ -1,7 +1,7 @@
 # Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media
 
 ```
-@inproceedings{chineseg2s_acl19,
+@inproceedings{ppdgcn_acl19,
   author    = {Chang Li and
                Dan Goldwasser},
   title     = {Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media},
