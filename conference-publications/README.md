@@ -43,6 +43,7 @@
  # [IJCAI 2019 (Aug)](https://www.ijcai19.org/accepted-papers.html)
  - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igjsma_ijcai19/README.md)
 - [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tadgnn_ijcai19/README.md)
+- [Topology Optimization based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/togcn_ijcai19/README.md)
 - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 - [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/maskedgcn_ijcai19/README.md)
 - [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agc_ijcai19/README.md)
@@ -64,16 +65,15 @@
 - [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dspgcn_ijcai19/README.md)
 - Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
-- A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Dynamic Hypergraph Neural Networks
-- Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - Hypergraph Induced Convolutional Manifold Networks
 
 
 <details> 
 <summary> more </summary> 
  
-- Topology Optimization based Graph Convolutional Network
+ - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
+ - Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Variational Graph Embedding and Clustering with Laplacian Eigenmaps
