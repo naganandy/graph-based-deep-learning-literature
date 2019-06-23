@@ -61,7 +61,7 @@
  - [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ugraphemb_ijcai19/README.md)
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
-- Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology
+- [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dspgcn_ijcai19/README.md)
 - Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
