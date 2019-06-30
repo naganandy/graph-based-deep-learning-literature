@@ -72,7 +72,7 @@
 <details> 
 <summary> more </summary> 
  
-- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks
+- [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgat_ijcai19/README.md)
  - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stg2seq_ijcai19/README.md)
  - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
