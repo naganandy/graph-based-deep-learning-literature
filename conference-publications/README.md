@@ -44,6 +44,7 @@
  - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/igjsma_ijcai19/README.md)
 - [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tadgnn_ijcai19/README.md)
 - [Topology Optimization based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/togcn_ijcai19/README.md)
+- SPAGAN: Shortest Path Graph Attention Network
 - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 - [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/maskedgcn_ijcai19/README.md)
 - [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dspgcn_ijcai19/README.md)
@@ -56,10 +57,8 @@
  - [GSN: A Graph-Structured Network for Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gsn_ijcai19/README.md)
  - [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgcn_ijcai19/README.md)
 - [Binarized Collaborative Filtering with Distilling Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bincf_ijcai19/README.md)
- - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
  - [STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/edit/master/conference-publications/README.md)
 - [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wavenet_ijcai19/README.md)
- - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stg2seq_ijcai19/README.md)
  - [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ugraphemb_ijcai19/README.md)
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
@@ -73,8 +72,11 @@
 <details> 
 <summary> more </summary> 
  
- - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
- - Joint Link Prediction and Network Alignment via Cross-graph Embedding
+- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks
+ - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stg2seq_ijcai19/README.md)
+ - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
+- A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
+- Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
 - Variational Graph Embedding and Clustering with Laplacian Eigenmaps
@@ -87,25 +89,20 @@
 - TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Graph Space Embedding
-- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks
 - Noise-Resilient Similarity Preserving Network Embedding for Social Networks
 - Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
 - Neural News Recommendation with Attentive Multi-View Learning
-- SPAGAN: Shortest Path Graph Attention Network
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
-- Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning
 - Multi-view Spectral Clustering Network
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
 - Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
-- Learning Network Embedding with Community Structural Information
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
 - Adversarial Graph Embedding for Ensemble Clustering
-- Knowledge Amalgamation from Heterogeneous Networks by Common Feature Learning
 - Incorporating Structural Information for Better Coreference Resolution
 
 </details>
