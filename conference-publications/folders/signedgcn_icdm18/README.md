@@ -7,6 +7,7 @@
                Jiliang Tang},
   title     = {Signed Graph Convolutional Network},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {929--934},
   year      = {2018}
 }
 ```
