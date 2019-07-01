@@ -10,7 +10,7 @@
                Dit{-}Yan Yeung},
   title     = {GaAN: Gated Attention Networks for Learning on Large and Spatiotemporal Graphs},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Uncertainty in Artificial Intelligence (UAI)},
-  pages     = {339--349}
+  pages     = {339--349},
   year      = {2018}
 }
 ```
