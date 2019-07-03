@@ -12,3 +12,4 @@ year = {2019}
 
 links
 - [openaccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.html)
+- [spotlight](https://youtu.be/PzALQZOy09c?t=5450)
