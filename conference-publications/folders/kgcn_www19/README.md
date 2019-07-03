@@ -8,7 +8,8 @@
               Wenjie Li and
               Minyi Guo},
   title     = {Knowledge Graph Convolutional Networks for Recommender Systems},
-  booktitle = {Proceedings of the 2019 World Wide Web Conference (WWW)},
+  booktitle = {The World Wide Web Conference (WWW)},
+  pages     = {3307--3313},
   year      = {2019}
 }
 ```
