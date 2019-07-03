@@ -1,4 +1,4 @@
-# Exploiting Edge Features in Graph Neural Networks
+# Exploiting Edge Features for Graph Neural Networks
 
 ```
 @inproceedings{egnn_cvpr19,
