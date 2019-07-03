@@ -7,8 +7,7 @@
  booktitle = {The World Wide Web Conference (WWW)},
  pages = {2091--2102},
  year = {2019}
-} 
-
+}
 ```
 
 links
