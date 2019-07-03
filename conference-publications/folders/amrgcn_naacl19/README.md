@@ -2,13 +2,16 @@
 
 ```
 @inproceedings{amrgcn_naacl19,
-  author =  {Marco Damonte and
-            Shay B. Cohen},
-  title =   {Structural Neural Encoders for AMR-to-text Generation},
-  booktitle =   {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
-  year =  {2019}
+    title = {Structural Neural Encoders for {AMR}-to-text Generation},
+    author = {Damonte, Marco  and
+      Cohen, Shay B.},
+    booktitle = {Proceedings of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
+    pages = {3649--3658},
+    year = {2019}
 }
 ```
 
 links
+- [aclweb](https://www.aclweb.org/anthology/papers/N/N19/N19-1366/)
 - [arXiv](https://arxiv.org/abs/1903.11410)
+- [slides](https://www.aclweb.org/anthology/attachments/N19-1366.Presentation.pdf)
