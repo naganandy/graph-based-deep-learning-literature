@@ -6,7 +6,7 @@
               Dustin Zelle and
               Bryan Perozzi},
   title     = {DDGK: Learning Graph Representations for Deep Divergence Graph Kernels},
-  booktitle = {Proceedings of the 2019 World Wide Web Conference (WWW)},
+  booktitle = {The World Wide Web Conference (WWW)},
   pages     = {37--48},
   year      = {2019}
 }
