@@ -1,7 +1,7 @@
 # Multi-Label Image Recognition with Graph Convolutional Networks
 
 ```
-@InProceedings{mlgcn_cvpr19,
+@inproceedings{mlgcn_cvpr19,
 author = {Chen, Zhao-Min and Wei, Xiu-Shen and Wang, Peng and Guo, Yanwen},
 title = {Multi-Label Image Recognition With Graph Convolutional Networks},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
