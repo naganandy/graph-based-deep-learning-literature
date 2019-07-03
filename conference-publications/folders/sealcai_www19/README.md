@@ -9,7 +9,7 @@
               Wenbing Huang and
               Junzhou Huang},
   title     = {Semi-Supervised Graph Classification: A Hierarchical Graph Perspective},
-  booktitle = {Proceedings of the 2019 World Wide Web Conference (WWW)},
+  booktitle = {The World Wide Web Conference (WWW)},
   pages     = {972--982},
   year      = {2019}
 }
