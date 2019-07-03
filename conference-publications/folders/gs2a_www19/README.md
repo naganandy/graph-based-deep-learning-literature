@@ -12,5 +12,4 @@
 ````
 
 links
-- [preprint](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/www19-353%20%281%29.pdf)
 - [acm](https://dl.acm.org/citation.cfm?id=3313746)
