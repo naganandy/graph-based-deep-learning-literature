@@ -1,7 +1,7 @@
 # Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning
 
 ```
-@InProceedings{Gidaris_2019_CVPR,
+@inproceedings{wdaegnn_cvpr19,
 author = {Gidaris, Spyros and Komodakis, Nikos},
 title = {Generating Classification Weights With GNN Denoising Autoencoders for Few-Shot Learning},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
