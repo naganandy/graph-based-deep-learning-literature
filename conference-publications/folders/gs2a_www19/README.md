@@ -10,10 +10,12 @@
                Yancheng He and
                Yu Xu},
   title     = {Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network},
-  booktitle = {Proceedings of the 2019 World Wide Web Conference (WWW)},
+  booktitle = {The World Wide Web Conference (WWW)},
+  pages     = {2792--2798},
   year      = {2019}
 }
 ````
 
 links
 - [preprint](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/www19-353%20%281%29.pdf)
+- [acm](https://dl.acm.org/citation.cfm?id=3313746)
