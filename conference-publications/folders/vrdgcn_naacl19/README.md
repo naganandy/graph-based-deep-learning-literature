@@ -2,15 +2,17 @@
 
 ```
 @inproceedings{vrdgcn_naacl19,
-  author =  {Xiaojing Liu and
-            Feiyu Gao and
-            Qiong Zhang and
-            Huasha Zhao},
-  title =   {Graph Convolution for Multimodal Information Extraction from Visually Rich Documents},
-  booktitle =   {Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
-  year =  {2019}
+    title = {Graph Convolution for Multimodal Information Extraction from Visually Rich Documents},
+    author = {Liu, Xiaojing  and
+      Gao, Feiyu  and
+      Zhang, Qiong  and
+      Zhao, Huasha},
+    booktitle = {Proceedings of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
+    pages = {32--39},
+    year = {2019}
 }
 ```
 
 links
+- [aclweb](https://aclweb.org/anthology/papers/N/N19/N19-2005/)
 - [arXiv](https://arxiv.org/abs/1903.11279)
