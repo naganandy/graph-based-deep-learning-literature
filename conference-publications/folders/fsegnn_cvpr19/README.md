@@ -1,7 +1,7 @@
 # Edge-labeling Graph Neural Network for Few-shot Learning
 
 ```
-@InProceedings{Kim_2019_CVPR,
+@inproceedings{fsegnn_cvpr19,
 author = {Kim, Jongmin and Kim, Taesup and Kim, Sungwoong and Yoo, Chang D.},
 title = {Edge-Labeling Graph Neural Network for Few-Shot Learning},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
