@@ -18,4 +18,4 @@ links
 - [aaai](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16098)
 - [arXiv](https://arxiv.org/abs/1801.07606)
 - [projectpage](https://liqimai.github.io/blog/AAAI-18/)
-- [code](https://github.com/liqimai/gcn/tree/AAAI-18/_
+- [code](https://github.com/liqimai/gcn/tree/AAAI-18/)
