@@ -12,6 +12,6 @@ year = {2019}
 
 links
 - [openacess](http://openaccess.thecvf.com/content_CVPR_2019/html/Kim_Edge-Labeling_Graph_Neural_Network_for_Few-Shot_Learning_CVPR_2019_paper.html)
-- [arXiv](https://128.84.21.199/abs/1905.01436)
+- [arXiv](https://arxiv.org/abs/1905.01436)
 - [spotlight](https://youtu.be/KHEknuuCz0E?t=304)
 - [code](https://github.com/khy0809/fewshot-egnn)
