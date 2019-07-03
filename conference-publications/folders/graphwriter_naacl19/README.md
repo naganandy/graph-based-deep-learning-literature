@@ -9,7 +9,7 @@
       Luan, Yi  and
       Lapata, Mirella  and
       Hajishirzi, Hannaneh},
-    booktitle = {Proceedings of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies},
+    booktitle = {Proceedings of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
     pages = {2284--2293},
     year = {2019}
 }
