@@ -2,15 +2,11 @@
 
 ```
 @inproceedings{kgcn_www19,
-  author    = {Hongwei Wang and
-              Miao Zhao and
-              Xing Xie and
-              Wenjie Li and
-              Minyi Guo},
-  title     = {Knowledge Graph Convolutional Networks for Recommender Systems},
-  booktitle = {The World Wide Web Conference (WWW)},
-  pages     = {3307--3313},
-  year      = {2019}
+ author = {Wang, Hongwei and Zhao, Miao and Xie, Xing and Li, Wenjie and Guo, Minyi},
+ title = {Knowledge Graph Convolutional Networks for Recommender Systems},
+ booktitle = {The World Wide Web Conference (WWW)},
+ pages = {3307--3313},
+ year = {2019}
 }
 ```
 
