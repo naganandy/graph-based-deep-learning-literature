@@ -97,7 +97,6 @@
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
 - Multi-view Spectral Clustering Network
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
-- Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
