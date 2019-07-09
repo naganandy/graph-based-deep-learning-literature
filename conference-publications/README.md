@@ -26,6 +26,7 @@
 - [Learning Dynamic Context Graphs for Predicting Social Events](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dynamicgcn_kdd19/README.md)
 - [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oag_kdd19/README.md)
 - [Graph Transformation Policy Network for Chemical Reaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gtpn_kdd19/README.md)
+- [GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnmf_kdd19/README.md)
 - [Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geml_kdd19/README.md)
 - [AutoNRL: Hyperparameter Optimization for Massive Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/autonrl_kdd19/README.md)
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
@@ -33,7 +34,6 @@
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - End-to-end Modeling of High-order Relations in Knowledge Graph for Recommendation
-- GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation
 
 
 
