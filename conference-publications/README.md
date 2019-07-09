@@ -20,6 +20,7 @@
 - [Exact-K Recommendation via Maximal Clique Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gatmco_kdd19/README.md)
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rgcn_kdd19/README.md)
 - [Certifiable Robustness and Robust Training for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rhu_kdd19/README.md)
+- [HetGNN: Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hetgnn_kdd19/README.md)
 - [Graph Representation Learning via Hard and Channel-Wise Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hganet_kdd19/README.md)
 - [Graph Recurrent Networks with Attributed Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grn_kdd19/README.md)
 - [Learning Dynamic Context Graphs for Predicting Social Events](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dynamicgcn_kdd19/README.md)
@@ -30,7 +31,6 @@
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
 - [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
-- HetGNN: Heterogeneous Graph Neural Network
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - End-to-end Modeling of High-order Relations in Knowledge Graph for Recommendation
 - The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach
