@@ -12,3 +12,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1905.01004)
+- [spotlight](https://youtu.be/__HXfQ3vVWw)
