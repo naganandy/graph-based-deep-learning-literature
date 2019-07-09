@@ -33,7 +33,6 @@
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - End-to-end Modeling of High-order Relations in Knowledge Graph for Recommendation
-- The Impact of Person-Organization Fit on Talent Management: A Structure-Aware Convolutional Neural Network Approach
 - GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation
 
 
