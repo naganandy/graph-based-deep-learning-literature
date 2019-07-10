@@ -15,4 +15,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1905.08865)
-- [spotlight](https://youtu.be/EQ3jGt9Ve5k)
+- [spotlight](https://www.youtube.com/watch?v=EQ3jGt9Ve5k)
