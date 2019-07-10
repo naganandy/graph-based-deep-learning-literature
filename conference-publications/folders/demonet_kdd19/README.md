@@ -13,3 +13,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1906.02319)
+- [spotlight](https://www.youtube.com/watch?v=xXrHlpb9pno)
