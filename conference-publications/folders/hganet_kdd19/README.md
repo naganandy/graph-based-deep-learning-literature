@@ -12,3 +12,4 @@
 
 links
 - [poster](http://people.tamu.edu/~hongyang.gao/pdfs/Graph_Hard_Attn_Poster.pdf)
+- [spotlight](https://www.youtube.com/watch?v=sIXzuaC_oEg)
