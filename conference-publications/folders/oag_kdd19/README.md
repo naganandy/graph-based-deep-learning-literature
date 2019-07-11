@@ -21,3 +21,4 @@
 
 links
 - [preprint](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf)
+- [spotlight](https://www.youtube.com/watch?v=SEv_mLtRWUQ)
