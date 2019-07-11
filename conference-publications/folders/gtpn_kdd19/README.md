@@ -10,3 +10,7 @@
   year      = {2019}
 }
 ```
+
+links
+- [arXiv](https://arxiv.org/abs/1812.09441)
+- [spotlight](https://www.youtube.com/watch?v=F_6joHsqsj0)
