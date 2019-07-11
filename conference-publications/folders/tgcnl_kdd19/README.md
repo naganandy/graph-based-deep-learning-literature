@@ -14,4 +14,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1906.00355)
+- [spotlight](https://www.youtube.com/watch?v=m8m72FSDgPY)
 - [code](https://github.com/INK-USC/temporal-gcn-lstm)
