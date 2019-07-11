@@ -13,3 +13,4 @@
 
 links
 - [preprint](https://yue-ning.github.io/docs/KDD19_DynamicGCN.pdf)
+- [spotlight](https://www.youtube.com/watch?v=QJDoCLDrVE4)
