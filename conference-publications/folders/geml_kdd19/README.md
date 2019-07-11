@@ -16,3 +16,4 @@
 
 links
 - [preprint](https://www.dropbox.com/s/erz0b9c13aeoelj/KDD19-Yuandong.pdf?dl=0)
+- [spotlight](https://www.youtube.com/watch?v=E52D43GUvQo)
