@@ -14,6 +14,7 @@
 - [DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/demonet_kdd19/README.md)
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clustergcn_kdd19/README.md)
 - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_kdd19/README.md)
+- [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/jodie_cvpr19/README.md)
 - [Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geni_kdd19/README.md)
 - [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/polygcn_kdd19/README.md)
 - [MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mcne_kdd19/README.md)
