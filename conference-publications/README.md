@@ -133,7 +133,6 @@
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
 - Graph-based Dependency Parsing with Graph Neural Networks
 - Multi-Channel Graph Neural Network for Entity Alignment
-- A2N: Attending to Neighbors for Knowledge Graph Inference
 
 
 
