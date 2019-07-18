@@ -75,6 +75,7 @@
 - [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgat_ijcai19/README.md)
  - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stg2seq_ijcai19/README.md)
  - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
+- [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tag2gauss_ijcai19/README.md)
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
@@ -94,7 +95,6 @@
 - Neural News Recommendation with Attentive Multi-View Learning
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
-- Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
 - Multi-view Spectral Clustering Network
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
