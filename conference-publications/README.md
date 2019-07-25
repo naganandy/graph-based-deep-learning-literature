@@ -96,7 +96,6 @@
 - Graph Space Embedding
 - Noise-Resilient Similarity Preserving Network Embedding for Social Networks
 - Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
-- Neural News Recommendation with Attentive Multi-View Learning
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
