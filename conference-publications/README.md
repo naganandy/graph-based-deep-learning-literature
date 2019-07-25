@@ -6,7 +6,7 @@
 
 ## -----------------------------------------------------------------------------
 # ICCV 2019 (Nov)
-Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation
+[Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neural3dmm/README.md)
 
 ## -----------------------------------------------------------------------------
 
