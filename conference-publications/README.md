@@ -3,9 +3,13 @@
 - NeurIPS 2019 (Dec, decisions early Sep)
 - ICDM 2019 (Nov, decisions mid Aug)
 - EMNLP 2019 (Nov, decisions mid Aug)
-- ICCV 2019 (Nov, decisions late Jul)
 
 ## -----------------------------------------------------------------------------
+# ICCV 2019 (Nov)
+Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation
+
+## -----------------------------------------------------------------------------
+
 
 # [KDD 2019 (Aug)](https://www.kdd.org/kdd2019/accepted-papers)
 - [Stability and Generalization of Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgb_kdd19/README.md)
