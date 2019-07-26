@@ -10,6 +10,7 @@
                Bowen Zhou},
   title     = {End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion},
   booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {4424--4431},
   year      = {2019}
 }
 ```
