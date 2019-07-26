@@ -6,6 +6,7 @@
                Joshua Blummenstock},
   title     = {Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty},
   booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {606--613},
   year      = {2019}
 }
 ```
