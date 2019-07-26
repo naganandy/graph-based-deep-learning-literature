@@ -4,7 +4,7 @@
 @inproceedings{deepgcn_iccv19,
   author    = {Guohao Li and Matthias Müller and Ali Thabet and Bernard Ghanem},
   title     = {Can GCNs Go as Deep as CNNs?},
-  booktitle = {{IEEE} International Conference on Computer Vision, (ICCV)},
+  booktitle = {{IEEE} International Conference on Computer Vision (ICCV)},
   year      = {2019}
 }
 ```
