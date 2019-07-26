@@ -17,3 +17,4 @@
 links
 - [aaai](https://aaai.org/ojs/index.php/AAAI/article/view/4399)
 - [arXiv](https://arxiv.org/abs/1809.02721)
+- [implementation](https://github.com/machine-reasoning-ufrgs/TSP-GNN)
