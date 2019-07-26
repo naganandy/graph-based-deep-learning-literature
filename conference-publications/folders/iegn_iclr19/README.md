@@ -14,4 +14,5 @@ year={2019},
 
 links
 - [openreview](https://openreview.net/forum?id=Syx72jC9tm)
+- [arXiv](https://arxiv.org/abs/1812.09902)
 - [video](https://slideslive.com/38917604/invariant-graph-networks)
