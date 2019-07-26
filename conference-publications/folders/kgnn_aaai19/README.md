@@ -17,4 +17,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1810.02244)
+- [video](https://slideslive.com/38917609/graph-neural-networks-and-graph-isomorphism)
 - [code](https://github.com/k-gnn/k-gnn)
