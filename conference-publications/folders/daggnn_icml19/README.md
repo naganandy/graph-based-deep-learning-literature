@@ -13,7 +13,7 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/yu19a.html)
 - [arXiv](https://arxiv.org/abs/1904.10098)
-- [video](https://slideslive.com/38917909/optimization-and-graphical-models)(50:16-55:30)
+- [video](https://slideslive.com/38917909/optimization-and-graphical-models) (50:16 - 55:30)
 - [presentation](https://icml.cc/media/Slides/icml/2019/101(13-11-00)-13-12-10-5195-dag-gnn_dag_st.pdf)
 - [slides](https://jie-chen-ibm.appspot.com/pub/DAG-GNN_slides.pdf)
 - [code](https://github.com/fishmoon1234/DAG-GNN)
