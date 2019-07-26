@@ -9,7 +9,7 @@
                Raquel Urtasun and
                Sanja Fidler},
   title     = {Situation Recognition with Graph Neural Networks},
-  booktitle = {{IEEE} International Conference on Computer Vision, (ICCV)},
+  booktitle = {{IEEE} International Conference on Computer Vision (ICCV)},
   pages     = {4183--4192},
   year      = {2017}
 }
