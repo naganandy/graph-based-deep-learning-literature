@@ -54,8 +54,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 1. ### [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcnn_nips15/README.md)
 1. ### [The Graph Neural Network Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnn_tnn09/README.md)
 1. ### [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphsage_nips17/README.md)
-1. ### [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_icml16/README.md)
 1. ### [Gated Graph Sequence Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ggnn_iclr16/README.md)
+1. ### [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_icml16/README.md)
 1. ### [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mpnn_icml17/README.md)
 1. ### [Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gan_iclr18/README.md)
 
