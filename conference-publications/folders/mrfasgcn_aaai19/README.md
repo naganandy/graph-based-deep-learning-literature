@@ -9,9 +9,10 @@
                Weixiong Zhang},
   title     = {Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attributed Networks},
   booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {152--159},
   year      = {2019}
 }
 ```
 
 links
-- [preprint](https://www.aaai.org/Papers/AAAI/2019/AAAI-JinDi2.4306.pdf)
+- [aaai](https://aaai.org/ojs/index.php/AAAI/article/view/3780)
