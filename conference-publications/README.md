@@ -323,7 +323,7 @@
 - [Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bgcn_aaai19/README.md)
 - [Deep Bayesian Optimization on Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgbo_aaai19/README.md)
 - [Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ghp_aaai19/README.md)
-- Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning
+- [Matrix  Completion  for  Graph Based  Deep  Semi Supervised  Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gscnn_aaai19/README.md)
 
 <details> 
 <summary> more </summary> 
