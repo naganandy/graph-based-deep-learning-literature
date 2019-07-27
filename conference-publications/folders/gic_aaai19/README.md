@@ -8,6 +8,7 @@
                Jian Yang},
   title     = {Gaussian-Induced Convolution for Graphs},
   booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {4007--4014},
   year      = {2019}
 }
 ```
