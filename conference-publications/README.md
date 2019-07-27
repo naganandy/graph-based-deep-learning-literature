@@ -330,7 +330,7 @@
 
 
 - [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gic_aaai19/README.md)
-- [Designing Deep Generative Models for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nevae_aaai19/README.md)
+- [NeVAE: Designing Deep Generative Models for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nevae_aaai19/README.md)
 - [Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/textgcn_aaai19/README.md)
 - [Neural Relation Extraction Within and Across Sentence Boundaries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/idepnn_aaai19/README.md)
 - [AffinityNet: semi-supervised few-shot learning for disease type prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/affinitynet_aaai19/README.md)
