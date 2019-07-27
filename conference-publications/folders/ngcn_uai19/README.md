@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{ngcn_uai19,
-  author    = {Sami Abu-El-Haija and
+  author    = {Sami Abu{-}El{-}Haija and
                Amol Kapoor and
                Bryan Perozzi and
                Joonseok Lee},
@@ -13,4 +13,5 @@
 ```
 
 links
+- [auai](http://auai.org/uai2019/proceedings/papers/310.pdf)
 - [arXiv](https://arxiv.org/abs/1802.08888)
