@@ -12,5 +12,6 @@
 ```
 
 links
+- [uai](http://auai.org/uai2019/proceedings/papers/161.pdf)
 - [arXiv](https://arxiv.org/abs/1903.04154)
 - [implementation](https://github.com/stellargraph/FisherGCN)
