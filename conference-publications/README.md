@@ -343,7 +343,7 @@
 - [Attention  Based  Spatial-Temporal  Graph  Convolutional  Networks  for  Traffic  Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/astgcn_aaai19/README.md)
 - [Dynamic  Spatial Temporal  Graph  Convolutional  Neural  Networks  for  Traffic  Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dstgcn_aaai19/README.md)
 - [Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnmvtb_aaai19/README.md)
-- [MRes-RGNN:  A  Novel  Deep  Learning  based  Framework  for  Traffic  Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mresrgnn_aaai19/README.md)
+- [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mresrgnn_aaai19/README.md)
 </details>
 
 ## -----------------------------------------------------------------------------
