@@ -3,11 +3,11 @@
 ```
 @inproceedings{srgnn_aaai19,
   author    = {Shu Wu and
-                Yuyuan Tang and
-                Yanqiao Zhu and
-                Liang Wang and
-                Xing Xie and
-                Tieniu Tan},
+               Yuyuan Tang and
+               Yanqiao Zhu and
+               Liang Wang and
+               Xing Xie and
+               Tieniu Tan},
   title     = {Session-based Recommendation with Graph Neural Networks},
   booktitle = {Proceedings of the Thirty-Third Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
   pages     = {346--353},
