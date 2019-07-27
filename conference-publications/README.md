@@ -40,6 +40,7 @@
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - Learning Network-to-Network Model for Content-rich Network Embedding
+- A Representation Learning Framework for Property Graphs
 
 
 
