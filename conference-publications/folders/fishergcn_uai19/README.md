@@ -4,7 +4,7 @@
 @inproceedings{fishergcn_uai19,
   author    = {Ke Sun and
                Piotr Koniusz and
-               Jeff Wang},
+               Zhen Wang},
   title     = {Fisher-Bures Adversary Graph Convolutional Networks},
   booktitle = {Proceedings of the Thirty-Fifth Conference on Uncertainty in Artificial Intelligence (UAI)},
   year      = {2019}
