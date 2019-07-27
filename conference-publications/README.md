@@ -139,9 +139,9 @@
 - [Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chineseg2s_acl19/README.md)
 - [Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppdgcn_acl19/README.md)
 - [Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution](https://arxiv.org/abs/1905.08868) (ACL 2019 Workshop on Gender Bias for NLP)
-- OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs
 - Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
 - Graph-based Dependency Parsing with Graph Neural Networks
+- GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification
 - Multi-Channel Graph Neural Network for Entity Alignment
 
 </details> 
