@@ -10,7 +10,7 @@
                Dongfang Du and
                Han Wu and
                Wen Su},
-  title     = {Stability and Generalization of Graph Convolutional Neural Networks},
+  title     = {MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network},
   booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
   year      = {2019}
 }
