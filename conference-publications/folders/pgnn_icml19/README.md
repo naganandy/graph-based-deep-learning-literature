@@ -13,4 +13,5 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/you19b.html)
 - [arXiv](https://arxiv.org/abs/1906.04817)
+- [vide](https://slideslive.com/38917935/networks-and-relational-learning) (0:00:00-0:19:30)
 - [code](https://github.com/JiaxuanYou/P-GNN)
