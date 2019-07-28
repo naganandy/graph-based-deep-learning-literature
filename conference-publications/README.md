@@ -41,6 +41,7 @@
 - Conditional Random Field Enhanced Graph Convolutional Neural Networks
 - Learning Network-to-Network Model for Content-rich Network Embedding
 - A Representation Learning Framework for Property Graphs
+- Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning
 
 
 
