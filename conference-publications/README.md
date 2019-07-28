@@ -19,6 +19,7 @@
 - [DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/demonet_kdd19/README.md)
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clustergcn_kdd19/README.md)
 - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_kdd19/README.md)
+- [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
 - [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/jodie_cvpr19/README.md)
 - [Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geni_kdd19/README.md)
 - [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/polygcn_kdd19/README.md)
@@ -38,7 +39,6 @@
 - [Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geml_kdd19/README.md)
 - [AutoNRL: Hyperparameter Optimization for Massive Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/autonrl_kdd19/README.md)
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
-- [KGAT: Knowledge Graph Attention Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgat_kdd19/README.md)
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - A Representation Learning Framework for Property Graphs
 - Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning
