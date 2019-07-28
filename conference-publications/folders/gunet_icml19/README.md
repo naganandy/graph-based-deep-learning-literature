@@ -12,6 +12,6 @@
 
 links
 - [pmlr](http://proceedings.mlr.press/v97/gao19a.html)
-- [code](https://github.com/HongyangGao/gunet)
+- [video](https://videoken.com/embed/d3IFPmpzjdg?tocitem=44)
 - [slides](https://icml.cc/media/Slides/icml/2019/halla(11-16-00)-11-16-35-4844-graph_u-nets.pdf)
-- [video](https://www.facebook.com/icml.imls/videos/3253466301345987/) (0:40:30 - 0:43:50)
+- [code](https://github.com/HongyangGao/gunet)
