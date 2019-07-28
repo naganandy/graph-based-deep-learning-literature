@@ -16,4 +16,5 @@ links
 - [code](https://github.com/DeepGraphLearning/GMNN)
 - [slides](https://icml.cc/media/Slides/icml/2019/halla(11-11-00)-11-12-00-4516-gmnn_graph_mar.pdf)
 - [video](https://videoken.com/embed/UqSyCaz9wFQ?tocitem=63)
+- [talk](www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4)
 
