@@ -13,6 +13,6 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/wu19e.html)
 - [arXiv](https://arxiv.org/abs/1902.07153)
-- [video](1:01:30-1:06:00)
+- [video](https://slideslive.com/38917398/general-ml)(1:01:30-1:06:00)
 - [slides](https://icml.cc/media/Slides/icml/2019/201(11-16-00)-11-17-05-5000-simplifying_gra.pdf)
 - [code](https://github.com/Tiiiger/SGC)
