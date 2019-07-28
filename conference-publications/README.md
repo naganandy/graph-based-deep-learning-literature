@@ -127,23 +127,23 @@
 - [Attention Guided Graph Convolutional Networks for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aggcn_acl19/README.md)
 - [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grahrel_acl19/README.md)
 - [Graph Neural Networks with Generated Parameters for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpgnn_acl19/README.md)
+- [Graph-based Dependency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnndeppar_acl19/README.md)
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
 
 
 <details> 
 <summary> more </summary> 
 
+- [GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gear_acl19/README.md)
+- [Multi-Channel Graph Neural Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mugnn_acl19/README.md)
 - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cigcn_acl19/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 - [The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbsibl_acl19/README.md)
 - [Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chineseg2s_acl19/README.md)
 - [Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppdgcn_acl19/README.md)
-- [Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution](https://arxiv.org/abs/1905.08868) (ACL 2019 Workshop on Gender Bias for NLP)
 - [Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treelstm_acl19/README.md)
-- Graph-based Dependency Parsing with Graph Neural Networks
-- GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification
-- Multi-Channel Graph Neural Network for Entity Alignment
+- [Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution](https://arxiv.org/abs/1905.08868) (ACL 2019 Workshop on Gender Bias for NLP)
 
 </details> 
 
