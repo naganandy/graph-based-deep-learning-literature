@@ -41,7 +41,7 @@
 - [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sape_kdd19/README.md)
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - A Representation Learning Framework for Property Graphs
-- Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning
+- [Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/marlfs_kdd19/README.md)
 
 
 
