@@ -1,7 +1,7 @@
 # A Representation Learning Framework for Property Graphs
 
 ```
-@inproceedings{sgb_kdd19,
+@inproceedings{pge_kdd19,
   author    = {Yifan Hou and
                Hongzhi Chen and
                Changji Li and
