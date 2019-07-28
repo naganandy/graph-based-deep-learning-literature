@@ -15,5 +15,5 @@ links
 - [arXiv](https://arxiv.org/abs/1905.06214)
 - [code](https://github.com/DeepGraphLearning/GMNN)
 - [slides](https://icml.cc/media/Slides/icml/2019/halla(11-11-00)-11-12-00-4516-gmnn_graph_mar.pdf)
-- [video](https://www.facebook.com/icml.imls/videos/336722770596090/) (1:02:00 - 1:08:00)
+- [video](https://videoken.com/embed/UqSyCaz9wFQ?tocitem=63)
 
