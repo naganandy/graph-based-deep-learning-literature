@@ -1,7 +1,7 @@
 # Graph-based Dependency Parsing with Graph Neural Networks
 
 ```
-@inproceedings{treelstm_acl19,
+@inproceedings{gnndeppar_Acl19,
  author    = {Tao Ji and
               Yuanbin Wu and
               Man Lan},
