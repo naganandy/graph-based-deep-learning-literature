@@ -13,5 +13,5 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/abu-el-haija19a.html)
 - [arXiv](https://arxiv.org/abs/1905.00067)
+- [video](https://videoken.com/embed/gj208b5MN44?tocitem=61) 
 - [code](https://github.com/samihaija/mixhop)
-- [video](https://www.facebook.com/icml.imls/videos/307375446865883/) (1:09:00 - 1:14:30)
