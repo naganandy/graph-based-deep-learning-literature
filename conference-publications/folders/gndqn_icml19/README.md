@@ -1,8 +1,8 @@
-# Structured agents for physical construction
+# Structured Agents for Physical Construction
 
 ```
 @inproceedings{gndqn_icml19,
-  title = 	 {Structured agents for physical construction},
+  title = 	 {Structured Agents for Physical Construction},
   author = 	 {Bapst, Victor and Sanchez-Gonzalez, Alvaro and Doersch, Carl and Stachenfeld, Kimberly and Kohli, Pushmeet and Battaglia, Peter and Hamrick, Jessica},
   booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
   pages = 	 {464--474},
