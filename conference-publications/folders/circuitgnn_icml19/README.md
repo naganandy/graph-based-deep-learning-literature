@@ -11,3 +11,6 @@
 
 links
 - [pmlr](http://proceedings.mlr.press/v97/zhang19e.html)
+- [slides](https://icml.cc/media/Slides/icml/2019/201(11-11-00)-11-12-10-4826-circuit-gnn_gr.pdf)
+- [video](https://slideslive.com/38917395/applications) (1:19:30 - 1:18:30)
+- [code](https://github.com/hehaodele/circuit-gnn)
