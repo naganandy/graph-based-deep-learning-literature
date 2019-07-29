@@ -12,5 +12,5 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/smith19a.html)
 - [arXiv](https://arxiv.org/abs/1901.11461)
-- [vide](https://slideslive.com/38917633/applications-computer-vision?t=3609) (0:31:15 - 0:48:00)
+- [video](https://slideslive.com/38917633/applications-computer-vision?t=3609) (0:31:15 - 0:48:00)
 - [code](https://github.com/EdwardSmith1884/GEOMetrics)
