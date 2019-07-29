@@ -2,14 +2,12 @@
 
 ```
 @inproceedings{adgcn_cvpr19,
-  author    = {Xu Yang and
-	       Kaihua Tang and
-               THanwang Zhang and
-               Jianfei Cai},
-  title     = {Auto-Encoding Scene Graphs for Image Captioning},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2019}
-}
+author = {Yang, Xu and Tang, Kaihua and Zhang, Hanwang and Cai, Jianfei},
+title = {Auto-Encoding Scene Graphs for Image Captioning},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+pages = {10685--10694},
+year = {2019}
+} 
 ```
 
 links
