@@ -2,11 +2,11 @@
 
 ```
 @inproceedings{gcgp_icml19,
-  title = {Graph Convolutional Gaussian Processes}
-  author = {Ian Walker and
-           Ben Glocker},
-  booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
-  year = {2019}
+  title = 	 {Graph Convolutional {G}aussian Processes},
+  author = 	 {Walker, Ian and Glocker, Ben},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  pages = 	 {6495--6504},
+  year = 	 {2019}
 }
 ```
 
