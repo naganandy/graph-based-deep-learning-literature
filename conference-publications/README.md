@@ -225,7 +225,7 @@
  - [An End-to-End Network for Generating Social Relationship Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srggn_cvpr19/README.md)
  - [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/abc_cvpr19/README.md)
  - [Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgran_cvpr19/README.md)
-- [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814)
+- [Graph-Based Global Reasoning Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glore_cvpr19/README.md)
 - [Linkage Based Face Clustering via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lfcgcn_cvpr19/README.md)
 - [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/curvegcn_cvpr19/README.md) 
  - [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/semgcn_cvpr19/README.md)
