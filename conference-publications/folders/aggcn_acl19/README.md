@@ -14,4 +14,5 @@
 links
 - [statnlp](http://www.statnlp.org/paper/2019/attention-guided-graph-convolutional-networks-relation-extraction.html)
 - [preprint](http://www.statnlp.org/wp-content/uploads/2019/06/Attention_Guided_Graph_Convolutional_Networks_for_Relation_Extraction.pdf)
+- [video](http://www.livecongress.it/aol/indexSA.php?id=512CB02E&ticket=)
 - [code](https://github.com/Cartus/AGGCN_TACRED)
