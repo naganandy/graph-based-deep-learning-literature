@@ -3,14 +3,11 @@
 ```
 @inproceedings{asgcn_icml19,
   title = {Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition}
-  author = {Maosen Li and
-            Siheng Chen and
-            Xu Chen and
-            Ya Zhang and
-            Yanfeng Wang and
-            Qi Tian},
-  booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
-  year = {2019}
+author = {Li, Maosen and Chen, Siheng and Chen, Xu and Zhang, Ya and Wang, Yanfeng and Tian, Qi},
+title = {Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+pages = {3595--3603},
+year = {2019}
 }
 ```
 
