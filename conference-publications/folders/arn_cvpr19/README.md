@@ -2,15 +2,12 @@
 
 ```
 @inproceedings{arn_cvpr19,
-  author    = {Mengshi Qi and
-               Weijian Li and
-               Zhengyuan Yang and
-               Yunhong Wang and
-               Jiebo Luo},
-  title     = {Attentive Relational Networks for Mapping Images to Scene Graphs},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2019}
-}
+author = {Qi, Mengshi and Li, Weijian and Yang, Zhengyuan and Wang, Yunhong and Luo, Jiebo},
+title = {Attentive Relational Networks for Mapping Images to Scene Graphs},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+pages = {3957--3966},
+year = {2019}
+} 
 ```
 
 links
