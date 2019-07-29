@@ -5,7 +5,7 @@
 author = {Zhang, Da and Dai, Xiyang and Wang, Xin and Wang, Yuan-Fang and Davis, Larry S.},
 title = {MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
+pages = {1247--1257},
 year = {2019}
 } 
 ```
