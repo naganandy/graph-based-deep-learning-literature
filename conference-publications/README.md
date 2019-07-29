@@ -188,6 +188,7 @@
 - [GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geometrics_icml19/README.md)
 - [Circuit-GNN: Graph Neural Networks for Distributed Circuit Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/circuitgnn_icml19/README.md)
 - [Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmusic_icml19/README.md)
+- [Structured agents for physical construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gndqn_icml19/README.md)
 
 
 
