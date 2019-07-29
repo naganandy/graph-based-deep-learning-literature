@@ -12,3 +12,4 @@
 
 links
 - [pmlr](http://proceedings.mlr.press/v97/jeong19a.html)
+- [video](https://slideslive.com/38917395/applications?t=4244) (0:58:30 - 1:04:00)
