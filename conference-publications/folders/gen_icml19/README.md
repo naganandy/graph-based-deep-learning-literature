@@ -13,5 +13,5 @@
 links
 - [pmlr](http://proceedings.mlr.press/v97/alet19a.html)
 - [arXiv](https://arxiv.org/abs/1904.09019)
+- [video](https://videoken.com/embed/-COX4Por6H0?tocitem=71)
 - [code](https://github.com/FerranAlet/graph_element_networks)
-- [video](https://www.facebook.com/icml.imls/videos/552835701913736/) (0:49:00 - 1:06:00)
