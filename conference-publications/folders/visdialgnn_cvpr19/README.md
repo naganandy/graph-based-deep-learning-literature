@@ -13,4 +13,5 @@ year = {2019}
 links
 - [openaccess](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Reasoning_Visual_Dialogs_With_Structural_and_Partial_Observations_CVPR_2019_paper.html)
 - [arXiv](https://arxiv.org/abs/1904.05548)
+- [spotlight](https://youtu.be/Je5LlZlqUt8?t=2861)
 - [code](https://github.com/zilongzheng/visdial-gnn)
