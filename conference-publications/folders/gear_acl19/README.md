@@ -18,3 +18,4 @@
 links
 - [aclweb](https://www.aclweb.org/anthology/P19-1085)
 - [code](https://github.com/thunlp/GEAR)
+- [video](http://www.livecongress.it/aol/indexSA.php?id=E3DA68DE&ticket=)
