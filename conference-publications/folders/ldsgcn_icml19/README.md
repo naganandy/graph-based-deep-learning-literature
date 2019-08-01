@@ -4,7 +4,7 @@
 @inproceedings{ldsgcn_icml19,
   title = 	 {Learning Discrete Structures for Graph Neural Networks},
   author = 	 {Franceschi, Luca and Niepert, Mathias and Pontil, Massimiliano and He, Xiao},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {1972--1982},
   year = 	 {2019}
 }
