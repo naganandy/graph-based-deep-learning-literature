@@ -4,7 +4,7 @@
 @inproceedings{gac_icml19,
   title = 	 {Geometry Aware Convolutional Filters for Omnidirectional Images Representation},
   author = 	 {Khasanova, Renata and Frossard, Pascal},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {3351--3359},
   year = 	 {2019}
 }
