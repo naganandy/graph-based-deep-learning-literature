@@ -4,7 +4,7 @@
 @inproceedings{sagpool_icml19,
   title = 	 {Self-Attention Graph Pooling},
   author = 	 {Lee, Junhyun and Lee, Inyeop and Kang, Jaewoo},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {3734--3743},
   year = 	 {2019}
 }
