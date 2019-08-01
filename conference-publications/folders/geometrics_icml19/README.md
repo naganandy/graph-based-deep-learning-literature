@@ -4,7 +4,7 @@
 @inproceedings{geometrics_icml19,
   title = 	 {{GEOM}etrics: Exploiting Geometric Structure for Graph-Encoded Objects},
   author = 	 {Smith, Edward and Fujimoto, Scott and Romero, Adriana and Meger, David},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {5866--5876},
   year = 	 {2019}
 ```
