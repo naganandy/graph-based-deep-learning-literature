@@ -4,7 +4,7 @@
 @inproceedings{gsc_icml19,
   title = 	 {Open Vocabulary Learning on Source Code with a Graph-Structured Cache},
   author = 	 {Cvitkovic, Milan and Singh, Badal and Anandkumar, Animashree},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {1475--1485},
   year = 	 {2019}
 }
