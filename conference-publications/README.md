@@ -84,6 +84,7 @@
  - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stg2seq_ijcai19/README.md)
  - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
 - [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tag2gauss_ijcai19/README.md)
+- [Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hetergcn_ijcai19/README.md)
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
 - Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
@@ -106,7 +107,6 @@
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
 - Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
-- Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference
 - Adversarial Graph Embedding for Ensemble Clustering
 - Incorporating Structural Information for Better Coreference Resolution
 
