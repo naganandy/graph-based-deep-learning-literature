@@ -4,7 +4,7 @@
 @inproceedings{gsn_ijcai19,
   title     = {GSN: A Graph-Structured Network for Multi-Party Dialogues},
   author    = {Wenpeng Hu and Zhangming Chan and Bing Liu and Dongyan Zhao and Jinwen Ma and Rui Yan},
-  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, (IJCAI)},            
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)},            
   year      = {2019}
 }
 ```
