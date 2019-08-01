@@ -4,7 +4,7 @@
 @inproceedings{drp_icml19,
   title = 	 {Relational Pooling for Graph Representations},
   author = 	 {Murphy, Ryan and Srinivasan, Balasubramaniam and Rao, Vinayak and Ribeiro, Bruno},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {4663--4673},
   year = 	 {2019}
 }
