@@ -4,7 +4,7 @@
 @inproceedings{spagan_ijcai19,
   title     = {SPAGAN: Shortest Path Graph Attention Network},
   author    = {Yiding Yang and Xinchao Wang and Mingli Song and Junsong Yuan and Dacheng Tao},
-  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, (IJCAI)},            
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)},            
   year      = {2019}
 }
 ```
