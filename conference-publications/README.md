@@ -97,7 +97,6 @@
 - Hierarchical Diffusion Attention Network
 - TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
-- Graph Space Embedding
 - Noise-Resilient Similarity Preserving Network Embedding for Social Networks
 - Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
 - Hierarchical Representation Learning for Bipartite Graphs
