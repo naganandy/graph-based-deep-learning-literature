@@ -4,7 +4,7 @@
 @inproceedings{gndqn_icml19,
   title = 	 {Structured Agents for Physical Construction},
   author = 	 {Bapst, Victor and Sanchez-Gonzalez, Alvaro and Doersch, Carl and Stachenfeld, Kimberly and Kohli, Pushmeet and Battaglia, Peter and Hamrick, Jessica},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {464--474},
   year = 	 {2019}
 ```
