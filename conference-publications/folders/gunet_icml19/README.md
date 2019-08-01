@@ -4,7 +4,7 @@
 @inproceedings{gunet_icml19,
   title = 	 {Graph U-Nets},
   author = 	 {Gao, Hongyang and Ji, Shuiwang},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {2083--2092},
   year = 	 {2019}
 }
