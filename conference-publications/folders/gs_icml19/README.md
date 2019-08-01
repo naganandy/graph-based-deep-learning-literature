@@ -4,7 +4,7 @@
 @inproceedings{gs_icml19,
   title = 	 {Geometric Scattering for Graph Data Analysis},
   author = 	 {Gao, Feng and Wolf, Guy and Hirn, Matthew},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
   pages = 	 {2122--2131},
   year = 	 {2019}
 }
