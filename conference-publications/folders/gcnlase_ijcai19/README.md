@@ -4,7 +4,7 @@
 @inproceedings{gcnlase_ijcai19,
   title     = {GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks},
   author    = {Ziyao Li and Liang Zhang and Guojie Song},
-  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, (IJCAI)},            
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)},            
   year      = {2019}
 }
 ```
