@@ -4,7 +4,7 @@
 @inproceedings{wavenet_ijcai19,
   title     = {Graph WaveNet for Deep Spatial-Temporal Graph Modeling},
   author    = {Z. Wu and S. Pan and G. Long and J. Jiang and C. Zhang},
-  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, (IJCAI)},            
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)},            
   year      = {2019}
 }
 ```
