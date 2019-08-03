@@ -1,7 +1,7 @@
 # Skeleton-Based Action Recognition With Directed Graph Neural Networks
 
 ```
-@InProceedings{dgnn_cvpr19,
+@inproceedings{dgnn_cvpr19,
 author = {Shi, Lei and Zhang, Yifan and Cheng, Jian and Lu, Hanqing},
 title = {Skeleton-Based Action Recognition With Directed Graph Neural Networks},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
