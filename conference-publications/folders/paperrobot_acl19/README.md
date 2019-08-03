@@ -2,17 +2,17 @@
 
 ```
 @inproceedings{paperrobot_acl19,
-  author = {Wang, Qingyun  and
+    title = {{P}aper{R}obot: Incremental Draft Generation of Scientific Ideas},
+    author = {Wang, Qingyun  and
       Huang, Lifu  and
       Jiang, Zhiying  and
       Knight, Kevin  and
       Ji, Heng  and
       Bansal, Mohit  and
       Luan, Yi},
-  title = 	{{P}aper{R}obot: Incremental Draft Generation of Scientific Ideas},
-  booktitle = 	{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  pages = {1980--1991},
-  year = 	{2019}
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
+    pages = {1980--1991},    
+    year = {2019},
 }
 ```
 
