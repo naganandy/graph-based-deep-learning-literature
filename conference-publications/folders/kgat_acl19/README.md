@@ -2,13 +2,13 @@
 
 ```
 @inproceedings{kgat_acl19,
-  author = {Nathani, Deepak  and
+  title = {Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs},
+    author = {Nathani, Deepak  and
       Chauhan, Jatin  and
       Sharma, Charu  and
       Kaul, Manohar},
-  title = 	{Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs},
     booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
-    pages = {3308--3318},
+    pages = {4710--4723},
     year = {2019}
 }
 ```
