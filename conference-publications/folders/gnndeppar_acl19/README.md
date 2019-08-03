@@ -2,14 +2,15 @@
 
 ```
 @inproceedings{gnndeppar_Acl19,
- author    = {Tao Ji and
-              Yuanbin Wu and
-              Man Lan},
- title     = {Graph-based Dependency Parsing with Graph Neural Networks},
- booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
- year      = {2019}
+    title = {Graph-based Dependency Parsing with Graph Neural Networks},
+    author = {Ji, Tao  and
+      Wu, Yuanbin  and
+      Lan, Man},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
+    pages = {2475--2485},
+    year = {2019}
 }
 ```
 
 links
-- [aclweb](https://www.aclweb.org/anthology/P19-1237)
+- [aclweb](https://www.aclweb.org/anthology/papers/P/P19/P19-1237/)
