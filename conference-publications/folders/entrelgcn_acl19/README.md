@@ -11,7 +11,7 @@
       Lan, Man  and
       Sun, Shiliang  and
       Duan, Nan},
-    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
     pages = {1361--1370},
     year = {2019}
 }
