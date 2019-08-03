@@ -7,9 +7,9 @@
       Sharma, Charu  and
       Kaul, Manohar},
   title = 	{Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs},
-  booktitle = 	{Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  pages = {4710--4723},
-  year = 	{2019}
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
+    pages = {3308--3318},
+    year = {2019}
 }
 ```
 
