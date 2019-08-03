@@ -2,14 +2,14 @@
 
 ```
 @inproceedings{intere_acl19,
-  author = {Sahu, Sunil Kumar  and
+    title = {Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network},
+    author = {Sahu, Sunil Kumar  and
       Christopoulou, Fenia  and
       Miwa, Makoto  and
       Ananiadou, Sophia},
-  title     = {Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network},
-  booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  pages = {4309--4316},
-  year      = {2019}
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
+    pages = {4309--4316},
+    year = {2019}
 }
 ```
 
