@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{wordgcn_acl19,
-    author = {Vashishth, Shikhar  and
+  author = {Vashishth, Shikhar  and
       Bhandari, Manik  and
       Yadav, Prateek  and
       Rai, Piyush  and
