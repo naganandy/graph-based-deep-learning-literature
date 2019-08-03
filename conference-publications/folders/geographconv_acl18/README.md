@@ -3,8 +3,8 @@
 ```
 @inproceedings{geographconv_acl18,
   author    = {Afshin Rahimi and
-			   Trevor Cohn and
-			   Timothy Baldwin},
+		Trevor Cohn and
+		Timothy Baldwin},
   title     = {Semi-supervised User Geolocation via Graph Convolutional Networks},
   booktitle = 	{Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)},
   pages = 	{2009--2019},
