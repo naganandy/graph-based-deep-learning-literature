@@ -10,7 +10,7 @@
       He, Yancheng  and
       Lai, Kunfeng  and
       Xu, Yu},
-    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
     pages = {6284--6294},
     year = {2019}
 }
