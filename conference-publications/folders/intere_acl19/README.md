@@ -14,4 +14,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1906.04684)
+- [video](www.livecongress.it/aol/indexSA.php?id=3BC5BA9C&ticket=)
 - [dataset](http://nactem.ac.uk/CHR/)
