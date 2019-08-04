@@ -9,7 +9,7 @@
       Yan, ShengLi  and
       Wu, Yunfang  and
       Sun, Xu},
-    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
     pages = {4843--4852},
     year = {2019}
 }
