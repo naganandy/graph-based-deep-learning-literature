@@ -10,7 +10,7 @@
       Song, Yan  and
       Wang, Zhiguo  and
       Yu, Dong},
-    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
     pages = {3156--3161},
     year = {2019}
 }
