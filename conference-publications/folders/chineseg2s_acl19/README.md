@@ -2,17 +2,20 @@
 
 ```
 @inproceedings{chineseg2s_acl19,
-  author    = {Wei Li and
-               Jingjing Xu and
-               Yancheng He and
-               Shengli Yan and
-               Yunfang Wu and
-               Xu sun},
-  title     = {Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model},
-  booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year      = {2019}
+    title = {Coherent Comments Generation for {C}hinese Articles with a Graph-to-Sequence Model},
+    author = {Li, Wei  and
+      Xu, Jingjing  and
+      He, Yancheng  and
+      Yan, ShengLi  and
+      Wu, Yunfang  and
+      Sun, Xu},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    pages = {4843--4852},
+    year = {2019}
 }
 ```
 
 links
+- [aclweb](https://www.aclweb.org/anthology/papers/P/P19/P19-1479/)
 - [arXiv](https://arxiv.org/abs/1906.01231)
+- [code](https://github.com/lancopku/Graph-to-seq-comment-generation)
