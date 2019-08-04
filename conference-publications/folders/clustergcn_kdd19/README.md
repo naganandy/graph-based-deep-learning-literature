@@ -2,18 +2,15 @@
 
 ```
 @inproceedings{clustergcn_kdd19,
-  author    = {Wei-Lin Chiang and
-               Xuanqing Liu and
-               Si Si and
-               Yang Li and
-               Samy Bengio and
-               Cho-Jui Hsieh},
-  title     = {Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks},
-  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
-  year      = {2019}
+ author = {Chiang, Wei-Lin and Liu, Xuanqing and Si, Si and Li, Yang and Bengio, Samy and Hsieh, Cho-Jui},
+ title = {Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+ pages = {257--266},
+ year = {2019}
 }
 ```
 
 links
+- [acm](https://dl.acm.org/citation.cfm?id=3330925)
 - [arXiv](https://arxiv.org/abs/1905.07953)
 - [implementation](https://github.com/benedekrozemberczki/ClusterGCN)
