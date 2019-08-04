@@ -5,7 +5,7 @@
     title = {Tree {LSTM}s with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations},
     author = {Kumar, Sumeet  and
       Carley, Kathleen},
-    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
     pages = {5047--5058},
     year = {2019}
 }
