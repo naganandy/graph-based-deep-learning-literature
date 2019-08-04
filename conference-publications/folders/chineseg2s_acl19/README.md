@@ -18,4 +18,5 @@
 links
 - [aclweb](https://www.aclweb.org/anthology/papers/P/P19/P19-1479/)
 - [arXiv](https://arxiv.org/abs/1906.01231)
+- [video](http://www.livecongress.it/aol/indexSA.php?id=CE0EB53A&ticket=)
 - [code](https://github.com/lancopku/Graph-to-seq-comment-generation)
