@@ -2,19 +2,15 @@
 
 ```
 @inproceedings{kgcn_kdd19,
-  author    = {Hongwei Wang and
-               Fuzheng Zhang and
-               Mengdi Zhang and
-               Jure Leskovec and
-               Miao Zhao and
-               Wenjie Li and
-               Zhongyuan Wang},
-  title     = {Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization},
-  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
-  year      = {2019}
+ author = {Wang, Hongwei and Zhang, Fuzheng and Zhang, Mengdi and Leskovec, Jure and Zhao, Miao and Li, Wenjie and Wang, Zhongyuan},
+ title = {Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+ pages = {968--977},
+ year = {2019}
 }
 ```
 
 links
+- [acm](https://dl.acm.org/citation.cfm?id=3330836)
 - [arXiv](https://arxiv.org/abs/1905.04413)
 - [spotlight](https://www.youtube.com/watch?v=AD-IKA8Qmz4)
