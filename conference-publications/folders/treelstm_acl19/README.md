@@ -2,13 +2,15 @@
  
  ```
  @inproceedings{treelstm_acl19,
-  author    = {Sumeet Kumar and
-               Kathleen M. Carley},
-  title     = {Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations},
-  booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year      = {2019}
+    title = {Tree {LSTM}s with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations},
+    author = {Kumar, Sumeet  and
+      Carley, Kathleen},
+    booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+    pages = {5047--5058},
+    year = {2019}
 }
  ```
  
  links
- - [aclweb](https://www.aclweb.org/anthology/P19-1498)
+ - [aclweb](https://aclweb.org/anthology/papers/P/P19/P19-1498/)
+ - [video](http://www.livecongress.it/aol/indexSA.php?id=AC4F84B8&ticket=)
