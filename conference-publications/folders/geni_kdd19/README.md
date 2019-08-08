@@ -4,7 +4,7 @@
 @inproceedings{geni_kdd19,
  author = {Park, Namyong and Kan, Andrey and Dong, Xin Luna and Zhao, Tong and Faloutsos, Christos},
  title = {Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks},
- booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
  pages = {596--606},
  year = {2019}
 }
