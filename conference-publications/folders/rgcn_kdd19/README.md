@@ -2,15 +2,13 @@
 
 ```
 @inproceedings{rgcn_kdd19,
-  author    = {Dingyuan Zhu and
-               Ziwei Zhang and
-               Peng Cui and
-               Wenwu Zhu},
-  title     = {Robust Graph Convolutional Networks Against Adversarial Attacks},
-  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
-  year      = {2019}
+ author = {Zhu, Dingyuan and Zhang, Ziwei and Cui, Peng and Zhu, Wenwu},
+ title = {Robust Graph Convolutional Networks Against Adversarial Attacks},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+ pages = {1399--1407},
+ year = {2019}
 }
 ```
 
 links
-- [preprint](http://pengcui.thumedialab.com/papers/RGCN.pdf)
+- [acm](https://dl.acm.org/citation.cfm?id=3292500.3330851)
