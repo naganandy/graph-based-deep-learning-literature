@@ -2,16 +2,14 @@
 
 ```
 @inproceedings{hetgnn_kdd19,
-  author    = {Chuxu Zhang and
-               Dongjin Song and
-               Chao Huang and
-               Ananthram Swami and
-               Nitesh V. Chawla},
-  title     = {HetGNN: Heterogeneous Graph Neural Network},
-  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
-  year      = {2019}
+ author = {Zhang, Chuxu and Song, Dongjin and Huang, Chao and Swami, Ananthram and Chawla, Nitesh V.},
+ title = {Heterogeneous Graph Neural Network},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+ pages = {793--803},
+ year = {2019}
 }
 ```
 
 links
+- [acm](https://dl.acm.org/citation.cfm?id=3330961)
 - [spotlight](https://www.youtube.com/watch?v=GMDlfJT0nPc)
