@@ -1,4 +1,4 @@
-# Learning Network-to-Network Model forContent-rich Network Embedding
+# Learning Network-to-Network Model for Content-rich Network Embedding
 
 ```
 @inproceedings{net2net_kdd19,
