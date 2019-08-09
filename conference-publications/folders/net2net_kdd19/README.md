@@ -4,7 +4,7 @@
 @inproceedings{net2net_kdd19,
  author = {He, Zhicheng and Liu, Jie and Li, Na and Huang, Yalou},
  title = {Learning Network-to-Network Model for Content-rich Network Embedding},
- booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
  pages = {1037--1045},
  year = {2019}
 }
