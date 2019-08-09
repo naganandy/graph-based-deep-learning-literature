@@ -2,23 +2,14 @@
 
 ```
 @inproceedings{oag_kdd19,
-  author    = {Fanjin Zhang and
-               Xiao Liu and
-               Jie Tang and
-               Yuxiao Dong and
-               Peiran Yao and
-               Jie Zhang and
-               Xiaotao Gu and
-               Yan Wang and
-               Bin Shao and
-               Rui Li and
-               Kuansan Wang},
-  title     = {OAG: Toward Linking Large-scale Heterogeneous Entity Graphs},
-  booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining (KDD)},
-  year      = {2019}
+ author = {Zhang, Fanjin and Liu, Xiao and Tang, Jie and Dong, Yuxiao and Yao, Peiran and Zhang, Jie and Gu, Xiaotao and Wang, Yan and Shao, Bin and Li, Rui and Wang, Kuansan},
+ title = {OAG: Toward Linking Large-scale Heterogeneous Entity Graphs},
+ booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+ pages = {2585--2595},
+ year = {2019}
 }
 ```
 
 links
-- [preprint](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD19-Zhang-et-al-Open_Academic_Graph.pdf)
+- [acm](https://dl.acm.org/citation.cfm?id=3330785)
 - [spotlight](https://www.youtube.com/watch?v=SEv_mLtRWUQ)
