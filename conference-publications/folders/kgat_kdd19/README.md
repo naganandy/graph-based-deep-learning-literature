@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/kgat-knowledge-graph-attention-network-for-recommendation)
 - [acm](https://dl.acm.org/citation.cfm?id=3330989)
 - [paper](https://arxiv.org/abs/1905.07854)
 - [code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
