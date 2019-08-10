@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/representation-learning-for-attributed-multiplex-heterogeneous-network)
 - [acm](https://dl.acm.org/citation.cfm?id=3330964)
 - [arXiv](https://arxiv.org/abs/1905.01669)
 - [website](https://sites.google.com/view/gatne)
