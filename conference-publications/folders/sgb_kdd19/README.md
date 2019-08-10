@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/stability-and-generalization-of-graph-convolutional-neural-networks)
 - [acm](https://dl.acm.org/citation.cfm?id=3330956)
 - [arXiv](https://arxiv.org/abs/1905.01004)
 - [spotlight](https://youtu.be/__HXfQ3vVWw)
