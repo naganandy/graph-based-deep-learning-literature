@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/demo-net-degree-specific-graph-neural-networks-for-node-and-graph-classific)
 - [acm](https://dl.acm.org/citation.cfm?id=3330950)
 - [arXiv](https://arxiv.org/abs/1906.02319)
 - [spotlight](https://www.youtube.com/watch?v=xXrHlpb9pno)
