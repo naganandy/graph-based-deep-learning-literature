@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/cluster-gcn-an-efficient-algorithm-for-training-deep-and-large-graph-convol)
 - [acm](https://dl.acm.org/citation.cfm?id=3330925)
 - [arXiv](https://arxiv.org/abs/1905.07953)
 - [implementation](https://github.com/benedekrozemberczki/ClusterGCN)
