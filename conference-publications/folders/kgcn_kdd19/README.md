@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/knowledge-aware-graph-neural-networks-with-label-smoothness-regularization-)
 - [acm](https://dl.acm.org/citation.cfm?id=3330836)
 - [arXiv](https://arxiv.org/abs/1905.04413)
 - [spotlight](https://www.youtube.com/watch?v=AD-IKA8Qmz4)
