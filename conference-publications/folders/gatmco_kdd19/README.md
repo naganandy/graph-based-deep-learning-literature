@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/exact-k-recommendation-via-maximal-clique-optimization)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330832)
 - [arXiv](https://arxiv.org/abs/1905.07089)
 - [spotlight](https://www.youtube.com/watch?v=mDbiuLUnuqI)
