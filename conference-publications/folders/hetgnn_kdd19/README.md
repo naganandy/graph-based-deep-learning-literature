@@ -11,5 +11,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network)
 - [acm](https://dl.acm.org/citation.cfm?id=3330961)
 - [spotlight](https://www.youtube.com/watch?v=GMDlfJT0nPc)
