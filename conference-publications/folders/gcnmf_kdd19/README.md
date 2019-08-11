@@ -11,5 +11,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/gcn-mf-disease-gene-association-identification-by-graph-convolutional-netwo)
 - [acm](https://dl.acm.org/citation.cfm?id=3330912)
 - [spotlight](https://www.youtube.com/watch?v=Ob9bLZ5W5qg)
