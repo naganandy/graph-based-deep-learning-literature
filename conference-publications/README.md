@@ -25,6 +25,10 @@
 - [Exact-K Recommendation via Maximal Clique Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gatmco_kdd19/README.md)
 - [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/jodie_cvpr19/README.md)
 - [Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/geni_kdd19/README.md)
+
+<details> 
+<summary> more </summary>
+ 
 - [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/polygcn_kdd19/README.md)
 - [MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mcne_kdd19/README.md)
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rgcn_kdd19/README.md)
@@ -45,6 +49,7 @@
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tgcnl_kdd19/README.md)
 - [Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/marlfs_kdd19/README.md)
 
+</details>
 
 
 ## -----------------------------------------------------------------------------
