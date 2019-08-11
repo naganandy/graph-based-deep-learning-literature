@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/certifiable-robustness-and-robust-training-for-graph-convolutional-networks)
 - [acm](https://dl.acm.org/citation.cfm?id=3330905)
 - [arXiv](https://arxiv.org/abs/1906.12269)
 - [spotlight](https://www.youtube.com/watch?v=5lp2H8nqNls)
