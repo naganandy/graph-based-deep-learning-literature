@@ -11,4 +11,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/robust-graph-convolutional-networks-against-adversarial-attacks)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330851)
