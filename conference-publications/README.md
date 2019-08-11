@@ -54,7 +54,6 @@
 - [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tadgnn_ijcai19/README.md)
 - [Topology Optimization based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/togcn_ijcai19/README.md)
 - [SPAGAN: Shortest Path Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/spagan_ijcai19/README.md)
-- [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 - [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/maskedgcn_ijcai19/README.md)
 - [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dspgcn_ijcai19/README.md)
 - [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agc_ijcai19/README.md)
@@ -99,6 +98,7 @@
 - [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgar_ijcai19/README.md)
 - [Graph Contextualized Self-Attention Network for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcsan_ijcai19/README.md)
 - [Adversarial Graph Embedding for Ensemble Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agae_ijcai19/README.md)
+- [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_ijcai19/README.md)
 
 </details>
 
