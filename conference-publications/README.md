@@ -87,29 +87,18 @@
 - [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tag2gauss_ijcai19/README.md)
 - [Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hetergcn_ijcai19/README.md)
 - A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
-- Joint Link Prediction and Network Alignment via Cross-graph Embedding
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
-- An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph
-- Variational Graph Embedding and Clustering with Laplacian Eigenmaps
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 - Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
-- Crafting Efficient Neural Graph of Large Entropy
-- Hierarchical Diffusion Attention Network
-- TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
-- Noise-Resilient Similarity Preserving Network Embedding for Social Networks
-- Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
-- Multi-view Spectral Clustering Network
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
-- Graph and Autoencoder Based Feature Extraction for Zero-shot Learning
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
 - Adversarial Graph Embedding for Ensemble Clustering
-- Incorporating Structural Information for Better Coreference Resolution
 
 </details>
 
