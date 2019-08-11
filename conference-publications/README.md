@@ -96,7 +96,7 @@
 - Hierarchical Representation Learning for Bipartite Graphs
 - Graph-based Neural Sentence Ordering
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
-- Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
+- [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgar_ijcai19/README.md)
 - [Graph Contextualized Self-Attention Network for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcsan_ijcai19/README.md)
 - [Adversarial Graph Embedding for Ensemble Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agae_ijcai19/README.md)
 
