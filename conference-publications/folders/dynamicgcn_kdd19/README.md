@@ -11,5 +11,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/learning-dynamic-context-graphs-for-predicting-social-events)
 - [acm](https://dl.acm.org/citation.cfm?id=3330919)
 - [spotlight](https://www.youtube.com/watch?v=QJDoCLDrVE4)
