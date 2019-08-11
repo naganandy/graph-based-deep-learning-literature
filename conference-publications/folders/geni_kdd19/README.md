@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330855)
 - [arXiv](https://arxiv.org/abs/1905.08865)
 - [spotlight](https://www.youtube.com/watch?v=EQ3jGt9Ve5k)
