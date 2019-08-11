@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/predicting-dynamic-embedding-trajectory-in-temporal-interaction-networks)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330895)
 - [arXiv](https://arxiv.org/abs/1908.01207)
 - [project_page](http://snap.stanford.edu/jodie/)
