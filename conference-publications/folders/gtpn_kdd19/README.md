@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/graph-transformation-policy-network-for-chemical-reaction-prediction)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330958)
 - [arXiv](https://arxiv.org/abs/1812.09441)
 - [spotlight](https://www.youtube.com/watch?v=F_6joHsqsj0)
