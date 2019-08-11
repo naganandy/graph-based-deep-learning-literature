@@ -11,5 +11,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/oag-toward-linking-large-scale-heterogeneous-entity-graphs)
 - [acm](https://dl.acm.org/citation.cfm?id=3330785)
 - [spotlight](https://www.youtube.com/watch?v=SEv_mLtRWUQ)
