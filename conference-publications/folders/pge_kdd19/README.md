@@ -11,5 +11,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/a-representation-learning-framework-for-property-graphs)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330948)
 - [spotlight](https://www.youtube.com/watch?v=S8wxl5yIt_c)
