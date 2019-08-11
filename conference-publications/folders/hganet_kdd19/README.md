@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/graph-representation-learning-via-hard-and-channel-wise-attention-networks)
 - [acm](https://dl.acm.org/citation.cfm?id=3330897)
 - [arXiv](https://arxiv.org/abs/1907.04652)
 - [poster](http://people.tamu.edu/~hongyang.gao/pdfs/Graph_Hard_Attn_Poster.pdf)
