@@ -219,7 +219,6 @@
 - [Learning to Cluster Faces on an Affinity Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnds_cvpr19/README.md)
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
-
  - [Learning Actor Relation Graphs for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/arg_cvpr19/README.md)
  - [An End-to-End Network for Generating Social Relationship Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srggn_cvpr19/README.md)
  - [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/abc_cvpr19/README.md)
