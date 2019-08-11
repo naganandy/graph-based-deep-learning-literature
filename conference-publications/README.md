@@ -120,15 +120,15 @@
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cogqa_acl19/README.md)
 - [Joint Type Inference on Entities and Relations via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/entrelgcn_acl19/README.md)
 - [Attention Guided Graph Convolutional Networks for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aggcn_acl19/README.md)
-- [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grahrel_acl19/README.md)
-- [Graph Neural Networks with Generated Parameters for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpgnn_acl19/README.md)
-- [Graph-based Dependency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnndeppar_acl19/README.md)
-- [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
 
 
 <details> 
 <summary> more </summary> 
 
+- [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grahrel_acl19/README.md)
+- [Graph Neural Networks with Generated Parameters for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpgnn_acl19/README.md)
+- [Graph-based Dependency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnndeppar_acl19/README.md)
+- [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/glfte_acl19/README.md)
 - [GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gear_acl19/README.md)
 - [Multi-Channel Graph Neural Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mugnn_acl19/README.md)
 - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cigcn_acl19/README.md)
@@ -166,6 +166,11 @@
 - [Graph U-Net](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gunet_icml19/README.md)
 - [Deep Relational Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/drp_icml19/README.md)
 - [Distributed, Egocentric Representations of Graphs for Detecting Critical Structures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egocnn_icml19/README.md)
+
+
+<details> 
+<summary> more </summary> 
+ 
 - [Graph Element Networks: adaptive, structured computation and memory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gen_icml19/README.md)
 - [LatentGNN: Learning Efficient Non-local Relations for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/latentgnn_icml19/README.md)
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmn_icml19/README.md)
@@ -183,7 +188,7 @@
 - [Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmusic_icml19/README.md)
 - [Structured Agents for Physical Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gndqn_icml19/README.md)
 
-
+</details> 
 
 
 
@@ -199,8 +204,12 @@
 - [Generating Classification Weights with Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wdaegnn_cvpr19/README.md)
 - [Explainability Methods for Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/explainability_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fga_cvpr19/README.md)
-- [Spatial-Aware Graph Relation Network for Large-Scale Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgrn_cvpr19/README.md)
 - [GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcan_cvpr19/README.md)
+
+<details> 
+<summary> more </summary> 
+ 
+- [Spatial-Aware Graph Relation Network for Large-Scale Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgrn_cvpr19/README.md)
 - [Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mangonet_cvpr19/README.md)
 - [Reasoning Visual Dialogs with Structural and Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/visdialgnn_cvpr19/README.md)
 - [Exploiting Edge Features for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/egnn_cvpr19/README.md)
@@ -210,9 +219,6 @@
 - [Learning to Cluster Faces on an Affinity Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnds_cvpr19/README.md)
 - [Learning a Deep ConvNet for Multi-label Classification with Partial Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnmlc_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/adgcn_cvpr19/README.md)
-
-<details> 
-<summary> more </summary> 
 
  - [Learning Actor Relation Graphs for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/arg_cvpr19/README.md)
  - [An End-to-End Network for Generating Social Relationship Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srggn_cvpr19/README.md)
