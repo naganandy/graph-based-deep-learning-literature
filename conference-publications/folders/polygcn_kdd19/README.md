@@ -11,6 +11,7 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/is-a-single-vector-enough-exploring-node-polysemy-for-network-embedding)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330967)
 - [arXiv](https://arxiv.org/abs/1905.10668)
 - [spotlight](https://www.youtube.com/watch?v=zlwSNczoUZw)
