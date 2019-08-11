@@ -406,8 +406,15 @@
 - [Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graph2seq_emnlp18/README.md)
 - [A Unified Syntax-aware Framework for Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/unisrl_emnlp18/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clkgcn_emnlp18/README.md)
+
+<details> 
+<summary> more </summary>
+ 
 - [SQL-to-Text Generation with Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sqltotext_emnlp18/README.md)
 - [N-ary Relation Extraction using Graph State LSTM](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gslstm_emnlp18/README.md)
+
+</details> 
+
 
 ## -----------------------------------------------------------------------------
 
