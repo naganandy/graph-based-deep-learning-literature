@@ -11,4 +11,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/conditional-random-field-enhanced-graph-convolutional-neural-networks)
 - [acm](https://dl.acm.org/citation.cfm?id=3292500.3330888)
