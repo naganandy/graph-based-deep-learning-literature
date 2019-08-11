@@ -98,7 +98,7 @@
 - Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs
 - Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
-- Adversarial Graph Embedding for Ensemble Clustering
+- [Adversarial Graph Embedding for Ensemble Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agae_ijcai19/README.md)
 
 </details>
 
