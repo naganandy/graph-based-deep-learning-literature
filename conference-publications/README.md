@@ -82,7 +82,7 @@
 - [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daegc_ijcai19/README.md)
 - [Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tsgnet_ijcai19/README.md)
 - [Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphheat_ijcai19/README.md)
-- Dynamic Hypergraph Neural Networks
+- [Dynamic Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dhgnn_ijcai19/README.md)
 - Hypergraph Induced Convolutional Manifold Networks
 - [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgat_ijcai19/README.md)
  - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stg2seq_ijcai19/README.md)
