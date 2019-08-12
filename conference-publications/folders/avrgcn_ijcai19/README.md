@@ -6,7 +6,6 @@
   title     = {A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment},
   author    = {Ye, Rui and Li, Xin and Fang, Yujie and Zang, Hongyu and Wang, Mingzhong},
   booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI)},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
   pages     = {4135--4141},
   year      = {2019}
 }
