@@ -80,7 +80,7 @@
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgae_ijcai19/README.md)
  - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrgnn_ijcai19/README.md)
 - [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/daegc_ijcai19/README.md)
-- Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
+- [Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tsgnet_ijcai19/README.md)
 - Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning
 - Dynamic Hypergraph Neural Networks
 - Hypergraph Induced Convolutional Manifold Networks
