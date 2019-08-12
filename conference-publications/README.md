@@ -89,7 +89,7 @@
  - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbert_ijcai19/README.md)
 - [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tag2gauss_ijcai19/README.md)
 - [Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hetergcn_ijcai19/README.md)
-- A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment
+- [A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/avrgcn_ijcai19/README.md)
 - CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
 - Belief Propagation Network for Hard Inductive Semi-Supervised Learning
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
