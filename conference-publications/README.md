@@ -93,7 +93,7 @@
 - [CensNet: Convolution with Edge-Node Switching in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/censnet_ijcai19/README.md)
 - [Belief Propagation Network for Hard Inductive Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bpn_ijcai19/README.md)
 - [AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/addgraph_ijcai19/README.md)
-- Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
+- [Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pgcn_ijcai19/README.md)
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
 - Heterogeneous Graph Matching Networks for Unknown Malware Detection
 - Hierarchical Representation Learning for Bipartite Graphs
