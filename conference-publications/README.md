@@ -97,7 +97,7 @@
 - [Graph Convolutional Network Hashing for Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gch_ijcai19/README.md)
 - [Heterogeneous Graph Matching Networks for Unknown Malware Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/matchgnet_ijcai19/README.md)
 - [Hierarchical Representation Learning for Bipartite Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bihgnn_ijcai19/README.md)
-- Graph-based Neural Sentence Ordering
+- [Graph-based Neural Sentence Ordering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nseg_ijcai19/README.md)
 - [Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/star_ijcai19/README.md)
 - [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgar_ijcai19/README.md)
 - [Graph Contextualized Self-Attention Network for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcsan_ijcai19/README.md)
