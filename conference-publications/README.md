@@ -91,7 +91,7 @@
 - [Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hetergcn_ijcai19/README.md)
 - [A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/avrgcn_ijcai19/README.md)
 - [CensNet: Convolution with Edge-Node Switching in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/censnet_ijcai19/README.md)
-- Belief Propagation Network for Hard Inductive Semi-Supervised Learning
+- [Belief Propagation Network for Hard Inductive Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bpn_ijcai19/README.md)
 - AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN
 - Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation
 - Graph Convolutional Network Hashing for Cross-Modal Retrieval
