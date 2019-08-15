@@ -7,6 +7,7 @@
 ## -----------------------------------------------------------------------------
 # ICCV 2019 (Nov)
 - [Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/deepgcn_iccv19/README.md)
+- [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mne_iccv19/README.md)
 - [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gala_iccv19/README.md)
 - [SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgnet_iccv19/README.md)
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oanet_iccv19/README.md)
