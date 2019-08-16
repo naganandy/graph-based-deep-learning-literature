@@ -11,6 +11,7 @@
 - [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gala_iccv19/README.md)
 - [SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgnet_iccv19/README.md)
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oanet_iccv19/README.md)
+- [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/learntrajdep_iccv19/README.md)
 - [Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neural3dmm/README.md)
 
 ## -----------------------------------------------------------------------------
