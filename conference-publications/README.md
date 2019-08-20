@@ -18,7 +18,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# EMNLP 2019 (Nov)
+# [EMNLP 2019 (Nov)](https://www.emnlp-ijcnlp2019.org/program/accepted/)
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kbrd_emnlp19/README.md)
 - Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs
 ## -----------------------------------------------------------------------------
