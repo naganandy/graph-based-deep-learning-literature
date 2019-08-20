@@ -65,7 +65,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 
 # Relevant workshops
 - ## 2019
-   * ### [Graph Representation Learning (Neurips)](https://grlearning.github.io/)
+   * ### [Graph Representation Learning (NeurIPS)](https://grlearning.github.io/)
    * ### [Scene Graph Representation and Learning (ICCV)](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
    * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://dlg2019.bitbucket.io/)
    * ### [Learning and Reasoning with Graph-Structured Representations (ICML)](https://graphreason.github.io/)
