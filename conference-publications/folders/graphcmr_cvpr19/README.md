@@ -1,7 +1,7 @@
 #  Convolutional Mesh Regression for Single-Image Human Shape Reconstruction
 
 ```
- @inproceedings{graphcmr_cvpr19,
+@inproceedings{graphcmr_cvpr19,
 author = {Kolotouros, Nikos and Pavlakos, Georgios and Daniilidis, Kostas},
 title = {Convolutional Mesh Regression for Single-Image Human Shape Reconstruction},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
