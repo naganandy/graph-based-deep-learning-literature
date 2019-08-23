@@ -11,5 +11,5 @@
 ```
 
 links
-- [ijcai](ijcai.org/proceedings/2019/733)
+- [ijcai](https://www.ijcai.org/proceedings/2019/733)
 - [arXiv](https://arxiv.org/abs/1908.08210)
