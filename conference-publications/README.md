@@ -39,11 +39,28 @@
 <summary> more </summary>
 
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
+- Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
+- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
+- Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
+- Tree Transformer: Integrating Tree Structures into Self-Attention
 - Label-Specific Document Representation for Multi-Label Text Classification
 - Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs
+- Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs
+- News2vec: News Network Embedding with Subnode Information
+- Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction
 - Jointly Learning Entity and Relation Representations for Entity Alignment
+- Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
+- Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model
 - Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
+- Semantic graph parsing with recurrent neural network DAG grammars
+- What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
+- Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations
+- Event Detection with Multi-Order Graph Convolution and Aggregated Attention
+- QAInfomax: Learning Robust Question Answering System by Mutual Information Maximization
+- Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
+- Leveraging Dependency Forest for Neural Medical Relation Extraction 
+- Modeling Graph Structure in Transformer for Better AMR-to-Text Generation
 - Enhancing AMR-to-Text Generation with Dual Graph Representations
 - A Lexicon-Based Graph Neural Network for Chinese NER
 
