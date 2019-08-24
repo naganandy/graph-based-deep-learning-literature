@@ -39,6 +39,9 @@
 <summary> more </summary>
 
 - DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
+- Event Detection with Multi-Order Graph Convolution and Aggregated Attention
+- Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
+- A Lexicon-Based Graph Neural Network for Chinese NER
 - Improving Relation Extraction with Knowledge-attention
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
@@ -52,17 +55,16 @@
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
 - Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model
+- Collaborative Policy Learning for Open Knowledge Graph Reasoning
 - Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
 - Semantic graph parsing with recurrent neural network DAG grammars
 - What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
 - Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations
-- Event Detection with Multi-Order Graph Convolution and Aggregated Attention
+- Learning to Update Knowledge Graph by Reading News
 - QAInfomax: Learning Robust Question Answering System by Mutual Information Maximization
-- Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 - Modeling Graph Structure in Transformer for Better AMR-to-Text Generation
 - Enhancing AMR-to-Text Generation with Dual Graph Representations
-- A Lexicon-Based Graph Neural Network for Chinese NER
 
 </details>
  
