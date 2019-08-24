@@ -41,11 +41,9 @@
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Label-Specific Document Representation for Multi-Label Text Classification
 - Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs
-
 - Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
-
 - Enhancing AMR-to-Text Generation with Dual Graph Representations
 - A Lexicon-Based Graph Neural Network for Chinese NER
 
