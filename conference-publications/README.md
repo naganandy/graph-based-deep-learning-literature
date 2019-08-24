@@ -27,9 +27,30 @@
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kbrd_emnlp19/README.md)
 - CaRe: Open Knowledge Graph Embeddings
 - Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs
+- Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
+- Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
+- Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks
 - DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
+- KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks
+- Improving Relation Extraction with Knowledge-attention
 - Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
+
+<details> 
+<summary> more </summary>
+
+- Knowledge-Aware Paragraph Generation: A Graph Inference Approach
+- Label-Specific Document Representation for Multi-Label Text Classification
+- Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs
+
+- Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction
+- Jointly Learning Entity and Relation Representations for Entity Alignment
+- Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
+
+- Enhancing AMR-to-Text Generation with Dual Graph Representations
 - A Lexicon-Based Graph Neural Network for Chinese NER
+
+</details>
+ 
 
 ## -----------------------------------------------------------------------------
 
