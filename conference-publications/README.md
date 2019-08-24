@@ -38,9 +38,11 @@
 <details> 
 <summary> more </summary>
 
+- Text Level Graph Neural Network for Text Classification
 - DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
+- Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
 - A Lexicon-Based Graph Neural Network for Chinese NER
 - Improving Relation Extraction with Knowledge-attention
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
@@ -61,6 +63,7 @@
 - What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
 - Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations
 - Learning to Update Knowledge Graph by Reading News
+- Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - QAInfomax: Learning Robust Question Answering System by Mutual Information Maximization
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 - Modeling Graph Structure in Transformer for Better AMR-to-Text Generation
