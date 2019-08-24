@@ -27,6 +27,7 @@
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kbrd_emnlp19/README.md)
 - CaRe: Open Knowledge Graph Embeddings
 - Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs
+- DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
 - Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
 - A Lexicon-Based Graph Neural Network for Chinese NER
 
