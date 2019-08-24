@@ -28,19 +28,19 @@
 - CaRe: Open Knowledge Graph Embeddings
 - Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs
 - Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
-- Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
 - Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks
-- DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
+- Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
 - KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks
-- Improving Relation Extraction with Knowledge-attention
+- Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
 - Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
+- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 
 <details> 
 <summary> more </summary>
 
+- DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
+- Improving Relation Extraction with Knowledge-attention
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
-- Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
-- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 - Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 - Tree Transformer: Integrating Tree Structures into Self-Attention
 - Label-Specific Document Representation for Multi-Label Text Classification
