@@ -46,7 +46,6 @@
 - A Lexicon-Based Graph Neural Network for Chinese NER
 - Improving Relation Extraction with Knowledge-attention
 - Improving Distantly-Supervised Relation Extraction with Joint Label Embedding
-- Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Modeling the Relationship between User Comments and Edits in Document Revision
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
