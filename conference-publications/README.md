@@ -198,6 +198,7 @@
 - [GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gear_acl19/README.md)
 - [Multi-Channel Graph Neural Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mugnn_acl19/README.md)
 - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cigcn_acl19/README.md)
+- [Learning Latent Trees with Stochastic Perturbations and Differentiable Dynamic Programming](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ddp_acl19/README.md)
 - [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gmnn_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/t2sqlgnn_acl19/README.md)
 - [The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gbsibl_acl19/README.md)
