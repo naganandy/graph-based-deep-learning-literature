@@ -33,6 +33,7 @@
 
 # [EMNLP 2019 (Nov)](https://www.emnlp-ijcnlp2019.org/program/accepted/)
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kbrd_emnlp19/README.md)
+- [DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dialoguegcn_emnlp19/README.md)
 - CaRe: Open Knowledge Graph Embeddings
 - Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs
 - Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
@@ -41,14 +42,13 @@
 - KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks
 - Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
 - Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
-- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 
 <details> 
 <summary> more </summary>
 
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
+- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 - Text Level Graph Neural Network for Text Classification
-- DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
 - Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
