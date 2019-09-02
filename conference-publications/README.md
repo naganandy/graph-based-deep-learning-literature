@@ -46,6 +46,7 @@
 <details> 
 <summary> more </summary>
 
+- [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
 - Text Level Graph Neural Network for Text Classification
 - DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
@@ -68,7 +69,6 @@
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Cross-lingual Structure Transfer for Relation and Event Extraction
 - Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
-- Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model
 - Collaborative Policy Learning for Open Knowledge Graph Reasoning
 - Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
 - Semantic graph parsing with recurrent neural network DAG grammars
