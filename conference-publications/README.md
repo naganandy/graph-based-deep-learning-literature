@@ -1,6 +1,13 @@
 # [Conferences](https://aideadlin.es/)
 
-- NeurIPS 2019 (Dec, decisions early Sep)
+- AAAI 2020 (Feb, decisions mid Nov)
+- ICLR 2020 (May, decisions mid Dec, all submissions late Sep)
+
+
+## -----------------------------------------------------------------------------
+# NeurIPS 2019 (Dec)
+- [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/modulargcn_neurips19/README.md)
+- []()
 
 ## -----------------------------------------------------------------------------
 # ICCV 2019 (Nov)
