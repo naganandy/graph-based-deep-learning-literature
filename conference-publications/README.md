@@ -1,7 +1,7 @@
 # [Conferences](https://aideadlin.es/)
 
-- AAAI 2020 (Feb, decisions mid Nov)
 - ICLR 2020 (May, decisions mid Dec, all submissions late Sep)
+- AAAI 2020 (Feb, decisions mid Nov)
 
 
 ## -----------------------------------------------------------------------------
