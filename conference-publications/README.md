@@ -9,6 +9,7 @@
 - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/modulargcn_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 - [HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hypergcn_neurips19/README.md)
+- [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
 
 ## -----------------------------------------------------------------------------
 # ICCV 2019 (Nov)
