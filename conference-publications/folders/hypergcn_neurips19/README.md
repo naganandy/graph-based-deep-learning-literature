@@ -2,7 +2,7 @@
 
 ```
 @incollection{hypergcn_neurips19,
-title = {HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs},
+title = {Hyper{GCN}: A New Method of Training Graph Convolutional Networks on Hypergraphs},
 author = {Naganand Yadati and Madhav Nimishakavi and Prateek Yadav and Vikram Nitin and Anand Louis and Partha Talukdar},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
 year = {2019},
