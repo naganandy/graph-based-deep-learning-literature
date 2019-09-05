@@ -5,7 +5,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# NeurIPS 2019 (Dec)
+# [NeurIPS 2019 (Dec)](https://nips.cc/Conferences/2019/AcceptedPapersInitial)
 - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/modulargcn_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 - [Semantically-Regularized Logic Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lensr_neurips19/README.md)
