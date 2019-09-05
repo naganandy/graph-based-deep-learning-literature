@@ -1,7 +1,7 @@
 # Stability of Graph Scattering Transforms
 
 ```
-@incollection{modulargcn_neurips19,
+@incollection{gst_neurips19,
 title = {Stability of Graph Scattering Transforms},
 author = {Fernando Gama and Joan Bruna and Alejandro Ribeiro},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
