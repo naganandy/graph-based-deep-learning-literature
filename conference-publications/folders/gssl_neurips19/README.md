@@ -1,7 +1,7 @@
 # A Flexible Generative Framework for Graph-based Semi-supervised Learning
 
 ```
-@incollection{modulargcn_neurips19,
+@incollection{gssl_neurips19,
 title = {A Flexible Generative Framework for Graph-based Semi-supervised Learning},
 author = {Jiaqi Ma and Weijing Tang and Ji Zhu, Qiaozhu Mei},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
