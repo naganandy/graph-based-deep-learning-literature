@@ -33,13 +33,20 @@
 - A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning
 - Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
 - Rethinking Kernel Methods for Node Representation Learning on Graphs
+- Graph Transformer Networks
+- Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs
+- DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs
+- Recurrent Space-time Graph Neural Networks
+- Diffusion Improves Graph Learning
 - Efficient Graph Generation with Graph Recurrent Attention Networks
+- Exploring Algorithmic Fairness in Robust Graph Covering Problems
 - Hyper-Graph-Network Decoders for Block Codes
 - Learning Transferable Graph Exploration
 - Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks
 - KerGM: Kernelized Graph Matching
 - Spectral Modification of Graphs for Improved Spectral Clustering
 - Globally optimal score-based learning of directed acyclic graphs in high-dimensions
+- Neural Relational Inference with Fast Modular Meta-learning
 - Learning to Propagate for Graph Meta-Learning
 - Conditional Structure Generation through Graph Variational Generative Adversarial Nets
 - Möbius Transformation for Fast Inner Product Search on Graph
