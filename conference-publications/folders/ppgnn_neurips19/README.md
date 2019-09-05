@@ -1,7 +1,7 @@
 # Provably Powerful Graph Networks
 
 ```
-@incollection{modulargcn_neurips19,
+@incollection{ppgnn_neurips19,
 title = {Provably Powerful Graph Networks},
 author = {Haggai Maron and Heli Ben-Hamu and Hadar Serviansky and Yaron Lipman},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
