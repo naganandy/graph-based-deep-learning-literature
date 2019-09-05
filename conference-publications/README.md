@@ -39,6 +39,7 @@
 - Graph Transformer Networks
 - Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs
 - DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs
+- Generative Models for Graph-Based Protein Design
 - Recurrent Space-time Graph Neural Networks
 - Diffusion Improves Graph Learning
 - Efficient Graph Generation with Graph Recurrent Attention Networks
