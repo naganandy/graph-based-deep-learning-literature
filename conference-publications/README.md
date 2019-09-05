@@ -13,6 +13,14 @@
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
 
+<details> 
+<summary> more </summary>
+ 
+- Learning to Propagate for Graph Meta-Learning
+
+</details>
+
+
 ## -----------------------------------------------------------------------------
 # ICCV 2019 (Nov)
 - [Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/deepgcn_iccv19/README.md)
