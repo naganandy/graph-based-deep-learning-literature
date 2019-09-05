@@ -13,7 +13,7 @@
 - [HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hypergcn_neurips19/README.md)
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
--[Provably Powerful Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgnn_neurips19/README.md)
+- [Provably Powerful Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgnn_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 - [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
 
