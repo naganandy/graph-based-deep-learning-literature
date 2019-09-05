@@ -24,15 +24,28 @@
  - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
 - [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pastegan_neurips19/README.md)
+- Graph-Based Semi-Supervised Learning with Non-ignorable Non-response
+- Graph Agreement Models for Semi-Supervised Learning
 - Hyperbolic Graph Convolutional Neural Networks
+- Hyperbolic Graph Neural Networks
+- DFNets: Spectral CNNs for Graphs with Feedback-looped Filters
+- Certifiable Robustness to Graph Perturbations
+- A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning
+- Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
+- Rethinking Kernel Methods for Node Representation Learning on Graphs
 - Efficient Graph Generation with Graph Recurrent Attention Networks
 - Hyper-Graph-Network Decoders for Block Codes
 - Learning Transferable Graph Exploration
+- Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks
 - KerGM: Kernelized Graph Matching
 - Spectral Modification of Graphs for Improved Spectral Clustering
 - Globally optimal score-based learning of directed acyclic graphs in high-dimensions
 - Learning to Propagate for Graph Meta-Learning
 - Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+- Möbius Transformation for Fast Inner Product Search on Graph
+- Graph Structured Prediction Energy Networks
+- Beyond Vector Spaces: Compact Data Representation as Differentiable Weighted Graphs
+- Retrosynthesis Prediction with Conditional Graph Logic Network
 - Direct Estimation of Differential Functional Graphical Model
 - Heterogeneous Graph Learning for Visual Commonsense Reasoning
 
