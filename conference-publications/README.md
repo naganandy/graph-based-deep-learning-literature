@@ -20,6 +20,7 @@
 <details> 
 <summary> more </summary>
  
+- [N-Gram Graph, A Novel Molecule Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngram_neurips19/README.md)
 - [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
 - [Semantically-Regularized Logic Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lensr_neurips19/README.md)
 - [D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvae_neurips19/README.md)
