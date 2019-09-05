@@ -1,0 +1,15 @@
+# Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks
+
+```
+@incollection{strongergcn_neurips19,
+title = {Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks},
+author = {Sitao Luan and Mingde Zhao and Xiao-Wen Chang and Doina Precup},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+year = {2019},
+publisher = {Curran Associates, Inc.}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/1906.02174)
+- [code](https://github.com/y-fujiwr/Stronger_GCN)
