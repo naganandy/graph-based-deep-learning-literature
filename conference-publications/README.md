@@ -27,6 +27,7 @@
 - Hyper-Graph-Network Decoders for Block Codes
 - Learning Transferable Graph Exploration
 - KerGM: Kernelized Graph Matching
+- Spectral Modification of Graphs for Improved Spectral Clustering
 - Globally optimal score-based learning of directed acyclic graphs in high-dimensions
 - Learning to Propagate for Graph Meta-Learning
 - Conditional Structure Generation through Graph Variational Generative Adversarial Nets
