@@ -18,8 +18,12 @@
 <details> 
 <summary> more </summary>
  
+- Hyper-Graph-Network Decoders for Block Codes
+- Learning Transferable Graph Exploration
 - Learning to Propagate for Graph Meta-Learning
 - Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+- Direct Estimation of Differential Functional Graphical Model
+- Heterogeneous Graph Learning for Visual Commonsense Reasoning
 
 </details>
 
