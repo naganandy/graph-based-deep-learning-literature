@@ -21,6 +21,7 @@
  
 - Hyper-Graph-Network Decoders for Block Codes
 - Learning Transferable Graph Exploration
+- KerGM: Kernelized Graph Matching
 - Learning to Propagate for Graph Meta-Learning
 - Conditional Structure Generation through Graph Variational Generative Adversarial Nets
 - Direct Estimation of Differential Functional Graphical Model
