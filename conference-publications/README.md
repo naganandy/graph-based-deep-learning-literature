@@ -105,13 +105,12 @@
 # [EMNLP 2019 (Nov)](https://www.emnlp-ijcnlp2019.org/program/accepted/)
 - [CaRe: Open Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/care_emnlp19/README.md)
 - [Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/eog_emnlp19/README.md)
-- [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kagnet_aaai19/README.md)
+- [KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kagnet_aaai19/README.md)
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kbrd_emnlp19/README.md)
 - [DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dialoguegcn_emnlp19/README.md)
 - Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
 - Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks
 - Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
-- KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks
 - Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
 - Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
 
