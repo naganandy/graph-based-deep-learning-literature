@@ -1,7 +1,7 @@
 # Powerset Convolutional Neural Networks
 
 ```
-@incollection{modulargcn_neurips19,
+@incollection{pcn_neurips19,
 title = {Powerset Convolutional Neural Networks},
 author = {Chris Wendler and Dan Alistarh and Markus Püschel},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
