@@ -120,6 +120,7 @@
 <summary> more </summary>
 
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
+- [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
 - Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 - Text Level Graph Neural Network for Text Classification
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
