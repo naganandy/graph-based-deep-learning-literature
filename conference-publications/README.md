@@ -36,6 +36,7 @@
 - [Universal Invariant and Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/swgnn_neurips19/README.md)
 - [N-Gram Graph, A Novel Molecule Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngram_neurips19/README.md)
 - [Graph-based Discriminators: Sample Complexity and Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/gbd_neurips19)
+- [Recurrent Space-time Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rstg_neurips19/README.md)
 - Graph-Based Semi-Supervised Learning with Non-ignorable Non-response
 - Graph Agreement Models for Semi-Supervised Learning
 - Hyperbolic Graph Convolutional Neural Networks
@@ -49,7 +50,6 @@
 - Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs
 - DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs
 - Generative Models for Graph-Based Protein Design
-- Recurrent Space-time Graph Neural Networks
 - Diffusion Improves Graph Learning
 - Efficient Graph Generation with Graph Recurrent Attention Networks
 - Exploring Algorithmic Fairness in Robust Graph Covering Problems
