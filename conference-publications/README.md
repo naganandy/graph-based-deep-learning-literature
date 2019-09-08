@@ -55,7 +55,6 @@
 - Exploring Algorithmic Fairness in Robust Graph Covering Problems
 - Hyper-Graph-Network Decoders for Block Codes
 - Scalable Deep Generative Relational Model with High-Order Node Dependence
-- Meta Learning with Relational Information for Short Sequences
 - Learning Transferable Graph Exploration
 - Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks
 - KerGM: Kernelized Graph Matching
