@@ -119,7 +119,8 @@
 
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
-- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
+- [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/transtruct_emnlp19/README.md)
+- [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)- Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
 - Text Level Graph Neural Network for Text Classification
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
@@ -146,8 +147,7 @@
 - Learning to Update Knowledge Graph by Reading News
 - Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
-- [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
-- Enhancing AMR-to-Text Generation with Dual Graph Representations
+
 
 </details>
  
