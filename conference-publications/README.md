@@ -57,7 +57,6 @@
 - Scalable Deep Generative Relational Model with High-Order Node Dependence
 - Learning Transferable Graph Exploration
 - Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks
-- KerGM: Kernelized Graph Matching
 - Spectral Modification of Graphs for Improved Spectral Clustering
 - Globally optimal score-based learning of directed acyclic graphs in high-dimensions
 - Neural Relational Inference with Fast Modular Meta-learning
