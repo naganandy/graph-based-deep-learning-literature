@@ -118,6 +118,7 @@
 <summary> more </summary>
 
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
+- [Cross-lingual Structure Transfer for Relation and Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clstre_emnlp19/README.md)
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
 - [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/transtruct_emnlp19/README.md)
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
@@ -140,7 +141,6 @@
 - Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction
 - Jointly Learning Entity and Relation Representations for Entity Alignment
-- Cross-lingual Structure Transfer for Relation and Event Extraction
 - Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
 - Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
 - Semantic graph parsing with recurrent neural network DAG grammars
