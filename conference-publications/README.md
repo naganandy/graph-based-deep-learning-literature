@@ -146,7 +146,7 @@
 - Learning to Update Knowledge Graph by Reading News
 - Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
-- Modeling Graph Structure in Transformer for Better AMR-to-Text Generation
+- [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
 - Enhancing AMR-to-Text Generation with Dual Graph Representations
 
 </details>
