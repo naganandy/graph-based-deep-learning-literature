@@ -108,16 +108,16 @@
 - [KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kagnet_aaai19/README.md)
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kbrd_emnlp19/README.md)
 - [DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dialoguegcn_emnlp19/README.md)
+- [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/asgcn_emnlp19/README.md)
+- [Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tdgat_emnlp19/README.md)
 - Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
 - Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks
 - Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
-- Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
-- Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
 
 <details> 
 <summary> more </summary>
 
-- [Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tdgat_emnlp19/README.md)
+- Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
 - [Cross-lingual Structure Transfer for Relation and Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clstre_emnlp19/README.md)
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
