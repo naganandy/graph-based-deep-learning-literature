@@ -136,17 +136,14 @@
 - Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 - Tree Transformer: Integrating Tree Structures into Self-Attention
 - Label-Specific Document Representation for Multi-Label Text Classification
-- Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs
 - News2vec: News Network Embedding with Subnode Information
 - Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
-- Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph
 - Semantic graph parsing with recurrent neural network DAG grammars
 - What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
 - Learning to Update Knowledge Graph by Reading News
-- Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
 
