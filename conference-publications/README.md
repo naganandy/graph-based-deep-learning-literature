@@ -137,7 +137,6 @@
 - Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 - Label-Specific Document Representation for Multi-Label Text Classification
 - News2vec: News Network Embedding with Subnode Information
-- Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
 - Semantic graph parsing with recurrent neural network DAG grammars
