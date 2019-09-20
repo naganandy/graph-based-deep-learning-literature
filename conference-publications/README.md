@@ -38,6 +38,7 @@
 - [N-Gram Graph, A Novel Molecule Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngram_neurips19/README.md)
 - [Graph-based Discriminators: Sample Complexity and Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/gbd_neurips19)
 - [Neural Relational Inference with Fast Modular Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nrimml_neurips19/README.md)
+- [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Recurrent Space-time Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rstg_neurips19/README.md)
 - [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/progen_neurips19/README.md)
 - Graph-Based Semi-Supervised Learning with Non-ignorable Non-response
@@ -55,7 +56,6 @@
 - Diffusion Improves Graph Learning
 - Efficient Graph Generation with Graph Recurrent Attention Networks
 - Exploring Algorithmic Fairness in Robust Graph Covering Problems
-- Hyper-Graph-Network Decoders for Block Codes
 - Scalable Deep Generative Relational Model with High-Order Node Dependence
 - Learning Transferable Graph Exploration
 - Spectral Modification of Graphs for Improved Spectral Clustering
