@@ -10,3 +10,6 @@
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/forum?id=BJe8pkHFwS)
 - [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)
 - [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
+- [Hierarchical Graph Matching Networks for Deep Graph Similarity Learning](https://openreview.net/forum?id=rkeqn1rtDH)
+- [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
+- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
