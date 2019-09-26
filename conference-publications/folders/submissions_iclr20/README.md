@@ -22,6 +22,7 @@
 - [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
 - [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
 - [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
+- [Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation](https://openreview.net/forum?id=SkezP1HYvS)
 - [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
 - [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
