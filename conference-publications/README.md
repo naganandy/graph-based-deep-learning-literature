@@ -98,6 +98,8 @@
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treegan_iccv19/README.md)
 - Zero-Shot Emotion Recognition via Affective Structural Embedding
 - Deep Graphical Feature Learning for the Feature Matching Problem
+- STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
+
 
 </details>
 
