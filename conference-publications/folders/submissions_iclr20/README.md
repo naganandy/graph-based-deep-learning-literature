@@ -89,3 +89,4 @@
 - [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)
 - [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
+- [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://openreview.net/forum?id=BklXkCNYDB)
