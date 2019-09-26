@@ -81,3 +81,4 @@
 - [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)
 - [A Hierarchy of Graph Neural Networks Based on Learnable Local Features](https://openreview.net/forum?id=ryeEr0EFvS)
 - [Continuous Graph Flow](https://openreview.net/forum?id=BkgZSCEtvr)
+- [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)
