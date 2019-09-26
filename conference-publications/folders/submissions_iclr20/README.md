@@ -79,3 +79,4 @@
 - [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://openreview.net/forum?id=r1lGO0EKDH)
 - [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)
+- [A Hierarchy of Graph Neural Networks Based on Learnable Local Features](https://openreview.net/forum?id=ryeEr0EFvS)
