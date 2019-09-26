@@ -102,6 +102,7 @@
 - Deep Graphical Feature Learning for the Feature Matching Problem
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
 - Relational Attention Network for Crowd Counting
+- Stacked Cross Refinement Network for Edge-Aware Salient Object Detection
 
 
 </details>
