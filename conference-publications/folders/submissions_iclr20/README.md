@@ -73,3 +73,4 @@
 - [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
 - [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
 - [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
+- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
