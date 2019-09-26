@@ -101,6 +101,7 @@
 - Zero-Shot Emotion Recognition via Affective Structural Embedding
 - Deep Graphical Feature Learning for the Feature Matching Problem
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
+- Relational Attention Network for Crowd Counting
 
 
 </details>
