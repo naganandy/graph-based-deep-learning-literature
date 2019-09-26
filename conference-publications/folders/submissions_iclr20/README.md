@@ -27,4 +27,9 @@
 - [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
 - [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)
 - [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)
-- 
+- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
+- [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
+- [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
+- [Directional Message Passing for Molecular Graphs](https://openreview.net/forum?id=B1eWbxStPH)
+- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
+- [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
