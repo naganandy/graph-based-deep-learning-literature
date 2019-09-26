@@ -100,6 +100,9 @@
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treegan_iccv19/README.md)
 - AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism
 - Deep Clustering by Gaussian Mixture Variational Autoencoders With Graph Embedding
+- New Convex Relaxations for MRF Inference With Unknown Graphs
+- Deep Supervised Hashing With Anchor Graph
+- Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation
 - Zero-Shot Emotion Recognition via Affective Structural Embedding
 - Deep Graphical Feature Learning for the Feature Matching Problem
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
