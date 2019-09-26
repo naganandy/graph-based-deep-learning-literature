@@ -72,7 +72,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# ICCV 2019 (Nov)
+# [ICCV 2019 (Nov)](http://iccv2019.thecvf.com/program/main_conference)
 - [Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/deepgcn_iccv19/README.md)
 - [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mne_iccv19/README.md)
 - [Hierarchy Parsing for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hip_iccv19/README.md)
