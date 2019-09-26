@@ -69,3 +69,4 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)
 - [Frequency Analysis for Graph Convolution Network](https://openreview.net/forum?id=HylthC4twr)
+- [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
