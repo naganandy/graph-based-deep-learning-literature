@@ -44,3 +44,4 @@
 - [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
+- [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
