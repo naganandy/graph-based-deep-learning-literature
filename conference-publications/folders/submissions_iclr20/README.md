@@ -46,3 +46,4 @@
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
 - [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
+- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)
