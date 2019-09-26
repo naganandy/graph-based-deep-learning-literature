@@ -93,3 +93,4 @@
 - [GRAPH NEIGHBORHOOD ATTENTIVE POOLING](https://openreview.net/forum?id=BkeqATVYwr)
 - [Uncertainty-Aware Prediction for Graph Neural Networks](https://openreview.net/forum?id=SyxdC6NKwH)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)
+- [Higher-order Weighted Graph Convolutional Networks](https://openreview.net/forum?id=HylwpaNKPB)
