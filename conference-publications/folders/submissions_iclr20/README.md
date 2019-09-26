@@ -110,3 +110,4 @@
 - [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
 - [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
+- [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
