@@ -14,3 +14,4 @@
 - [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
 - [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
 - [Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning](https://openreview.net/forum?id=BygacxrFwS)
+- [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
