@@ -17,3 +17,6 @@
 - [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
 - [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
 - [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
+- [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
+- [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
+- [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
