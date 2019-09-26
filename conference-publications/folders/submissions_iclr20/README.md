@@ -74,3 +74,4 @@
 - [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
 - [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
+- [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
