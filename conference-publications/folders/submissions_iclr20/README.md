@@ -47,3 +47,4 @@
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
 - [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)
+- [A Generative Model for Molecular Distance Geometry](https://openreview.net/forum?id=S1x1IkHtPr)
