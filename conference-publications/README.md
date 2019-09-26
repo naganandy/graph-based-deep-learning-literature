@@ -92,6 +92,8 @@
 - [Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grnet_iccv19/README.md)
 - [Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neural3dmm/README.md)
 - [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vacation_iccv19/README.md)
+- Zero-Shot Emotion Recognition via Affective Structural Embedding
+
 
 </details>
 
