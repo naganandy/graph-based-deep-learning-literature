@@ -88,3 +88,4 @@
 - [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
 - [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)
+- [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
