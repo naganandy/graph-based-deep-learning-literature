@@ -40,6 +40,7 @@
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
 - [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
 - [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
+- [A bi-diffusion based layer-wise sampling method for deep learning in large graphs](https://openreview.net/forum?id=B1xRGkHYDS)
 - [GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks](https://openreview.net/forum?id=H1eNleBYwr)
 - [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
 - [Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks](https://openreview.net/forum?id=HJeANgBYwr)
