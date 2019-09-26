@@ -85,3 +85,4 @@
 - [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)
 - [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)
 - [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)
+- [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
