@@ -54,3 +54,5 @@
 - [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
 - [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
 - [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr)
+- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)
+- [Study of a Simple, Expressive and Consistent Graph Feature Representation](https://openreview.net/forum?id=Bkeqb1BFvB)
