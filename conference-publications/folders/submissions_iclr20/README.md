@@ -82,3 +82,4 @@
 - [A Hierarchy of Graph Neural Networks Based on Learnable Local Features](https://openreview.net/forum?id=ryeEr0EFvS)
 - [Continuous Graph Flow](https://openreview.net/forum?id=BkgZSCEtvr)
 - [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)
+- [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)
