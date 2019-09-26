@@ -107,3 +107,4 @@
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 - [Robust Graph Representation Learning via Neural Sparsification](https://openreview.net/forum?id=S1emOTNKvS)
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
+- [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
