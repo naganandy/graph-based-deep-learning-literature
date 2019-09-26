@@ -109,3 +109,4 @@
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
 - [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
+- [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
