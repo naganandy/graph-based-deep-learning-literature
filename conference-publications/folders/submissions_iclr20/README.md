@@ -70,3 +70,4 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)
 - [Frequency Analysis for Graph Convolution Network](https://openreview.net/forum?id=HylthC4twr)
+- [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
