@@ -77,3 +77,4 @@
 - [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
 - [Molecular Graph Enhanced Transformer for Retrosynthesis Prediction](https://openreview.net/forum?id=S1e__ANKvB)
 - [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
+- [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://openreview.net/forum?id=r1lGO0EKDH)
