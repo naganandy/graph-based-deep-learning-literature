@@ -64,3 +64,6 @@
 - [Empowering Graph Representation Learning with Paired Training and Graph Co-Attention](https://openreview.net/forum?id=BJeRykBKDH)
 - [Fully Convolutional Graph Neural Networks using Bipartite Graph Convolutions](https://openreview.net/forum?id=H1gWyJBFDr)
 - [Inductive representation learning on temporal graphs](https://openreview.net/forum?id=rJeW1yHYwH)
+- [IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification](https://openreview.net/forum?id=rylvAA4YDB)
+- [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
+- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
