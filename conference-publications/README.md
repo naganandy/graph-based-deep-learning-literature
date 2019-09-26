@@ -90,6 +90,7 @@
 - [Graph-Based Object Classification for Neuromorphic Vision Sensing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nvs2graph_iccv19/README.md)
 - [Zero-shot Video Object Segmentation via Attentive Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agnn_iccv19/README.md)
 - [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/learntrajdep_iccv19/README.md)
+- [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hpein_iccv19/README.md)
 - [Graph Convolutional Networks for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pgcn_iccv19/README.md)
 - [Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grnet_iccv19/README.md)
 - [Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neural3dmm/README.md)
