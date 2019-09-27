@@ -14,8 +14,10 @@
 
 ## Knowledge graphs
 
+- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
 - [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
+- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
 
 
 ## Active Learning
@@ -100,7 +102,6 @@
 - [Frequency Analysis for Graph Convolution Network](https://openreview.net/forum?id=HylthC4twr)
 - [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
 - [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
-- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
 - [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
 - [Molecular Graph Enhanced Transformer for Retrosynthesis Prediction](https://openreview.net/forum?id=S1e__ANKvB)
 - [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
@@ -147,7 +148,6 @@
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
 - [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
 - [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
-- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
 - [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
