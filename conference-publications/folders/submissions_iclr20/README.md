@@ -134,3 +134,4 @@
 - [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
 - [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
 - [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)
+- [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
