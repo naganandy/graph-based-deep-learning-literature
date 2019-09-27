@@ -5,12 +5,15 @@
 - [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
 - [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
+- [Study of a Simple, Expressive and Consistent Graph Feature Representation](https://openreview.net/forum?id=Bkeqb1BFvB)
 
 
 ## Empirical Analysis
 - [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
 - [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
+- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
+- [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
 
 
 
@@ -22,6 +25,7 @@
 - [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://openreview.net/forum?id=BklXkCNYDB)
 - [Robust Graph Representation Learning via Neural Sparsification](https://openreview.net/forum?id=S1emOTNKvS)
 - [A bi-diffusion based layer-wise sampling method for deep learning in large graphs](https://openreview.net/forum?id=B1xRGkHYDS)
+- [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)
 
 
 ## Graph Pooling
@@ -40,12 +44,14 @@
 - [Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning](https://openreview.net/forum?id=BygacxrFwS)
 - [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
 - [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
+- [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
 
 
 
 ## Few-Shot Learning
 - [Semi-Supervised Few-Shot Learning with Prototypical Random Walks](https://openreview.net/forum?id=Bygka64KPH)
+- [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
 - [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)
 - [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
@@ -101,46 +107,44 @@
 - [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
 
+## Dynamic/Temporal Graphs
+- [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
+- [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
+- [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
 
-# Architectures
+
+## Architectures
 - [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
 - [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
 - [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
+- [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)
+- [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
+- [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
+- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 
 
+
 ## Misc
-- [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)
-- [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)
-- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://openreview.net/forum?id=rkgi6JSYvB)
-- [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)
 - [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)
 - [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
-- [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
-- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
-- [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
 - [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
 - [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
-- [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
-- [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)
 - [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)
 - [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)
 - [Power up! Robust Graph Convolutional Network based on Graph Powering](https://openreview.net/forum?id=BkxDxJHFDr)
-- [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 - [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
 - [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
 - [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
 - [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
-- [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)
-- [Study of a Simple, Expressive and Consistent Graph Feature Representation](https://openreview.net/forum?id=Bkeqb1BFvB)
 - [GRAPHS, ENTITIES, AND STEP MIXTURE](https://openreview.net/forum?id=S1eWbkSFPS)
 - [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://openreview.net/forum?id=r1gelyrtwH)
@@ -171,7 +175,6 @@
 - [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
 - [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
-- [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
 - [ProxNet: End-to-End Learning of Structured Representation by Proximal Mapping](https://openreview.net/forum?id=H1edV6VKvS)
 - [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
