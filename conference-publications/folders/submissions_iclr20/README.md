@@ -115,3 +115,4 @@
 - [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
 - [PDP: A General Neural Framework for Learning SAT Solvers ](https://openreview.net/forum?id=S1xaf6VFPB)
+- [Conversation Generation with Concept Flow](https://openreview.net/forum?id=B1lOzpVtDB)
