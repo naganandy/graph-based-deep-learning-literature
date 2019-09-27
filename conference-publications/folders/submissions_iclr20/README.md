@@ -80,6 +80,7 @@
 - [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
 - [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
+- [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
 
 
 
@@ -229,5 +230,4 @@
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
-- [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
 - [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
