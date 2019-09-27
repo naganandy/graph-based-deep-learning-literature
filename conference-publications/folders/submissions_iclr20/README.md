@@ -140,3 +140,4 @@
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
 - [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
+- [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
