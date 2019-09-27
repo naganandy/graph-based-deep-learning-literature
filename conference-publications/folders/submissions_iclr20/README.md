@@ -144,3 +144,4 @@
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
 - [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)
 - [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
+- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)
