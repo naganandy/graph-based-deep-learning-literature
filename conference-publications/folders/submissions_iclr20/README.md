@@ -18,6 +18,12 @@
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
 
 
+## Active Learning
+- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
+- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
+- [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
+
+
 ## Misc
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
@@ -49,7 +55,6 @@
 - [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
 - [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)
-- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)
 - [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
@@ -86,7 +91,6 @@
 - [Inductive representation learning on temporal graphs](https://openreview.net/forum?id=rJeW1yHYwH)
 - [IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification](https://openreview.net/forum?id=rylvAA4YDB)
 - [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
-- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)
 - [Frequency Analysis for Graph Convolution Network](https://openreview.net/forum?id=HylthC4twr)
 - [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
@@ -147,7 +151,6 @@
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
-- [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
 - [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
 - [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
