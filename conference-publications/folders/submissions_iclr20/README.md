@@ -1,5 +1,17 @@
 # [Submissions in ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
+## Theoretical Analysis
+- [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
+- [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
+- [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
+
+## Empirical Analysis
+- [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
+- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
+- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
+
+
+
 ## Fast Training
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
 - [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
@@ -87,8 +99,6 @@
 
 
 ## Misc
-- [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
-- [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
 - [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)
 - [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
 - [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
@@ -111,11 +121,9 @@
 - [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
 - [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)
 - [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)
-- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
 - [Power up! Robust Graph Convolutional Network based on Graph Powering](https://openreview.net/forum?id=BkxDxJHFDr)
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 - [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
-- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
 - [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
 - [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
 - [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
@@ -162,8 +170,6 @@
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
 - [PDP: A General Neural Framework for Learning SAT Solvers ](https://openreview.net/forum?id=S1xaf6VFPB)
 - [Conversation Generation with Concept Flow](https://openreview.net/forum?id=B1lOzpVtDB)
-- [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
-- [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)
 - [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
 - [Topological based classification using graph convolutional networks](https://openreview.net/forum?id=ryey1TNKvH)
