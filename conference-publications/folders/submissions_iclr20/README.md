@@ -122,3 +122,4 @@
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)
 - [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
 - [Topological based classification using graph convolutional networks](https://openreview.net/forum?id=ryey1TNKvH)
+- [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)
