@@ -23,9 +23,12 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 
+
 ## Few-Shot Learning
 - [Semi-Supervised Few-Shot Learning with Prototypical Random Walks](https://openreview.net/forum?id=Bygka64KPH)
 - [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)
+- [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
+- [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
 
 ## Misc
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
@@ -121,11 +124,9 @@
 - [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
 - [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
 - [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)
-- [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
 - [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 - [Robust Graph Representation Learning via Neural Sparsification](https://openreview.net/forum?id=S1emOTNKvS)
-- [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
 - [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
 - [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
