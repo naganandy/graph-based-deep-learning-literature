@@ -1,5 +1,14 @@
 # [Submissions in ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
+## Addressing Memory Bottleneck
+- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
+- [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
+- [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/forum?id=BJe8pkHFwS)
+- [Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation](https://openreview.net/forum?id=SkezP1HYvS)
+- [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://openreview.net/forum?id=BklXkCNYDB)
+- [A bi-diffusion based layer-wise sampling method for deep learning in large graphs](https://openreview.net/forum?id=B1xRGkHYDS)
+
+
 ## Graph Pooling
 - [MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning](https://openreview.net/forum?id=rke3U6NtwH)
 - [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
@@ -58,6 +67,7 @@
 - [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
 - [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
 - [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)
+- [GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks](https://openreview.net/forum?id=H1eNleBYwr)
 - [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)
 
 
@@ -69,7 +79,6 @@
 
 
 ## Misc
-- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
 - [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
 - [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)
@@ -77,10 +86,8 @@
 - [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
-- [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://openreview.net/forum?id=rkgi6JSYvB)
 - [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)
-- [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/forum?id=BJe8pkHFwS)
 - [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)
 - [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
 - [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
@@ -90,7 +97,6 @@
 - [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
 - [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
 - [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
-- [Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation](https://openreview.net/forum?id=SkezP1HYvS)
 - [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
@@ -105,8 +111,6 @@
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
 - [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
 - [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
-- [A bi-diffusion based layer-wise sampling method for deep learning in large graphs](https://openreview.net/forum?id=B1xRGkHYDS)
-- [GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks](https://openreview.net/forum?id=H1eNleBYwr)
 - [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
 - [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
@@ -137,7 +141,6 @@
 - [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)
 - [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
-- [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://openreview.net/forum?id=BklXkCNYDB)
 - [Uncertainty-Aware Prediction for Graph Neural Networks](https://openreview.net/forum?id=SyxdC6NKwH)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)
 - [Higher-order Weighted Graph Convolutional Networks](https://openreview.net/forum?id=HylwpaNKPB)
