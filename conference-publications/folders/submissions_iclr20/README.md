@@ -119,3 +119,4 @@
 - [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
 - [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)
+- [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
