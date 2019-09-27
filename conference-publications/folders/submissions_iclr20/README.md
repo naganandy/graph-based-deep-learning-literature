@@ -1,6 +1,7 @@
 # [Submissions in ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
 ## Graph Pooling
+
 - [MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning](https://openreview.net/forum?id=rke3U6NtwH)
 - [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
 - [GRAPH NEIGHBORHOOD ATTENTIVE POOLING](https://openreview.net/forum?id=BkeqATVYwr)
@@ -10,10 +11,14 @@
 - [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)
 - [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
 
+
 ## Knowledge graphs
+
 - [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
 
+
+## Misc
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
 - [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
