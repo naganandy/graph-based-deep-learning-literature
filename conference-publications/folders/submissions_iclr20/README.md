@@ -147,3 +147,4 @@
 - [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)
 - [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
+- [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)
