@@ -154,13 +154,11 @@
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Modeling the Relationship between User Comments and Edits in Document Revision
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
-- Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion
 - Label-Specific Document Representation for Multi-Label Text Classification
 - News2vec: News Network Embedding with Subnode Information
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
 - Semantic graph parsing with recurrent neural network DAG grammars
-- What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
 - Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
