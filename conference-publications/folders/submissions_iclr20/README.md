@@ -123,3 +123,4 @@
 - [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
 - [Topological based classification using graph convolutional networks](https://openreview.net/forum?id=ryey1TNKvH)
 - [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)
+- [Topology-Aware Pooling via Graph Attention](https://openreview.net/forum?id=H1l-02VKPB)
