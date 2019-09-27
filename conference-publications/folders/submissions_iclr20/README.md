@@ -129,3 +129,5 @@
 - [HaarPooling: Graph Pooling with Compressive Haar Basis](https://openreview.net/forum?id=BJleph4KvS)
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
 - [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
+- [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)
+- [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
