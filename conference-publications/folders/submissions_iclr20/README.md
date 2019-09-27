@@ -131,3 +131,4 @@
 - [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
 - [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)
 - [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
+- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
