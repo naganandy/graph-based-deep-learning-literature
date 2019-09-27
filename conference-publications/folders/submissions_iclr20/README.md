@@ -58,6 +58,7 @@
 - [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
 - [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
 - [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)
+- [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)
 
 
 ## Graph Matching
@@ -92,7 +93,6 @@
 - [Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation](https://openreview.net/forum?id=SkezP1HYvS)
 - [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
-- [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)
 - [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
