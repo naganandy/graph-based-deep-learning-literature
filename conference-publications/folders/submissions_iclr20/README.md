@@ -24,6 +24,11 @@
 - [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
 
+## Hypergraphs
+- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
+- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
+
+
 
 ## Multi-relational graphs
 
@@ -66,7 +71,6 @@
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
 - [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
-- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://openreview.net/forum?id=rkgi6JSYvB)
 - [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/forum?id=BJe8pkHFwS)
@@ -81,7 +85,6 @@
 - [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
 - [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
 - [Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation](https://openreview.net/forum?id=SkezP1HYvS)
-- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
 - [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
 - [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)
