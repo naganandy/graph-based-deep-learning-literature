@@ -117,3 +117,4 @@
 - [PDP: A General Neural Framework for Learning SAT Solvers ](https://openreview.net/forum?id=S1xaf6VFPB)
 - [Conversation Generation with Concept Flow](https://openreview.net/forum?id=B1lOzpVtDB)
 - [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
+- [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
