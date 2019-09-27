@@ -23,6 +23,9 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 
+## Few-Shot Learning
+- [Semi-Supervised Few-Shot Learning with Prototypical Random Walks](https://openreview.net/forum?id=Bygka64KPH)
+- [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)
 
 ## Misc
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
@@ -31,7 +34,6 @@
 - [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)
 - [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
 - [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
-- [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)
 - [Hierarchical Graph-to-Graph Translation for Molecules](https://openreview.net/forum?id=rJeeKTNKDB)
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
@@ -118,11 +120,9 @@
 - [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
 - [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
 - [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
-- [Semi-Supervised Few-Shot Learning with Prototypical Random Walks](https://openreview.net/forum?id=Bygka64KPH)
 - [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)
 - [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
 - [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
-- [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 - [Robust Graph Representation Learning via Neural Sparsification](https://openreview.net/forum?id=S1emOTNKvS)
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
