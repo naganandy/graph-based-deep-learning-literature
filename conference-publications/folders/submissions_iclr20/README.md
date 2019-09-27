@@ -132,3 +132,4 @@
 - [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)
 - [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
 - [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
+- [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
