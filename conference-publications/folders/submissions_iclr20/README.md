@@ -33,6 +33,14 @@
 - [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
 
 
+## Reinforcement Learning
+- [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
+- [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
+- [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
+- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
+
+
+
 ## Misc
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
@@ -86,7 +94,6 @@
 - [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)
 - [A Generative Model for Molecular Distance Geometry](https://openreview.net/forum?id=S1x1IkHtPr)
-- [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
 - [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
 - [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr)
 - [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)
@@ -124,7 +131,6 @@
 - [Global reasoning network for image super-resolution](https://openreview.net/forum?id=S1gE6TEYDB)
 - [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
 - [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
-- [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
 - [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)
 - [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
@@ -154,11 +160,9 @@
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
-- [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
 - [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
 - [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)
 - [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
 - [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)
-- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
 - [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)
