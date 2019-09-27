@@ -114,3 +114,4 @@
 - [ProxNet: End-to-End Learning of Structured Representation by Proximal Mapping](https://openreview.net/forum?id=H1edV6VKvS)
 - [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
+- [PDP: A General Neural Framework for Learning SAT Solvers ](https://openreview.net/forum?id=S1xaf6VFPB)
