@@ -38,6 +38,8 @@
 - [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
 - [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
+- [Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks](https://openreview.net/forum?id=HJeANgBYwr)
+- [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
 
 
 
@@ -87,7 +89,6 @@
 - [A bi-diffusion based layer-wise sampling method for deep learning in large graphs](https://openreview.net/forum?id=B1xRGkHYDS)
 - [GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks](https://openreview.net/forum?id=H1eNleBYwr)
 - [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
-- [Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks](https://openreview.net/forum?id=HJeANgBYwr)
 - [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
@@ -153,7 +154,6 @@
 - [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)
 - [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
-- [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
 - [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
 - [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
