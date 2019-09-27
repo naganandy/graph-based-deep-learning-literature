@@ -34,6 +34,7 @@
 
 
 ## Reinforcement Learning
+- [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
 - [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
 - [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
 - [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
@@ -41,6 +42,18 @@
 - [Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks](https://openreview.net/forum?id=HJeANgBYwr)
 - [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
 
+
+## Molecular graphs
+- [Hierarchical Graph-to-Graph Translation for Molecules](https://openreview.net/forum?id=rJeeKTNKDB)
+- [Directional Message Passing for Molecular Graphs](https://openreview.net/forum?id=B1eWbxStPH)
+- [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
+- [A Generative Model for Molecular Distance Geometry](https://openreview.net/forum?id=S1x1IkHtPr)
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr)
+- [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
+- [Molecular Graph Enhanced Transformer for Retrosynthesis Prediction](https://openreview.net/forum?id=S1e__ANKvB)
+- [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
+- [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
+- [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)
 
 
 ## Misc
@@ -50,7 +63,6 @@
 - [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)
 - [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
 - [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
-- [Hierarchical Graph-to-Graph Translation for Molecules](https://openreview.net/forum?id=rJeeKTNKDB)
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
 - [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
@@ -82,7 +94,6 @@
 - [Power up! Robust Graph Convolutional Network based on Graph Powering](https://openreview.net/forum?id=BkxDxJHFDr)
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 - [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
-- [Directional Message Passing for Molecular Graphs](https://openreview.net/forum?id=B1eWbxStPH)
 - [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
 - [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
 - [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
@@ -92,11 +103,8 @@
 - [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
-- [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)
-- [A Generative Model for Molecular Distance Geometry](https://openreview.net/forum?id=S1x1IkHtPr)
 - [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
-- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr)
 - [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)
 - [Study of a Simple, Expressive and Consistent Graph Feature Representation](https://openreview.net/forum?id=Bkeqb1BFvB)
 - [GRAPHS, ENTITIES, AND STEP MIXTURE](https://openreview.net/forum?id=S1eWbkSFPS)
@@ -109,10 +117,7 @@
 - [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
 - [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)
 - [Frequency Analysis for Graph Convolution Network](https://openreview.net/forum?id=HylthC4twr)
-- [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
-- [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
 - [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
-- [Molecular Graph Enhanced Transformer for Retrosynthesis Prediction](https://openreview.net/forum?id=S1e__ANKvB)
 - [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://openreview.net/forum?id=r1lGO0EKDH)
 - [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)
@@ -131,7 +136,6 @@
 - [Higher-order Weighted Graph Convolutional Networks](https://openreview.net/forum?id=HylwpaNKPB)
 - [Global reasoning network for image super-resolution](https://openreview.net/forum?id=S1gE6TEYDB)
 - [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
-- [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
 - [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)
 - [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
@@ -139,7 +143,6 @@
 - [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
 - [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
-- [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
 - [ProxNet: End-to-End Learning of Structured Representation by Proximal Mapping](https://openreview.net/forum?id=H1edV6VKvS)
 - [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
@@ -151,7 +154,6 @@
 - [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
 - [Topological based classification using graph convolutional networks](https://openreview.net/forum?id=ryey1TNKvH)
 - [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)
-- [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)
 - [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
 - [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
