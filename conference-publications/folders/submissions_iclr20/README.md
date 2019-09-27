@@ -4,6 +4,8 @@
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH)
 - [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
 - [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
+- [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
+
 
 ## Empirical Analysis
 - [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
@@ -181,7 +183,6 @@
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
 - [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
-- [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
 - [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)
 - [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
 - [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)
