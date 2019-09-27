@@ -96,6 +96,7 @@
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
 - [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
+- [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
 - [Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks](https://openreview.net/forum?id=HJeANgBYwr)
 - [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
 
@@ -224,7 +225,6 @@
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)
 - [Topological based classification using graph convolutional networks](https://openreview.net/forum?id=ryey1TNKvH)
-- [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
 - [Dual Graph Representation Learning](https://openreview.net/forum?id=r1xbj2VKvr)
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
