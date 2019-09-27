@@ -111,3 +111,5 @@
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
 - [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
 - [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
+- [ProxNet: End-to-End Learning of Structured Representation by Proximal Mapping](https://openreview.net/forum?id=H1edV6VKvS)
+- [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
