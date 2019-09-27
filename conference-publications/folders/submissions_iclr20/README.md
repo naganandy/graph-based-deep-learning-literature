@@ -128,3 +128,4 @@
 - [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
 - [HaarPooling: Graph Pooling with Compressive Haar Basis](https://openreview.net/forum?id=BJleph4KvS)
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
+- [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
