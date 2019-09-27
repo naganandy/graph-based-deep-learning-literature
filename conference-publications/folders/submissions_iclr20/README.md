@@ -19,9 +19,9 @@
 
 
 ## Active Learning
-- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
+- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
 
 
 ## Few-Shot Learning
