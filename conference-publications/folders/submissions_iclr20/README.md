@@ -20,11 +20,12 @@
 - [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)
 - [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
 
+## Semi-Supervised Learning
+- [Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning](https://openreview.net/forum?id=BygacxrFwS)
+- [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
+- [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
+- [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
 
-## Active Learning
-- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
-- [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
-- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
 
 
 ## Few-Shot Learning
@@ -32,6 +33,12 @@
 - [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)
 - [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
+
+
+## Active Learning
+- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
+- [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
+- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
 
 
 ## Multi-relational graphs
@@ -93,7 +100,6 @@
 - [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
 - [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
 - [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
-- [Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning](https://openreview.net/forum?id=BygacxrFwS)
 - [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
 - [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
 - [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
@@ -117,7 +123,6 @@
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)
-- [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
 - [Study of a Simple, Expressive and Consistent Graph Feature Representation](https://openreview.net/forum?id=Bkeqb1BFvB)
 - [GRAPHS, ENTITIES, AND STEP MIXTURE](https://openreview.net/forum?id=S1eWbkSFPS)
 - [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)
@@ -139,7 +144,6 @@
 - [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)
 - [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)
 - [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)
-- [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)
 - [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
 - [Uncertainty-Aware Prediction for Graph Neural Networks](https://openreview.net/forum?id=SyxdC6NKwH)
@@ -170,7 +174,6 @@
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
-- [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
 - [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
 - [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)
