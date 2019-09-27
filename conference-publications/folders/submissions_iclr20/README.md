@@ -48,13 +48,14 @@
 
 
 
-## Semi-Supervised Learning
+## Semi-Supervised Transductive / Usnupervised Inductive Learning
 - [Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning](https://openreview.net/forum?id=BygacxrFwS)
 - [TWIN GRAPH CONVOLUTIONAL NETWORKS: GCN WITH DUAL GRAPH SUPPORT FOR SEMI-SUPERVISED LEARNING](https://openreview.net/forum?id=SkxV7kHKvr)
 - [GraphMix: Regularized Training of Graph Neural Networks for Semi-Supervised Learning](https://openreview.net/forum?id=SkxG-CVFDH)
 - [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)
 - [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)
+- [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
 
 
@@ -230,4 +231,3 @@
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Unsupervised Learning of Node Embeddings by Detecting Communities](https://openreview.net/forum?id=Byl3K2VtwB)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
-- [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
