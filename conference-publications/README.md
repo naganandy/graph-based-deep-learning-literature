@@ -157,7 +157,6 @@
 - Label-Specific Document Representation for Multi-Label Text Classification
 - News2vec: News Network Embedding with Subnode Information
 - Jointly Learning Entity and Relation Representations for Entity Alignment
-- Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
 - Semantic graph parsing with recurrent neural network DAG grammars
 - Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
