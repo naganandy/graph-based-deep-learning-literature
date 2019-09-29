@@ -13,5 +13,5 @@
 ```
 
 links
-- [aclanthology](https://aclanthology.info/papers/D18-1213/d18-1213)
+- [aclanthology](https://www.aclweb.org/anthology/D18-1213/)
 - [code](https://github.com/malllabiisc/AD3)
