@@ -66,6 +66,7 @@
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=rkgdYhVtvH)
 - [Unifying Graph Convolutional Networks as Matrix Factorization](https://openreview.net/forum?id=HJxf53EtDr)
 - [Dimensional Reweighting Graph Convolution Networks](https://openreview.net/forum?id=SJeLO34KwS)
+- [PairNorm: Tackling Oversmoothing in GNNs](https://openreview.net/forum?id=rkecl1rtwB)
 - [A Hierarchy of Graph Neural Networks Based on Learnable Local Features](https://openreview.net/forum?id=ryeEr0EFvS)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://openreview.net/forum?id=r1lGO0EKDH)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)
