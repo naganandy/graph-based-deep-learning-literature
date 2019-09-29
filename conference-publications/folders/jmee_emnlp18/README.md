@@ -14,6 +14,6 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1809.09078)
-- [aclanthology](https://aclanthology.coli.uni-saarland.de/papers/D18-1156/d18-1156)
+- [aclanthology](https://www.aclweb.org/anthology/D18-1156/)
 - [code](https://github.com/lx865712528/JMEE)
 - [video](https://vimeo.com/305198933)
