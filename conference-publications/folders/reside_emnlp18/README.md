@@ -15,5 +15,5 @@
 ```
 links
 
-- [aclanthology](https://aclanthology.info/papers/D18-1157/d18-1157)
+- [aclweb](https://www.aclweb.org/anthology/D18-1157/)
 - [code](https://github.com/malllabiisc/RESIDE)
