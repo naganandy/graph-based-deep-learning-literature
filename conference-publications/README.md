@@ -131,7 +131,7 @@
 - [DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dialoguegcn_emnlp19/README.md)
 - [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/asgcn_emnlp19/README.md)
 - [Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tdgat_emnlp19/README.md)
-- Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification
+- [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgat_emnlp19/README.md)
 - Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks
 - Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
 
