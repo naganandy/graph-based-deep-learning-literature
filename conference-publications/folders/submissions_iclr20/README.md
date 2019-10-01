@@ -227,6 +227,7 @@
 - [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
 - [Continuous Graph Flow](https://openreview.net/forum?id=BkgZSCEtvr)
 - [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)
+- [Multi-task Network Embedding with Adaptive Loss Weighting](https://openreview.net/forum?id=rkgTKerYwr)
 - [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)
 - [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)
