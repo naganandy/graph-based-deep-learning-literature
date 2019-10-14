@@ -121,6 +121,16 @@
 
 # ICDM 2019 (Nov)
 - [DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dyngraph2seq_icdm19/README.md)
+- Neural Embedding Propagation on Heterogeneous Networks
+- Domain-Adversarial Graph Neural Networks for Text Classification
+- Collaborative Graph Walk for Semi-supervised Multi-Label Node Classification
+- Dataset Recommendation via Variational Graph Autoencoder	
+- A Semi-supervised Graph Attentive Network for Fraud Detection	
+- Deep Multi-attributed Graph Translation with Node-Edge Co-evolution	
+- Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network	
+- Adaptive Neural Network for Node Classification in Dynamic Networks
+- Inductive Embedding Learning on Attributed Heterogeneous Networks via Multi-task Sequence-to-Sequence Learning
+- Multi-Graph Convolution Collaborative Filtering
 ## -----------------------------------------------------------------------------
 
 # [EMNLP 2019 (Nov)](https://www.emnlp-ijcnlp2019.org/program/accepted/)
