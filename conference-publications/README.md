@@ -11,16 +11,17 @@
 - [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnexplainer_neurips19/README.md)
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgnn_neurips19/README.md)
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/leran2branch_neurips19/README.md)
+- [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_neurips19/README.md)
 - [HyperGCN: A New Method for Training Graph Convolutional Networks on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hypergcn_neurips19/README.md)
 - [Powerset Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pcn_neurips19/README.md)
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
 - [On the equivalence between graph isomorphism testing and function approximation with GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ringgnn_neurips19/README.md)
-- [Provably Powerful Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgnn_neurips19/README.md)
 
 <details> 
 <summary> more </summary>
  
+- [Provably Powerful Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgnn_neurips19/README.md)
 - [Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/strongergcn_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 - [Stability of Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gst_neurips19/README.md)
@@ -46,7 +47,6 @@
 - [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/progen_neurips19/README.md)
 - Graph-Based Semi-Supervised Learning with Non-ignorable Non-response
 - Graph Agreement Models for Semi-Supervised Learning
-- Hyperbolic Graph Convolutional Neural Networks
 - Hyperbolic Graph Neural Networks
 - DFNets: Spectral CNNs for Graphs with Feedback-looped Filters
 - Certifiable Robustness to Graph Perturbations
