@@ -159,7 +159,6 @@
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
 - Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
 - A Lexicon-Based Graph Neural Network for Chinese NER
-- Improving Relation Extraction with Knowledge-attention
 - Improving Distantly-Supervised Relation Extraction with Joint Label Embedding
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Modeling the Relationship between User Comments and Edits in Document Revision
@@ -167,7 +166,6 @@
 - Label-Specific Document Representation for Multi-Label Text Classification
 - News2vec: News Network Embedding with Subnode Information
 - Jointly Learning Entity and Relation Representations for Entity Alignment
-- Semantic graph parsing with recurrent neural network DAG grammars
 - Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
