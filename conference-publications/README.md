@@ -64,7 +64,6 @@
 - Globally optimal score-based learning of directed acyclic graphs in high-dimensions
 - Möbius Transformation for Fast Inner Product Search on Graph
 - Graph Structured Prediction Energy Networks
-- Beyond Vector Spaces: Compact Data Representation as Differentiable Weighted Graphs
 - Retrosynthesis Prediction with Conditional Graph Logic Network
 - Direct Estimation of Differential Functional Graphical Model
 - Heterogeneous Graph Learning for Visual Commonsense Reasoning
