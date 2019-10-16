@@ -161,7 +161,6 @@
 - A Lexicon-Based Graph Neural Network for Chinese NER
 - Improving Distantly-Supervised Relation Extraction with Joint Label Embedding
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
-- Modeling the Relationship between User Comments and Edits in Document Revision
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 - News2vec: News Network Embedding with Subnode Information
 - Jointly Learning Entity and Relation Representations for Entity Alignment
