@@ -163,7 +163,6 @@
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Modeling the Relationship between User Comments and Edits in Document Revision
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
-- Label-Specific Document Representation for Multi-Label Text Classification
 - News2vec: News Network Embedding with Subnode Information
 - Jointly Learning Entity and Relation Representations for Entity Alignment
 - Learning to Update Knowledge Graph by Reading News
