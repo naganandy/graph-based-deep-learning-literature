@@ -64,6 +64,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 
 # Relevant workshops
+- ## 2020
+   * ### [Deep Learning on Graphs: Methodologies and Applications (AAAI)](https://dlg2019.bitbucket.io/aaai20/)
 - ## 2019
    * ### [Graph Representation Learning (NeurIPS)](https://grlearning.github.io/)
    * ### [Scene Graph Representation and Learning (ICCV)](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
