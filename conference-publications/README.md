@@ -148,6 +148,7 @@
 <details> 
 <summary> more </summary>
 
+- [Jointly Learning Entity and Relation Representations for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_emnlp19/README.md)
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
 - [Cross-lingual Structure Transfer for Relation and Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clstre_emnlp19/README.md)
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
@@ -162,7 +163,6 @@
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 - News2vec: News Network Embedding with Subnode Information
-- Jointly Learning Entity and Relation Representations for Entity Alignment
 - Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
