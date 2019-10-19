@@ -159,7 +159,6 @@
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
 - Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
 - A Lexicon-Based Graph Neural Network for Chinese NER
-- Improving Distantly-Supervised Relation Extraction with Joint Label Embedding
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 - News2vec: News Network Embedding with Subnode Information
