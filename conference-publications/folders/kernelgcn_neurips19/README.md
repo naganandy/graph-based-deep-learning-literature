@@ -12,3 +12,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/1910.02548)
+- [code](https://github.com/bluer555/KernelGCN)
