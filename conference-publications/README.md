@@ -22,8 +22,9 @@
 <summary> more </summary>
  
 - [Provably Powerful Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgnn_neurips19/README.md)
-- [DFNets: Spectral CNNs for Graphs with Feedback-looped Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfnet_neurips19/README.md)
+- [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
 - [Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/strongergcn_neurips19/README.md)
+- [DFNets: Spectral CNNs for Graphs with Feedback-looped Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfnet_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 - [Stability of Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gst_neurips19/README.md)
 - [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
@@ -52,7 +53,6 @@
 - Certifiable Robustness to Graph Perturbations
 - A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning
 - Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
-- Rethinking Kernel Methods for Node Representation Learning on Graphs
 - Graph Transformer Networks
 - Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs
 - DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs
