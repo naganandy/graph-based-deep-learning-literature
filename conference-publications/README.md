@@ -83,11 +83,12 @@
 - [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ssgrl_iccv19/README.md)
 - [G3raphGround: Graph-Based Language Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g3raphground_iccv19/README.md)
 - [Dynamic Graph Attention for Referring Expression Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dga_iccv19/README.md)
-- [Mixture-Kernel Graph Attention Network for Situation Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mixkergat_iccv19/README.md)
+- [Deep Graphical Feature Learning for the Feature Matching Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fmpgnn_iccv19/README.md)
 
 <details> 
 <summary> more </summary>
 
+- [Mixture-Kernel Graph Attention Network for Situation Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mixkergat_iccv19/README.md)
 - [SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgnet_iccv19/README.md)
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oanet_iccv19/README.md)
 - [Graph-Based Object Classification for Neuromorphic Vision Sensing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nvs2graph_iccv19/README.md)
@@ -107,7 +108,6 @@
 - Deep Supervised Hashing With Anchor Graph
 - Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation
 - Zero-Shot Emotion Recognition via Affective Structural Embedding
-- Deep Graphical Feature Learning for the Feature Matching Problem
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
 - Relational Attention Network for Crowd Counting
 - Stacked Cross Refinement Network for Edge-Aware Salient Object Detection
