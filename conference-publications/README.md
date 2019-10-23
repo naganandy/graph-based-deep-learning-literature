@@ -123,7 +123,6 @@
 - [Neural Embedding Propagation on Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nep_icdm19/README.md)
 - [Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/necdgt_icdm19/README.md)
 - [DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dyngraph2seq_icdm19/README.md)
-- Collaborative Graph Walk for Semi-supervised Multi-Label Node Classification
 - Dataset Recommendation via Variational Graph Autoencoder	
 - A Semi-supervised Graph Attentive Network for Fraud Detection	
 - Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network	
