@@ -151,13 +151,13 @@
 - [Cross-lingual Structure Transfer for Relation and Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clstre_emnlp19/README.md)
 - [Text Level Graph Neural Network for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/textgnn_emnlp19/README.md)
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
+- [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
 - [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/transtruct_emnlp19/README.md)
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
 - Reviews Meet Graphs: Enhancing User and Item Representations for Recommendation with Hierarchical Attentive Graph Neural Network
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
 - Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
-- A Lexicon-Based Graph Neural Network for Chinese NER
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 - News2vec: News Network Embedding with Subnode Information
