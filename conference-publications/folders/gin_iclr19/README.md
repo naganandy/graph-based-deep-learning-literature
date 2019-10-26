@@ -15,3 +15,4 @@ year={2019},
 links
 - [arXiv](https://arxiv.org/abs/1810.00826)
 - [openreview](https://openreview.net/forum?id=ryGs6iA5Km)
+- [video](https://www.youtube.com/watch?v=USfNJNePDKQ)
