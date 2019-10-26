@@ -13,3 +13,5 @@
 links
 - [arXiv](https://arxiv.org/abs/1806.03536)
 - [icml](http://proceedings.mlr.press/v80/xu18c.html)
+- [video](https://www.youtube.com/watch?v=USfNJNePDKQ)
+
