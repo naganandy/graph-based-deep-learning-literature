@@ -222,6 +222,7 @@
 - [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)
 - [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
 - [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
+- [Multi-objective Neural Architecture Search via Predictive Network Performance Optimization](https://openreview.net/forum?id=rJgffkSFPS&noteId=BJxK3oT85B)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://openreview.net/forum?id=r1gelyrtwH)
 - [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
