@@ -179,6 +179,12 @@
 
 
 
+## Hypergraphs
+- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
+- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
+
+
+
 ## Dynamic Graphs
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
@@ -231,9 +237,3 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
-
-
-
-## Hypergraphs
-- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
-- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
