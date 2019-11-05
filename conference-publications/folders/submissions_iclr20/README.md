@@ -22,6 +22,15 @@
 
 
 
+## Multi-relational graphs
+- [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)*
+- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)*
+- [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
+- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
+- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
+
+
+
 ## Semi-Supervised Transductive / Unsupervised Inductive Node Classification
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)*
 - [Fractional Graph Convolutional Networks (FGCN) for Semi-Supervised Learning](https://openreview.net/forum?id=BygacxrFwS)
@@ -88,15 +97,6 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
-
-
-
-## Multi-relational graphs
-- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
-- [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
-- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
-- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
-- [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)
 
 
 
