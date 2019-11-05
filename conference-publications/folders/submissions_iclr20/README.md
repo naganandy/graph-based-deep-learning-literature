@@ -72,6 +72,13 @@
 - [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
 
 
+## Logic
+- [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)*
+- [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)
+- [PDP: A General Neural Framework for Learning SAT Solvers](https://openreview.net/forum?id=S1xaf6VFPB)
+- [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)
+
+
 
 ## Reinforcement Learning
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)*
@@ -160,14 +167,6 @@
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
-
-
-
-## Logic
-- [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)
-- [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)
-- [PDP: A General Neural Framework for Learning SAT Solvers](https://openreview.net/forum?id=S1xaf6VFPB)
-- [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)
 
 
 
