@@ -1,5 +1,20 @@
 # [Submissions in ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
+
+
+## Architectures
+- [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)*
+- [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)*
+- [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)*
+- [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
+- [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
+- [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
+- [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
+- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
+- [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
+
+
+
 ## Theoretical Analysis
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)*
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH) *
@@ -174,19 +189,6 @@
 - [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)
 - [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)
 - [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)
-
-
-
-## Architectures
-- [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
-- [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
-- [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
-- [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)
-- [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)
-- [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
-- [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)
-- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
-- [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 
 
 
