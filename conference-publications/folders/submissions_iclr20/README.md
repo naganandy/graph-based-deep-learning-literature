@@ -65,6 +65,14 @@
 
 
 
+
+## Temporal Graphs
+- [Inductive representation learning on temporal graphs](https://openreview.net/forum?id=rJeW1yHYwH)*
+- [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
+- [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
+
+
+
 ## Reinforcement Learning
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)*
 - [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
@@ -152,13 +160,6 @@
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
-
-
-
-## Temporal Graphs
-- [Inductive representation learning on temporal graphs](https://openreview.net/forum?id=rJeW1yHYwH)
-- [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
-- [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
 
 
 
