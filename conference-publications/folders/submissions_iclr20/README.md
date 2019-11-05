@@ -65,53 +65,12 @@
 
 
 
-## Graph Pooling
-- [MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning](https://openreview.net/forum?id=rke3U6NtwH)
-- [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
-- [GRAPH NEIGHBORHOOD ATTENTIVE POOLING](https://openreview.net/forum?id=BkeqATVYwr)
-- [Topology-Aware Pooling via Graph Attention](https://openreview.net/forum?id=H1l-02VKPB)
-- [HaarPooling: Graph Pooling with Compressive Haar Basis](https://openreview.net/forum?id=BJleph4KvS)
-- [Fully Convolutional Graph Neural Networks using Bipartite Graph Convolutions](https://openreview.net/forum?id=H1gWyJBFDr)
-- [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)
-- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)
-- [IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification](https://openreview.net/forum?id=rylvAA4YDB)
-- [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
-- [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
-- [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
-- [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)
-- [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
-
-
-
-## Empirical Study
-- [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
-- [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
-- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
-- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
-- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
-- [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
-
-
-
-## Active Learning
-- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
-- [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
-- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
-
-
-
-## Hypergraphs
-- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
-- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
-
-
-
 ## Reinforcement Learning
+- [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)*
 - [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
 - [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
 - [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
 - [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
-- [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)
 - [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
 - [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
@@ -235,3 +194,44 @@
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
 - [ProxNet: End-to-End Learning of Structured Representation by Proximal Mapping](https://openreview.net/forum?id=H1edV6VKvS)
 - [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
+
+
+
+## Graph Pooling
+- [MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning](https://openreview.net/forum?id=rke3U6NtwH)
+- [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
+- [GRAPH NEIGHBORHOOD ATTENTIVE POOLING](https://openreview.net/forum?id=BkeqATVYwr)
+- [Topology-Aware Pooling via Graph Attention](https://openreview.net/forum?id=H1l-02VKPB)
+- [HaarPooling: Graph Pooling with Compressive Haar Basis](https://openreview.net/forum?id=BJleph4KvS)
+- [Fully Convolutional Graph Neural Networks using Bipartite Graph Convolutions](https://openreview.net/forum?id=H1gWyJBFDr)
+- [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)
+- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)
+- [IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification](https://openreview.net/forum?id=rylvAA4YDB)
+- [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
+- [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
+- [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
+- [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)
+- [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
+
+
+
+## Empirical Study
+- [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
+- [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
+- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
+- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
+- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)
+- [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
+
+
+
+## Active Learning
+- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
+- [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
+- [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
+
+
+
+## Hypergraphs
+- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
+- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
