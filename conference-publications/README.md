@@ -142,23 +142,23 @@
 - [DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dialoguegcn_emnlp19/README.md)
 - [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/asgcn_emnlp19/README.md)
 - [Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/tdgat_emnlp19/README.md)
-- Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
 
 <details> 
 <summary> more </summary>
 
+- Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
+- Event Detection with Multi-Order Graph Convolution and Aggregated Attention
+- Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - [Jointly Learning Entity and Relation Representations for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_emnlp19/README.md)
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
 - [Cross-lingual Structure Transfer for Relation and Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clstre_emnlp19/README.md)
-- [Text Level Graph Neural Network for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/textgnn_emnlp19/README.md)
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lingat_emnlp19/README.md)
-- [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
+- [Text Level Graph Neural Network for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/textgnn_emnlp19/README.md)
+- Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
 - [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/transtruct_emnlp19/README.md)
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
-- Event Detection with Multi-Order Graph Convolution and Aggregated Attention
+- [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
-- Machine Reading Comprehension Using Structural Knowledge Graph-aware Network
-- Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
 - News2vec: News Network Embedding with Subnode Information
 - Learning to Update Knowledge Graph by Reading News
