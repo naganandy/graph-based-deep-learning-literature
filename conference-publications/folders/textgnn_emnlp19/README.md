@@ -2,12 +2,18 @@
 
 ```
 @inproceedings{textgnn_emnlp19,
-  author    = {Lianzhe Huang and Dehong Ma and Sujian Li and Xiaodong Zhang and Houfeng Wang},
-  title     = {Text Level Graph Neural Network for Text Classification},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {Text Level Graph Neural Network for Text Classification},
+    author = {Huang, Lianzhe  and
+      Ma, Dehong  and
+      Li, Sujian  and
+      Zhang, Xiaodong  and
+      WANG, Houfeng},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {3435--3441},
+    year = {2019}
 }
 ```
 
 links
+- [aclweb](https://www.aclweb.org/anthology/D19-1345/)
 - [arXiv](https://arxiv.org/abs/1910.02356)
