@@ -63,7 +63,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 <br> </br>
 
-# Relevant workshops
+# Related workshops
 - ## 2020
    * ### [Deep Learning on Graphs: Methodologies and Applications (AAAI)](https://dlg2019.bitbucket.io/aaai20/)
 - ## 2019
