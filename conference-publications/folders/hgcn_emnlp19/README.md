@@ -2,12 +2,19 @@
 
 ```
 @inproceedings{hgcn_emnlp19,
-  author    = {Yuting Wu and Xiao Liu and Yansong Feng and Zheng Wang and Dongyan Zhao},
-  title     = {Jointly Learning Entity and Relation Representations for Entity Alignment},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {Jointly Learning Entity and Relation Representations for Entity Alignment},
+    author = {Wu, Yuting  and
+      Liu, Xiao  and
+      Feng, Yansong  and
+      Wang, Zheng  and
+      Zhao, Dongyan},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {240--249},
+    year = {2019}
 }
 ```
 
 links
+- [aclweb](https://www.aclweb.org/anthology/D19-1023/)
 - [arXiv](https://arxiv.org/abs/1909.09317)
+- [code](https://github.com/StephanieWyt/HGCN-JE-JR)
