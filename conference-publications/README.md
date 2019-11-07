@@ -158,8 +158,6 @@
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
 - [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
 - Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
-- Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data
-- News2vec: News Network Embedding with Subnode Information
 - Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
