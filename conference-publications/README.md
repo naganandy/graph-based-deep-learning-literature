@@ -146,7 +146,7 @@
 <details> 
 <summary> more </summary>
 
-- Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning
+- [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/attnpath_emnlp19/README.md)
 - Event Detection with Multi-Order Graph Convolution and Aggregated Attention
 - Knowledge-Aware Paragraph Generation: A Graph Inference Approach
 - [Jointly Learning Entity and Relation Representations for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_emnlp19/README.md)
