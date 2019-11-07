@@ -1,13 +1,16 @@
 # CaRe: Open Knowledge Graph Embeddings
 
 ```
-@inproceedings{care_emnlp19,
-  author    = {Swapnil Gupta and Sreyash Kenkre and Partha Talukdar},
-  title     = {CaRe: Open Knowledge Graph Embeddings},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+@inproceedings{care_emnlp1,
+    title = {{C}a{R}e: Open Knowledge Graph Embeddings},
+    author = {Gupta, Swapnil  and
+      Kenkre, Sreyash  and
+      Talukdar, Partha},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP))},
+    pages = {378--388},
+    year = {2019}
 }
 ```
 
 links
-- [preprint](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)
+- [aclweb](https://www.aclweb.org/anthology/D19-1036/)
