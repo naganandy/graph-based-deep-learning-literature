@@ -2,12 +2,17 @@
 
 ```
 @inproceedings{hgat_emnlp19,
-  author    = {Hu Linmei and Tianchi Yang and Chuan Shi and Houye Ji and Xiaoli Li},
-  title     = {Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification},
+    author = {Linmei, Hu  and
+      Yang, Tianchi  and
+      Shi, Chuan  and
+      Ji, Houye  and
+      Li, Xiaoli},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {4823--4832},
+    year = {2019}
 }
 ```
 
 links
-- [preprint](http://www.shichuan.org/doc/74.pdf)
+- [aclweb](https://www.aclweb.org/anthology/D19-1488/)
