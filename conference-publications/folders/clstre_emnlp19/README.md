@@ -2,12 +2,19 @@
 
 ```
 @inproceedings{clstre_emnlp19,
-  author    = {Ananya Subburathinam and Di Lu and Heng Ji and Jonathan May and Shih-Fu Chang,and Avirup Sil and Clare Voss},
-  title     = {Cross-lingual Structure Transfer for Relation and Event Extraction},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {Cross-lingual Structure Transfer for Relation and Event Extraction},
+    author = {Subburathinam, Ananya  and
+      Lu, Di  and
+      Ji, Heng  and
+      May, Jonathan  and
+      Chang, Shih-Fu  and
+      Sil, Avirup  and
+      Voss, Clare},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {313--325},
+    year = {2019}
 }
 ```
 
 links
-- [preprint](http://nlp.cs.rpi.edu/paper/crosslingualstructure2019.pdf)
+- [aclweb](https://www.aclweb.org/anthology/D19-1030/)
