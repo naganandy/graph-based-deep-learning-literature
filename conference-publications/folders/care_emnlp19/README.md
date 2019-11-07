@@ -1,7 +1,7 @@
 # CaRe: Open Knowledge Graph Embeddings
 
 ```
-@inproceedings{care_emnlp1,
+@inproceedings{care_emnlp19,
     title = {{C}a{R}e: Open Knowledge Graph Embeddings},
     author = {Gupta, Swapnil  and
       Kenkre, Sreyash  and
