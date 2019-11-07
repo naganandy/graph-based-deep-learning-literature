@@ -2,12 +2,16 @@
 
 ```
 @inproceedings{asgcn_emnlp19,
-  author    = {Chen Zhang and Qiuchi Li and Dawei Song},
-  title     = {Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks},
+    author = {Zhang, Chen  and
+      Li, Qiuchi  and
+      Song, Dawei},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {4560--4570},
+    year = {2019}
 }
 ```
 
 links
+- [aclweb](https://www.aclweb.org/anthology/D19-1464/)
 - [arXiv](https://arxiv.org/abs/1909.03477)
