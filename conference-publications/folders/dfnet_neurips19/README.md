@@ -11,4 +11,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [preprint](http://users.cecs.anu.edu.au/~u5170295/papers/nips-wijesinghe-2019.pdf)
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13720)
+- [arXiv](https://arxiv.org/abs/1910.10866)
