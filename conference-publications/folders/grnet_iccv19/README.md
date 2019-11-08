@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{grnet_iccv19,
-  author    = {Zhanghui Kuang and Yiming Gao and Guanbin Li and Ping Luo and Yimin Chen and Liang Lin and Wayne Zhang},
-  title     = {Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid},
-  booktitle = {{IEEE} International Conference on Computer Vision (ICCV)},
-  year      = {2019}
+author = {Kuang, Zhanghui and Gao, Yiming and Li, Guanbin and Luo, Ping and Chen, Yimin and Lin, Liang and Zhang, Wayne},
+title = {Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+pages = {3066--3075},
+year = {2019}
 }
 ```
 
 links
+- [openaccess](http://openaccess.thecvf.com/content_ICCV_2019/html/Kuang_Fashion_Retrieval_via_Graph_Reasoning_Networks_on_a_Similarity_Pyramid_ICCV_2019_paper.html)
 - [arXiv](https://arxiv.org/abs/1908.11754)
