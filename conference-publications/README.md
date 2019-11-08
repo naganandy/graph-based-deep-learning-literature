@@ -31,7 +31,7 @@
 - [DFNets: Spectral CNNs for Graphs with Feedback-looped Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfnet_neurips19/README.md)
 - [Stability of Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gst_neurips19/README.md)
 - [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
-- [Semantically-Regularized Logic Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lensr_neurips19/README.md)
+- [Embedding Symbolic Knowledge into Deep Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lensr_neurips19/README.md)
 - [D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvae_neurips19/README.md)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gntk_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
