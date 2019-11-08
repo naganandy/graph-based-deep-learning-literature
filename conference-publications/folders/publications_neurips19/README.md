@@ -63,6 +63,7 @@
 - [Efficient Graph Generation with Graph Recurrent Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gran_neurips19/README.md)
 - [Conditional Structure Generation through Graph Variational Generative Adversarial Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/condgen_neurips19/README.md)
 - [Graph Normalizing Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnf_neurips19/README.md)
+- [Semi-Implicit Graph Variational Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sigvae_neurips19/README.md)
 
 
 
