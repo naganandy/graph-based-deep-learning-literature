@@ -45,7 +45,9 @@
 - [Graph Normalizing Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnf_neurips19/README.md)
 - [Semi-Implicit Graph Variational Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sigvae_neurips19/README.md)
 - [N-Gram Graph, A Novel Molecule Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngram_neurips19/README.md)
-- [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/progen_neurips19/README.md)- [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pastegan_neurips19/README.md)
+- [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/progen_neurips19/README.md)
+- [Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgl_neurips19/README.md)
+- [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pastegan_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
 - [Recurrent Space-time Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rstg_neurips19/README.md)
 - [Graph-based Discriminators: Sample Complexity and Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/gbd_neurips19)
@@ -57,7 +59,6 @@
 - [Retrosynthesis Prediction with Conditional Graph Logic Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cgln_neurips19/README.md)
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Scalable Deep Generative Relational Model with High-Order Node Dependence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sdrem_neurips19/README.md)
-- Heterogeneous Graph Learning for Visual Commonsense Reasoning
 
 </details>
 
