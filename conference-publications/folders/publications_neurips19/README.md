@@ -3,6 +3,7 @@
 ## Understanding Graph Neural Networks
 - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/modulargcn_neurips19/README.md)
 - [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnexplainer_neurips19/README.md)
+- [On the equivalence between graph isomorphism testing and function approximation with GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ringgnn_neurips19/README.md)
 
 
 
