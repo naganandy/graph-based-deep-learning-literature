@@ -59,6 +59,11 @@
 
 
 
+# Computer Vision
+- [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
+
+
+
 # Graph Generation
 - [Efficient Graph Generation with Graph Recurrent Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gran_neurips19/README.md)
 - [Conditional Structure Generation through Graph Variational Generative Adversarial Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/condgen_neurips19/README.md)
