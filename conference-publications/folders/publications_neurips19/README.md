@@ -36,3 +36,8 @@
 
 # Kernel Methods
 - [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
+
+
+
+# Miscellaneous
+- [DFNets: Spectral CNNs for Graphs with Feedback-looped Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfnet_neurips19/README.md)
