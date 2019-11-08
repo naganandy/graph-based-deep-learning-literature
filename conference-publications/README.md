@@ -89,6 +89,7 @@
 
 - [Deep Graphical Feature Learning for the Feature Matching Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fmpgnn_iccv19/README.md)
 - [Mixture-Kernel Graph Attention Network for Situation Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mixkergat_iccv19/README.md)
+- [AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/attpool_iccv19/README.md)
 - [SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgnet_iccv19/README.md)
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oanet_iccv19/README.md)
 - [Graph-Based Object Classification for Neuromorphic Vision Sensing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nvs2graph_iccv19/README.md)
@@ -102,7 +103,6 @@
 - [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vacation_iccv19/README.md)
 - [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/st3dpegcn_iccv19/README.md)
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treegan_iccv19/README.md)
-- AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism
 - Deep Clustering by Gaussian Mixture Variational Autoencoders With Graph Embedding
 - New Convex Relaxations for MRF Inference With Unknown Graphs
 - Deep Supervised Hashing With Anchor Graph
