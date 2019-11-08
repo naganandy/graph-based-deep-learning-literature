@@ -2,12 +2,13 @@
 
 ```
 @inproceedings{g3raphground_iccv19,
-  author    = {Mohit Bajaj and Lanjun Wang and Leonid Sigal},
-  title     = {G3raphGround: Graph-Based Language Grounding},
-  booktitle = {{IEEE} International Conference on Computer Vision (ICCV)},
-  year      = {2019}
+author = {Bajaj, Mohit and Wang, Lanjun and Sigal, Leonid},
+title = {G3raphGround: Graph-Based Language Grounding},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+pages = {4281--4290},
+year = {2019}
 }
 ```
 
 links
-- [thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0380482)
+- [openaccess](http://openaccess.thecvf.com/content_ICCV_2019/html/Bajaj_G3raphGround_Graph-Based_Language_Grounding_ICCV_2019_paper.html)
