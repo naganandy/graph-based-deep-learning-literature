@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=14093)
 - [arXiv](https://arxiv.org/abs/1906.02174)
 - [code](https://github.com/y-fujiwr/Stronger_GCN)
