@@ -62,6 +62,7 @@
 
 
 # Structured Prediction
+- [Graph Structured Prediction Energy Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gspen_neurips19/README.md)
 
 
 
@@ -98,6 +99,5 @@
 - [D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvae_neurips19/README.md)
 - [Graph-based Discriminators: Sample Complexity and Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/gbd_neurips19)
 - [Scalable Deep Generative Relational Model with High-Order Node Dependence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sdrem_neurips19/README.md)
-- [Graph Structured Prediction Energy Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gspen_neurips19/README.md)
 - [Neural Relational Inference with Fast Modular Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nrimml_neurips19/README.md)
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
