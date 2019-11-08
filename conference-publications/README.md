@@ -157,7 +157,7 @@
 - [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/transtruct_emnlp19/README.md)
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
 - [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
-- Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
+- [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lexicon_emnlp19/README.md)
 - Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
