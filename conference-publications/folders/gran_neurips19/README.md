@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13582)
 - [arXiv](https://arxiv.org/abs/1910.00760)
 - [code](https://github.com/lrjconan/GRAN)
