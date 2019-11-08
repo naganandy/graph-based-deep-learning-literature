@@ -2,12 +2,20 @@
 
 ```
 @inproceedings{lgn_emnlp19,
-  author    = {Tao Gui and Yicheng Zou and Qi Zhang and Minlong Peng and Jinlan Fu and Zhongyu Wei and Xuanjing Huang},
-  title     = {A Lexicon-Based Graph Neural Network for Chinese NER},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {A Lexicon-Based Graph Neural Network for {C}hinese {NER}},
+    author = {Gui, Tao  and
+      Zou, Yicheng  and
+      Zhang, Qi  and
+      Peng, Minlong  and
+      Fu, Jinlan  and
+      Wei, Zhongyu  and
+      Huang, Xuanjing},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {1039--1049},
+    year = {2019}
 }
 ```
 
 links
-- [preprint](http://jkx.fudan.edu.cn/~qzhang/paper/emnlp-2019.ner.pdf)
+- [aclweb](https://www.aclweb.org/anthology/D19-1096/)
+- [code](https://github.com/RowitZou/LGN)
