@@ -25,6 +25,8 @@
 - [Certifiable Robustness to Graph Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcert_neurips19/README.md)
 - [On the equivalence between graph isomorphism testing and function approximation with GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ringgnn_neurips19/README.md)
 - [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
+- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
+- [Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ladies_neurips19/README.md)
 - [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gntk_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
@@ -33,7 +35,6 @@
 - [Universal Invariant and Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/swgnn_neurips19/README.md)
 - [DFNets: Spectral CNNs for Graphs with Feedback-looped Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfnet_neurips19/README.md)
 - [Stability of Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gst_neurips19/README.md)
-- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
 - [Embedding Symbolic Knowledge into Deep Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lensr_neurips19/README.md)
 - [D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvae_neurips19/README.md)
 - [Variational Graph Recurrent Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgrnn_neurips19/README.md)
@@ -50,7 +51,6 @@
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
-- Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
 - Graph Transformer Networks
 - Diffusion Improves Graph Learning
 - Scalable Deep Generative Relational Model with High-Order Node Dependence
