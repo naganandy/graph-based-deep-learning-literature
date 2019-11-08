@@ -43,3 +43,7 @@
 # Spectral Formulations
 - [DFNets: Spectral CNNs for Graphs with Feedback-looped Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dfnet_neurips19/README.md)
 - [Stability of Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gst_neurips19/README.md)
+
+
+# Embedding Approaches
+- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
