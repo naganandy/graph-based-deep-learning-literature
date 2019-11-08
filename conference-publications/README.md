@@ -73,20 +73,21 @@
 ## -----------------------------------------------------------------------------
 # [ICCV 2019 (Nov)](http://iccv2019.thecvf.com/program/main_conference)
 - [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/deepgcn_iccv19/README.md)
+- [From Strings to Things: Knowledge-Enabled VQA Model That Can Read and Reason](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/textkvqa_iccv19/README.md)
+- [Relation-Aware Graph Attention Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/regat_iccv19/README.md)
 - [Learning Combinatorial Embedding Networks for Deep Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/picagm_iccv19/README.md)
 - [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mne_iccv19/README.md)
-- [Relation-Aware Graph Attention Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/regat_iccv19/README.md)
 - [Hierarchy Parsing for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hip_iccv19/README.md)
 - [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gala_iccv19/README.md)
 - [Language-Conditioned Graph Networks for Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lcgn_iccv19/README.md)
 - [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ssgrl_iccv19/README.md)
 - [G3raphGround: Graph-Based Language Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g3raphground_iccv19/README.md)
 - [Dynamic Graph Attention for Referring Expression Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dga_iccv19/README.md)
-- [Deep Graphical Feature Learning for the Feature Matching Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fmpgnn_iccv19/README.md)
 
 <details> 
 <summary> more </summary>
 
+- [Deep Graphical Feature Learning for the Feature Matching Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fmpgnn_iccv19/README.md)
 - [Mixture-Kernel Graph Attention Network for Situation Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mixkergat_iccv19/README.md)
 - [SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sgnet_iccv19/README.md)
 - [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/oanet_iccv19/README.md)
