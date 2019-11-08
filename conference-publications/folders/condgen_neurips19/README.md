@@ -12,3 +12,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [preprint](http://jiyang3.web.engr.illinois.edu/files/condgen.pdf)
+- [code](https://github.com/KelestZ/CondGen)
