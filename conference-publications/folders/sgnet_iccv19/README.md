@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{sgnet_iccv19,
-  author    = {Yang Zhou and Zachary While and Evangelos Kalogerakis},
-  title     = {SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation},
-  booktitle = {{IEEE} International Conference on Computer Vision (ICCV)},
-  year      = {2019}
-}
+author = {Zhou, Yang and While, Zachary and Kalogerakis, Evangelos},
+title = {SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+pages = {7384--7392},
+year = {2019}
+} 
 ```
 
 links
+- [openaccess](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_SceneGraphNet_Neural_Message_Passing_for_3D_Indoor_Scene_Augmentation_ICCV_2019_paper.html)
 - [arXiv](https://arxiv.org/abs/1907.11308)
