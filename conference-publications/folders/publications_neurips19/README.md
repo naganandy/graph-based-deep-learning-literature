@@ -63,6 +63,7 @@
 
 # Structured Prediction
 - [Graph Structured Prediction Energy Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gspen_neurips19/README.md)
+- [Retrosynthesis Prediction with Conditional Graph Logic Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cgln_neurips19/README.md)
 
 
 
