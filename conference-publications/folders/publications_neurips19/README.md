@@ -4,6 +4,7 @@
 - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/modulargcn_neurips19/README.md)
 - [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnexplainer_neurips19/README.md)
 - [On the equivalence between graph isomorphism testing and function approximation with GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ringgnn_neurips19/README.md)
+- [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
 
 
 
@@ -28,9 +29,3 @@
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Graph-Based Semi-Supervised Learning with Non-ignorable Non-response](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnm_neurips19/README.md)
 - [Graph Agreement Models for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gam_neurips19/README.md)
-
-
-
-
-## Graph Pooling
-- [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
