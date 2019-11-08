@@ -35,7 +35,14 @@
 
 # Combinatorial Problems
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgnn_neurips19/README.md)
-- [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/leran2branch_neurips19/README.md)
+- [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-
+
+
+
+# Representation Learning
+- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
+- [Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ladies_neurips19/README.md)
+literature/blob/master/conference-publications/folders/leran2branch_neurips19/README.md)
 
 
 
@@ -52,13 +59,9 @@
 
 
 
-# Representation Learning
-- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
-
-
-
 # Logic
 - [Embedding Symbolic Knowledge into Deep Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lensr_neurips19/README.md)
+
 
 
 # Programs
