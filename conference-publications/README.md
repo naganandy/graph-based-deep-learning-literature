@@ -96,6 +96,7 @@
 - [Zero-shot Video Object Segmentation via Attentive Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/agnn_iccv19/README.md)
 - [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/learntrajdep_iccv19/README.md)
 - [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hpein_iccv19/README.md)
+- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pgnet_iccv19/README.md)
 - [Graph Convolutional Networks for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pgcn_iccv19/README.md)
 - [Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grnet_iccv19/README.md)
 - [Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/neural3dmm/README.md)
@@ -103,7 +104,6 @@
 - [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vacation_iccv19/README.md)
 - [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/st3dpegcn_iccv19/README.md)
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treegan_iccv19/README.md)
-- Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
 - Relational Attention Network for Crowd Counting
 
