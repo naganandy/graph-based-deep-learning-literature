@@ -54,9 +54,9 @@
 - [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
 - [Graph Structured Prediction Energy Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gspen_neurips19/README.md)
+- [Retrosynthesis Prediction with Conditional Graph Logic Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cgln_neurips19/README.md)
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Scalable Deep Generative Relational Model with High-Order Node Dependence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sdrem_neurips19/README.md)
-- Retrosynthesis Prediction with Conditional Graph Logic Network
 - Heterogeneous Graph Learning for Visual Commonsense Reasoning
 
 </details>
