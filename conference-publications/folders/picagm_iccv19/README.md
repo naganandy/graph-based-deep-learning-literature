@@ -8,7 +8,6 @@ booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
 pages = {3056--3065},
 year = {2019}
 }
-
 ```
 
 links
