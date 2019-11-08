@@ -23,6 +23,11 @@
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/leran2branch_neurips19/README.md)
 
 
+## Graph-based Semi-Supervised Learning
+- [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
+
+
+
 
 ## Graph Pooling
 - [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
