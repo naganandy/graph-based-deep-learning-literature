@@ -13,3 +13,5 @@ publisher = {Curran Associates, Inc.}
 links
 - [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13216)
 - [arXiv](https://arxiv.org/abs/1906.01618)
+- [project](https://vsitzmann.github.io/srns/)
+- [code](https://github.com/vsitzmann/scene-representation-networks)
