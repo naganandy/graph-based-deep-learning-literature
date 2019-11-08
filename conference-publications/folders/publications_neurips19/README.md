@@ -63,6 +63,7 @@
 # Computer Vision
 - [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pastegan_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
+- [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
 
 
 # Molecules
@@ -84,4 +85,3 @@
 - [Graph-based Discriminators: Sample Complexity and Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/gbd_neurips19)
 - [Neural Relational Inference with Fast Modular Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nrimml_neurips19/README.md)
 - [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
-- [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
