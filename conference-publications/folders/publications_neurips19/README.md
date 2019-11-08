@@ -5,8 +5,10 @@
 - [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnexplainer_neurips19/README.md)
 
 
+
 ## Non-Euclidean Geometry
 - [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_neurips19/README.md)
+- [Hyperbolic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnn_neurips19/README.md)
 
 
 
