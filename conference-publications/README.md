@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary>
  
+- [Graph Agreement Models for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gam_neurips19/README.md)
 - [On the equivalence between graph isomorphism testing and function approximation with GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ringgnn_neurips19/README.md)
 - [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
 - [Provably Powerful Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppgnn_neurips19/README.md)
@@ -49,7 +50,6 @@
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Recurrent Space-time Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rstg_neurips19/README.md)
 - [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/progen_neurips19/README.md)
-- Graph Agreement Models for Semi-Supervised Learning
 - Certifiable Robustness to Graph Perturbations
 - A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning
 - Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
