@@ -36,6 +36,7 @@
 
 # Kernel Methods
 - [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
+- [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 
 
 
