@@ -76,4 +76,5 @@
 # Miscellaneous
 - [Variational Graph Recurrent Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vgrnn_neurips19/README.md)
 - [D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvae_neurips19/README.md)
+- [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
