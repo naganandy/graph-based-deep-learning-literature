@@ -11,4 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=14292)
 - [arXiv](https://arxiv.org/abs/1905.13177)
+- [video](https://www.youtube.com/watch?v=frMPP30QQgY)
