@@ -13,15 +13,16 @@
 
 
 
-# Non-Euclidean Geometry
-- [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_neurips19/README.md)
-- [Hyperbolic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnn_neurips19/README.md)
-
-
 # Graph-based Semi-Supervised Learning
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Graph-Based Semi-Supervised Learning with Non-ignorable Non-response](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnm_neurips19/README.md)
 - [Graph Agreement Models for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gam_neurips19/README.md)
+
+
+
+# Non-Euclidean Geometry
+- [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_neurips19/README.md)
+- [Hyperbolic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnn_neurips19/README.md)
 
 
 
