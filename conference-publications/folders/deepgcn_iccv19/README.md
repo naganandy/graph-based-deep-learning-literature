@@ -7,7 +7,7 @@ title = {DeepGCNs: Can GCNs Go As Deep As CNNs?},
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
 pages = {9267-9276},
 year = {2019}
- }
+}
 ```
 
 links
