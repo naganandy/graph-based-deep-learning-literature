@@ -11,4 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13617)
 - [arXiv](https://arxiv.org/abs/1905.13732)
+- [code](https://github.com/bwilder0/clusternet)
