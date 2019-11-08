@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13892)
+- [arXiv](https://arxiv.org/abs/1910.12892)
 - [code](https://github.com/facebookresearch/hgnn)
