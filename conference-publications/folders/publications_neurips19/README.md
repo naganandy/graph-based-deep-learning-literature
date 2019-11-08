@@ -17,10 +17,6 @@
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Graph-Based Semi-Supervised Learning with Non-ignorable Non-response](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnm_neurips19/README.md)
 - [Graph Agreement Models for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gam_neurips19/README.md)
-
-
-
-# Adversarial Learning
 - [Certifiable Robustness to Graph Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcert_neurips19/README.md)
 
 
