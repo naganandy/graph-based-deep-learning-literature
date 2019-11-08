@@ -28,6 +28,7 @@
 - [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
 - [Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ladies_neurips19/README.md)
 - [Graph Transformer Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gtn_neurips19/README.md)
+- [Diffusion Improves Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gdc_neurips19/README.md)
 - [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gntk_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
@@ -52,7 +53,6 @@
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
-- Diffusion Improves Graph Learning
 - Scalable Deep Generative Relational Model with High-Order Node Dependence
 - Learning Transferable Graph Exploration
 - Graph Structured Prediction Energy Networks
