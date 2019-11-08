@@ -8,3 +8,6 @@
 - [Approximation Ratios of Graph Neural Networks for Combinatorial Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/cpgnn_neurips19/README.md)
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/leran2branch_neurips19/README.md)
 
+
+## Graph Pooling
+- [Understanding Attention and Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gapool_neurips19/README.md)
