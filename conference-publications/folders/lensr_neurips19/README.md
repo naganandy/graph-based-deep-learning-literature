@@ -1,8 +1,8 @@
-# Semantically-Regularized Logic Graph Embeddings
+# Embedding Symbolic Knowledge into Deep Networks
 
 ```
 @incollection{lensr_neurips19,
-title = {Semantically-Regularized Logic Graph Embeddings},
+title = {Embedding Symbolic Knowledge into Deep Networks},
 author = {Yaqi Xie and Ziwei Xu and Kuldeep Meel and Mohan S Kankanhalli and Harold Soh},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
 year = {2019},
