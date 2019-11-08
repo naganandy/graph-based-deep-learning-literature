@@ -43,6 +43,7 @@
 - [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clusternet_neurips19/README.md)
 - [Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ladies_neurips19/README.md)
 - [Graph Transformer Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gtn_neurips19/README.md)
+- [Diffusion Improves Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gdc_neurips19/README.md)
 
 
 
