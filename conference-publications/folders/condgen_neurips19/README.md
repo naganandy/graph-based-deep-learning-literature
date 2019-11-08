@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13353)
 - [preprint](http://jiyang3.web.engr.illinois.edu/files/condgen.pdf)
 - [code](https://github.com/KelestZ/CondGen)
