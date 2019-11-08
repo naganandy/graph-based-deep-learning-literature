@@ -11,4 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [preprint](http://stanford.edu/~fredsala/Hazy-HGCN.pdf)
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13633)
+- [arXiv](https://arxiv.org/abs/1910.12933)
+- [project](http://snap.stanford.edu/hgcn/)
