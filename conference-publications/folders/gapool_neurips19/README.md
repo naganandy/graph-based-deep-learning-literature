@@ -12,6 +12,7 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13577)
 - [arXiv](https://arxiv.org/abs/1905.02850)
 - [code](https://github.com/bknyaz/graph_attention_pool)
 - [video](https://slideslive.com/38915806/understanding-attention-in-graph-neural-networks)
