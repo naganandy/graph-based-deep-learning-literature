@@ -50,10 +50,10 @@
 - [Recurrent Space-time Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rstg_neurips19/README.md)
 - [Graph-based Discriminators: Sample Complexity and Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/gbd_neurips19)
 - [Neural Relational Inference with Fast Modular Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nrimml_neurips19/README.md)
-- [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
-- Scalable Deep Generative Relational Model with High-Order Node Dependence
+- [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
+- [Scalable Deep Generative Relational Model with High-Order Node Dependence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sdrem_neurips19/README.md)
 - Learning Transferable Graph Exploration
 - Graph Structured Prediction Energy Networks
 - Retrosynthesis Prediction with Conditional Graph Logic Network
