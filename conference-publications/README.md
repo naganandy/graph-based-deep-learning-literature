@@ -103,15 +103,9 @@
 - [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vacation_iccv19/README.md)
 - [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/st3dpegcn_iccv19/README.md)
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treegan_iccv19/README.md)
-- Deep Clustering by Gaussian Mixture Variational Autoencoders With Graph Embedding
-- New Convex Relaxations for MRF Inference With Unknown Graphs
-- Deep Supervised Hashing With Anchor Graph
 - Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation
-- Zero-Shot Emotion Recognition via Affective Structural Embedding
 - STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
 - Relational Attention Network for Crowd Counting
-- Stacked Cross Refinement Network for Edge-Aware Salient Object Detection
-
 
 </details>
 
@@ -130,6 +124,9 @@
 - Adaptive Neural Network for Node Classification in Dynamic Networks
 - Inductive Embedding Learning on Attributed Heterogeneous Networks via Multi-task Sequence-to-Sequence Learning
 - Multi-Graph Convolution Collaborative Filtering
+
+
+
 ## -----------------------------------------------------------------------------
 
 # [EMNLP 2019 (Nov)](https://www.emnlp-ijcnlp2019.org/program/accepted/)
@@ -161,7 +158,6 @@
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
 - [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
 - [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lexicon_emnlp19/README.md)
-
 
 </details>
  
