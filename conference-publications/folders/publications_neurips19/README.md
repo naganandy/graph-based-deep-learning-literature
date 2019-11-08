@@ -1,5 +1,7 @@
 # [Publications in NeurIPS 2019](https://nips.cc/Conferences/2019/Schedule)
 
+
+
 # Understanding Graph Neural Networks
 - [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/modulargcn_neurips19/README.md)
 - [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnexplainer_neurips19/README.md)
@@ -27,6 +29,7 @@
 - [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/leran2branch_neurips19/README.md)
 
 
+
 # Graph-based Semi-Supervised Learning
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Graph-Based Semi-Supervised Learning with Non-ignorable Non-response](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnm_neurips19/README.md)
@@ -36,6 +39,7 @@
 
 # Kernel Methods
 - [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
+- [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gntk_neurips19/README.md)
 - [Wasserstein Weisfeiler-Lehman Kernels on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wwlgk_neurips19/README.md)
 
 
