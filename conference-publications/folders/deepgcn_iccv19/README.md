@@ -1,4 +1,4 @@
-# Can GCNs Go as Deep as CNNs?
+# DeepGCNs: Can GCNs Go as Deep as CNNs?
 
 ```
 @inproceedings{deepgcn_iccv19,
