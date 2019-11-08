@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13878)
 - [arXiv](https://arxiv.org/abs/1906.04784)
 - [code](https://github.com/alelab-upenn/graph-scattering-transforms)
