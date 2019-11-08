@@ -60,9 +60,6 @@
 - Exploring Algorithmic Fairness in Robust Graph Covering Problems
 - Scalable Deep Generative Relational Model with High-Order Node Dependence
 - Learning Transferable Graph Exploration
-- Spectral Modification of Graphs for Improved Spectral Clustering
-- Globally optimal score-based learning of directed acyclic graphs in high-dimensions
-- Möbius Transformation for Fast Inner Product Search on Graph
 - Graph Structured Prediction Energy Networks
 - Retrosynthesis Prediction with Conditional Graph Logic Network
 - Heterogeneous Graph Learning for Visual Commonsense Reasoning
