@@ -59,6 +59,10 @@
 
 
 
+# Graph Generation
+- [Graph Normalizing Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnf_neurips19/README.md)
+
+
 
 # Miscellaneous
 - [D-VAE: A Variational Autoencoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dvae_neurips19/README.md)
