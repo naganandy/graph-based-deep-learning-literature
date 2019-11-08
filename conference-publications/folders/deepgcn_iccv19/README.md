@@ -5,7 +5,7 @@
 author = {Li, Guohao and Muller, Matthias and Thabet, Ali and Ghanem, Bernard},
 title = {DeepGCNs: Can GCNs Go As Deep As CNNs?},
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-pages = {9267-9276},
+pages = {9267--9276},
 year = {2019}
 }
 ```
