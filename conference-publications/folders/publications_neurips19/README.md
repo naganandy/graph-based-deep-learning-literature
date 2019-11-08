@@ -20,15 +20,15 @@
 
 
 
-# Non-Euclidean Geometry
-- [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_neurips19/README.md)
-- [Hyperbolic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnn_neurips19/README.md)
-
-
-
 # Hypergraphs
 - [HyperGCN: A New Method for Training Graph Convolutional Networks on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hypergcn_neurips19/README.md)
 - [Powerset Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pcn_neurips19/README.md)
+
+
+
+# Non-Euclidean Geometry
+- [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_neurips19/README.md)
+- [Hyperbolic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnn_neurips19/README.md)
 
 
 
