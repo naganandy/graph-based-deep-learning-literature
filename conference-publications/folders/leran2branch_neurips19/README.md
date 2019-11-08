@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=14449)
 - [arXiv](https://arxiv.org/abs/1906.01629)
 - [code](https://github.com/ds4dm/learn2branch)
