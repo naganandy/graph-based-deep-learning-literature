@@ -104,7 +104,7 @@
 - [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vacation_iccv19/README.md)
 - [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/st3dpegcn_iccv19/README.md)
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/treegan_iccv19/README.md)
-- STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction
+- [STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stgat_iccv19/README.md)
 - Relational Attention Network for Crowd Counting
 
 </details>
