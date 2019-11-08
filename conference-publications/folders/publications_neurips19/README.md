@@ -60,6 +60,7 @@
 
 
 # Computer Vision
+- [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pastegan_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
 
 
