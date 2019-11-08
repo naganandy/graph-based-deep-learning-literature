@@ -1,7 +1,7 @@
 # Generative Models for Graph-Based Protein Design
 
 ```
-@incollection{cpgnn_neurips19,
+@incollection{progen_neurips19,
 title = {Generative Models for Graph-Based Protein Design},
 author = {John Ingraham and Vikas K. Garg and Regina Barzilay and Tommi Jaakkola},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
@@ -11,4 +11,4 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [openreview](https://openreview.net/forum?id=SJgxrLLKOE)
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=14467)
