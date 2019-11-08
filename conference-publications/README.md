@@ -147,6 +147,7 @@
 <summary> more </summary>
 
 - [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/attnpath_emnlp19/README.md)
+- [Learning to Update Knowledge Graph by Reading News](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gupdater_emnlp19/README.md)
 - [Jointly Learning Entity and Relation Representations for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgcn_emnlp19/README.md)
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kecg_emnlp19/README.md)
 - [Cross-lingual Structure Transfer for Relation and Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/clstre_emnlp19/README.md)
@@ -158,7 +159,6 @@
 - [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/g2sgnn_emnlp19/README.md)
 - [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgn_emnlp19/README.md)
 - [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lexicon_emnlp19/README.md)
-- Learning to Update Knowledge Graph by Reading News
 - Leveraging Dependency Forest for Neural Medical Relation Extraction 
 
 
