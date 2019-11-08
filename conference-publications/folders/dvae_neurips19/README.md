@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13371)
 - [arXiv](https://arxiv.org/abs/1904.11088)
 - [code](https://github.com/muhanzhang/D-VAE)
