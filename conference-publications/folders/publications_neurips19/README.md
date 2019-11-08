@@ -30,3 +30,8 @@
 - [A Flexible Generative Framework for Graph-based Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssl_neurips19/README.md)
 - [Graph-Based Semi-Supervised Learning with Non-ignorable Non-response](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnm_neurips19/README.md)
 - [Graph Agreement Models for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gam_neurips19/README.md)
+
+
+
+# Kernel Methods
+- [Rethinking Kernel Methods for Node Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kernelgcn_neurips19/README.md)
