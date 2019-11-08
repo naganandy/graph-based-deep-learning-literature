@@ -50,7 +50,6 @@
 - [Hyper-Graph-Network Decoders for Block Codes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnd_neurips19/README.md)
 - [Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/devign_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
-- A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning
 - Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
 - Graph Transformer Networks
 - Diffusion Improves Graph Learning
