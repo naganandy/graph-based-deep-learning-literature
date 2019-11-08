@@ -2,10 +2,16 @@
 
 ```
 @inproceedings{transtruct_emnlp19,
-  author    = {Jie Zhu and Junhui Li and Muhua Zhu and Longhua Qian and Min Zhang and Guodong Zhou},
-  title     = {Modeling Graph Structure in Transformer for Better AMR-to-Text Generation},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {Modeling Graph Structure in Transformer for Better {AMR}-to-Text Generation},
+    author = {Zhu, Jie  and
+      Li, Junhui  and
+      Zhu, Muhua  and
+      Qian, Longhua  and
+      Zhang, Min  and
+      Zhou, Guodong},
+    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    pages = {5462--5471},
+    year = {2019}
 }
 ```
 
