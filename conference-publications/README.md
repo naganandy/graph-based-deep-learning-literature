@@ -5,7 +5,7 @@
 - ICLR 2020 (May, decisions mid Dec, click [here](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/submissions_iclr20/README.md) for submissions)
 
 
-
+## -----------------------------------------------------------------------------
 # AAAI 2020 (Feb)
 - ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
 
