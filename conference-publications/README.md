@@ -7,8 +7,9 @@
 
 ## -----------------------------------------------------------------------------
 # AAAI 2020 (Feb)
+- Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks
 - ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
-
+- Graph Transformer for Graph-to-Sequence Learning
 
 
 ## -----------------------------------------------------------------------------
