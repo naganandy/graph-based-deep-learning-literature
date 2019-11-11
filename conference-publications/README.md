@@ -5,7 +5,7 @@
 
 
 
-# AAAI 2020
+# AAAI 2020 (Feb)
 - ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
 
 
