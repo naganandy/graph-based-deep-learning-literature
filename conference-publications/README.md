@@ -2,7 +2,12 @@
 
 - WWW 2020 (Apr, decisions mid Jan)
 - ICLR 2020 (May, decisions mid Dec, click [here](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/submissions_iclr20/README.md) for submissions)
-- AAAI 2020 (Feb, decisions mid Nov)
+
+
+
+# AAAI 2020
+- ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+
 
 
 ## -----------------------------------------------------------------------------
