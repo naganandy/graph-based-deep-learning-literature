@@ -6,3 +6,7 @@
 
 # Graph Pooling
 - ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+
+# Action Recognition
+- [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ceimgcn_aaai20/README.md)
+
