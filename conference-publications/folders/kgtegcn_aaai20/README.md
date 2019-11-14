@@ -6,7 +6,7 @@
   title     = {Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks},
   author    = {Pavan Kapanipathi, Veronika Thost, Siva Sankalp Patel, Spencer Whitehead, Ibrahim Abdelaziz, Avinash Balakrishnan, Maria Chang, Kshitij Fadnis, Chulaka Gunasekara, Bassem Makni, Nicholas Mattei, Kartik Talamadupula, Achille Fokoue},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  year      = {2019}
+  year      = {2020}
 }
 ```
 
