@@ -4,7 +4,7 @@
 ```
 @inproceedings{kgtegcn_aaai20,
   title     = {Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks},
-  author    = {Pavan Kapanipathi, Veronika Thost, Siva Sankalp Patel, Spencer Whitehead, Ibrahim Abdelaziz, Avinash Balakrishnan, Maria Chang, Kshitij Fadnis, Chulaka Gunasekara, Bassem Makni, Nicholas Mattei, Kartik Talamadupula, Achille Fokoue},
+  author    = {Pavan Kapanipathi and Veronika Thost and Siva Sankalp Patel and Spencer Whitehead and Ibrahim Abdelaziz and Avinash Balakrishnan and Maria Chang and Kshitij Fadnis and Chulaka Gunasekara and Bassem Makni and Nicholas Mattei and Kartik Talamadupula and Achille Fokoue},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
   year      = {2020}
 }
