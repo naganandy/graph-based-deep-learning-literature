@@ -10,4 +10,5 @@
 ```
 
 links
+- [arXiv](https://arxiv.org/abs/1911.05954)
 - [code](https://github.com/cszhangzhen/HGP-SL)
