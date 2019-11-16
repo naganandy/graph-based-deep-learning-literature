@@ -15,5 +15,6 @@ links
 - [arXiv](https://arxiv.org/abs/1904.03751)
 - [project](https://sites.google.com/view/deep-gcns)
 - [slides](https://docs.google.com/presentation/d/1L82wWymMnHyYJk3xUKvteEWD5fX0jVRbCbI65Cxxku0/present#slide=id.g5b05927e46_4_61)
-- [video](https://youtu.be/CHB96wBV4Ts)
+- [video1](https://youtu.be/CHB96wBV4Ts)
+- [video2](https://youtu.be/2ntDYowHbZs?t=4048)
 - [code](https://github.com/lightaime/deep_gcns)
