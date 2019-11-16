@@ -13,3 +13,4 @@ year = {2019}
 links
 - [openaccess](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Dynamic_Graph_Attention_for_Referring_Expression_Comprehension_ICCV_2019_paper.html)
 - [arXiv](https://arxiv.org/abs/1909.08164)
+- [video](https://youtu.be/oFDF1yT0T-4?t=2401)
