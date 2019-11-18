@@ -10,6 +10,7 @@
 
 # Graph Pooling
 - [Hierarchical Graph Pooling with Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgpsl_aaai20/README.md)
+- [GSSNN: Graph Smoothing Splines Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssnn_aaa20/README.md) 
 - ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
 
 # Computer Vision
