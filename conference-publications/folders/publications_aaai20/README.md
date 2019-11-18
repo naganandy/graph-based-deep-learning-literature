@@ -18,3 +18,5 @@
 # Logic
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnntheorem_aaai20/README.md)
 
+# Miscellaneous
+- [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnplanner_aaai20/README.md)
