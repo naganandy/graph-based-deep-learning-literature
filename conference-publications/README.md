@@ -8,6 +8,7 @@
 ## -----------------------------------------------------------------------------
 # AAAI 2020 (Feb)
 - [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgtegcn_aaai20/README.md)
+- [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dmgi_aaai20/README.md)
 - [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gfl_aaai20/README.md)
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnntheorem_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mpad_aaai20/README.md)
