@@ -20,7 +20,9 @@
 
 <details> 
 <summary> more </summary>
+ 
 - Graph Transformer for Graph-to-Sequence Learning
+
 </details>
 
 
