@@ -19,6 +19,7 @@
 
 <details> 
 <summary> more </summary>
+ - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gman_aaai20/README.md)
  - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ceimgcn_aaai20/README.md)
 - Graph Transformer for Graph-to-Sequence Learning
 
