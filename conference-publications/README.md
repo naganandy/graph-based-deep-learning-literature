@@ -16,7 +16,7 @@
 - [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnplanner_aaai20/README.md)
 - [Hierarchical Graph Pooling with Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgpsl_aaai20/README.md)
 - [GSSNN: Graph Smoothing Splines Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gssnn_aaa20/README.md)
-- Graph Transformer for Graph-to-Sequence Learning
+- [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gtgsl_aaai20/README.md)
 
 <details> 
 <summary> more </summary> 
