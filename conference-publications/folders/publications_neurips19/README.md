@@ -79,6 +79,7 @@
 - [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/pastegan_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srn_neurips19/README.md)
 - [Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/socialbigat_neurips19/README.md)
+- [Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mlcr_neurips19/README.md)
 - [Recurrent Space-time Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/rstg_neurips19/README.md)
 
 
