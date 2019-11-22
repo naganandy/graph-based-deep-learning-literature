@@ -75,6 +75,7 @@
 - [Semi-Implicit Graph Variational Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sigvae_neurips19/README.md)
 - [N-Gram Graph, A Novel Molecule Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngram_neurips19/README.md)
 - [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/progen_neurips19/README.md)
+- [Connective Cognition Network for Directional Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ccn_neurips19/README.md)
 - [Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgl_neurips19/README.md)
 - [Adaptive GNN for Image Analysis and Editing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/qiagnn_neurips19/README.md)
 - [Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mlcr_neurips19/README.md)
