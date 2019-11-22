@@ -1,4 +1,4 @@
-# 
+# Connective Cognition Network for Directional Visual Commonsense Reasoning
 
 ```
 @incollection{ccn_neurips19,
