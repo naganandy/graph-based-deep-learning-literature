@@ -17,9 +17,9 @@
 # Theoretical Analysis
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)*
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH) *
+- [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)*
+- [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)^
 - [What graph neural networks cannot learn: depth vs width](https://openreview.net/forum?id=B1l2bp4YwS)
-- [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
-- [Constant Time Graph Neural Networks](https://openreview.net/forum?id=rkgKW64FPH)
 - [Study of a Simple, Expressive and Consistent Graph Feature Representation](https://openreview.net/forum?id=Bkeqb1BFvB)
 
 
