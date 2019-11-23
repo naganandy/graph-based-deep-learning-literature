@@ -9,8 +9,8 @@
 - [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)*
 - [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
 - [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
-- [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 - [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
+- [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
 - [Quantum Graph Neural Networks](https://openreview.net/forum?id=rkxZveSFDS)
 
 
