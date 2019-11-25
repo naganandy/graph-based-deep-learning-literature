@@ -3,8 +3,9 @@
 ```
 @incollection{pastegan_neurips19,
 title = {PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph},
-author = {Yikang Li and Tao Ma and Yeqi Bai and Nan Duan and Sining Wei and Xiaogang Wang},
+author = {LI, Yikang and Ma, Tao and Bai, Yeqi and Duan, Nan and Wei, Sining and Wang, Xiaogang},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {3950--3960},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
