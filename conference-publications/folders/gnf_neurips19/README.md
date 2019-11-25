@@ -3,8 +3,9 @@
 ```
 @incollection{gnf_neurips19,
 title = {Graph Normalizing Flows},
-author = {Jenny Liu and Aviral Kumar and Jimmy Ba and Jamie Kiros and Kevin Swersky},
+author = {Liu, Jenny and Kumar, Aviral and Ba, Jimmy and Kiros, Jamie and Swersky, Kevin},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {13556--13566},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
