@@ -3,8 +3,9 @@
 ```
 @incollection{vgrnn_neurips19,
 title = {Variational Graph Recurrent Neural Networks},
-author = {Ehsan Hajiramezanali and Arman Hasanzadeh and Nick Duffield and Krishna R Narayanan and Mingyuan Zhou and Xiaoning Qian},
+author = {Hajiramezanali, Ehsan and Hasanzadeh, Arman and Narayanan, Krishna and Duffield, Nick and Zhou, Mingyuan and Qian, Xiaoning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {10700--10710},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
