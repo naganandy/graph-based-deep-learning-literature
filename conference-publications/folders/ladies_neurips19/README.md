@@ -3,8 +3,9 @@
 ```
 @incollection{ladies_neurips19,
 title = {Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks},
-author = {Difan Zou and Ziniu Hu and Yewen Wang and Song Jiang and Yizhou Sun and Quanquan Gu},
+author = {Zou, Difan and Hu, Ziniu and Wang, Yewen and Jiang, Song and Sun, Yizhou and Gu, Quanquan},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {11247--11256},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
