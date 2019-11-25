@@ -3,8 +3,9 @@
 ```
 @incollection{dfnet_neurips19,
 title = {DFNets: Spectral CNNs for Graphs with Feedback-looped Filters},
-author = {Asiri Wijesinghe and Qing Wang},
+author = {Wijesinghe, W. O. K. Asiri Suranga and Wang, Qing},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {6007--6018},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
