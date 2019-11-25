@@ -3,8 +3,9 @@
 ```
 @incollection{gbd_neurips19,
 title = {Graph-based Discriminators: Sample Complexity and Expressiveness},
-author = {Roi Livni and Yishay Mansour},
+author = {Livni, Roi and Mansour, Yishay},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {6696--6705},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
