@@ -3,8 +3,9 @@
 ```
 @incollection{gdc_neurips19,
 title = {Diffusion Improves Graph Learning},
-author = {Johannes Klicpera and Stefan Weißenberger and Stephan Gunnemann},
+author = {Klicpera, Johannes and Wei\ss enberger, Stefan and G\"{u}nnemann, Stephan},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {13333--13345},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
