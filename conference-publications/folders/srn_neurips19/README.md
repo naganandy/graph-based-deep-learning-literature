@@ -3,8 +3,9 @@
 ```
 @incollection{srn_neurips19,
 title = {Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations},
-author = {Vincent Sitzmann and Michael Zollhöfe and Gordon Wetzstein},
+author = {Sitzmann, Vincent and Zollhoefer, Michael and Wetzstein, Gordon},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {1119--1130},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
