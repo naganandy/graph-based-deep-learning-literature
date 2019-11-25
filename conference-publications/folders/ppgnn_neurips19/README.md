@@ -3,8 +3,9 @@
 ```
 @incollection{ppgnn_neurips19,
 title = {Provably Powerful Graph Networks},
-author = {Haggai Maron and Heli Ben-Hamu and Hadar Serviansky and Yaron Lipman},
+author = {Maron, Haggai and Ben-Hamu, Heli and Serviansky, Hadar and Lipman, Yaron},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {2153--2164},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
