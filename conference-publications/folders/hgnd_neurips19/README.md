@@ -3,8 +3,9 @@
 ```
 @incollection{hgnd_neurips19,
 title = {Hyper-Graph-Network Decoders for Block Codes},
-author = {Eliya Nachmani and Lior Wolf},
+author = {Nachmani, Eliya and Wolf, Lior},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {2326--2336},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
