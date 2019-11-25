@@ -3,8 +3,9 @@
 ```
 @incollection{gran_neurips19,
 title = {Efficient Graph Generation with Graph Recurrent Attention Networks},
-author = {Renjie Liao and Yujia Li and Yang Song and Shenlong Wang and Charlie Nash and William L. Hamilton and David Duvenaud and Raquel Urtasun and Richard S. Zemel},
+author = {Liao, Renjie and Li, Yujia and Song, Yang and Wang, Shenlong and Hamilton, Will and Duvenaud, David K and Urtasun, Raquel and Zemel, Richard},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {4257--4267},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
