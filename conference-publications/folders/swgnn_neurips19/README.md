@@ -3,8 +3,9 @@
 ```
 @incollection{swgnn_neurips19,
 title = {Universal Invariant and Equivariant Graph Neural Networks},
-author = {Nicolas Keriven and Gabriel Peyré},
+author = {Keriven, Nicolas and Peyr\'{e}, Gabriel},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {7090--7099},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
