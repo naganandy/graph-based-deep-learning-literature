@@ -44,9 +44,10 @@
 
 
 
-# Traffic Forecasting
+# Traffic
 - [Attention  Based  Spatial-Temporal  Graph  Convolutional  Networks  for  Traffic  Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/astgcn_aaai19/README.md)
 - [Dynamic  Spatial Temporal  Graph  Convolutional  Neural  Networks  for  Traffic  Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dstgcn_aaai19/README.md)
+- [Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stmgcn_aaai19/README.md)
 - [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mresrgnn_aaai19/README.md)
 
 
@@ -58,4 +59,3 @@
 - [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gic_aaai19/README.md)
 - [Session-based Recommendation with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/srgnn_aaai19/README.md)
 - [Deep Hierarchical Graph Convolution for Election Prediction from Geospatial Census Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dhgc_aaai19/README.md)
-- [Spatiotemporal  Multi‐Graph  Convolution  Network  for  Ride-hailing  Demand  Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/stmgcn_aaai19/README.md)
