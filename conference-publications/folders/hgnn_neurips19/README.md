@@ -3,8 +3,9 @@
 ```
 @incollection{hgnn_neurips19,
 title = {Hyperbolic Graph Neural Networks},
-author = {Qi Liu and Maximilian Nickel and Douwe Kiela},
+author = {Liu, Qi and Nickel, Maximilian and Kiela, Douwe},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {8228--8239},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
