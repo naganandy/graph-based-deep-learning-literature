@@ -1,10 +1,11 @@
-# N-Gram Graph, A Novel Molecule Representation
+# N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules
 
 ```
 @incollection{ngram_neurips19,
-title = {N-Gram Graph, A Novel Molecule Representation},
-author = {Shengchao Liu and Thevaa Chandereng and Yingyu Liang},
+title = {N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules},
+author = {Liu, Shengchao and Demirel, Mehmet F and Liang, Yingyu},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {8464--8476},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
