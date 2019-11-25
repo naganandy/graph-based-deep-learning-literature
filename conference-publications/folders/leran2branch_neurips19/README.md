@@ -3,8 +3,9 @@
 ```
 @incollection{learn2branch_neurips19,
 title = {Exact Combinatorial Optimization with Graph Convolutional Neural Networks},
-author = {Maxime Gasse and Didier Chételat and Nicola Ferroni and Laurent Charlin and Andrea Lodi},
+author = {Gasse, Maxime and Chetelat, Didier and Ferroni, Nicola and Charlin, Laurent and Lodi, Andrea},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {15554--15566},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
