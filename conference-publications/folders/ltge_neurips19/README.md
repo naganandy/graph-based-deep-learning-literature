@@ -3,8 +3,9 @@
 ```
 @incollection{ltge_neurips19,
 title = {Learning Transferable Graph Exploration},
-author = {Hanjun Dai and Yujia Li and Chenglong Wang and Rishabh Singh and Po-Sen Huang and Pushmeet Kohli},
+author = {Dai, Hanjun and Li, Yujia and Wang, Chenglong and Singh, Rishabh and Huang, Po-Sen and Kohli, Pushmeet},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {2514--2525},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
