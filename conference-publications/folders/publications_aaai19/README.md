@@ -2,6 +2,12 @@
 
 
 
+# Higher-order Structures
+- [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgnn_aaai19/README.md)
+- [Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/hgnn_aaai19/README.md)
+
+
+
 # Graph-based Semi-Supervised Learning
 - [Bayesian  Graph  Convolutional  Neural  Networks  for  Semisupervised  Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/bgcn_aaai19/README.md)
 - [Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attributed Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mrfasgcn_aaai19/README.md)
