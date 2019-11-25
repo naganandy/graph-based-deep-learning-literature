@@ -3,9 +3,9 @@
 ```
 @incollection{gam_neurips19,
 title = {Graph Agreement Models for Semi-Supervised Learning},
-author = {Otilia Stretcu and Krishnamurthy Viswanathan and Dana Movshovitz-Attias and Emmanouil Platanios and Sujith Ravi and Andrew Tomkins
-},
+author = {Stretcu, Otilia and Viswanathan, Krishnamurthy and Movshovitz-Attias, Dana and Platanios, Emmanouil and Ravi, Sujith and Tomkins, Andrew},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {8710--8720},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
