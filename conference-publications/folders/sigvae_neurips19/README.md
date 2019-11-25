@@ -3,8 +3,9 @@
 ```
 @incollection{sigvae_neurips19,
 title = {Semi-Implicit Graph Variational Auto-Encoders},
-author = {Arman Hasanzadeh and Ehsan Hajiramezanali and Nick Duffield and Krishna R. Narayanan and Mingyuan Zhou and Xiaoning Qian},
+author = {Hasanzadeh, Arman and Hajiramezanali, Ehsan and Narayanan, Krishna and Duffield, Nick and Zhou, Mingyuan and Qian, Xiaoning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {10711--10722},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
