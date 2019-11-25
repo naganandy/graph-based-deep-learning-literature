@@ -3,8 +3,9 @@
 ```
 @incollection{kernelgcn_neurips19,
 title = {Rethinking Kernel Methods for Node Representation Learning on Graphs},
-author = {Yu Tian and Long Zhao and Xi Peng and Dimitris N. Metaxas},
+author = {Tian, Yu and Zhao, Long and Peng, Xi and Metaxas, Dimitris},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {11681--11692},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
