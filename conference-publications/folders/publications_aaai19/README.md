@@ -34,7 +34,6 @@
 # Molecules
 - [NeVAE: Designing Deep Generative Models for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nevae_aaai19/README.md)
 - [Deep Bayesian Optimization on Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgbo_aaai19/README.md)
-- [Gaussian Induced  Convolution  for  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gic_aaai19/README.md)
 
 
 
