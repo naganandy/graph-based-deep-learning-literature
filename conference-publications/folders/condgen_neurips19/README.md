@@ -3,8 +3,9 @@
 ```
 @incollection{condgen_neurips19,
 title = {Conditional Structure Generation through Graph Variational Generative Adversarial Nets},
-author = {Carl Yang and Peiye Zhuang and Wenhan Shi and Alan Luu and Pan Li},
+author = {Yang, Carl and Zhuang, Peiye and Shi, Wenhan and Luu, Alan and Li, Pan},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {1338--1349},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
