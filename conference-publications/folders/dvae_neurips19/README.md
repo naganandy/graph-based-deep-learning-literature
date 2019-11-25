@@ -3,8 +3,9 @@
 ```
 @incollection{dvae_neurips19,
 title = {D-VAE: A Variational Autoencoder for Directed Acyclic Graphs},
-author = {Muhan Zhang and Shali Jiang and Zhicheng Cui and Roman Garnett and Yixin Chen},
+author = {Zhang, Muhan and Jiang, Shali and Cui, Zhicheng and Garnett, Roman and Chen, Yixin},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {1586--1598},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
