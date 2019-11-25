@@ -537,11 +537,10 @@
 
 ## -----------------------------------------------------------------------------
 
-# [NeurIPS 2018 (Dec)](https://nips.cc/Conferences/2018/Schedule)
+# [NeurIPS 2018 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips18/README.md)
 - [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/seal_nips18/README.md)
 - [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gtsgcn_nips18/README.md)
 - [Adaptive Sampling Towards Fast Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/asgcn_nips18/README.md)
-- [Watch Your Step: Learning Graph Embeddings Through Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/wus_nips18/README.md)
 - [Mean-field theory of graph neural networks in graph partitioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mftgnn_nips18/README.md)
 - [Hierarchical Graph Representation Learning with Differentiable Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/diffpool_nips18/README.md)
 - [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcpn_nips18/README.md)
