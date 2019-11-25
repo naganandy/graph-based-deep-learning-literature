@@ -3,8 +3,9 @@
 ```
 @incollection{strongergcn_neurips19,
 title = {Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks},
-author = {Sitao Luan and Mingde Zhao and Xiao-Wen Chang and Doina Precup},
+author = {Luan, Sitao and Zhao, Mingde and Chang, Xiao-Wen and Precup, Doina},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {10943--10953},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
