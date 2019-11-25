@@ -3,8 +3,9 @@
 ```
 @incollection{gnm_neurips19,
 title = {Graph-Based Semi-Supervised Learning with Non-ignorable Non-response},
-author = {Fan Zhou and Tengfei Li and Haibo Zhou and Hongtu Zhu and Ye Jieping},
+author = {Zhou, Fan and Li, Tengfei and Zhou, Haibo and Zhu, Hongtu and Jieping, Ye},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {7013--7023},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
