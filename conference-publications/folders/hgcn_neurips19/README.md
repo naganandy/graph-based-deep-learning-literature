@@ -3,8 +3,9 @@
 ```
 @incollection{hgcn_neurips19,
 title = {Hyperbolic Graph Convolutional Neural Networks},
-author = {Ines Chami and Rex Ying and Christopher Re and Jure Leskovec},
+author = {Chami, Ines and Ying, Zhitao and R\'{e}, Christopher and Leskovec, Jure},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {4869--4880},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
