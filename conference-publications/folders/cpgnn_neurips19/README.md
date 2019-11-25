@@ -3,8 +3,9 @@
 ```
 @incollection{cpgnn_neurips19,
 title = {Approximation Ratios of Graph Neural Networks for Combinatorial Problems},
-author = {Ryoma Sato and Makoto Yamada and Hisashi Kashima},
+author = {Sato, Ryoma and Yamada, Makoto and Kashima, Hisashi},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {4083--4092},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
