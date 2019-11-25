@@ -3,8 +3,9 @@
 ```
 @incollection{modulargcn_neurips19,
 title = {Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology},
-author = {Nima Dehmamy and Albert-László Barabási and Rose Yu},
+author = {Dehmamy, Nima and Barabasi, Albert-Laszlo and Yu, Rose},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {15387--15397},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
