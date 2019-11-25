@@ -4,8 +4,9 @@
 ```
 @incollection{gapool_neurips19,
 title = {Understanding Attention and Generalization in Graph Neural Networks},
-author = {Boris Knyazev and Graham W. Taylor and Mohamed R. Amer},
+author = {Knyazev, Boris and Taylor, Graham W and Amer, Mohamed},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {4204--4214},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
