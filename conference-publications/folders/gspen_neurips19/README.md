@@ -3,8 +3,9 @@
 ```
 @incollection{gspen_neurips19,
 title = {Graph Structured Prediction Energy Networks},
-author = {Colin Graber and Alexander Schwing},
+author = {Graber, Colin and Schwing, Alexander},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {8687--8698},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
