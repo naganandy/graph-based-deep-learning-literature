@@ -3,8 +3,9 @@
 ```
 @incollection{pcn_neurips19,
 title = {Powerset Convolutional Neural Networks},
-author = {Chris Wendler and Dan Alistarh and Markus Püschel},
+author = {Wendler, Chris and P\"{u}schel, Markus and Alistarh, Dan},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {927--938},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
