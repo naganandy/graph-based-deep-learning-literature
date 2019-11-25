@@ -3,8 +3,9 @@
 ```
 @incollection{gnnexplainer_neurips19,
 title = {GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks},
-author = {Rex Ying and Dylan Bourgeois and Jiaxuan You and Marinka Zitnik and Jure Leskovec},
+author = {Ying, Zhitao and Bourgeois, Dylan and You, Jiaxuan and Zitnik, Marinka and Leskovec, Jure},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {9240--9251},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
