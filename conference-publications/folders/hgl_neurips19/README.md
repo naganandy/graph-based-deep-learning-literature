@@ -3,8 +3,9 @@
 ```
 @incollection{hgl_neurips19,
 title = {Heterogeneous Graph Learning for Visual Commonsense Reasoning},
-author = {Weijiang Yu and Jingwen Zhou and Weihao Yu and Xiaodan Liang and Nong Xiao},
+author = {Yu, Weijiang and Zhou, Jingwen and Yu, Weihao and Liang, Xiaodan and Xiao, Nong},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {2765--2775},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
