@@ -3,8 +3,9 @@
 ```
 @incollection{graphcert_neurips19,
 title = {Certifiable Robustness to Graph Perturbations},
-author = {Aleksandar Bojchevski and Stephan Gunnemann},
+author = {Bojchevski, Aleksandar and G\"{u}nnemann, Stephan},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {8317--8328},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
