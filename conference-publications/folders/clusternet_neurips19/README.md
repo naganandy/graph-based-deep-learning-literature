@@ -3,8 +3,9 @@
 ```
 @incollection{clusternet_neurips19,
 title = {End to end learning and optimization on graphs},
-author = {Bryan Wilder and Eric Ewing and Bistra Dilkina and Milind Tambe},
+author = {Wilder, Bryan and Ewing, Eric and Dilkina, Bistra and Tambe, Milind},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {4674--4685},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
