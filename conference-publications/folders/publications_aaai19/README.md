@@ -21,6 +21,7 @@
 # Computer Vision
 - [I Know  the  Relationships:  Zero-Shot  Action  Recognition  via  Two-Stream  Graph Convolutional  Networks  and  Knowledge  Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/iktr_aaai19/README.md)
 - [ACM:  Adaptive  Cross-Modal  Graph  Convolutional  Neural  Networks  for  RGB‐D  Scene Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/acm_aaai19/README.md)
+- [Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcnmvtb_aaai19/README.md)
 
 
 
