@@ -3,8 +3,9 @@
 ```
 @incollection{sdrem_neurips19,
 title = {Scalable Deep Generative Relational Models with High-Order Node Dependence},
-author = {Xuhui Fan and Bin Li and Scott Anthony Sisson and Caoyuan Li and Ling Chen},
+author = {Fan, Xuhui and Li, Bin and Li, Caoyuan and SIsson, Scott and Chen, Ling},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {12637--12647},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
