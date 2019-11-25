@@ -3,8 +3,9 @@
 ```
 @incollection{gst_neurips19,
 title = {Stability of Graph Scattering Transforms},
-author = {Fernando Gama and Joan Bruna and Alejandro Ribeiro},
+author = {Gama, Fernando and Ribeiro, Alejandro and Bruna, Joan},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {8036--8046},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
