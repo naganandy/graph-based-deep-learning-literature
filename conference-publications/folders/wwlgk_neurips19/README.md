@@ -3,8 +3,9 @@
 ```
 @incollection{wwlgk_neurips19,
 title = {Wasserstein Weisfeiler-Lehman Kernels on graphs},
-author = {Matteo Togninalli and Elisabetta Ghisu and Felipe Llinares-López and Bastian Rieck and Karsten Borgwardt},
+author = {Togninalli, Matteo and Ghisu, Elisabetta and Llinares-L\'{o}pez, Felipe and Rieck, Bastian and Borgwardt, Karsten},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 32},
+pages = {6436--6446},
 year = {2019},
 publisher = {Curran Associates, Inc.}
 }
