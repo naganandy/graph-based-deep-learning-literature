@@ -154,7 +154,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# [EMNLP 2019 (Nov)](https://www.emnlp-ijcnlp2019.org/program/accepted/)
+# [EMNLP 2019 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/README.md)
 - [CaRe: Open Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/care_emnlp19/README.md)
 - [KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_aaai19/README.md)
 - [Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/eog_emnlp19/README.md)
