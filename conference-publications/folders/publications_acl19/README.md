@@ -26,16 +26,19 @@
 - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/cogqa_acl19/README.md)
 
 
+# Dependency Parsing
+- [Graph-based Dependency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/gnndeppar_acl19/README.md)
+- [The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/gbsibl_acl19/README.md)
+
+
 
 # Miscellaneous
 - [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/wordgcn_acl19/README.md)
-- [Graph-based Dependency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/gnndeppar_acl19/README.md)
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/glfte_acl19/README.md)
 - [GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/gear_acl19/README.md)
 - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/cigcn_acl19/README.md)
 - [Learning Latent Trees with Stochastic Perturbations and Differentiable Dynamic Programming](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/ddp_acl19/README.md)
 - [Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/t2sqlgnn_acl19/README.md)
-- [The (Non-)Utility of Structural Features in BiLSTM-based Dependency Parsers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/gbsibl_acl19/README.md)
 - [Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/chineseg2s_acl19/README.md)
 - [Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/ppdgcn_acl19/README.md)
 - [Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/treelstm_acl19/README.md)
