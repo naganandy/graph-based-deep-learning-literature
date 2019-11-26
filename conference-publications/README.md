@@ -333,7 +333,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# [ICML 2019 (Jun)](https://icml.cc/Conferences/2019/AcceptedPapersInitial)
+# [ICML 2019 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/README.md)
 - [Simplifying Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/sgc_icml19/README.md)
 - [Disentangled Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/disengcn_icml19/README.md)
 - [Position-aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/pgnn_icml19/README.md)
