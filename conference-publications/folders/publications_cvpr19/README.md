@@ -35,6 +35,14 @@
 
 
 
+# Skelteon-based Action Recognition
+- [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/agclstm_cvpr19/README.md)
+- [Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/asgcn_icml19/README.md)
+- [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/2sagcn_cvpr19/README.md)
+- [Skeleton-Based Action Recognition with Directed Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/dgnn_cvpr19/README.md)
+
+
+
 # Miscellaneous
 - [Explainability Methods for Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/explainability_cvpr19/README.md)
 - [GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gcan_cvpr19/README.md)
@@ -59,8 +67,4 @@
 - [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/man_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/cpgcn_cvpr19/README.md)
 - [Graph Attention Convolution for Point Cloud Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gacnet_cvpr19/README.md)
-- [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/agclstm_cvpr19/README.md)
-- [Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/asgcn_icml19/README.md)
 - [Graph Convolutional Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gct_cvpr19/README.md)
-- [Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/2sagcn_cvpr19/README.md)
-- [Skeleton-Based Action Recognition with Directed Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/dgnn_cvpr19/README.md)
