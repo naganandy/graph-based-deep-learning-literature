@@ -18,8 +18,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 
 - ## Computer vision conferences
-   * ### [CVPR](http://cvpr2020.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2019-jun) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2018-jun) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2017)
-   * ### [ICCV](http://iccv2019.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iccv-2019-nov) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iccv-2017)
+   * ### [CVPR](http://cvpr2020.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/README.md) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2018-jun) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#cvpr-2017)
+   * ### [ICCV](http://iccv2019.thecvf.com/) - [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/README.md) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#iccv-2017)
    * ### [ECCV](https://eccv2020.eu/) - [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#eccv-2018-sep)
 
 <br> </br>
