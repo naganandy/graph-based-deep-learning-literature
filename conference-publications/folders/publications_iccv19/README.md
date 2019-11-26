@@ -2,9 +2,14 @@
 
 
 
-- [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/deepgcn_iccv19/README.md)
+# Visual Question Answering
 - [From Strings to Things: Knowledge-Enabled VQA Model That Can Read and Reason](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/textkvqa_iccv19/README.md)
 - [Relation-Aware Graph Attention Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/regat_iccv19/README.md)
+
+
+
+# Miscellaneous
+- [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/deepgcn_iccv19/README.md)
 - [Learning Combinatorial Embedding Networks for Deep Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/picagm_iccv19/README.md)
 - [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mne_iccv19/README.md)
 - [Hierarchy Parsing for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/hip_iccv19/README.md)
