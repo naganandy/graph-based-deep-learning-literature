@@ -9,12 +9,18 @@
 
 
 # Network Embedding
-- [Representation Learning for Attributed Multiplex Heterogeneous Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/gatne_kdd19/README.md)
 - [MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/mcne_kdd19/README.md)
 - [Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/polygcn_kdd19/README.md)
 - [Learning Network-to-Network Model for Content-rich Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/net2net_kdd19/README.md)
 - [Graph Recurrent Networks with Attributed Random Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/grn_kdd19/README.md)
 - [A Representation Learning Framework for Property Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/pge_kdd19/README.md)
+- [Representation Learning for Attributed Multiplex Heterogeneous Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/gatne_kdd19/README.md)
+
+
+
+# Heterogeneous Graphs
+- [HetGNN: Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/hetgnn_kdd19/README.md)
+- [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/oag_kdd19/README.md)
 
 
 
@@ -28,12 +34,6 @@
 # Robustness
 - [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/rgcn_kdd19/README.md)
 - [Certifiable Robustness and Robust Training for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/rhu_kdd19/README.md)
-
-
-
-# Heterogeneous Graphs
-- [HetGNN: Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/hetgnn_kdd19/README.md)
-- [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/oag_kdd19/README.md)
 
 
 
