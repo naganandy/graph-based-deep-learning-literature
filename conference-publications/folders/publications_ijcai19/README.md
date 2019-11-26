@@ -23,6 +23,13 @@
 
 
 
+# Clustering
+- [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//agc_ijcai19/README.md)
+- [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//daegc_ijcai19/README.md)
+- [Adversarial Graph Embedding for Ensemble Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//agae_ijcai19/README.md)
+
+
+
 # Network Embedding
 - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ahne_ijcai19/README.md)
 - [DANE: Domain Adaptive Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//dane_ijcai19/README.md)
@@ -42,10 +49,12 @@
 
 
 
-# Clustering
-- [Attributed Graph Clustering via Adaptive Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//agc_ijcai19/README.md)
-- [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//daegc_ijcai19/README.md)
-- [Adversarial Graph Embedding for Ensemble Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//agae_ijcai19/README.md)
+# Natural Language Processing
+ - [GSN: A Graph-Structured Network for Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gsn_ijcai19/README.md)
+ - [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ppgcn_ijcai19/README.md)
+- [Graph-based Neural Sentence Ordering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//nseg_ijcai19/README.md)
+
+
 
 
 
@@ -53,8 +62,6 @@
 - [GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gcnlase_ijcai19/README.md)
  - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ppn_ijcai19/README.md)
  - [Path extrapolation using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gretel_ijcai19/README.md)
- - [GSN: A Graph-Structured Network for Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gsn_ijcai19/README.md)
- - [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ppgcn_ijcai19/README.md)
 - [Binarized Collaborative Filtering with Distilling Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bincf_ijcai19/README.md)
  - [STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//stargcn_ijcai19/README.md)
 - [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//wavenet_ijcai19/README.md)
@@ -72,7 +79,6 @@
 - [Graph Convolutional Network Hashing for Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gch_ijcai19/README.md)
 - [Heterogeneous Graph Matching Networks for Unknown Malware Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//matchgnet_ijcai19/README.md)
 - [Hierarchical Representation Learning for Bipartite Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bihgnn_ijcai19/README.md)
-- [Graph-based Neural Sentence Ordering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//nseg_ijcai19/README.md)
 - [Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//star_ijcai19/README.md)
 - [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgar_ijcai19/README.md)
 - [Graph Contextualized Self-Attention Network for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gcsan_ijcai19/README.md)
