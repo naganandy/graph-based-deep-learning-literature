@@ -10,7 +10,7 @@
 - [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gfl_aaai20/README.md)
 
 # Fast Training
-- [Fast and Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fdgnn_aaai20/README.md)
+- [Fast and Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fdgnn_aaai20/README.md)
 
 # Network Embedding
 - [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dmgi_aaai20/README.md)
