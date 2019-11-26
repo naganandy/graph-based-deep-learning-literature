@@ -31,5 +31,6 @@
 
 # Miscellaneous
 - [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnnplanner_aaai20/README.md)
- - [Graph-Driven Generative Models for Heterogeneous Multi-Task Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gdvae_aaai20/README.md)
+- [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/g2anet_aaai20/README.md)
+- [Graph-Driven Generative Models for Heterogeneous Multi-Task Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gdvae_aaai20/README.md)
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
