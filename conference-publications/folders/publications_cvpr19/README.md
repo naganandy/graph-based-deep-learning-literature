@@ -65,8 +65,14 @@
 
 
 # Spatial Relationships
-- [Spatial-Aware Graph Relation Network for Large-Scale Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/sgrn_cvpr19/README.md)
 - [Graph-Based Global Reasoning Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/glore_cvpr19/README.md)
+- [Spatial-Aware Graph Relation Network for Large-Scale Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/sgrn_cvpr19/README.md)
+
+
+
+# Object Annotation
+- [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/curvegcn_cvpr19/README.md) 
+- [Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/onet_cvpr19/README.md)
 
 
 
@@ -85,7 +91,5 @@
 - [Exploiting Edge Features for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/egnn_cvpr19/README.md)
  - [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/abc_cvpr19/README.md)
  - [Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/lgran_cvpr19/README.md)
-- [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/curvegcn_cvpr19/README.md) 
-- [Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/onet_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/cpgcn_cvpr19/README.md)
 - [Graph Attention Convolution for Point Cloud Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gacnet_cvpr19/README.md)
