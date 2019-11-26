@@ -33,6 +33,7 @@
 
 
 
+# Miscellaneous
 - [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gmn_icml19/README.md)
 - [Stochastic Blockmodels meet Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/dglfrm_icml19/README.md)
 - [Adversarial Attacks on Node Embeddings via Graph Poisoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/aane_icml19/README.md)
