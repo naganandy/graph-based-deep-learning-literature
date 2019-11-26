@@ -1,5 +1,11 @@
 # [Publications in IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)
 
+# Graph-based Semi-Supervised Learning
+- [SPAGAN: Shortest Path Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//spagan_ijcai19/README.md)
+- [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//maskedgcn_ijcai19/README.md)
+- [Belief Propagation Network for Hard Inductive Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bpn_ijcai19/README.md)
+- [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgcn_ijcai19/README.md)
+
 # Adversrial Attacks
 - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//igjsma_ijcai19/README.md)
 - [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//tadgnn_ijcai19/README.md)
@@ -39,8 +45,6 @@
 
 
 # Miscellaneous
-- [SPAGAN: Shortest Path Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//spagan_ijcai19/README.md)
-- [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//maskedgcn_ijcai19/README.md)
 - [GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gcnlase_ijcai19/README.md)
  - [Prototype Propagation Networks (PPN) for Weakly-supervised Few-shot Learning on Category Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ppn_ijcai19/README.md)
  - [Path extrapolation using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gretel_ijcai19/README.md)
@@ -59,7 +63,6 @@
 - [Tag2Gauss: Learning Tag Representations via Gaussian Distribution in Tagged Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//tag2gauss_ijcai19/README.md)
 - [Graph Convolutional Networks on User Mobility Heterogeneous Graphs for Social Relationship Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hetergcn_ijcai19/README.md)
 - [CensNet: Convolution with Edge-Node Switching in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//censnet_ijcai19/README.md)
-- [Belief Propagation Network for Hard Inductive Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bpn_ijcai19/README.md)
 - [AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//addgraph_ijcai19/README.md)
 - [Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//pgcn_ijcai19/README.md)
 - [Graph Convolutional Network Hashing for Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gch_ijcai19/README.md)
@@ -69,4 +72,3 @@
 - [Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//star_ijcai19/README.md)
 - [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgar_ijcai19/README.md)
 - [Graph Contextualized Self-Attention Network for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gcsan_ijcai19/README.md)
-- [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgcn_ijcai19/README.md)
