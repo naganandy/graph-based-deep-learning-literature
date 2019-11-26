@@ -15,15 +15,19 @@
 
 
 
+# Visual Dialogue
+- [Reasoning Visual Dialogs with Structural and Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/visdialgnn_cvpr19/README.md)
+- [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/fga_cvpr19/README.md)
+
+
+
 # Miscellaneous
 - [Multi-label Image Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/mlgcn_cvpr19/README.md)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/dgp_cvpr19/README.md)
 - [Explainability Methods for Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/explainability_cvpr19/README.md)
-- [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/fga_cvpr19/README.md)
 - [GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gcan_cvpr19/README.md)
 - [Spatial-Aware Graph Relation Network for Large-Scale Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/sgrn_cvpr19/README.md)
 - [Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/mangonet_cvpr19/README.md)
-- [Reasoning Visual Dialogs with Structural and Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/visdialgnn_cvpr19/README.md)
 - [Exploiting Edge Features for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/egnn_cvpr19/README.md)
 - [Attentive Relational Networks for Mapping Images to Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/arn_cvpr19/README.md)
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/kern_cvpr19/README.md)
