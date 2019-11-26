@@ -4,8 +4,8 @@
 
 # Graph-based Semi-Supervised Learning
 - [Semi-supervised Learning with Graph Learning-Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/glcn_cvpr19/README.md)
-- [Data Representation and Learning With Graph Diffusion-Embedding Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gden_cvpr19/README.md)
 - [Label Efficient Semi-Supervised Learning via Graph Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/igcn_cvpr19/README.md)
+- [Data Representation and Learning With Graph Diffusion-Embedding Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gden_cvpr19/README.md)
 
 
 
