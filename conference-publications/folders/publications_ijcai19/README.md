@@ -1,10 +1,15 @@
 # [Publications in IJCAI 2019](https://www.ijcai19.org/accepted-papers.html)
 
+
+
 # Graph-based Semi-Supervised Learning
 - [SPAGAN: Shortest Path Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//spagan_ijcai19/README.md)
 - [Masked Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//maskedgcn_ijcai19/README.md)
 - [Belief Propagation Network for Hard Inductive Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bpn_ijcai19/README.md)
 - [Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgcn_ijcai19/README.md)
+- [Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//graphheat_ijcai19/README.md)
+
+
 
 # Adversrial Attacks
 - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//igjsma_ijcai19/README.md)
@@ -56,7 +61,6 @@
  - [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ugraphemb_ijcai19/README.md)
  - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//vgae_ijcai19/README.md)
 - [Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//tsgnet_ijcai19/README.md)
-- [Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//graphheat_ijcai19/README.md)
 - [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgat_ijcai19/README.md)
  - [STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//stg2seq_ijcai19/README.md)
 - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gbert_ijcai19/README.md)
