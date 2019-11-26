@@ -230,7 +230,7 @@
 
 ## -----------------------------------------------------------------------------
 
- # [IJCAI 2019 (Aug)](https://www.ijcai19.org/accepted-papers.html)
+ # [IJCAI 2019 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19/README.md)
  - [Adversarial Examples on Graph Data: Deep Insights into Attack and Defense](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//igjsma_ijcai19/README.md)
 - [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//tadgnn_ijcai19/README.md)
 - [Topology Optimization based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//togcn_ijcai19/README.md)
