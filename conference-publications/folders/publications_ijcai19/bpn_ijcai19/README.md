@@ -12,3 +12,6 @@
 
 links
 - [ijcai](https://www.ijcai.org/proceedings/2019/580)
+- [poster](https://jaeminyoo.github.io/resources/2019/IJCAI/YooJK19_poster.pdf)
+- [slides](https://jaeminyoo.github.io/resources/2019/IJCAI/YooJK19_slides.pdf)
+- [code](https://github.com/snudatalab/BPN)
