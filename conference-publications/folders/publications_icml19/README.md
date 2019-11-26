@@ -9,6 +9,8 @@
 - [Graph Markov Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gmnn_icml19/README.md)
 - [MixHop: Higher-Order Graph Convolution Architectures via Sparsified Neighborhood Mixing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/mixhop_icml19/README.md)
 - [Graph Element Networks: adaptive, structured computation and memory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gen_icml19/README.md)
+- [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gmn_icml19/README.md)
+- [Geometric Scattering for Graph Data Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gs_icml19/README.md)
 
 
 
@@ -40,12 +42,10 @@
 
 
 # Miscellaneous
-- [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gmn_icml19/README.md)
 - [Adversarial Attacks on Node Embeddings via Graph Poisoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/aane_icml19/README.md)
 - [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gsc_icml19/README.md)
 - [Functional Transparency for Structured Data: a Game-Theoretic Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/ftgt_icml19/README.md)
 - [Graph Convolutional Gaussian Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gcgp_icml19/README.md)
-- [Geometric Scattering for Graph Data Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gs_icml19/README.md)
 - [Circuit-GNN: Graph Neural Networks for Distributed Circuit Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/circuitgnn_icml19/README.md)
 - [Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gnnmusic_icml19/README.md)
 - [Structured Agents for Physical Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml19/gndqn_icml19/README.md)
