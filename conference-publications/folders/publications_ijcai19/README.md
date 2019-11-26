@@ -32,6 +32,7 @@
 
 # Network Embedding
 - [DANE: Domain Adaptive Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//dane_ijcai19/README.md)
+ - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//vgae_ijcai19/README.md)
 - [ActiveHNE: Active Heterogeneous Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ahne_ijcai19/README.md)
 
 
@@ -86,7 +87,6 @@
  - [Path extrapolation using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gretel_ijcai19/README.md)
 - [Binarized Collaborative Filtering with Distilling Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bincf_ijcai19/README.md)
  - [Unsupervised Inductive Graph-Level Representation Learning via Graph-Graph Proximity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ugraphemb_ijcai19/README.md)
- - [A Degeneracy Framework for Scalable Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//vgae_ijcai19/README.md)
 - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gbert_ijcai19/README.md)
 - [Graph Convolutional Network Hashing for Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gch_ijcai19/README.md)
 - [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgar_ijcai19/README.md)
