@@ -3,7 +3,7 @@
 # Graph Pooling
 - [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/asap_aaai20/README.md)
 - [Hierarchical Graph Pooling with Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hgpsl_aaai20/README.md)
-- [GSSNN: Graph Smoothing Splines Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gssnn_aaa20/README.md) 
+- [GSSNN: Graph Smoothing Splines Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gssnn_aaai20/README.md) 
 
 # Few-Shot Learning
 - [Knowledge Graph Transfer Network for Few-Shot Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtn_aaai20/README.md)
