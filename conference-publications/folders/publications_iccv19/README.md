@@ -23,15 +23,16 @@
 
 
 
-# Graph Representation Learning
-- [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/gala_iccv19/README.md)
-- [AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/attpool_iccv19/README.md)
-
-
-
 # Few Shot Learning
 - [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mne_iccv19/README.md)
 - [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
+
+
+
+
+# Graph Pooling
+- [AttPool: Towards Hierarchical Feature Representation in Graph Convolutional Networks via Attention Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/attpool_iccv19/README.md)
+- [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/oanet_iccv19/README.md)
 
 
 
@@ -57,8 +58,8 @@
 
 # Miscellaneous
 - [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/deepgcn_iccv19/README.md)
+- [Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/gala_iccv19/README.md)
 - [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/ssgrl_iccv19/README.md)
-- [Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/oanet_iccv19/README.md)
 - [Graph-Based Object Classification for Neuromorphic Vision Sensing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/nvs2graph_iccv19/README.md)
 - [Zero-shot Video Object Segmentation via Attentive Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/agnn_iccv19/README.md)
 - [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/learntrajdep_iccv19/README.md)
