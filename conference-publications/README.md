@@ -715,9 +715,9 @@
 ## -----------------------------------------------------------------------------
 
 # [NIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
-- [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/graphsage_nips17/README.md)
-- [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/mgcnn_nips17/README.md)
-- [Protein Interface Prediction using Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/protein_gcn_nips17/README.md)
+- [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
+- [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/mgcnn_nips17/README.md)
+- [Protein Interface Prediction using Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/protein_gcn_nips17/README.md)
 
 [podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
@@ -726,75 +726,75 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 ## -----------------------------------------------------------------------------
 
 # EMNLP 2017
-- [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gcn_srl_emnlp17/README.md)
-- [Graph Convolutional Encoders for Syntax-aware Neural Machine Translation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gcn_nmt_emnlp17/README.md)
+- [Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_srl_emnlp17/README.md)
+- [Graph Convolutional Encoders for Syntax-aware Neural Machine Translation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_nmt_emnlp17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # ICCV 2017
-- [Situation Recognition with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/sr_gnn_iccv17/README.md)
+- [Situation Recognition with Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/sr_gnn_iccv17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # ICML 2017
-- [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/mpnn_icml17/README.md)
-- [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/tigranet_icml17/README.md)
+- [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/mpnn_icml17/README.md)
+- [Graph-based Isometry Invariant Representation Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/tigranet_icml17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # IJCAI 2017
-- [Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gnn_ookb_ijcai17/README.md)
+- [Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gnn_ookb_ijcai17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # [CVPR 2017](https://youtu.be/8CenT_4HWyY?t=8816)
-- [Geometric deep learning on graphs and manifolds using mixture model CNNs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/monet_cvpr17/README.md)
-- [Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/ecc_cvpr17/README.md)
-- [The More You Know: Using Knowledge Graphs for Image Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gsnn_cvpr17/README.md)
-- [Graph-Structured Representations for Visual Question Answering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/graph_vqa_cvpr17/README.md)
+- [Geometric deep learning on graphs and manifolds using mixture model CNNs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/monet_cvpr17/README.md)
+- [Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/ecc_cvpr17/README.md)
+- [The More You Know: Using Knowledge Graphs for Image Classification](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gsnn_cvpr17/README.md)
+- [Graph-Structured Representations for Visual Question Answering](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graph_vqa_cvpr17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # ICLR 2017
-- [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17/README.md)
-- [Learning Graphical State Transitions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ggtnn_iclr17/README.md)
+- [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_iclr17/README.md)
+- [Learning Graphical State Transitions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/ggtnn_iclr17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # AAAI 2017
-- [Transfer Learning for Deep Learning on Graph-Structured Data](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/transfer_gcn_aaai17/README.md)
+- [Transfer Learning for Deep Learning on Graph-Structured Data](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/transfer_gcn_aaai17/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # NIPS 2016
-- [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chebnet_nips16/README.md)
-- [Diffusion-Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/dcnn_nips16/README.md)
-- [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/commnet_nips16/README.md)
+- [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/chebnet_nips16/README.md)
+- [Diffusion-Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/dcnn_nips16/README.md)
+- [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/commnet_nips16/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # ICLR 2016
-- [Gated Graph Sequence Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ggnn_iclr16/README.md)
+- [Gated Graph Sequence Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/ggnn_iclr16/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # ICML 2016
-- [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gcn_icml16/README.md)
+- [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_icml16/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # CAMD 2016
-- [Molecular graph convolutions: moving beyond fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/molecular_gcn_2016/README.md)
+- [Molecular graph convolutions: moving beyond fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/molecular_gcn_2016/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # NIPS 2015
-- [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/graphcnn_nips15/README.md)
+- [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_nips15/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # ICLR 2014
-- [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/graphcnn_iclr14/README.md)
+- [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_iclr14/README.md)
 
 ## -----------------------------------------------------------------------------
 
