@@ -10,7 +10,6 @@
 - [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/attnpath_emnlp19/README.md)
 - [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kecg_emnlp19/README.md)
 - [Jointly Learning Entity and Relation Representations for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/hgcn_emnlp19/README.md)
-- [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/lexicon_emnlp19/README.md)
 - [Machine Reading Comprehension Using Structural Knowledge Graph-aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/skgn_emnlp19/README.md)
 
 
@@ -50,4 +49,5 @@
 # Miscellaneous
 - [You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/lingat_emnlp19/README.md)
 - [Event Detection with Multi-Order Graph Convolution and Aggregated Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/moganed_emnlp19/README.md)
+- [Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/lexicon_emnlp19/README.md)
 - [A Lexicon-Based Graph Neural Network for Chinese NER](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/lgn_emnlp19/README.md)
