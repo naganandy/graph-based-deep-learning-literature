@@ -190,7 +190,7 @@
 ## -----------------------------------------------------------------------------
 
 
-# [KDD 2019 (Aug)](https://www.kdd.org/kdd2019/accepted-papers)
+# [KDD 2019 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/README.md)
 - [Stability and Generalization of Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/sgb_kdd19/README.md)
 - [Representation Learning for Attributed Multiplex Heterogeneous Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/gatne_kdd19/README.md)
 - [Graph Convolutional Networks with EigenPooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/eigengcn_kdd19/README.md)
