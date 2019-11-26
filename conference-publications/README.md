@@ -286,7 +286,7 @@
 
 ## -----------------------------------------------------------------------------
 
- # [ACL 2019 (Jul)](http://www.acl2019.org/EN/program/papers.xhtml)
+ # [ACL 2019 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/README.md)
 - [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/wordgcn_acl19/README.md)
 - [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/kgat_acl19/README.md)
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/paperrobot_acl19/README.md)
