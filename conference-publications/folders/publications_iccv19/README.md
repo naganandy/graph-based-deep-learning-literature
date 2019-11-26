@@ -20,6 +20,12 @@
 
 
 
+# Few Shot Learning
+- [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mne_iccv19/README.md)
+- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
+
+
+
 # Matching
 - [Learning Combinatorial Embedding Networks for Deep Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/picagm_iccv19/README.md)
 - [Deep Graphical Feature Learning for the Feature Matching Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/fmpgnn_iccv19/README.md)
@@ -42,10 +48,8 @@
 
 # Miscellaneous
 - [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/deepgcn_iccv19/README.md)
-- [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mne_iccv19/README.md)
 - [Hierarchy Parsing for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/hip_iccv19/README.md)
 - [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/ssgrl_iccv19/README.md)
-- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
 - [Dynamic Graph Attention for Referring Expression Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/dga_iccv19/README.md)
 - [Mixture-Kernel Graph Attention Network for Situation Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mixkergat_iccv19/README.md)
 - [Relational Attention Network for Crowd Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/ranet_iccv19/README.md)
