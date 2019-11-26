@@ -20,12 +20,6 @@
 
 
 
-# Semantic Segmentation
-- [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/hpein_iccv19/README.md)
-- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
-
-
-
 # Spatio-Temporal Dependencies
 - [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/vacation_iccv19/README.md)
 - [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/st3dpegcn_iccv19/README.md)
@@ -35,6 +29,7 @@
 
 # Point Clouds
 - [GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/gxc_iccv19/README.md)
+- [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/hpein_iccv19/README.md)
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/treegan_iccv19/README.md)
 
 
@@ -46,6 +41,7 @@
 - [Language-Conditioned Graph Networks for Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/lcgn_iccv19/README.md)
 - [Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/ssgrl_iccv19/README.md)
 - [G3raphGround: Graph-Based Language Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/g3raphground_iccv19/README.md)
+- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
 - [Dynamic Graph Attention for Referring Expression Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/dga_iccv19/README.md)
 - [Mixture-Kernel Graph Attention Network for Situation Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mixkergat_iccv19/README.md)
 - [Relational Attention Network for Crowd Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/ranet_iccv19/README.md)
