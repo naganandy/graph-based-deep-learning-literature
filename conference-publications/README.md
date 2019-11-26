@@ -96,7 +96,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [ICCV 2019 (Nov)](http://iccv2019.thecvf.com/program/main_conference)
+# [ICCV 2019 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/README.md)
 - [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/deepgcn_iccv19/README.md)
 - [From Strings to Things: Knowledge-Enabled VQA Model That Can Read and Reason](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/textkvqa_iccv19/README.md)
 - [Relation-Aware Graph Attention Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/regat_iccv19/README.md)
