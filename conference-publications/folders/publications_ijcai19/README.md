@@ -41,6 +41,7 @@
 - [Heterogeneous Graph Matching Networks for Unknown Malware Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//matchgnet_ijcai19/README.md)
 - [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgat_ijcai19/README.md)
 - [Hierarchical Representation Learning for Bipartite Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bihgnn_ijcai19/README.md)
+- [Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//pgcn_ijcai19/README.md)
 
 
 
@@ -80,7 +81,6 @@
 - [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gbert_ijcai19/README.md)
 - [CensNet: Convolution with Edge-Node Switching in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//censnet_ijcai19/README.md)
 - [AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//addgraph_ijcai19/README.md)
-- [Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//pgcn_ijcai19/README.md)
 - [Graph Convolutional Network Hashing for Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gch_ijcai19/README.md)
 - [Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//star_ijcai19/README.md)
 - [Risk Assessment for Networked-guarantee Loans Using High-order Graph Attention Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgar_ijcai19/README.md)
