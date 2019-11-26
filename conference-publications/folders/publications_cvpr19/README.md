@@ -9,11 +9,15 @@
 
 
 
+# Few Shot Learning
+- [Edge-Labeling Graph Neural Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/fsegnn_cvpr19/README.md)
+- [Generating Classification Weights with Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/wdaegnn_cvpr19/README.md)
+
+
+
 # Miscellaneous
 - [Multi-label Image Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/mlgcn_cvpr19/README.md)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/dgp_cvpr19/README.md)
-- [Edge-Labeling Graph Neural Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/fsegnn_cvpr19/README.md)
-- [Generating Classification Weights with Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/wdaegnn_cvpr19/README.md)
 - [Explainability Methods for Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/explainability_cvpr19/README.md)
 - [Factor Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/fga_cvpr19/README.md)
 - [GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gcan_cvpr19/README.md)
