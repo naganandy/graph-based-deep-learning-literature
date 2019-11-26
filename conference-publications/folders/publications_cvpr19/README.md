@@ -33,6 +33,7 @@
  - [An End-to-End Network for Generating Social Relationship Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/srggn_cvpr19/README.md)
  - [Learning Actor Relation Graphs for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/arg_cvpr19/README.md)
 - [Learning Context Graph for Person Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/reidgcn_cvpr19/README.md)
+- [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/graphonomy_cvpr19/README.md)
 
 
 
@@ -75,7 +76,6 @@
 - [Convolutional Mesh Regression for Single-Image Human Shape Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/graphcmr_cvpr19/README.md)
  - [Semantic Graph Convolutional Networks for 3D Human Pose Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/semgcn_cvpr19/README.md)
 - [Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/ntg_cvpr19/README.md)
-- [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/graphonomy_cvpr19/README.md)
 - [Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/onet_cvpr19/README.md)
 - [MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/man_cvpr19/README.md)
 - [Context-Aware Visual Compatibility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/cpgcn_cvpr19/README.md)
