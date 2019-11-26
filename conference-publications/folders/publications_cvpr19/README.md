@@ -27,6 +27,7 @@
 - [Knowledge-Embedded Routing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/kern_cvpr19/README.md)
 - [Auto-Encoding Scene Graphs for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/sgae_cvpr19/README.md)
  - [An End-to-End Network for Generating Social Relationship Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/srggn_cvpr19/README.md)
+ - [Learning Actor Relation Graphs for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/arg_cvpr19/README.md)
 
 
 
@@ -63,7 +64,6 @@
 - [Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/mangonet_cvpr19/README.md)
 - [Exploiting Edge Features for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/egnn_cvpr19/README.md)
 - [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/adgcn_cvpr19/README.md)
- - [Learning Actor Relation Graphs for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/arg_cvpr19/README.md)
  - [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/abc_cvpr19/README.md)
  - [Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/lgran_cvpr19/README.md)
 - [Fast Interactive Object Annotation with Curve-GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/curvegcn_cvpr19/README.md) 
