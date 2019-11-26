@@ -20,6 +20,25 @@
 
 
 
+# Semantic Segmentation
+- [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/hpein_iccv19/README.md)
+- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
+
+
+
+# Spatio-Temporal Dependencies
+- [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/vacation_iccv19/README.md)
+- [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/st3dpegcn_iccv19/README.md)
+- [STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/stgat_iccv19/README.md)
+
+
+
+# Point Clouds
+- [GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/gxc_iccv19/README.md)
+- [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/treegan_iccv19/README.md)
+
+
+
 # Miscellaneous
 - [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/deepgcn_iccv19/README.md)
 - [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mne_iccv19/README.md)
@@ -35,13 +54,6 @@
 - [Graph-Based Object Classification for Neuromorphic Vision Sensing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/nvs2graph_iccv19/README.md)
 - [Zero-shot Video Object Segmentation via Attentive Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/agnn_iccv19/README.md)
 - [Learning Trajectory Dependencies for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/learntrajdep_iccv19/README.md)
-- [Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/hpein_iccv19/README.md)
-- [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
 - [Graph Convolutional Networks for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgcn_iccv19/README.md)
 - [Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/grnet_iccv19/README.md)
 - [Neural 3D Morphable Models: Spiral Convolutional Networks for 3D Shape Representation Learning and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/neural3dmm/README.md)
-- [GraphX-Convolution for Point Cloud Deformation in 2D-to-3D Conversion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/gxc_iccv19/README.md)
-- [Understanding Human Gaze Communication by Spatio-Temporal Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/vacation_iccv19/README.md)
-- [Exploiting spatial-temporal relationships for 3d pose estimation via graph convolutional networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/st3dpegcn_iccv19/README.md)
-- [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/treegan_iccv19/README.md)
-- [STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/stgat_iccv19/README.md)
