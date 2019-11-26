@@ -25,22 +25,34 @@
 
 
 
+# Robustness
+- [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/rgcn_kdd19/README.md)
+- [Certifiable Robustness and Robust Training for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/rhu_kdd19/README.md)
+
+
+
+# Heterogeneous Graphs
+- [HetGNN: Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/hetgnn_kdd19/README.md)
+- [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/oag_kdd19/README.md)
+
+
+
+# Temporal Dependencies
+- [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/jodie_cvpr19/README.md)
+- [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/sape_kdd19/README.md)
+
+
+
 # Miscellaneous
 - [Graph Convolutional Networks with EigenPooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/eigengcn_kdd19/README.md)
 - [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/clustergcn_kdd19/README.md)
 - [Exact-K Recommendation via Maximal Clique Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/gatmco_kdd19/README.md)
-- [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/jodie_cvpr19/README.md)
-- [Robust Graph Convolutional Networks Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/rgcn_kdd19/README.md)
-- [Certifiable Robustness and Robust Training for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/rhu_kdd19/README.md)
-- [HetGNN: Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/hetgnn_kdd19/README.md)
 - [Graph Representation Learning via Hard and Channel-Wise Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/hganet_kdd19/README.md)
 - [Conditional Random Field Enhanced Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/crfgcn_kdd19/README.md)
 - [Learning Dynamic Context Graphs for Predicting Social Events](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/dynamicgcn_kdd19/README.md)
-- [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/oag_kdd19/README.md)
 - [Graph Transformation Policy Network for Chemical Reaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/gtpn_kdd19/README.md)
 - [GCN-MF: Disease-Gene Association Identification By Graph Convolutional Networks and Matrix Factorzation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/gcnmf_kdd19/README.md)
 - [Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/geml_kdd19/README.md)
 - [AutoNRL: Hyperparameter Optimization for Massive Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/autonrl_kdd19/README.md)
-- [Predicting Path Failure In Time-Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/sape_kdd19/README.md)
 - [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/tgcnl_kdd19/README.md)
 - [Automating Feature Subspace Exploration via Multi-Agent Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/marlfs_kdd19/README.md)
