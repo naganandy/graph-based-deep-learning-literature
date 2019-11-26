@@ -42,6 +42,7 @@
 - [Semi-supervised User Profiling with Heterogeneous Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//hgat_ijcai19/README.md)
 - [Hierarchical Representation Learning for Bipartite Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//bihgnn_ijcai19/README.md)
 - [Learning Shared Vertex Representation in Heterogeneous Graphs with Convolutional Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//pgcn_ijcai19/README.md)
+ - [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ppgcn_ijcai19/README.md)
 
 
 
@@ -60,7 +61,6 @@
 
 # Natural Language Processing
  - [GSN: A Graph-Structured Network for Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gsn_ijcai19/README.md)
- - [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//ppgcn_ijcai19/README.md)
 - [Graph-based Neural Sentence Ordering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//nseg_ijcai19/README.md)
 
 
