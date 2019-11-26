@@ -68,12 +68,13 @@
 # Temporal Dependencies
 - [AddGraph: Anomaly Detection in Dynamic Graph using Attention-based Temporal GCN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//addgraph_ijcai19/README.md)
 - [Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//star_ijcai19/README.md)
+- [Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//tsgnet_ijcai19/README.md)
+
 
 
 # Edge Features
 - [CensNet: Convolution with Edge-Node Switching in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//censnet_ijcai19/README.md)
 - [GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//gcnlase_ijcai19/README.md)
-- [Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19//tsgnet_ijcai19/README.md)
 
 
 
