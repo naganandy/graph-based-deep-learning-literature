@@ -171,11 +171,10 @@
 
 
 # Graph Matching
-- [Hierarchical Graph Matching Networks for Deep Graph Similarity Learning](https://openreview.net/forum?id=rkeqn1rtDH)
-- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)
-- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)
-- [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
-
+- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)*
+- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)^
+- [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)^
+- [Hierarchical Graph Matching Networks for Deep Graph Similarity Learning](https://openreview.net/forum?id=rkeqn1rtDH)^
 
 
 
