@@ -110,19 +110,19 @@
 
 # Molecular graphs
 - [Directional Message Passing for Molecular Graphs](https://openreview.net/forum?id=B1eWbxStPH)*
-- [Hierarchical Graph-to-Graph Translation for Molecules](https://openreview.net/forum?id=rJeeKTNKDB)
-- [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
-- [A Generative Model for Molecular Distance Geometry](https://openreview.net/forum?id=S1x1IkHtPr)
-- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr)
-- [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)
-- [Molecular Graph Enhanced Transformer for Retrosynthesis Prediction](https://openreview.net/forum?id=S1e__ANKvB)
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr)*
+- [Hierarchical Graph-to-Graph Translation for Molecules](https://openreview.net/forum?id=rJeeKTNKDB)^
+- [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)^
+- [A Generative Model for Molecular Distance Geometry](https://openreview.net/forum?id=S1x1IkHtPr)^
+- [Towards Interpretable Molecular Graph Representation Learning](https://openreview.net/forum?id=HyljY04YDB)^
+- [GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks](https://openreview.net/forum?id=H1eNleBYwr)^
+- [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)^
 - [GraphNVP: an Invertible Flow-based Model for Generating Molecular Graphs](https://openreview.net/forum?id=ryxQ6T4YwB)
 - [Graph Residual Flow for Molecular Graph Generation](https://openreview.net/forum?id=SyepHTNFDS)
-- [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
-- [Graph Warp Module: an Auxiliary Module for Boosting the Power of Graph Neural Networks in Molecular Graph Analysis](https://openreview.net/forum?id=S1l66nNFvB)
 - [Empowering Graph Representation Learning with Paired Training and Graph Co-Attention](https://openreview.net/forum?id=BJeRykBKDH)
-- [GENN: Predicting Correlated Drug-drug Interactions with Graph Energy Neural Networks](https://openreview.net/forum?id=H1eNleBYwr)
-- [GraphQA: Protein Model Quality Assessment using Graph Convolutional Network](https://openreview.net/forum?id=HyxgBerKwB)
+- [Molecule Property Prediction and Classification with Graph Hypernetworks](https://openreview.net/forum?id=SJgg_yHKvH)
+- [Target-directed Atomic Importance Estimation via Reverse Self-attention](https://openreview.net/forum?id=rJxilTNtDB)
+- [Molecular Graph Enhanced Transformer for Retrosynthesis Prediction](https://openreview.net/forum?id=S1e__ANKvB)
 
 
 
