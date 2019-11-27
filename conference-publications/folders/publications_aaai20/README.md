@@ -59,6 +59,7 @@
 - Few-Shot Knowledge Base Completion 
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Inducing Relational Knowledge from Pre-trained Language Models
+- End-to-End Argumentation Knowledge Graph Construction
 - Modelling Semantic Categories using Conceptual Neighborhood
 - A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
