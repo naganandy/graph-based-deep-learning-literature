@@ -11,6 +11,7 @@
 
 # Few-Shot Learning
 - [Knowledge Graph Transfer Network for Few-Shot Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtn_aaai20/README.md)
+- [Few-Shot Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fsrl_aaai20/README.md)
 - [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfl_aaai20/README.md)
 
 
@@ -59,7 +60,6 @@
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
-- Few-Shot Knowledge Base Completion 
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Inducing Relational Knowledge from Pre-trained Language Models
 - End-to-End Argumentation Knowledge Graph Construction
