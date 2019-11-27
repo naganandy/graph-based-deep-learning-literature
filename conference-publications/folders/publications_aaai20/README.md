@@ -52,6 +52,7 @@
 
 
 # Other
+- Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Few-Shot Knowledge Base Completion 
