@@ -88,8 +88,8 @@
 
 # Logic
 - [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)*
-- [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)
-- [PDP: A General Neural Framework for Learning SAT Solvers](https://openreview.net/forum?id=S1xaf6VFPB)
+- [PDP: A General Neural Framework for Learning SAT Solvers](https://openreview.net/forum?id=S1xaf6VFPB)^
+- [Graph Neural Networks for Reasoning 2-Quantified Boolean Formulas](https://openreview.net/forum?id=SJl28R4YPr)^
 - [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)
 
 
