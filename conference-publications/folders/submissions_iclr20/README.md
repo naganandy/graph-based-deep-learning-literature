@@ -212,10 +212,10 @@
 
 # Empirical Study
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)*
+- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)^
+- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)^
 - [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)^
 - [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)^
-- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)^
-- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)^
 - [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
 
 
