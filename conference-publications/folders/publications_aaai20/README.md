@@ -53,6 +53,7 @@
 
 
 # Other
+- Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Inducing Relational Knowledge from Pre-trained Language Models
 - Modelling Semantic Categories using Conceptual Neighborhood
 - A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models
@@ -60,3 +61,4 @@
 - Relation Extraction Exploiting Full Dependency Forests
 - Storytelling from an Image Stream using Scene Graphs
 - Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering
+- Control flow graph embedding based on multi-instance decomposition for bug localizatio
