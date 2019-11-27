@@ -52,7 +52,7 @@
 
 
 
-# Unknown
+# Other
 - Inducing Relational Knowledge from Pre-trained Language Models
 - Modelling Semantic Categories using Conceptual Neighborhood
 - A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models
