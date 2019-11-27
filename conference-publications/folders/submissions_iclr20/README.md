@@ -127,27 +127,26 @@
 
 
 # Miscellaneous
-- [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)*
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://openreview.net/forum?id=r1gelyrtwH)*
-- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)
-- [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
-- [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
-- [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)
-- [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
-- [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
-- [Multi-objective Neural Architecture Search via Predictive Network Performance Optimization](https://openreview.net/forum?id=rJgffkSFPS&noteId=BJxK3oT85B)
-- [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)
+- [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)*
+- [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)*
+- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)*
+- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)^
+- [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)^
+- [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)^
+- [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)^
+- [Multi-objective Neural Architecture Search via Predictive Network Performance Optimization](https://openreview.net/forum?id=rJgffkSFPS&noteId=BJxK3oT85B)^
+- [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)^
+- [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)^
+- [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)^
+- [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)^
+- [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)^
+- [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)^
+- [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)^
 - [Continuous Graph Flow](https://openreview.net/forum?id=BkgZSCEtvr)
-- [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)
 - [Multi-task Network Embedding with Adaptive Loss Weighting](https://openreview.net/forum?id=rkgTKerYwr)
-- [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)
-- [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
-- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)
-- [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
 - [ProxNet: End-to-End Learning of Structured Representation by Proximal Mapping](https://openreview.net/forum?id=H1edV6VKvS)
-- [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
-
 
 
 
