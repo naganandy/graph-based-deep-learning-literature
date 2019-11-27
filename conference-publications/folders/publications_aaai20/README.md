@@ -62,6 +62,7 @@
 - Modelling Semantic Categories using Conceptual Neighborhood
 - A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
+- Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Relation Extraction Exploiting Full Dependency Forests
 - Storytelling from an Image Stream using Scene Graphs
 - Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering
