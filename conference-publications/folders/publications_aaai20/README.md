@@ -52,6 +52,7 @@
 
 
 # Other
+- Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
