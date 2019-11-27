@@ -37,11 +37,11 @@
 
 
 # Multi-relational graphs
+- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)*
+- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)*
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)*
 - [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://openreview.net/forum?id=BygZK2VYvB)^
-- [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)
-- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
-- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
+- [Recurrent Event Network : Global Structure Inference Over Temporal Knowledge Graph](https://openreview.net/forum?id=SyeyF0VtDr)^
 
 
 
