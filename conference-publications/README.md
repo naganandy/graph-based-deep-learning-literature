@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary> 
 
+- [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
 - [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnnplanner_aaai20/README.md)
 - [Hierarchical Graph Pooling with Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hgpsl_aaai20/README.md)
