@@ -79,11 +79,11 @@
 
 
 
-
 # Temporal Graphs
 - [Inductive representation learning on temporal graphs](https://openreview.net/forum?id=rJeW1yHYwH)*
 - [Deep Interaction Processes for Time-Evolving Graphs](https://openreview.net/forum?id=HyxWteSFwS)
 - [CGT: Clustered Graph Transformer for Urban Spatio-temporal Prediction](https://openreview.net/forum?id=H1eJAANtvr)
+
 
 
 # Logic
@@ -179,9 +179,9 @@
 
 
 # Dynamic Graphs
-- [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
+- [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)^
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
-- [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
+- [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 
 
 
