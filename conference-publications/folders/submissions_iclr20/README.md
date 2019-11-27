@@ -170,12 +170,6 @@
 
 
 
-# Natural Language Processing
-- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://openreview.net/forum?id=rkgi6JSYvB)
-- [Conversation Generation with Concept Flow](https://openreview.net/forum?id=B1lOzpVtDB)
-
-
-
 # Graph Matching
 - [Hierarchical Graph Matching Networks for Deep Graph Similarity Learning](https://openreview.net/forum?id=rkeqn1rtDH)
 - [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)
@@ -237,3 +231,9 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
+
+
+
+# Natural Language Processing
+- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://openreview.net/forum?id=rkgi6JSYvB)
+- [Conversation Generation with Concept Flow](https://openreview.net/forum?id=B1lOzpVtDB)
