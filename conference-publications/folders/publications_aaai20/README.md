@@ -32,7 +32,6 @@
 - [Multi-Label Classification with Label Graph Superimposing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kssnet_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
-- Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 
 
 # Traffic
@@ -53,6 +52,9 @@
 
 
 # Other
+- Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
+- Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
+- Few-Shot Knowledge Base Completion 
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Inducing Relational Knowledge from Pre-trained Language Models
 - Modelling Semantic Categories using Conceptual Neighborhood
