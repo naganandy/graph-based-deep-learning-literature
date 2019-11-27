@@ -193,20 +193,20 @@
 
 
 # Graph Pooling
+- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)*
+- [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)*
+- [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)^
+- [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)^
+- [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)^
+- [HaarPooling: Graph Pooling with Compressive Haar Basis](https://openreview.net/forum?id=BJleph4KvS)^
+- [Topology-Aware Pooling via Graph Attention](https://openreview.net/forum?id=H1l-02VKPB)^
+- [IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification](https://openreview.net/forum?id=rylvAA4YDB)^
+- [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)^
+- [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)^
 - [MxPool: Multiplex Pooling for Hierarchical Graph Representation Learning](https://openreview.net/forum?id=rke3U6NtwH)
-- [GRAPH ANALYSIS AND GRAPH POOLING IN THE SPATIAL DOMAIN](https://openreview.net/forum?id=r1eQeCEYwB)
-- [GRAPH NEIGHBORHOOD ATTENTIVE POOLING](https://openreview.net/forum?id=BkeqATVYwr)
-- [Topology-Aware Pooling via Graph Attention](https://openreview.net/forum?id=H1l-02VKPB)
-- [HaarPooling: Graph Pooling with Compressive Haar Basis](https://openreview.net/forum?id=BJleph4KvS)
-- [Fully Convolutional Graph Neural Networks using Bipartite Graph Convolutions](https://openreview.net/forum?id=H1gWyJBFDr)
-- [Mincut Pooling in Graph Neural Networks](https://openreview.net/forum?id=BkxfshNYwB)
-- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)
-- [IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification](https://openreview.net/forum?id=rylvAA4YDB)
 - [Unsupervised Universal Self-Attention Network for Graph Classification](https://openreview.net/forum?id=HJeLBpEFPB)
-- [Unsupervised Hierarchical Graph Representation Learning with Variational Bayes](https://openreview.net/forum?id=BkgGJlBFPS)
-- [Subgraph Attention for Node Classification and Hierarchical Graph Pooling](https://openreview.net/forum?id=H1e552VKPr)
-- [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://openreview.net/forum?id=Bkf4XgrKvS)
-- [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)
+- [GRAPH NEIGHBORHOOD ATTENTIVE POOLING](https://openreview.net/forum?id=BkeqATVYwr)
+- [Fully Convolutional Graph Neural Networks using Bipartite Graph Convolutions](https://openreview.net/forum?id=H1gWyJBFDr)
 
 
 
