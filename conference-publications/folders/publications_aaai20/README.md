@@ -51,7 +51,9 @@
 
 
 
-# Other
+<details> 
+<summary> more </summary> 
+  
 - Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
@@ -67,4 +69,7 @@
 - Relation Extraction Exploiting Full Dependency Forests
 - Storytelling from an Image Stream using Scene Graphs
 - Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering
-- Control flow graph embedding based on multi-instance decomposition for bug localizatio
+- Control flow graph embedding based on multi-instance decomposition for bug localization
+
+</details>
+
