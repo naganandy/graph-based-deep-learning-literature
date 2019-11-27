@@ -457,7 +457,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# [ICLR 2019 (May)](https://openreview.net/group?id=ICLR.cc/2019/Conference)
+# [ICLR 2019 (May)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/README.md)
 - [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/gin_iclr19/README.md)
 - [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/dgi_iclr19/README.md)
 - [Supervised Community Detection with Line Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/lgnn_iclr19/README.md)
