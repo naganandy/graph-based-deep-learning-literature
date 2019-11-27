@@ -150,6 +150,12 @@
 
 
 
+# Hypergraphs
+- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)*
+- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
+
+
+
 # Subgraph-Aware Representations
 - [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
 - [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)
@@ -176,11 +182,6 @@
 - [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)
 - [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
 
-
-
-# Hypergraphs
-- [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
-- [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)
 
 
 
