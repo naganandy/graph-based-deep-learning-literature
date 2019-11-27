@@ -194,7 +194,7 @@
 
 
 # Attacks
-- [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)
+- [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)^
 - [Power up! Robust Graph Convolutional Network based on Graph Powering](https://openreview.net/forum?id=BkxDxJHFDr)
 
 
