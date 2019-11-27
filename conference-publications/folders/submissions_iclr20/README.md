@@ -150,16 +150,16 @@
 
 
 
+# Subgraph-Aware Representations
+- [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)*
+- [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)^
+- [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)^
+
+
+
 # Hypergraphs
 - [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)*
 - [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
-
-
-
-# Subgraph-Aware Representations
-- [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
-- [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)
-- [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)
 
 
 
