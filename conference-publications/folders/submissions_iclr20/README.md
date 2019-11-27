@@ -150,6 +150,14 @@
 
 
 
+
+# Programs
+- [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)*
+- [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)*
+- [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)^
+
+
+
 # Subgraph-Aware Representations
 - [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)*
 - [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)^
@@ -160,13 +168,6 @@
 # Hypergraphs
 - [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://openreview.net/forum?id=ryeHuJBtPH)*
 - [Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs](https://openreview.net/forum?id=ryestJBKPB)
-
-
-
-# Computer Vision
-- [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)^
-- [Global reasoning network for image super-resolution](https://openreview.net/forum?id=S1gE6TEYDB)
-- [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
 
 
 
@@ -182,13 +183,6 @@
 - [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)^
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
-
-
-
-# Programs
-- [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)
-- [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)
-- [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)
 
 
 
@@ -230,6 +224,13 @@
 - [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)^
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
+
+
+
+# Computer Vision
+- [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)^
+- [Global reasoning network for image super-resolution](https://openreview.net/forum?id=S1gE6TEYDB)
+- [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
 
 
 
