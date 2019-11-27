@@ -15,16 +15,6 @@
 
 
 
-# Fast Training
-- [Fast and Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/publications_aaai20/fdgnn_aaai20/README.md)
-
-
-
-# Network Embedding
-- [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
-
-
-
 # Natural Language Processing
 - [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/alinet_aaai20/README.md)
@@ -40,11 +30,6 @@
 
 
 
-# Logic
-- [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
-
-
-
 # Traffic
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/share_aaai20/README.md)
@@ -52,6 +37,10 @@
 
 
 # Miscellaneous
+- [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
+- [Fast and Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/publications_aaai20/fdgnn_aaai20/README.md)
+- [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
+- [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
 - [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnnplanner_aaai20/README.md)
 - [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/g2anet_aaai20/README.md)
 - [Graph-Driven Generative Models for Heterogeneous Multi-Task Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gdvae_aaai20/README.md)
