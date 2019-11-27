@@ -143,10 +143,10 @@
 
 
 # [ICDM 2019 (Nov)](http://39.104.72.142:8080/icdm2019/index.php/list-of-accepted-papers/)
-- [Domain-Adversarial Graph Neural Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dagnn_icdm19/README.md)
-- [Neural Embedding Propagation on Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nep_icdm19/README.md)
-- [Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/necdgt_icdm19/README.md)
-- [DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dyngraph2seq_icdm19/README.md)
+- [Domain-Adversarial Graph Neural Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/dagnn_icdm19/README.md)
+- [Neural Embedding Propagation on Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/nep_icdm19/README.md)
+- [Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/necdgt_icdm19/README.md)
+- [DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/dyngraph2seq_icdm19/README.md)
 - Dataset Recommendation via Variational Graph Autoencoder	
 - A Semi-supervised Graph Attentive Network for Fraud Detection	
 - Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network	
@@ -332,8 +332,8 @@
 
 
 # [UAI 2019 (Jul)](http://auai.org/uai2019/schedule.php)
-- [Fisher-Bures Adversary Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/fishergcn_uai19/README.md)
-- [N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngcn_uai19/README.md)
+- [Fisher-Bures Adversary Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/fishergcn_uai19/README.md)
+- [N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/ngcn_uai19/README.md)
 
 ## -----------------------------------------------------------------------------
 
@@ -444,62 +444,62 @@
 ## -----------------------------------------------------------------------------
 
 # [WWW 2019 (May)](https://www2019.thewebconf.org/accepted-papers)
-- [Heterogeneous Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/han_www19/README.md)
-- [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sealcai_www19/README.md)
-- [DDGK: Learning Graph Representations via Deep Divergence Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ddgk_www19/README.md)
-- [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gpool_www19/README.md)
-- [Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gs2a_www19/README.md)
-- [Knowledge Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/kgcn_www19/README.md)
-- [Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/splitter_www19/README.md)
-- [Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/danser_www19/README.md)
-- [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphrec_www19/README.md)
-- [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ngnn_www19/README.md)
+- [Heterogeneous Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/han_www19/README.md)
+- [Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/sealcai_www19/README.md)
+- [DDGK: Learning Graph Representations via Deep Divergence Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/ddgk_www19/README.md)
+- [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/gpool_www19/README.md)
+- [Inferring Search Queries from Web Documents via a Graph-Augmented Sequence to Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/gs2a_www19/README.md)
+- [Knowledge Graph Convolutional Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/kgcn_www19/README.md)
+- [Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/splitter_www19/README.md)
+- [Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/danser_www19/README.md)
+- [Graph Neural Networks for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/graphrec_www19/README.md)
+- [Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/ngnn_www19/README.md)
 
 ## -----------------------------------------------------------------------------
 
 # [ICLR 2019 (May)](https://openreview.net/group?id=ICLR.cc/2019/Conference)
-- [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gin_iclr19/README.md)
-- [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dgi_iclr19/README.md)
-- [Supervised Community Detection with Line Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lgnn_iclr19/README.md)
-- [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lanczosnet_iclr19/README.md)
-- [Diffusion Scattering Transforms on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dst_iclr19/README.md)
-- [Invariant and Equivariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/iegn_iclr19/README.md)
-- [DyReP: Learning Representations over Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dyrep_iclr19/README.md)
-- [Capsule Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/capsgnn_19/README.md)
-- [Graph Wavelet Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gwnn_iclr19/README.md)
-- [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/mettack_iclr19/README.md)
+- [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/gin_iclr19/README.md)
+- [Deep Graph Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/dgi_iclr19/README.md)
+- [Supervised Community Detection with Line Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/lgnn_iclr19/README.md)
+- [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/lanczosnet_iclr19/README.md)
+- [Diffusion Scattering Transforms on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/dst_iclr19/README.md)
+- [Invariant and Equivariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/iegn_iclr19/README.md)
+- [DyReP: Learning Representations over Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/dyrep_iclr19/README.md)
+- [Capsule Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/capsgnn_19/README.md)
+- [Graph Wavelet Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/gwnn_iclr19/README.md)
+- [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/mettack_iclr19/README.md)
 
 
 <details> 
 <summary> more </summary> 
  
-- [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ppnp_iclr19/README.md)
-- [Generative Code Modeling with Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcm_iclr19/README.md)
-- [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/vjtnn_iclr19/README.md)
-- [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/ghn_iclr19/README.md)
-- [A generative model for electron paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/electro_iclr19/README.md)
-- [Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/svae_iclr19/README.md)
-- [PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/peernets_iclr19/README.md)
-- [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/han_iclr19/README.md)
-- [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/nge_iclr19/README.md)
-- [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/sns_iclr19/README.md)
+- [Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/ppnp_iclr19/README.md)
+- [Generative Code Modeling with Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/gcm_iclr19/README.md)
+- [Learning Multimodal Graph-to-Graph Translation for Molecule Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/vjtnn_iclr19/README.md)
+- [Graph HyperNetworks for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/ghn_iclr19/README.md)
+- [A generative model for electron paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/electro_iclr19/README.md)
+- [Differentiable Perturb-and-Parse: Semi-Supervised Parsing with a Structured Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/svae_iclr19/README.md)
+- [PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/peernets_iclr19/README.md)
+- [Hyperbolic Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/han_iclr19/README.md)
+- [Neural Graph Evolution: Automatic Robot Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/nge_iclr19/README.md)
+- [Structured Neural Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/sns_iclr19/README.md)
 
-</details> 
+</details>
 
 
 ## -----------------------------------------------------------------------------
 
 # [ICDE 2019 (Apr)](http://conferences.cis.umac.mo/icde2019/?page_id=516)
-- [Exploiting Centrality Information with Graph Convolutions for Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcsc_icde19/README.md)
-- [Stochastic Weight Completion for Road Networks using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcwc_icde19/README.md)
+- [Exploiting Centrality Information with Graph Convolutions for Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/graphcsc_icde19/README.md)
+- [Stochastic Weight Completion for Road Networks using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/gcwc_icde19/README.md)
 
 
 ## -----------------------------------------------------------------------------
 
 # [AISTATS 2019 (Apr)](https://www.aistats.org/accepted.html)
-- [Confidence-based Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/confgcn_aistats19/README.md)
-- [Lovász Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lcn_aistats19/README.md)
-- [Amortized Variational Inference with Graph Convolutional Networks for Gaussian Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcngp_aistats19/README.md)
+- [Confidence-based Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/confgcn_aistats19/README.md)
+- [Lovász Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/lcn_aistats19/README.md)
+- [Amortized Variational Inference with Graph Convolutional Networks for Gaussian Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/gcngp_aistats19/README.md)
 
 
 ## -----------------------------------------------------------------------------
