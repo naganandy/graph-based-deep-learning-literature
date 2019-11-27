@@ -27,11 +27,11 @@
 # Efficient Training
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/forum?id=BJe8pkHFwS)*
 - [Strategies for Pre-training Graph Neural Networks](https://openreview.net/forum?id=HJlWWJSFDH)*
+- [Robust Graph Representation Learning via Neural Sparsification](https://openreview.net/forum?id=S1emOTNKvS)^
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://openreview.net/forum?id=H1eF3kStPS)^
 - [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://openreview.net/forum?id=BklXkCNYDB)^
-- [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)
+- [Chordal-GCN: Exploiting sparsity in training large-scale graph convolutional networks](https://openreview.net/forum?id=rJl05AVtwB)^
 - [Diagonal Graph Convolutional Networks with Adaptive Neighborhood Aggregation](https://openreview.net/forum?id=SkezP1HYvS)
-- [Robust Graph Representation Learning via Neural Sparsification](https://openreview.net/forum?id=S1emOTNKvS)
 - [A bi-diffusion based layer-wise sampling method for deep learning in large graphs](https://openreview.net/forum?id=B1xRGkHYDS)
 
 
