@@ -96,15 +96,15 @@
 
 # Reinforcement Learning
 - [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)*
-- [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
-- [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)
-- [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)
-- [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
-- [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)
-- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)
-- [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)
+- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)*
+- [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)*
+- [Improving SAT Solver Heuristics with Graph Networks and Reinforcement Learning](https://openreview.net/forum?id=B1lCn64tvS)^
+- [GDP: Generalized Device Placement for Dataflow Graphs](https://openreview.net/forum?id=SkxW23NtPH)^
+- [Learning Structured Communication for Multi-agent Reinforcement Learning](https://openreview.net/forum?id=BklWt24tvH)^
 - [Towards Scalable Imitation Learning for Multi-Agent Systems with Graph Neural Networks](https://openreview.net/forum?id=HJeANgBYwr)
 - [Structural Multi-agent Learning](https://openreview.net/forum?id=SklEs2EYvS)
+- [Policy Message Passing: A New Algorithm for Probabilistic Graph Inference](https://openreview.net/forum?id=rklxF0NtDr)
+- [Graph-based motion planning networks](https://openreview.net/forum?id=HkxLiJSKwB)
 
 
 
