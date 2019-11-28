@@ -38,7 +38,7 @@
 # Traffic
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/share_aaai20/README.md)
-
+- [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrabgcn_aaai20/README.md)
 
 
 # Miscellaneous
