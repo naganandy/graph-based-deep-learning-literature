@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
 - [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
