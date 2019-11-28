@@ -1,7 +1,7 @@
 # DAG-GNN: DAG Structure Learning with Graph Neural Networks
 
 ```
-@InProceedings{daggnn_icml19,
+@inproceedings{daggnn_icml19,
   title = 	 {{DAG}-{GNN}: {DAG} Structure Learning with Graph Neural Networks},
   author = 	 {Yu, Yue and Chen, Jie and Gao, Tian and Yu, Mo},
   booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning (ICML)},
