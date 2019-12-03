@@ -15,7 +15,7 @@ author={Caglar Gulcehre and
         Adam Santoro and
         Nando de Freitas},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}
 }
 ```
 
