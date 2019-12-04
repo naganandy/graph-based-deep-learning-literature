@@ -48,7 +48,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 
 # Top 10 most cited publications
-1. ### [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gcn_iclr17/README.md)
+1. ### [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_iclr17/README.md)
 1. ### [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/chebnet_nips16/README.md)
 1. ### [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphcnn_iclr14/README.md)
 1. ### [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphsage_nips17/README.md)
