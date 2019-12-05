@@ -35,17 +35,23 @@
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
 
 
+
+# Dynamic Graphs
+- [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
+- [Dynamic Graph Representation for Partially Occluded Biometrics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgr_aaai20/README.md)
+
+
+
 # Traffic
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/share_aaai20/README.md)
 - [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrabgcn_aaai20/README.md)
 
 
+
 # Miscellaneous
 - [Independence Promoted Graph Disentangled Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ipgdn_aaai20/README.md)
 - [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
-- [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
-- [Dynamic Graph Representation for Partially Occluded Biometrics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgr_aaai20/README.md)
 - [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
 - [Fast and Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/publications_aaai20/fdgnn_aaai20/README.md)
 - [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
