@@ -87,6 +87,7 @@
 - [Generative Models for Graph-Based Protein Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/progen_neurips19/README.md)
 - [Connective Cognition Network for Directional Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/ccn_neurips19/README.md)
 - [Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/hgl_neurips19/README.md)
+- [Guided Similarity Separation for Image Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/gss_neurips19/README.md)
 - [Adaptive GNN for Image Analysis and Editing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/qiagnn_neurips19/README.md)
 - [Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/mlcr_neurips19/README.md)
 - [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/pastegan_neurips19/README.md)
