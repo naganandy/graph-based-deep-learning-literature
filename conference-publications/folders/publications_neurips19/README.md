@@ -51,6 +51,7 @@
 # Computer Vision
 - [Heterogeneous Graph Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/hgl_neurips19/README.md)
 - [Connective Cognition Network for Directional Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/ccn_neurips19/README.md)
+- [Guided Similarity Separation for Image Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/gss_neurips19/README.md)
 - [Adaptive GNN for Image Analysis and Editing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/qiagnn_neurips19/README.md)
 - [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/pastegan_neurips19/README.md)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/srn_neurips19/README.md)
