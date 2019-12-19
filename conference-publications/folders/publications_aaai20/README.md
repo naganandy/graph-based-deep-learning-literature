@@ -70,7 +70,6 @@
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
-- Inducing Relational Knowledge from Pre-trained Language Models
 - End-to-End Argumentation Knowledge Graph Construction
 - Modelling Semantic Categories using Conceptual Neighborhood
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
