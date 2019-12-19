@@ -77,8 +77,6 @@
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Relation Extraction Exploiting Full Dependency Forests
 - Storytelling from an Image Stream using Scene Graphs
-- Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering
-- Control flow graph embedding based on multi-instance decomposition for bug localization
 - Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Mathing
 
 </details>
