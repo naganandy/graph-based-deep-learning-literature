@@ -131,18 +131,18 @@
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)*
 - [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)*
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)*
-- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)^
-- [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)^
-- [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)^
-- [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)^
-- [Multi-objective Neural Architecture Search via Predictive Network Performance Optimization](https://openreview.net/forum?id=rJgffkSFPS&noteId=BJxK3oT85B)^
-- [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)^
-- [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)^
-- [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)^
-- [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)^
-- [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)^
-- [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)^
-- [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)^
+- [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)*
+- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://openreview.net/forum?id=HJe4Cp4KwH)
+- [A Graph Neural Network Assisted Monte Carlo Tree Search Approach to Traveling Salesman Problem](https://openreview.net/forum?id=Syg6fxrKDB)
+- [Iterative Deep Graph Learning for Graph Neural Networks](https://openreview.net/forum?id=Bkl2UlrFwr)
+- [Multi-objective Neural Architecture Search via Predictive Network Performance Optimization](https://openreview.net/forum?id=rJgffkSFPS&noteId=BJxK3oT85B)
+- [GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation](https://openreview.net/forum?id=rygHq6EFwr)
+- [Deep Graph Translation](https://openreview.net/forum?id=r1e0G04Kvr)
+- [Attributed Graph Learning with 2-D Graph Convolution](https://openreview.net/forum?id=B1gNKxrYPB)
+- [MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit](https://openreview.net/forum?id=rkx3-04FwB)
+- [DEEP GRAPH SPECTRAL EVOLUTION NETWORKS FOR GRAPH TOPOLOGICAL TRANSFORMATION](https://openreview.net/forum?id=rkxgHerKvH)
+- [Coloring graph neural networks for node disambiguation](https://openreview.net/forum?id=rJxt0JHKvS)
+- [Ordinary differential equations on graph networks](https://openreview.net/forum?id=SJg9z6VFDr)
 - [Continuous Graph Flow](https://openreview.net/forum?id=BkgZSCEtvr)
 - [Multi-task Network Embedding with Adaptive Loss Weighting](https://openreview.net/forum?id=rkgTKerYwr)
 - [Scalable Generative Models for Graphs with Graph Attention Mechanism](https://openreview.net/forum?id=BkleBaVFwB)
