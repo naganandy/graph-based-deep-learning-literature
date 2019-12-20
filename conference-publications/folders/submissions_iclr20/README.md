@@ -211,23 +211,23 @@
 
 # Empirical Study
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)*
-- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)^
-- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)^
-- [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)^
-- [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)^
+- [Demystifying Graph Neural Network Via Graph Filter Assessment](https://openreview.net/forum?id=r1erNxBtwr)
+- [Are Powerful Graph Neural Nets Necessary? A Dissection on Graph Classification](https://openreview.net/forum?id=BJxQxeBYwH)
+- [The Surprising Behavior Of Graph Neural Networks](https://openreview.net/forum?id=BkgOM1rKvr)
+- [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/forum?id=SkeBBJrFPH)
 - [Understanding Isomorphism Bias in Graph Data Sets](https://openreview.net/forum?id=rJlUhhVYvS)
 
 
 
 # Active Learning
-- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)^
+- [Active Learning Graph Neural Networks via Node Feature Propagation](https://openreview.net/forum?id=HylwpREtDr)
 - [Regional based query in graph active learning](https://openreview.net/forum?id=BkeHt34Fwr)
 - [Transfer Active Learning For Graph Neural Networks](https://openreview.net/forum?id=BklOXeBFDS)
 
 
 
 # Computer Vision
-- [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)^
+- [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)*
 - [Global reasoning network for image super-resolution](https://openreview.net/forum?id=S1gE6TEYDB)
 - [Reasoning-Aware Graph Convolutional Network for Visual Question Answering](https://openreview.net/forum?id=SkgPvlSYwS)
 
