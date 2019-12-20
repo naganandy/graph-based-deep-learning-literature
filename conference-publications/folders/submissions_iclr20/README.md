@@ -6,8 +6,8 @@
 - [Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/forum?id=S1e2agrFvS)*
 - [DeepSphere: a graph-based spherical CNN](https://openreview.net/forum?id=B1e3OlStPB)*
 - [Curvature Graph Network](https://openreview.net/forum?id=BylEqnVFDB)*
-- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)^
-- [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)^
+- [Constant Curvature Graph Convolutional Networks](https://openreview.net/forum?id=BJg73xHtvr)
+- [Octave Graph Convolutional Network](https://openreview.net/forum?id=HkxSOAEFDB)
 - [Beyond Classical Diffusion: Ballistic Graph Neural Network](https://openreview.net/forum?id=r1gV3nVKPS)
 - [Gauge Equivariant Spherical CNNs](https://openreview.net/forum?id=HJeYSxHFDS)
 - [Quadratic GCN for graph classification](https://openreview.net/forum?id=SkxnuTNtDS)
