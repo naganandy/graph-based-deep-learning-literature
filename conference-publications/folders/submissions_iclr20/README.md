@@ -172,21 +172,21 @@
 
 # Graph Matching
 - [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)*
-- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)^
-- [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)^
-- [Hierarchical Graph Matching Networks for Deep Graph Similarity Learning](https://openreview.net/forum?id=rkeqn1rtDH)^
+- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)*
+- [Graph Neural Networks For Multi-Image Matching](https://openreview.net/forum?id=Hkgpnn4YvH)
+- [Hierarchical Graph Matching Networks for Deep Graph Similarity Learning](https://openreview.net/forum?id=rkeqn1rtDH)
 
 
 
 # Dynamic Graphs
-- [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)^
+- [Tensor Graph Convolutional Networks for Prediction on Dynamic Graphs](https://openreview.net/forum?id=rylVTTVtvH)
 - [EvoNet: A Neural Network for Predicting the Evolution of Dynamic Graphs](https://openreview.net/forum?id=Byg5flHFDr)
 - [Dynamic Graph Message Passing Networks](https://openreview.net/forum?id=BJgcxxSKvr)
 
 
 
 # Attacks
-- [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)^
+- [Attacking Graph Convolutional Networks via Rewiring](https://openreview.net/forum?id=B1eXygBFPH)
 - [Power up! Robust Graph Convolutional Network based on Graph Powering](https://openreview.net/forum?id=BkxDxJHFDr)
 
 
