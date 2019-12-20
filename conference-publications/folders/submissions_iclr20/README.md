@@ -71,10 +71,10 @@
 
 
 # Few-Shot Learning
-- [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)*
-- [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)*
-- [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)^
-- [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)^
+- [FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES](https://openreview.net/forum?id=Bkeeca4Kvr)*
+- [Meta-Graph: Few shot Link Prediction via Meta Learning](https://openreview.net/forum?id=BJepcaEtwB)
+- [Graph convolutional networks for learning with few clean and many noisy labels](https://openreview.net/forum?id=Bke6vTVYwH)
+- [DYNAMIC SELF-TRAINING FRAMEWORK FOR GRAPH CONVOLUTIONAL NETWORKS](https://openreview.net/forum?id=SJgCEpVtvr)
 - [Semi-Supervised Few-Shot Learning with Prototypical Random Walks](https://openreview.net/forum?id=Bygka64KPH)
 
 
