@@ -153,14 +153,14 @@
 # Programs
 - [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)*
 - [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)*
-- [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)^
+- [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)*
 
 
 
 # Subgraph-Aware Representations
-- [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)*
-- [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)^
-- [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)^
+- [Learning to Anneal and Prune Proximity Graphs for Similarity Search](https://openreview.net/forum?id=HJlXC3EtwB)
+- [Neural Subgraph Isomorphism Counting](https://openreview.net/forum?id=HJx-akSKPS)
+- [Neural Maximum Common Subgraph Detection with Guided Subgraph Extraction](https://openreview.net/forum?id=BJgcwh4FwS)
 
 
 
