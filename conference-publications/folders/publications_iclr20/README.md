@@ -9,6 +9,6 @@
 
 
 # Theoretical Analysis
-- [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)*
-- [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH) *
-- [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)*
+- [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://openreview.net/forum?id=S1ldO2EFPr)
+- [On the Equivalence between Node Embeddings and Structural Graph Representations](https://openreview.net/forum?id=SJxzFySKwH) 
+- [Pruned Graph Scattering Transforms](https://openreview.net/forum?id=rJeg7TEYwB)
