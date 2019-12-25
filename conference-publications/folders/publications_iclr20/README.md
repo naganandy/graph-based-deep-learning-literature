@@ -41,7 +41,7 @@
 
 
 # Miscellaneous
-- [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](hhttps://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
+- [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)*
 - [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)*
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)*
