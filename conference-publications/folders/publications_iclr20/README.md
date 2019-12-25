@@ -26,3 +26,14 @@
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dpmpn_iclr20/README.md)
 - [Automated Relational Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/arml_iclr20/README.md)
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/compgcn_iclr20/README.md)
+
+
+
+# Semi-Supervised Transductive / Unsupervised Inductive Node Classification
+- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)*
+- [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://openreview.net/forum?id=r1lGO0EKDH)*
+- [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)*
+- [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)*
+- [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://openreview.net/forum?id=r1lfF2NYvH)*
+- [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)*
+- [PairNorm: Tackling Oversmoothing in GNNs](https://openreview.net/forum?id=rkecl1rtwB)*
