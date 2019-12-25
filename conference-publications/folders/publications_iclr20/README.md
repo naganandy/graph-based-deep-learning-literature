@@ -23,6 +23,6 @@
 
 
 # Multi-relational graphs
-- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)*
-- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)*
-- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)*
+- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)
+- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
+- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
