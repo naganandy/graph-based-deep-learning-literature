@@ -37,3 +37,12 @@
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/infograph_iclr20/README.md)
 - [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dropedge_iclr20/README.md)
 - [PairNorm: Tackling Oversmoothing in GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/pairnorm_iclr20/README.md)
+
+
+
+# Miscellaneous
+- [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://openreview.net/forum?id=r1gelyrtwH)*
+- [On the geometry and learning low-dimensional embeddings for directed graphs](https://openreview.net/forum?id=SkxQp1StDH)*
+- [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)*
+- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://openreview.net/forum?id=rkem91rtDB)*
+- [Neural Execution of Graph Algorithms](https://openreview.net/forum?id=SkgKO0EtvS)*
