@@ -35,5 +35,5 @@
 - [Graph inference learning for semi-supervised classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gil_iclr20/README.md)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/adsf_iclr20/README.md)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/infograph_iclr20/README.md)
-- [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://openreview.net/forum?id=Hkx1qkrKPr)
+- [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dropedge_iclr20/README.md)
 - [PairNorm: Tackling Oversmoothing in GNNs](https://openreview.net/forum?id=rkecl1rtwB)
