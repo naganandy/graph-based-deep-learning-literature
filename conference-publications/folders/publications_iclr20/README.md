@@ -13,6 +13,7 @@
 - [What graph neural networks cannot learn: depth vs width](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnmp_iclr20/README.md)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cgnn_iclr20/README.md) 
 - [Pruned Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/pgst_iclr20/README.md)
+- [The Logical Expressiveness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/acrgnn_iclr20/README.md)
 
 
 
@@ -26,6 +27,7 @@
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dpmpn_iclr20/README.md)
 - [Automated Relational Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/arml_iclr20/README.md)
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/compgcn_iclr20/README.md)
+- [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/expressgnn_iclr20/README.md)
 
 
 
@@ -48,9 +50,3 @@
 - [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
 - [Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/grafewshot_iclr20/README.md)
 - [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
-
-
-
-# Logic
-- [The Logical Expressiveness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/acrgnn_iclr20/README.md)
-- [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)*
