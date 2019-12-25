@@ -47,3 +47,4 @@
 - [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/seed_iclr20/README.md)
 - [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
 - [Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/grafewshot_iclr20/README.md)
+- [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
