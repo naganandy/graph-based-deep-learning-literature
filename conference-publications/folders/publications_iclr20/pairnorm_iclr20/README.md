@@ -5,8 +5,7 @@
 title={PairNorm: Tackling Oversmoothing in {\{}GNN{\}}s},
 author={Lingxiao Zhao and Leman Akoglu},
 booktitle={International Conference on Learning Representations (ICLR)},
-year={2020},
-url={https://openreview.net/forum?id=rkecl1rtwB}
+year={2020}
 }
 ```
 
