@@ -52,5 +52,5 @@
 
 
 # Logic
-- [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)*
+- [The Logical Expressiveness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/acrgnn_iclr20/README.md)
 - [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)*
