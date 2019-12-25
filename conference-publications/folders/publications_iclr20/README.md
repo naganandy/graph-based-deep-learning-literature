@@ -24,5 +24,5 @@
 
 # Multi-relational graphs
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dpmpn_iclr20/README.md)
-- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)
+- [Automated Relational Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/arml_iclr20/README.md)
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)
