@@ -48,3 +48,9 @@
 - [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
 - [Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/grafewshot_iclr20/README.md)
 - [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
+
+
+
+# Logic
+- [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/forum?id=r1lZ7AEKvB)*
+- [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://openreview.net/forum?id=rJg76kStwH)*
