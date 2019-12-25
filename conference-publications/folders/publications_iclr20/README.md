@@ -42,6 +42,13 @@
 
 
 
+# Reinforcement Learning
+- [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)*
+- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)*
+- [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)*
+
+
+
 # Miscellaneous
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dirgraph_iclr20/README.md)
