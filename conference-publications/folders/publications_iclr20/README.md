@@ -30,7 +30,7 @@
 
 
 # Semi-Supervised Transductive / Unsupervised Inductive Node Classification
-- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://openreview.net/forum?id=rkeIIkHKvS)*
+- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/csgnn_iclr20/README.md)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://openreview.net/forum?id=r1lGO0EKDH)*
 - [Graph inference learning for semi-supervised classification](https://openreview.net/forum?id=r1evOhEKvH)*
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://openreview.net/forum?id=BJxWx0NYPr)*
