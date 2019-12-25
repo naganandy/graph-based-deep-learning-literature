@@ -43,7 +43,7 @@
 
 
 # Reinforcement Learning
-- [Contrastive Learning of Structured World Models](https://openreview.net/forum?id=H1gax6VtDB)*
+- [Contrastive Learning of Structured World Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cswm_iclr20/README.md)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://openreview.net/forum?id=HygnDhEtvr)*
 - [Graph Convolutional Reinforcement Learning](https://openreview.net/forum?id=HkxdQkSYDB)*
 
