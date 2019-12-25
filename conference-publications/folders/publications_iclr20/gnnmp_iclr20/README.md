@@ -1,0 +1,13 @@
+# What graph neural networks cannot learn: depth vs width
+
+```
+@inproceedings{gnnmp_iclr20,
+title={What graph neural networks cannot learn: depth vs width},
+author={Andreas Loukas},
+booktitle={International Conference on Learning Representations},
+year={2020}
+}
+```
+
+links
+- [openreview](https://openreview.net/forum?id=B1l2bp4YwS)
