@@ -19,3 +19,10 @@
 # Efficient Training
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphsaint_iclr20/README.md)
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnpretraining_iclr20/README.md)
+
+
+
+# Multi-relational graphs
+- [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://openreview.net/forum?id=rkeuAhVKvB)*
+- [Automated Relational Meta-learning](https://openreview.net/forum?id=rklp93EtwH)*
+- [Composition-based Multi-Relational Graph Convolutional Networks](https://openreview.net/forum?id=BylA_C4tPr)*
