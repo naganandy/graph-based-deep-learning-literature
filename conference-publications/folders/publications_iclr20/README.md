@@ -28,6 +28,13 @@
 
 
 
+# Inductive Learning
+- [Inductive Matrix Completion Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/igmc_iclr20/README.md)
+- [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
+- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/seed_iclr20/README.md)
+
+
+
 # Efficient Training
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphsaint_iclr20/README.md)
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnpretraining_iclr20/README.md)
@@ -35,17 +42,10 @@
 
 
 # Semi-Supervised Transductive / Unsupervised Inductive Node Classification
-- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/csgnn_iclr20/README.md)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphzoom_iclr20/README.md)
+- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/csgnn_iclr20/README.md)
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/infograph_iclr20/README.md)
 - [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dropedge_iclr20/README.md)
-
-
-
-# Inductive Learning
-- [Inductive Matrix Completion Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/igmc_iclr20/README.md)
-- [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
-- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/seed_iclr20/README.md)
 
 
 
