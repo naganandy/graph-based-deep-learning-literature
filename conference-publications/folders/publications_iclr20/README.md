@@ -69,8 +69,8 @@
 
 
 # Graph Pooling
-- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)*
-- [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)*
+- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/structpool_iclr20/README.md)
+- [Memory-Based Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/memgnn_iclr20/README.md)
 
 
 
