@@ -62,6 +62,12 @@
 
 
 
+# Graph Matching
+- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)*
+- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)*
+
+
+
 # Miscellaneous
 - [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/hypersagnn_iclr20/README.md)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
