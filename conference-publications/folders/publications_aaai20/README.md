@@ -71,7 +71,6 @@
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - End-to-End Argumentation Knowledge Graph Construction
-- Modelling Semantic Categories using Conceptual Neighborhood
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Relation Extraction Exploiting Full Dependency Forests
