@@ -56,9 +56,9 @@
 
 
 # Programs
-- [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://openreview.net/forum?id=Hkx6hANtwH)*
-- [HOPPITY: LEARNING GRAPH TRANSFORMATIONS TO DETECT AND FIX BUGS IN PROGRAMS](https://openreview.net/forum?id=SJeqs6EFvB)*
-- [Global Relational Models of Source Code](https://openreview.net/forum?id=B1lnbRNtwr)*
+- [LambdaNet: Probabilistic Type Inference using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/lambdanet_iclr20/README.md)
+- [Hoppity: Learning Graph Tranformations To Detect and Fix Bugs in Programs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/hoppity_iclr20/README.md)
+- [Global Relational Models of Source Code](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/great_iclr20/README.md)
 
 
 
