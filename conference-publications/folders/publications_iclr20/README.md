@@ -49,7 +49,25 @@
 
 # Semi-Supervised Transductive / Unsupervised Inductive Node Classification
 - [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/csgnn_iclr20/README.md)
+
+
+
+# Graph-level Representations
 - [InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/infograph_iclr20/README.md)
+- [Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/grafewshot_iclr20/README.md)
+
+
+
+# Graph Pooling
+- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/fairgracomp_iclr20/README.md)
+- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/structpool_iclr20/README.md)
+- [Memory-Based Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/memgnn_iclr20/README.md)
+
+
+
+# Molecular graphs
+- [Directional Message Passing for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dimenet_iclr20/README.md)
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphaf_iclr20/README.md)
 
 
 
@@ -57,12 +75,6 @@
 - [Contrastive Learning of Structured World Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cswm_iclr20/README.md)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/g2s_iclr20/README.md)
 - [Graph Convolutional Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dgn_iclr20/README.md)
-
-
-
-# Molecular graphs
-- [Directional Message Passing for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dimenet_iclr20/README.md)
-- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphaf_iclr20/README.md)
 
 
 
@@ -79,18 +91,10 @@
 
 
 
-# Graph Pooling
-- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/fairgracomp_iclr20/README.md)
-- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/structpool_iclr20/README.md)
-- [Memory-Based Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/memgnn_iclr20/README.md)
-
-
-
 # Miscellaneous
 - [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/hypersagnn_iclr20/README.md)
 - [DeepSphere: a graph-based spherical CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/deepsphere_iclr20/README.md)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dirgraph_iclr20/README.md)
 - [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
-- [Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/grafewshot_iclr20/README.md)
 - [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/mxgnet_iclr20/README.md)
