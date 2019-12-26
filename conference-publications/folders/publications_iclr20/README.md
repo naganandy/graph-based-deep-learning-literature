@@ -24,6 +24,7 @@
 - [Curvature Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/curvgn_iclr20/README.md)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/adsf_iclr20/README.md)
 - [Graph inference learning for semi-supervised classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gil_iclr20/README.md)
+- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/csgnn_iclr20/README.md)
 
 
 
@@ -44,11 +45,6 @@
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphsaint_iclr20/README.md)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphzoom_iclr20/README.md)
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnpretraining_iclr20/README.md)
-
-
-
-# Semi-Supervised Transductive / Unsupervised Inductive Node Classification
-- [Measuring and Improving the Use of Graph Information in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/csgnn_iclr20/README.md)
 
 
 
