@@ -43,6 +43,13 @@
 
 
 
+# Inductive Learning
+- [Inductive Matrix Completion Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/igmc_iclr20/README.md)
+- [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
+- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/seed_iclr20/README.md)
+
+
+
 # Reinforcement Learning
 - [Contrastive Learning of Structured World Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cswm_iclr20/README.md)
 - [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/g2s_iclr20/README.md)
@@ -73,13 +80,6 @@
 - [A Fair Comparison of Graph Neural Networks for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/fairgracomp_iclr20/README.md)
 - [StructPool: Structured Graph Pooling via Conditional Random Fields](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/structpool_iclr20/README.md)
 - [Memory-Based Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/memgnn_iclr20/README.md)
-
-
-
-# Inductive Learning
-- [Inductive Matrix Completion Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/igmc_iclr20/README.md)
-- [Inductive representation learning on temporal graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/tgat_iclr20/README.md)
-- [Inductive and Unsupervised Representation Learning on Graph Structured Objects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/seed_iclr20/README.md)
 
 
 
