@@ -1,5 +1,6 @@
 # [Conferences](https://aideadlin.es/)
 
+- ACL 2020 (July, decisions early Apr)
 - CVPR 2020 (Jun, decisions late Feb)
 - WWW 2020 (Apr, decisions mid Jan)
 
