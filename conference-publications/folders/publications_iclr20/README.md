@@ -68,7 +68,15 @@
 
 
 
+# Graph Pooling
+- [StructPool: Structured Graph Pooling via Conditional Random Fields](https://openreview.net/forum?id=BJxg_hVtwH)*
+- [MEMORY-BASED GRAPH NETWORKS](https://openreview.net/forum?id=r1laNeBYPB)*
+
+
+
 # Miscellaneous
+- [A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/forum?id=HygDF6NFPB)*
+- [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://openreview.net/forum?id=ByxQB1BKwH)*
 - [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/hypersagnn_iclr20/README.md)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dirgraph_iclr20/README.md)
