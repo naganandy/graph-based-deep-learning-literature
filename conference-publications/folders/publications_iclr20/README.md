@@ -63,8 +63,8 @@
 
 
 # Graph Matching
-- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://openreview.net/forum?id=rJgBd2NYPH)*
-- [Deep Graph Matching Consensus](https://openreview.net/forum?id=HyeJf1HKvS)*
+- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cie_iclr20/README.md)
+- [Deep Graph Matching Consensus](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dgmc_iclr20/README.md)
 
 
 
