@@ -49,6 +49,12 @@
 
 
 
+# Molecular graphs
+- [Directional Message Passing for Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dimenet_iclr20/README.md)
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphaf_iclr20/README.md)
+
+
+
 # Miscellaneous
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dirgraph_iclr20/README.md)
