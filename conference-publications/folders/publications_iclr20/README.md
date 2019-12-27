@@ -66,11 +66,9 @@
 - [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphaf_iclr20/README.md)
 
 
-
-# Reinforcement Learning
-- [Contrastive Learning of Structured World Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cswm_iclr20/README.md)
-- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/g2s_iclr20/README.md)
-- [Graph Convolutional Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dgn_iclr20/README.md)
+# Graph Matching
+- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cie_iclr20/README.md)
+- [Deep Graph Matching Consensus](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dgmc_iclr20/README.md)
 
 
 
@@ -81,9 +79,10 @@
 
 
 
-# Graph Matching
-- [Learning deep graph matching with channel-independent embedding and Hungarian attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cie_iclr20/README.md)
-- [Deep Graph Matching Consensus](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dgmc_iclr20/README.md)
+# Reinforcement Learning
+- [Contrastive Learning of Structured World Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cswm_iclr20/README.md)
+- [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/g2s_iclr20/README.md)
+- [Graph Convolutional Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dgn_iclr20/README.md)
 
 
 
