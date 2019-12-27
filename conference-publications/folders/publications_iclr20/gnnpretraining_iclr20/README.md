@@ -11,3 +11,4 @@ year={2020}
 
 links
 - [openreview](https://openreview.net/forum?id=HJlWWJSFDH)
+- [video](https://slideslive.com/38921872/graph-representation-learning-3)
