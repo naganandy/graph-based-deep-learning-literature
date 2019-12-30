@@ -437,7 +437,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# [CVPR 2019 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_cvpr19)
+# [CVPR 2019 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/README.md)
 - [Multi-label Image Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/mlgcn_cvpr19/README.md)
 - [Semi-supervised Learning with Graph Learning-Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/glcn_cvpr19/README.md)
 - [Data Representation and Learning With Graph Diffusion-Embedding Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr19/gden_cvpr19/README.md)
