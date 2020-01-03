@@ -209,11 +209,11 @@
 - [Neural Embedding Propagation on Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/nep_icdm19/README.md)
 - [Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/necdgt_icdm19/README.md)
 - [Multi-Graph Convolution Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/multigccf_icdm19/README.md)
+- [Adaptive Neural Network for Node Classification in Dynamic Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/adann_icdm19/README.md)
 - [DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/dyngraph2seq_icdm19/README.md)
 - Dataset Recommendation via Variational Graph Autoencoder	
 - A Semi-supervised Graph Attentive Network for Fraud Detection	
 - Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network	
-- Adaptive Neural Network for Node Classification in Dynamic Networks
 - Inductive Embedding Learning on Attributed Heterogeneous Networks via Multi-task Sequence-to-Sequence Learning
 
 
