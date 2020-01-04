@@ -4,7 +4,7 @@
 
 # Knowledge Graphs
 - [CaRe: Open Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/care_emnlp19/README.md)
-- [KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_aaai19/README.md)
+- [KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_emnlp19/README.md)
 - [Learning to Update Knowledge Graph by Reading News](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/gupdater_emnlp19/README.md)
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kbrd_emnlp19/README.md)
 - [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/attnpath_emnlp19/README.md)
