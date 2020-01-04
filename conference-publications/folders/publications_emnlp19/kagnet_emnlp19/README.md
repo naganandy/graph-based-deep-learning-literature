@@ -11,3 +11,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1909.02151)
+- [aclweb](https://www.aclweb.org/anthology/D19-1282/)
+- [code](https://github.com/INK-USC/KagNet)
