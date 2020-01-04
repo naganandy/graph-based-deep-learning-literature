@@ -17,5 +17,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1809.00782)
-- [aclanthology](https://aclanthology.info/papers/D18-1455/d18-1455)
+- [aclanthology](https://www.aclweb.org/anthology/D18-1455/)
 - [code](https://github.com/OceanskySun/GraftNet)
