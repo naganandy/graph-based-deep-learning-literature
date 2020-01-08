@@ -20,7 +20,7 @@
 - [Few-Shot Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fsrl_aaai20/README.md)
 - [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfl_aaai20/README.md)
 - [Learning from the Past: Continual Meta-Learning via Bayesian Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cmlbgnn_aaai20/README.md)
-
+- [Multi-Stage Self-Supervised Learning for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/m3s_aaai20/README.md)
 
 
 # Exploiting External Knowledge
