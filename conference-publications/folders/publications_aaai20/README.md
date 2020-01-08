@@ -74,7 +74,8 @@
 
 <details> 
 <summary> more </summary> 
-  
+ 
+- Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
