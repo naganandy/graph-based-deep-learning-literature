@@ -86,6 +86,7 @@
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
+-  Graph Attention Based Proposal 3D ConvNets for Action Detection
 - End-to-End Argumentation Knowledge Graph Construction
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
