@@ -33,7 +33,7 @@
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/alinet_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
 - [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
-
+- [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
 
 
 # Computer Vision
