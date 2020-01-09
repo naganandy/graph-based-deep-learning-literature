@@ -82,6 +82,7 @@
 - A Multi-Scale Approach for Graph Link Prediction
 - Label Error Correction and Generation Through Label Relationships
 - Hybrid Graph Neural Networks for Crowd Counting
+- Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Dual Relation Semi‐supervised Multi-label Learning
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
@@ -92,7 +93,7 @@
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
--  Graph Attention Based Proposal 3D ConvNets for Action Detection
+- Graph Attention Based Proposal 3D ConvNets for Action Detection
 - End-to-End Argumentation Knowledge Graph Construction
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
