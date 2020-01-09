@@ -39,6 +39,7 @@
 # Computer Vision
 - [Multi-Label Classification with Label Graph Superimposing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kssnet_aaai20/README.md)
 - [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
+- [General Partial Label Learning via Dual Bipartite Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dbgae_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
 - [Storytelling from an Image Stream Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/sgvst_aaai20/README.md)
 - [SOGNet: Scene Overlap Graph Network for Panoptic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/sognet_aaai20/README.md)
