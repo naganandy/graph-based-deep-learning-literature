@@ -91,6 +91,7 @@
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Dual Relation Semi‐supervised Multi-label Learning
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
+- Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding
 - Attribute Propagation Network for Graph Zero-shot Learning
 - Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
 - Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
