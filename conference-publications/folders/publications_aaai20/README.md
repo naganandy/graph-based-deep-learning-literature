@@ -12,7 +12,7 @@
 # Oversmoothing
 - [Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/madgap_aaai20/README.md)
 - [Fast and Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fdgnn_aaai20/README.md)
-
+- [Going Deep: Graph Convolutional Ladder-shape Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcln_aaai20/README.md)
 
 
 # Few-Shot Learning
