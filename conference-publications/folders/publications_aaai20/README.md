@@ -57,6 +57,7 @@
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/share_aaai20/README.md)
 - [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrabgcn_aaai20/README.md)
+- [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/roadtagger_aaai20/README.md)
 
 
 
@@ -69,7 +70,6 @@
 - [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/magnn_aaai20/README.md)
 - [Estimating Early Fundraising Performance of Innovations via Graph-based Market Environment Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cme_aaai20/README.md)
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
-- [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/roadtagger_aaai20/README.md)
 - [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnnplanner_aaai20/README.md)
 - [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/g2anet_aaai20/README.md)
 - [Graph-Driven Generative Models for Heterogeneous Multi-Task Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gdvae_aaai20/README.md)
