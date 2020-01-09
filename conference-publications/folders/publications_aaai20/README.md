@@ -81,6 +81,7 @@
  
 - A Multi-Scale Approach for Graph Link Prediction
 - Label Error Correction and Generation Through Label Relationships
+- Hybrid Graph Neural Networks for Crowd Counting
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Dual Relation Semi‐supervised Multi-label Learning
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
