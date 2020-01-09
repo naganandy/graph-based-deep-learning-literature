@@ -72,6 +72,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Going Deep: Graph Convolutional Ladder-shape Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcln_aaai20/README.md)
 - [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
 - [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
