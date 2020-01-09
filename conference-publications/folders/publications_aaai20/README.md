@@ -90,6 +90,7 @@
 - Dual Relation Semi‐supervised Multi-label Learning
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
 - Attribute Propagation Network for Graph Zero-shot Learning
+- Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
 - Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Learning Signed Network Embedding via Graph Attention
