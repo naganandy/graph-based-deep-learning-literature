@@ -77,6 +77,7 @@
 <details> 
 <summary> more </summary> 
  
+- A Multi-Scale Approach for Graph Link Prediction
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Dual Relation Semi‐supervised Multi-label Learning
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
