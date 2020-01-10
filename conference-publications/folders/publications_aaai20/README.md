@@ -98,8 +98,12 @@
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
 - Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
+- Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
+- Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network
 - Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 - Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
+- GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks.
+- Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
 - Location-aware Graph Convolutional Networks for Video Question Answering
 - Reasoning with Heterogeneous Graph Alignment for Video Question Answering
 - Hypergraph Label Propagation Network
