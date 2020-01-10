@@ -106,11 +106,10 @@
 - End-to-End Argumentation Knowledge Graph Construction
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
-- Dynamic Graph Representation for Occlusion Handling in Biometrics
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Relation Extraction Exploiting Full Dependency Forests
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
--  When Radiology Report Generation meets Knowledge Graph
+- When Radiology Report Generation meets Knowledge Graph
 
 </details>
 
