@@ -146,6 +146,7 @@ Convolution
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Label Error Correction and Generation Through Label Relationships
 - End-to-End Argumentation Knowledge Graph Construction
+- DGE: Deep Generative Network Embedding Based on Commonality and Individuality
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - Structure Learning for Headline Generation
 - SemSUM: Semantic Dependency Guided Neural Abstractive Summarization
