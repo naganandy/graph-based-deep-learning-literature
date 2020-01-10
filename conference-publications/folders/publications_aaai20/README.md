@@ -64,6 +64,7 @@
 
 # Miscellaneous
 - [Independence Promoted Graph Disentangled Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ipgdn_aaai20/README.md)
+- [An Attention-based Graph Neural Network for Heterogeneous Structural Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hetsann_aaai20/README.md)
 - [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
 - [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
 - [Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcnmrf_aaai20/README.md)
