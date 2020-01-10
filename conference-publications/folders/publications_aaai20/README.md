@@ -107,6 +107,7 @@
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
+- A Multi-Channel Neural Graphical Event Model with Negative Evidence
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Relation Extraction Exploiting Full Dependency Forests
 - Attribute Propagation Network for Graph Zero-shot Learning
