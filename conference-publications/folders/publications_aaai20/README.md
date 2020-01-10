@@ -28,7 +28,7 @@
 # Exploiting External Knowledge
 - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
 - [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
-
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
 
 
 # Natural Language Processing
