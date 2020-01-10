@@ -103,6 +103,7 @@
 - Learning Signed Network Embedding via Graph Attention
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
+- Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
