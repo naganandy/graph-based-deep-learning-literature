@@ -6,6 +6,7 @@
 - [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/asap_aaai20/README.md)
 - [Hierarchical Graph Pooling with Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hgpsl_aaai20/README.md)
 - [GSSNN: Graph Smoothing Splines Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gssnn_aaai20/README.md) 
+- [Graph-Hist: Graph Classification from Latent Feature Histograms With Application to Bot Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphist_aaai20/README.md)
 
 
 
