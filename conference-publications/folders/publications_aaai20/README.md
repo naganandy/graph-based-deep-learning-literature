@@ -105,6 +105,8 @@
 - Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data
 - Tensor Graph Convolutional Networks for Text Classification
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
+- Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional
+Networks
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
