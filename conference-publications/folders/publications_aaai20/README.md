@@ -95,6 +95,7 @@
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 - Location-aware Graph Convolutional Networks for Video Question Answering
+- Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
