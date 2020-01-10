@@ -110,6 +110,7 @@
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph
 Convolution
+- Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
 - A Multi-Channel Neural Graphical Event Model with Negative Evidence
