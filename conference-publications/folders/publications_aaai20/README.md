@@ -25,7 +25,7 @@
 - [Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/zsgan_aaai20/README.md)
 
 
-# Exploiting External Knowledge
+# Commonsense Knowledge
 - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
 - [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
 - [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
@@ -49,7 +49,7 @@
 
 
 
-# Scene graphs
+# Scene Graphs
 - [SOGNet: Scene Overlap Graph Network for Panoptic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/sognet_aaai20/README.md)
 - [Storytelling from an Image Stream Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/sgvst_aaai20/README.md)
 - [Deep Generative Probabilistic Graph Neural Networks for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgpgnn_aaai20/README.md)
