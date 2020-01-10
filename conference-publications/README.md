@@ -73,6 +73,7 @@
 <summary> more </summary> 
 
 - [Going Deep: Graph Convolutional Ladder-shape Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcln_aaai20/README.md)
+- [GraLSP: Graph Neural Networks with Local Structural Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gralsp_aaai20/README.md)
 - [An Attention-based Graph Neural Network for Heterogeneous Structural Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hetsann_aaai20/README.md)
 - [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
 - [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
