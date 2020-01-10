@@ -117,6 +117,7 @@ Convolution
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Relation Extraction Exploiting Full Dependency Forests
 - Attribute Propagation Network for Graph Zero-shot Learning
+- Temporal Network Embedding with High‐Order Nonlinear Information
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - CGD: Multi-view Clustering via Cross-view Graph Diffusion
 - MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
