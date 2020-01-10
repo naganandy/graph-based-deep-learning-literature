@@ -86,40 +86,43 @@
 <summary> more </summary> 
  
 - Co‐GCN for Multi‐View Semi‐Supervised Learning
-- A Multi-Scale Approach for Graph Link Prediction
-- Label Error Correction and Generation Through Label Relationships
-- A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - Hybrid Graph Neural Networks for Crowd Counting
 - Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
-- CGD: Multi-view Clustering via Cross-view Graph Diffusion
-- Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
-- Knowledge-Graph Augmented Word Representations For Named Entity Recognition
-- Dual Relation Semi‐supervised Multi-label Learning
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
-- ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
-- Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding
-- Attribute Propagation Network for Graph Zero-shot Learning
 - Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
-- Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 - Learning Signed Network Embedding via Graph Attention
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
-- Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
-- MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
 - End-to-End Argumentation Knowledge Graph Construction
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
-- Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
-- Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
+- Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Relation Extraction Exploiting Full Dependency Forests
+- Attribute Propagation Network for Graph Zero-shot Learning
+- Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
+- CGD: Multi-view Clustering via Cross-view Graph Diffusion
+- MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
+- Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
+- Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
+- Dual Relation Semi‐supervised Multi-label Learning
+- A Multi-Scale Approach for Graph Link Prediction
+- Knowledge-Graph Augmented Word Representations For Named Entity Recognition
+- Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
+- Label Error Correction and Generation Through Label Relationships
+- A Knowledge-Aware Attentional Reasoning Network for Recommendation
+- Multi‐View Spectral Clustering with Optimal Neighborhood Laplacian Matrix
+- ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
+- Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - When Radiology Report Generation meets Knowledge Graph
+
+
 
 </details>
 
