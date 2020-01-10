@@ -127,6 +127,7 @@ Convolution
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Label Error Correction and Generation Through Label Relationships
+- End-to-End Argumentation Knowledge Graph Construction
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - Structure Learning for Headline Generation
 - Multi‐view Clustering in Latent Embedding Space
