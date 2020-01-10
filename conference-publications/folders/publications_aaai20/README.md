@@ -102,6 +102,7 @@
 - Reasoning with Heterogeneous Graph Alignment for Video Question Answering
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
+- Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data
 - Tensor Graph Convolutional Networks for Text Classification
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
