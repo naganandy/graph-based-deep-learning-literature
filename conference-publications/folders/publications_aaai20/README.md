@@ -64,6 +64,12 @@
 
 
 
+# Multi-Agent Learning
+- [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/g2anet_aaai20/README.md)
+- [Multi-Agent Actor-Critic with Hierarchical Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hama_aaai20/README.md)
+
+
+
 # Miscellaneous
 - [GraLSP: Graph Neural Networks with Local Structural Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gralsp_aaai20/README.md)
 - [Independence Promoted Graph Disentangled Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ipgdn_aaai20/README.md)
@@ -83,8 +89,6 @@
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
 - [Online Planner Selection with Graph Neural Networks and Adaptive Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnnplanner_aaai20/README.md)
-- [Multi-Agent Game Abstraction via Graph Attention Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/g2anet_aaai20/README.md)
-- [Multi-Agent Actor-Critic with Hierarchical Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hama_aaai20/README.md)
 - [Neural Graph Embedding for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/nge_aaai20/README.md)
 - [Graph-Driven Generative Models for Heterogeneous Multi-Task Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gdvae_aaai20/README.md)
 
