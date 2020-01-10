@@ -95,6 +95,7 @@
 - Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
+- Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
 - Location-aware Graph Convolutional Networks for Video Question Answering
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
