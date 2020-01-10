@@ -73,6 +73,7 @@
 <summary> more </summary> 
 
 - [Going Deep: Graph Convolutional Ladder-shape Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcln_aaai20/README.md)
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
 - [GraLSP: Graph Neural Networks with Local Structural Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gralsp_aaai20/README.md)
 - [An Attention-based Graph Neural Network for Heterogeneous Structural Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hetsann_aaai20/README.md)
 - [Graph-Hist: Graph Classification from Latent Feature Histograms With Application to Bot Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphist_aaai20/README.md)
