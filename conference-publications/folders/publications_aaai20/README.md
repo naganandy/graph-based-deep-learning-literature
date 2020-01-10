@@ -105,6 +105,7 @@
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
 - End-to-End Argumentation Knowledge Graph Construction
+- DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
