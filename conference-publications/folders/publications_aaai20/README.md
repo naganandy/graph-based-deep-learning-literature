@@ -105,6 +105,7 @@
 - End-to-End Argumentation Knowledge Graph Construction
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
+- Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Relation Extraction Exploiting Full Dependency Forests
 - Attribute Propagation Network for Graph Zero-shot Learning
