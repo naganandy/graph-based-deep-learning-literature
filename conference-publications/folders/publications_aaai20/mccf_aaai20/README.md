@@ -11,3 +11,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1911.10699)
+- [code](https://github.com/RuijiaW/Multi-Component-Graph-Convolutional-Collaborative-Filtering)
