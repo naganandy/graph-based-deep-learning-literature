@@ -117,6 +117,7 @@
 - Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Label Error Correction and Generation Through Label Relationships
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
+- Multi‐view Clustering in Latent Embedding Space
 - Multi‐View Spectral Clustering with Optimal Neighborhood Laplacian Matrix
 - Semi‐Supervised Streaming Learning with Emerging New Labels
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
