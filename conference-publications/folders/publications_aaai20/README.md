@@ -105,6 +105,7 @@
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
+- MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
 - End-to-End Argumentation Knowledge Graph Construction
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
