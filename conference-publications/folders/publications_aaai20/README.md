@@ -111,6 +111,8 @@ Networks
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
+- Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal
+Network Data Forecasting
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
 - End-to-End Argumentation Knowledge Graph Construction
