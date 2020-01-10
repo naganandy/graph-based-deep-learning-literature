@@ -88,6 +88,7 @@
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - Hybrid Graph Neural Networks for Crowd Counting
 - Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
+- CGD: Multi-view Clustering via Cross-view Graph Diffusion
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
