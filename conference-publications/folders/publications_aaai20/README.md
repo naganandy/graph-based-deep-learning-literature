@@ -83,6 +83,7 @@
 <details> 
 <summary> more </summary> 
  
+- Co‐GCN for Multi‐View Semi‐Supervised Learning
 - A Multi-Scale Approach for Graph Link Prediction
 - Label Error Correction and Generation Through Label Relationships
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
