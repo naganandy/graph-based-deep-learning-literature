@@ -98,6 +98,7 @@
 - Location-aware Graph Convolutional Networks for Video Question Answering
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
+- Tensor Graph Convolutional Networks for Text Classification
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
