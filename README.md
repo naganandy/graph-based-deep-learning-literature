@@ -65,7 +65,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 
 # Related workshops
 - ## 2020
-   * ### [Deep Learning for Graphs](https://www.aminer.cn/dl4g_www2020)
+   * ### [Deep Learning for Graphs (WWW)](https://www.aminer.cn/dl4g_www2020)
    * ### [Deep Learning on Graphs: Methodologies and Applications (AAAI)](https://dlg2019.bitbucket.io/aaai20/)
 - ## 2019
    * ### [Graph Representation Learning (NeurIPS)](https://grlearning.github.io/)
