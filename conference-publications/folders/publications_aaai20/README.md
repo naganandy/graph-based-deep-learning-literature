@@ -27,6 +27,7 @@
 
 # Natural Language Processing
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/alinet_aaai20/README.md)
+- [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
 - [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
 - [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
@@ -122,7 +123,6 @@
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
 - Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data
-- Tensor Graph Convolutional Networks for Text Classification
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks
 - Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional
