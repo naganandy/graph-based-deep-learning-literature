@@ -1,8 +1,13 @@
 # [Conferences](https://aideadlin.es/)
 
+- IJCAI 2020 (July, decisions late Apr)
 - ACL 2020 (July, decisions early Apr)
 - CVPR 2020 (Jun, decisions late Feb)
-- WWW 2020 (Apr, decisions mid Jan)
+\
+## -----------------------------------------------------------------------------
+# [WWW 2020 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/README.md)
+- Adversarial Attack on Community Detection by Hiding Individuals
+
 
 ## -----------------------------------------------------------------------------
 # [ICLR 2020 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/README.md)
