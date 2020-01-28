@@ -156,7 +156,6 @@ Convolution
 - Dual Relation Semi‐supervised Multi-label Learning
 - A Multi-Scale Approach for Graph Link Prediction
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
-- Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
 - Label Error Correction and Generation Through Label Relationships
 - End-to-End Argumentation Knowledge Graph Construction
 - DGE: Deep Generative Network Embedding Based on Commonality and Individuality
