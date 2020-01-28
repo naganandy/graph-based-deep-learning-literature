@@ -163,7 +163,6 @@ Convolution
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - Structure Learning for Headline Generation
 - SemSUM: Semantic Dependency Guided Neural Abstractive Summarization
-- Multi‐view Clustering in Latent Embedding Space
 - Multi‐View Spectral Clustering with Optimal Neighborhood Laplacian Matrix
 - Multi‐View Partial Multi‐label Learning with Graph‐based Disambiguation
 - Semi‐Supervised Streaming Learning with Emerging New Labels
