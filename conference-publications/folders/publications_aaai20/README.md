@@ -76,6 +76,7 @@
 # Traffic
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/share_aaai20/README.md)
+- [Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/stsgcn_aaai20/README.md)
 - [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrabgcn_aaai20/README.md)
 - [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/roadtagger_aaai20/README.md)
 
@@ -137,8 +138,6 @@ Networks
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
-- Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal
-Network Data Forecasting
 - Graph Representation Learning via Ladder Gamma Variational Autoencoders
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
 - End-to-End Argumentation Knowledge Graph Construction
