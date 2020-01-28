@@ -56,6 +56,7 @@
 - [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrgcn_aaai20/README.md)
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
+- [Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cbgln_aaai20/README.md)
 
 
 
@@ -129,7 +130,6 @@
 - Reasoning with Heterogeneous Graph Alignment for Video Question Answering
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
-- Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks
 - Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional
