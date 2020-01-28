@@ -25,13 +25,19 @@
 - [Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/zsgan_aaai20/README.md)
 
 
-# Natural Language Processing
+
+# Knowledge Graph Alignment
 - [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/alinet_aaai20/README.md)
+- [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ehdjea_aaai20/README.md)
+
+
+
+# Natural Language Processing
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
+- [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
 - [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
 - [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
-- [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
 
 
 
@@ -147,7 +153,6 @@ Convolution
 - Relation Extraction Exploiting Full Dependency Forests
 - Attribute Propagation Network for Graph Zero-shot Learning
 - Temporal Network Embedding with High‐Order Nonlinear Information
-- Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment
 - CGD: Multi-view Clustering via Cross-view Graph Diffusion
 - MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
 - Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
