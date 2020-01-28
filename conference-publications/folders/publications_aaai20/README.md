@@ -168,7 +168,6 @@ Convolution
 - Multi‐View Partial Multi‐label Learning with Graph‐based Disambiguation
 - Semi‐Supervised Streaming Learning with Emerging New Labels
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
-- Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data
 - When Radiology Report Generation meets Knowledge Graph
 
 
