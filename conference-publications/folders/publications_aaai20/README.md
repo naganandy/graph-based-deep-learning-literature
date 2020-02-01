@@ -32,21 +32,21 @@
 
 
 
-# Commonsense Knowledge
-- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
-- [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
-- [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
-- [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
-
-
-
 # Natural Language Processing
-- [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
+- [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
 - [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
 - [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
 - [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
-- [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
+- [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
+
+
+
+# Commonsense Knowledge
+- [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
+- [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
+- [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
 
 
 
