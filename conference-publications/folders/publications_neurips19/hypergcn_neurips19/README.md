@@ -14,3 +14,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [neurips](https://nips.cc/Conferences/2019/Schedule?showEvent=13367)
 - [arXiv](https://arxiv.org/abs/1809.02589)
+- [code](https://github.com/malllabiisc/HyperGCN)
