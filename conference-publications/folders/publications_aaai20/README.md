@@ -93,6 +93,7 @@
 - [GraLSP: Graph Neural Networks with Local Structural Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gralsp_aaai20/README.md)
 - [Independence Promoted Graph Disentangled Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ipgdn_aaai20/README.md)
 - [An Attention-based Graph Neural Network for Heterogeneous Structural Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hetsann_aaai20/README.md)
+- [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lrgccf_aaai20/README.md)
 - [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
 - [Modality to Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfn_aaai20/README.md)
 - [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
@@ -124,7 +125,6 @@
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
 - Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network
-- Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach
 - Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
 - GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks.
 - Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
