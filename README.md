@@ -50,8 +50,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 # Top 10 most cited publications
 1. ### [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_iclr17/README.md)
 1. ### [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/chebnet_nips16/README.md)
-1. ### [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_iclr14/README.md)
 1. ### [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
+1. ### [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_iclr14/README.md)
 1. ### [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_nips15/README.md)
 1. ### [The Graph Neural Network Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnn_tnn09/README.md)
 1. ### [Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_conf18/gan_iclr18/README.md)
