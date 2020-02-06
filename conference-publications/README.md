@@ -1,7 +1,10 @@
 # [Conferences](https://aideadlin.es/)
 
-- IJCAI 2020 (July, decisions late Apr)
-- ACL 2020 (July, decisions early Apr)
+- KDD 2020 (Aug, decisions mid May)
+- UAI 2020 (Aug, decisions mid May)
+- ICML 2020 (Jul, decisions mid May)
+- IJCAI 2020 (Jul, decisions late Apr)
+- ACL 2020 (Jul, decisions early Apr)
 - CVPR 2020 (Jun, decisions late Feb)
 
 
