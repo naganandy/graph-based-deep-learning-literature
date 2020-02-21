@@ -263,7 +263,7 @@
 - [DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/dyngraph2seq_icdm19/README.md)
 - [Dataset Recommendation via Variational Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/hvgae_icdm19/README.md)
 - [A Semi-supervised Graph Attentive Network for Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/semignn_icdm19/README.md)
-- Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network	
+- [Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/stgcn_icdm19/README.md)
 - Inductive Embedding Learning on Attributed Heterogeneous Networks via Multi-task Sequence-to-Sequence Learning
 
 
