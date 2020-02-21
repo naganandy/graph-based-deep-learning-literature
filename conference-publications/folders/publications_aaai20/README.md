@@ -56,6 +56,7 @@
 - [General Partial Label Learning via Dual Bipartite Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dbgae_aaai20/README.md)
 - [Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/urcnn_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
+- [When Radiology Report Generation meets Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/radiologygcn_aaai20/README.md)
 - [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrgcn_aaai20/README.md)
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
@@ -170,7 +171,6 @@ Convolution
 - Multi‐View Partial Multi‐label Learning with Graph‐based Disambiguation
 - Semi‐Supervised Streaming Learning with Emerging New Labels
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
-- When Radiology Report Generation meets Knowledge Graph
 
 
 
