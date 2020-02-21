@@ -10,5 +10,5 @@
 ```
 
 links
-- [ieee](https://ieeexplore.ieee.org/document/8970814)
+- [ieee](https://ieeexplore.ieee.org/document/8970898)
 - [preprint](http://mason.gmu.edu/~lzhao9/materials/papers/ICDM_2019_NEC_DGT-final.pdf)
