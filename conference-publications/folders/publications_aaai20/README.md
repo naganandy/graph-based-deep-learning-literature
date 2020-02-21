@@ -37,6 +37,7 @@
 - [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
 - [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
 - [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
+- [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
 - [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
@@ -135,8 +136,6 @@
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
-- Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional
-Networks
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
