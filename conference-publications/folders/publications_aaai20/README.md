@@ -53,6 +53,7 @@
 # Computer Vision
 - [Multi-Label Classification with Label Graph Superimposing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kssnet_aaai20/README.md)
 - [General Partial Label Learning via Dual Bipartite Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dbgae_aaai20/README.md)
+- [Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/urcnn_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
 - [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrgcn_aaai20/README.md)
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
@@ -120,7 +121,6 @@
 - Co‐GCN for Multi‐View Semi‐Supervised Learning
 - Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
-- Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
 - Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
