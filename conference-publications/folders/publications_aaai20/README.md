@@ -161,7 +161,6 @@ Convolution
 - A Multi-Scale Approach for Graph Link Prediction
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Label Error Correction and Generation Through Label Relationships
-- End-to-End Argumentation Knowledge Graph Construction
 - DGE: Deep Generative Network Embedding Based on Commonality and Individuality
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - Structure Learning for Headline Generation
