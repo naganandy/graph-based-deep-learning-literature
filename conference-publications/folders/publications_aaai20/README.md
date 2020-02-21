@@ -104,6 +104,7 @@
 - [Multi-Component Graph Convolutional Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mccf_aaai20/README.md)
 - [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/magnn_aaai20/README.md)
 - [Estimating Early Fundraising Performance of Innovations via Graph-based Market Environment Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cme_aaai20/README.md)
+- [Hybrid Graph Neural Networks for Crowd Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hygnn_aaai20/README.md)
 - [A Graph Auto-Encoder for Haplotype Assembly and Viral Quasispecies Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gaeseq_aaai20/README.md)
 - [Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gct_aaai20/README.md)
 - [Graph Representations for Higher-Order Logic and Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gnntheorem_aaai20/README.md)
@@ -117,7 +118,6 @@
 <summary> more </summary> 
  
 - Co‐GCN for Multi‐View Semi‐Supervised Learning
-- Hybrid Graph Neural Networks for Crowd Counting
 - Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
 - Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN
