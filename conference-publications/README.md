@@ -276,7 +276,7 @@
 
 # [EMNLP 2019 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/README.md)
 - [CaRe: Open Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/care_emnlp19/README.md)
-- [KagNet: Learning to Answer Commonsense Questions with Knowledge-Aware Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_aaai19/README.md)
+- [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_emnlp19/README.md)
 - [Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/eog_emnlp19/README.md)
 - [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/hgat_emnlp19/README.md)
 - [Fine-Grained Entity Typing via Hierarchical Multi Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/hmgcn_emnlp19/README.md)
