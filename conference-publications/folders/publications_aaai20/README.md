@@ -35,6 +35,7 @@
 # Natural Language Processing
 - [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
 - [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
+- [Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphlstm_aaai20/README.md)
 - [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
 - [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
 - [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
@@ -125,7 +126,6 @@
 - Co‐GCN for Multi‐View Semi‐Supervised Learning
 - Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
-- Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
 - Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network
