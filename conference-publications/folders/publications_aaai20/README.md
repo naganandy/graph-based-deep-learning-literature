@@ -148,7 +148,6 @@ Convolution
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
-- A Multi-Channel Neural Graphical Event Model with Negative Evidence
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Attribute Propagation Network for Graph Zero-shot Learning
 - Temporal Network Embedding with High‐Order Nonlinear Information
