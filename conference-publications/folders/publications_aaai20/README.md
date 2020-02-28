@@ -58,6 +58,7 @@
 - [Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/urcnn_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
 - [When Radiology Report Generation meets Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/radiologygcn_aaai20/README.md)
+- [Attribute Propagation Network for Graph Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/apnet_aaai20/README.md)
 - [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrgcn_aaai20/README.md)
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
@@ -149,7 +150,6 @@ Convolution
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
-- Attribute Propagation Network for Graph Zero-shot Learning
 - Temporal Network Embedding with High‐Order Nonlinear Information
 - CGD: Multi-view Clustering via Cross-view Graph Diffusion
 - MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
