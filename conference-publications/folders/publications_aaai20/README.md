@@ -156,7 +156,6 @@ Convolution
 - Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
 - Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
-- Dual Relation Semi‐supervised Multi-label Learning
 - A Multi-Scale Approach for Graph Link Prediction
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - Label Error Correction and Generation Through Label Relationships
