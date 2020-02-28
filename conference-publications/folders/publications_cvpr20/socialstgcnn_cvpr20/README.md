@@ -11,3 +11,4 @@ year = {2019}
 
 links
 - [arXiv](https://arxiv.org/abs/2002.11927)
+- [video](https://www.youtube.com/watch?v=Yi9rVHJM8WY)
