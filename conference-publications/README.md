@@ -10,7 +10,6 @@
 
 ## -----------------------------------------------------------------------------
 # CVPR 2020 (Jun)
-- [Deep Snake for Real-Time Instance Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/deepsnake_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
 
 
