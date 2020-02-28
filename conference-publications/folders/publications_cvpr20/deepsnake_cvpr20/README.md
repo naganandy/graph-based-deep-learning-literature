@@ -11,3 +11,4 @@ year = {2020}
 
 links
 - [arXiv](https://arxiv.org/abs/2001.01629)
+- [code](https://github.com/zju3dv/snake/)
