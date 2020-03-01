@@ -10,6 +10,7 @@
 
 ## -----------------------------------------------------------------------------
 # CVPR 2020 (Jun)
+- [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/orgtlr_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
 
 
