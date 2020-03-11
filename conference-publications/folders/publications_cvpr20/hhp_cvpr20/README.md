@@ -11,4 +11,4 @@ year = {2020}
 
 links
 - [arXiv](https://arxiv.org/abs/2003.04845)
-- [github](https://github.com/hlzhu09/Hierarchical-Human-Parsing)
+- [code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)
