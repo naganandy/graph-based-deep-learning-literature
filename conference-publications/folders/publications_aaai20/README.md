@@ -139,7 +139,6 @@
 <details> 
 <summary> more </summary> 
  
-- Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
