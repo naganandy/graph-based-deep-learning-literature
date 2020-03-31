@@ -32,6 +32,9 @@
 - [VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vsgnet_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
 
+</details>
+
+
 
 ## -----------------------------------------------------------------------------
 # [WWW 2020 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/README.md)
@@ -39,11 +42,16 @@
 - [MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/magnn_www20/README.md)
 - [Heterogeneous Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hgt_www20/README.md)
 - [Unsupervised Domain Adaptive Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/udagcn_www20/README.md)
+- [Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/upgan_www20/README.md)
 - [Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/mgnn_www20/README.md)
 - [Open Knowledge Enrichment for Long-tail Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/okele_www20/README.md)
 - [Structural Deep Clustering Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/sdcn_www20/README.md)
 - [Adversarial Attack on Community Detection by Hiding Individuals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cdattack_www20/README.md)
 - [GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/graphgen_www20/README.md)
+
+<details> 
+<summary> more </summary> 
+
 - [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/taxoexpan_www20/README.md)
 
 </details>
