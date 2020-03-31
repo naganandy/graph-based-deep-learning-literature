@@ -37,6 +37,13 @@
 
 
 
+
+# Video Question Answering
+- [Location-aware Graph Convolutional Networks for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lgcn_aaai20/README.md)
+- [Reasoning with Heterogeneous Graph Alignment for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hga_aaai20/README.md)
+
+
+
 # Human Actions
 - [Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jlac_aaai20/README.md)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
@@ -73,7 +80,6 @@
 - [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfl_aaai20/README.md)
 - [Learning from the Past: Continual Meta-Learning via Bayesian Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cmlbgnn_aaai20/README.md)
 - [Multi-Stage Self-Supervised Learning for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/m3s_aaai20/README.md)
-
 
 
 
@@ -183,8 +189,6 @@
 - Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
 - GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks.
 - Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
-- Location-aware Graph Convolutional Networks for Video Question Answering
-- Reasoning with Heterogeneous Graph Alignment for Video Question Answering
 - A Multi-Scale Approach for Graph Link Prediction
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
