@@ -39,8 +39,13 @@
 
 
 
-# Natural Language Processing
+# Graph Transformer
 - [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
+- [Graph-based Transformer with Cross-candidate Verification for Semantic Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtcv_aaai20/README.md)
+
+
+
+# Natural Language Processing
 - [Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphlstm_aaai20/README.md)
 - [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
 - [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
@@ -48,8 +53,6 @@
 - [Structure Learning for Headline Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slgen_aaai20/README.md)
 - [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
-
-
 
 
 
@@ -180,7 +183,6 @@
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
-- Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
 
