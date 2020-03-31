@@ -74,6 +74,13 @@
 
 
 
+# Dynamic Graphs
+- [Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/scc_aaai20/README.md)
+- [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
+- [Dynamic Graph Representation for Partially Occluded Biometrics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgr_aaai20/README.md)
+
+
+
 # Muli-layer Graphs
 - [Co-GCN for Multi-View Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cogcn_aaai20/README.md)
 - [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
@@ -83,12 +90,6 @@
 # Collaborative Filtering
 - [Multi-Component Graph Convolutional Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mccf_aaai20/README.md)
 - [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lrgccf_aaai20/README.md)
-
-
-
-# Dynamic Graphs
-- [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
-- [Dynamic Graph Representation for Partially Occluded Biometrics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgr_aaai20/README.md)
 
 
 
@@ -151,8 +152,6 @@
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
-- Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph
-Convolution
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
