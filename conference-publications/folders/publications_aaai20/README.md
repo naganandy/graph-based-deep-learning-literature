@@ -175,8 +175,6 @@
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
-- CGD: Multi-view Clustering via Cross-view Graph Diffusion
-- MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
 - Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
