@@ -10,6 +10,7 @@
 
 ## -----------------------------------------------------------------------------
 # CVPR 2020 (Jun)
+- [L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/l2gcn_cvpr20/README.md)
 - [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/asg2caption_cvpr20/README.md)
 - [Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgr_cvpr20/README.md)
 - [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcagc_cvpr20/README.md)
