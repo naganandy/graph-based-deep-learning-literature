@@ -74,6 +74,12 @@
 
 
 
+# Muli-layer Graphs
+- [Co-GCN for Multi-View Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cogcn_aaai20/README.md)
+- [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
+
+
+
 # Collaborative Filtering
 - [Multi-Component Graph Convolutional Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mccf_aaai20/README.md)
 - [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lrgccf_aaai20/README.md)
@@ -111,7 +117,6 @@
 - [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
 - [Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcnmrf_aaai20/README.md)
 - [Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphsim_aaai20/README.md)
-- [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
 - [Chemically Interpretable Graph Interaction Network for Prediction of Pharmacokinetic Properties of Druglike Molecules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cigin_aaai20/README.md)
 - [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/magnn_aaai20/README.md)
 - [Estimating Early Fundraising Performance of Innovations via Graph-based Market Environment Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cme_aaai20/README.md)
