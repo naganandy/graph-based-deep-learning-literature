@@ -133,7 +133,6 @@
 <details> 
 <summary> more </summary> 
  
-- Co‐GCN for Multi‐View Semi‐Supervised Learning
 - Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi‐Supervised Learning
 - Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks
 - Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
