@@ -181,9 +181,8 @@
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
-- Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
-- Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
+- Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
 
