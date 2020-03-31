@@ -142,7 +142,6 @@
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
 - Graph Attention Based Proposal 3D ConvNets for Action Detection
-- End-to-End Argumentation Knowledge Graph Construction
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph
 Convolution
@@ -150,7 +149,6 @@ Convolution
 - Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph
 - Graph-based Transformer with Cross-candidate Verification for Semantic Parsing
-- Temporal Network Embedding with High‐Order Nonlinear Information
 - CGD: Multi-view Clustering via Cross-view Graph Diffusion
 - MixedAD: A Scalable Algorithm for Detecting Mixed Anomalies in Attributed Graphs
 - Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
