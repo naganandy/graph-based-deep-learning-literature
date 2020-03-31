@@ -24,61 +24,6 @@
 
 
 
-# Few-Shot Learning
-- [Knowledge Graph Transfer Network for Few-Shot Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtn_aaai20/README.md)
-- [Few-Shot Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fsrl_aaai20/README.md)
-- [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfl_aaai20/README.md)
-- [Learning from the Past: Continual Meta-Learning via Bayesian Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cmlbgnn_aaai20/README.md)
-- [Multi-Stage Self-Supervised Learning for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/m3s_aaai20/README.md)
-- [Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/zsgan_aaai20/README.md)
-
-
-
-# Knowledge Graph Alignment
-- [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/alinet_aaai20/README.md)
-- [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ehdjea_aaai20/README.md)
-
-
-
-# Natural Language Processing
-- [Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphlstm_aaai20/README.md)
-- [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
-- [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
-- [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/semsum_aaai20/README.md)
-- [Structure Learning for Headline Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slgen_aaai20/README.md)
-- [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
-- [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
-
-
-
-
-# Graph Transformer
-- [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
-- [Graph-based Transformer with Cross-candidate Verification for Semantic Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtcv_aaai20/README.md)
-
-
-
-# Question Answering
-- [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
-- [Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpge_aaai20/README.md)
-- [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
-
-
-
-# Relation Extraction
-- [Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lstagcn_aaai20/README.md)
-- [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
-
-
-
-# Commonsense Knowledge
-- [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
-- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
-- [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
-- [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
-
-
-
 # Computer Vision
 - [Multi-Label Classification with Label Graph Superimposing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kssnet_aaai20/README.md)
 - [Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcl_aaai20/README.md)
@@ -86,8 +31,6 @@
 - [Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/urcnn_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
 - [When Radiology Report Generation meets Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/radiologygcn_aaai20/README.md)
-- [Attribute Propagation Network for Graph Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/apnet_aaai20/README.md)
-- [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrgcn_aaai20/README.md)
 - [Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/vhgnn_aaai20/README.md)
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
 - [Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cbgln_aaai20/README.md)
@@ -113,6 +56,68 @@
 - [Facial Action Unit Intensity Estimation via Semantic Correspondence Learning with Dynamic Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/scc_aaai20/README.md)
 - [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
 - [Dynamic Graph Representation for Partially Occluded Biometrics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgr_aaai20/README.md)
+
+
+
+# Zero-shot learning
+- [Zero-shot Sketch-based Image Retrieval via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/sketchgcn_aaai20/README.md)
+- [Attribute Propagation Network for Graph Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/apnet_aaai20/README.md)
+- [Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/zsgan_aaai20/README.md)
+- [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrgcn_aaai20/README.md)
+
+
+
+# Few-Shot Learning
+- [Knowledge Graph Transfer Network for Few-Shot Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtn_aaai20/README.md)
+- [Few-Shot Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fsrl_aaai20/README.md)
+- [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfl_aaai20/README.md)
+- [Learning from the Past: Continual Meta-Learning via Bayesian Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cmlbgnn_aaai20/README.md)
+- [Multi-Stage Self-Supervised Learning for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/m3s_aaai20/README.md)
+
+
+
+
+# Commonsense Knowledge
+- [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
+- [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
+- [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
+
+
+
+# Knowledge Graph Alignment
+- [Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/alinet_aaai20/README.md)
+- [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ehdjea_aaai20/README.md)
+
+
+
+# Natural Language Processing
+- [Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphlstm_aaai20/README.md)
+- [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
+- [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
+- [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/semsum_aaai20/README.md)
+- [Structure Learning for Headline Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slgen_aaai20/README.md)
+- [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
+- [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
+
+
+
+# Graph Transformer
+- [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
+- [Graph-based Transformer with Cross-candidate Verification for Semantic Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtcv_aaai20/README.md)
+
+
+
+# Question Answering
+- [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
+- [Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpge_aaai20/README.md)
+- [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
+
+
+
+# Relation Extraction
+- [Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lstagcn_aaai20/README.md)
+- [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
 
 
 
@@ -184,9 +189,7 @@
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
-- Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
-- DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
