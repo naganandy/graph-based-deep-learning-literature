@@ -175,7 +175,6 @@
 - A Multi-Scale Approach for Graph Link Prediction
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - DGE: Deep Generative Network Embedding Based on Commonality and Individuality
-- A Knowledge-Aware Attentional Reasoning Network for Recommendation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
 
 
