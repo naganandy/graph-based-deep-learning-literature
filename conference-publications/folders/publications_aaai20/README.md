@@ -46,8 +46,12 @@
 
 # Human Actions
 - [Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jlac_aaai20/README.md)
-- [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
 - [Graph Attention based Proposal 3D ConvNets for Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/agcnpc3d_aaai20/README.md)
+
+
+# Skeleton-based Action Recognition
+- [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
+- [Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/plgcn_aaai20/README.md)
 
 
 
@@ -183,7 +187,6 @@
 <details> 
 <summary> more </summary> 
  
-- Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
 - Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network
 - Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
