@@ -74,6 +74,12 @@
 
 
 
+# Collaborative Filtering
+- [Multi-Component Graph Convolutional Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mccf_aaai20/README.md)
+- [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lrgccf_aaai20/README.md)
+
+
+
 # Dynamic Graphs
 - [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/evolvegcn_aaai20/README.md)
 - [Dynamic Graph Representation for Partially Occluded Biometrics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dgr_aaai20/README.md)
@@ -99,7 +105,6 @@
 - [GraLSP: Graph Neural Networks with Local Structural Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gralsp_aaai20/README.md)
 - [Independence Promoted Graph Disentangled Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ipgdn_aaai20/README.md)
 - [An Attention-based Graph Neural Network for Heterogeneous Structural Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hetsann_aaai20/README.md)
-- [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lrgccf_aaai20/README.md)
 - [Graph Representation Learning via Ladder Gamma Variational Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lgvg_aaai20/README.md)
 - [Effective Decoding in Graph Auto-Encoder using Triadic Closure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tvga_aaai20/README.md)
 - [Modality to Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfn_aaai20/README.md)
@@ -108,7 +113,6 @@
 - [Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphsim_aaai20/README.md)
 - [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
 - [Chemically Interpretable Graph Interaction Network for Prediction of Pharmacokinetic Properties of Druglike Molecules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cigin_aaai20/README.md)
-- [Multi-Component Graph Convolutional Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mccf_aaai20/README.md)
 - [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/magnn_aaai20/README.md)
 - [Estimating Early Fundraising Performance of Innovations via Graph-based Market Environment Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cme_aaai20/README.md)
 - [Hybrid Graph Neural Networks for Crowd Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hygnn_aaai20/README.md)
