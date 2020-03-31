@@ -11,3 +11,4 @@ year = {2020}
 
 links
 - [arXiv](https://arxiv.org/abs/2003.13606)
+- [code](https://github.com/Shen-Lab/L2-GCN)
