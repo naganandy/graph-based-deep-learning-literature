@@ -200,6 +200,7 @@
 - [Neural Graph Embedding for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/nge_aaai20/README.md)
 - [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/magnn_aaai20/README.md)
 - [Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jlac_aaai20/README.md)
+- [Part-Level Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/plgcn_aaai20/README.md)
 - [Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ceimgcn_aaai20/README.md)
 - [Graph Attention based Proposal 3D ConvNets for Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/agcnpc3d_aaai20/README.md)
 
