@@ -185,9 +185,7 @@
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
-- Graph Attention Based Proposal 3D ConvNets for Action Detection
 - DGCN: Dynamic Graph Convolutional Network for Efficient Multi-Person Pose Estimation
-- Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Networks
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
