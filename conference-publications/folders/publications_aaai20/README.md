@@ -155,6 +155,7 @@
 - Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
 - Location-aware Graph Convolutional Networks for Video Question Answering
 - Reasoning with Heterogeneous Graph Alignment for Video Question Answering
+- A Multi-Scale Approach for Graph Link Prediction
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
 - Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
@@ -172,9 +173,6 @@
 - Graph-propagation based Correlation Learning for Weakly Supervised Fine-grained Image Classification
 - Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
-- A Multi-Scale Approach for Graph Link Prediction
-- Knowledge-Graph Augmented Word Representations For Named Entity Recognition
-- DGE: Deep Generative Network Embedding Based on Commonality and Individuality
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
 
 
