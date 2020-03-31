@@ -6,6 +6,7 @@
 - [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/asap_aaai20/README.md)
 - [Hierarchical Graph Pooling with Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hgpsl_aaai20/README.md)
 - [GSSNN: Graph Smoothing Splines Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gssnn_aaai20/README.md) 
+- [Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/magcnn_aaai20/README.md)
 - [Graph-Hist: Graph Classification from Latent Feature Histograms With Application to Bot Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphist_aaai20/README.md)
 
 
@@ -182,7 +183,6 @@
 - A Multi-Scale Approach for Graph Link Prediction
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
-- Motif-matching based Subgraph-level Attentional Convolution Network for Graph Classification
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Zero-shot Sketch-based Image Retrieval via Graph Convolution Network
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
