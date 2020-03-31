@@ -80,10 +80,16 @@
 
 # Few-Shot Learning
 - [Knowledge Graph Transfer Network for Few-Shot Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtn_aaai20/README.md)
-- [Few-Shot Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fsrl_aaai20/README.md)
 - [Graph Few-shot Learning via Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfl_aaai20/README.md)
 - [Learning from the Past: Continual Meta-Learning via Bayesian Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cmlbgnn_aaai20/README.md)
 - [Multi-Stage Self-Supervised Learning for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/m3s_aaai20/README.md)
+
+
+
+# Knowledge Graph Completion
+- [Few-Shot Knowledge Base Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/fsrl_aaai20/README.md)
+- [Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/rghat_aaai20/README.md)
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
 
 
 
@@ -91,12 +97,6 @@
 - [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
 - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
 - [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
-
-
-
-# Knowledge Graph Completion
-- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
-- [Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/rghat_aaai20/README.md)
 
 
 
