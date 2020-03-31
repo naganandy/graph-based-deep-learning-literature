@@ -37,7 +37,6 @@
 
 
 
-
 # Video Question Answering
 - [Location-aware Graph Convolutional Networks for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lgcn_aaai20/README.md)
 - [Reasoning with Heterogeneous Graph Alignment for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hga_aaai20/README.md)
@@ -47,6 +46,7 @@
 # Human Actions
 - [Relation-Aware Pedestrian Attribute Recognition with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jlac_aaai20/README.md)
 - [Graph Attention based Proposal 3D ConvNets for Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/agcnpc3d_aaai20/README.md)
+
 
 
 # Skeleton-based Action Recognition
