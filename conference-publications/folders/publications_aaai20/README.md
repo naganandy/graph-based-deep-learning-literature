@@ -43,7 +43,6 @@
 - [Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gtgsl_aaai20/README.md)
 - [Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphlstm_aaai20/README.md)
 - [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
-- [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
 - [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
 - [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/semsum_aaai20/README.md)
 - [Structure Learning for Headline Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slgen_aaai20/README.md)
@@ -58,6 +57,12 @@
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
 - [Capturing Sentence Relations for Answer Sentence Selection with Multi-Perspective Graph Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpge_aaai20/README.md)
 - [CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cfgnn_aaai20/README.md)
+
+
+
+# Relation Extraction
+- [Relation Extraction with Convolutional Network over Learnable Syntax-Transport Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lstagcn_aaai20/README.md)
+- [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
 
 
 
