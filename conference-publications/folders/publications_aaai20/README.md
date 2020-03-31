@@ -47,6 +47,7 @@
 - [Relation Extraction Exploiting Full Dependency Forests](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/forestddcnn_aaai20/README.md)
 - [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
 - [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/semsum_aaai20/README.md)
+- [Structure Learning for Headline Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slgen_aaai20/README.md)
 - [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
 - [Message Passing Attention Networks for Document Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mpad_aaai20/README.md)
 - [Select, Answer and Explain: Interpretable Multi-hop Reading Comprehension over Multiple Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/c2freader_aaai20/README.md)
@@ -175,8 +176,6 @@
 - Knowledge-Graph Augmented Word Representations For Named Entity Recognition
 - DGE: Deep Generative Network Embedding Based on Commonality and Individuality
 - A Knowledge-Aware Attentional Reasoning Network for Recommendation
-- Structure Learning for Headline Generation
-- SemSUM: Semantic Dependency Guided Neural Abstractive Summarization
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
 
 
