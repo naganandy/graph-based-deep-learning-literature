@@ -4,6 +4,10 @@
 - [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/asg2caption_cvpr20/README.md)
 - [GPS-Net: Graph Property Sensing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpsnet_cvpr20/README.md)
 
+# Common Object Detection
+- [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
+- [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcagc_cvpr20/README.md)
+
 # Videos
 - [Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgr_cvpr20/README.md)
 - [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/orgtlr_cvpr20/README.md)
@@ -17,8 +21,6 @@
 
 # Miscellaneous
 - [L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/l2gcn_cvpr20/README.md)
-- [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcagc_cvpr20/README.md)
-- [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
 - [Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/drrg_cvpr20/README.md)
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
 - [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
