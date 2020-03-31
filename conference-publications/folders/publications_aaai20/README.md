@@ -31,8 +31,8 @@
 - [Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/urcnn_aaai20/README.md)
 - [Learning Cross-modal Context Graph for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lcmcg_aaai20/README.md)
 - [When Radiology Report Generation meets Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/radiologygcn_aaai20/README.md)
-- [Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/vhgnn_aaai20/README.md)
 - [STEP: Spatial Temporal Graph Convolutional Networks for Emotion Perception from Gaits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/step_aaai20/README.md)
+- [Find Objects and Focus on Highlights: Mining Object Semantics for Video Highlight Detection via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/vhgnn_aaai20/README.md)
 - [Cut-Based Graph Learning networks to Discover Compositional Structure of Sequential Video Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cbgln_aaai20/README.md)
 
 
