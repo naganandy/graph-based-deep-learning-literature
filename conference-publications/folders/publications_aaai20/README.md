@@ -90,8 +90,13 @@
 # Commonsense Knowledge
 - [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/jcsrr_aaai20/README.md)
 - [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hekcqa_aaai20/README.md)
-- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
 - [Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/kgtegcn_aaai20/README.md)
+
+
+
+# Knowledge Graph Completion
+- [Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/rghat_aaai20/README.md)
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
 
 
 
@@ -189,7 +194,6 @@
  
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
 - Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network
-- Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
 - GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks.
 - Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
 - A Multi-Scale Approach for Graph Link Prediction
