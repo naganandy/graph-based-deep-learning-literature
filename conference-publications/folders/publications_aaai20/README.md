@@ -136,9 +136,15 @@
 
 
 
-# Muli-layer Graphs
+# Muli-view Networks
 - [Co-GCN for Multi-View Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cogcn_aaai20/README.md)
 - [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
+
+
+
+# Link Prediction
+- [A Multi-Scale Approach for Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mlink_aaai20/README.md)
+- [Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/talp_aaai20/README.md)
 
 
 
@@ -193,10 +199,8 @@
 <summary> more </summary> 
  
 - Uncertainty Aware Graph Gaussian Process for Semi-Supervised Learning
-- Type-aware Anchor Link Prediction across Heterogeneous Networks based on Graph Attention Network
 - GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks.
 - Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
-- A Multi-Scale Approach for Graph Link Prediction
 - Hypergraph Label Propagation Network
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
