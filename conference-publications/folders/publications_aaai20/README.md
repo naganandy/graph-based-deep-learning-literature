@@ -110,6 +110,7 @@
 - [Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphlstm_aaai20/README.md)
 - [Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/bigcn_aaai20/README.md)
 - [Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/synchgcn_aaai20/README.md)
+- [GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/grapher_aaai20/README.md)
 - [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/semsum_aaai20/README.md)
 - [Structure Learning for Headline Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slgen_aaai20/README.md)
 - [Tensor Graph Convolutional Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/tensorgcn_aaai20/README.md)
@@ -200,7 +201,6 @@
 <details> 
 <summary> more </summary> 
  
-- GraphER: Token-Centric Entity Resolution with Graph Convolutional Neural Networks.
 - Schema-Guided Multi-Domain Dialogue State Tracking with Graph Attention Neural Networks
 - Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
