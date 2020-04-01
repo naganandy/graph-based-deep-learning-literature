@@ -160,6 +160,7 @@
 # Traffic
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gman_aaai20/README.md)
 - [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/share_aaai20/README.md)
+- [Spatio-Temporal Graph Structure Learning for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/slcnn_aaai20/README.md)
 - [Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/stsgcn_aaai20/README.md)
 - [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/mrabgcn_aaai20/README.md)
 - [RoadTagger: Robust Road Attribute Inference with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/roadtagger_aaai20/README.md)
@@ -204,7 +205,6 @@
 <details> 
 <summary> more </summary> 
  
-- Spatio-Temporal Graph Structure Learning for Traffic Forecasting
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
 - ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
