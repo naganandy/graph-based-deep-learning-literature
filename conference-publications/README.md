@@ -127,6 +127,7 @@
 <summary> more </summary> 
 
 - [Co-GCN for Multi-View Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cogcn_aaai20/README.md)
+- [Learning Signed Network Embedding via Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/snea_aaai20/README.md)
 - [Going Deep: Graph Convolutional Ladder-shape Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcln_aaai20/README.md)
 - [Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/rghat_aaai20/README.md)
 - [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/csgcn_aaai20/README.md)
