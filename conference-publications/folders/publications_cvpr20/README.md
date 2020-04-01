@@ -12,6 +12,12 @@
 
 
 
+# Knowledge Distillation
+- [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stvideo_cvpr20/README.md)
+- [Distillating Knowledge from Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/kdgcn_cvpr20/README.md)
+
+
+
 # Common Object Detection
 - [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
 - [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcagc_cvpr20/README.md)
@@ -37,7 +43,6 @@
 # Miscellaneous
 - [L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/l2gcn_cvpr20/README.md)
 - [DPGN: Distribution Propagation Graph Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dpgn_cvpr20/README.md)
-- [Distillating Knowledge from Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/kdgcn_cvpr20/README.md)
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
 - [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
 - [CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cprgcn_cvpr20/README.md)
