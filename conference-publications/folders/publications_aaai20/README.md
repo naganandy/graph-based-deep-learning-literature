@@ -141,6 +141,7 @@
 # Muli-view Networks
 - [Co-GCN for Multi-View Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/cogcn_aaai20/README.md)
 - [Unsupervised Attributed Multiplex Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/dmgi_aaai20/README.md)
+- [Learning Signed Network Embedding via Graph Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/snea_aaai20/README.md)
 
 
 
@@ -202,7 +203,6 @@
 <details> 
 <summary> more </summary> 
  
-- Learning Signed Network Embedding via Graph Attention
 - Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
