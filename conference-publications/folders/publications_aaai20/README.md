@@ -185,6 +185,7 @@
 - [Hypergraph Label Propagation Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/hlpn_aaai20/README.md)
 - [Graph Representation Learning via Ladder Gamma Variational Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/lgvg_aaai20/README.md)
 - [Modality to Modality Translation: An Adversarial Representation Learning and Graph Fusion Network for Multimodal Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfn_aaai20/README.md)
+- [Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/nlsoa_aaai20/README.md)
 - [A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gfattack_aaai20/README.md)
 - [Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gcnmrf_aaai20/README.md)
 - [Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/graphsim_aaai20/README.md)
@@ -203,7 +204,6 @@
 <details> 
 <summary> more </summary> 
  
-- Multi-label Patent Categorization with Non-local Attention-based Graph Convolutional Network 
 - Spatio-Temporal Graph Structure Learning for Traffic Forecasting
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
 - Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
