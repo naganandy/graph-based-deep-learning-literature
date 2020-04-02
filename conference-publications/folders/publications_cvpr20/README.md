@@ -43,6 +43,7 @@
 
 # Miscellaneous
 - [L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/l2gcn_cvpr20/README.md)
+- [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcnve_cvpr20/README.md)
 - [DPGN: Distribution Propagation Graph Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dpgn_cvpr20/README.md)
 - [HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hopenet_cvpr20/README.md)
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
