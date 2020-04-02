@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{gcnve20,
-author = {Xia Li and Yibo Yang and Qijie Zhao and Tiancheng Shen and Zhouchen Lin and Hong Liu},
+author = {Lei Yang and Dapeng Chen and Xiaohang Zhan and Rui Zhao and Chen Change Loy and Dahua Lin},
 title = {Learning to Cluster Faces via Confidence and Connectivity Estimation},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year = {2020}
