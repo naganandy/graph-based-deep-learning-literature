@@ -9,6 +9,7 @@
 # Vision and Text
 - [Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/mmgnn_cvpr20/README.md)
 - [Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/drrg_cvpr20/README.md)
+- [Graph Structured Network for Image-Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gsmn_cvpr20/README.md)
 
 
 
