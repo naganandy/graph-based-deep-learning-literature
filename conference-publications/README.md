@@ -4,7 +4,6 @@
 - KDD 2020 (Aug, decisions mid May)
 - UAI 2020 (Aug, decisions mid May)
 - IJCAI 2020 (Jul, decisions late Apr)
-- ACL 2020 (Jul, decisions early Apr)
 
 ## -----------------------------------------------------------------------------
 # [ACL 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/README.md)
