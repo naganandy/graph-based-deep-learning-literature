@@ -6,6 +6,10 @@
 - IJCAI 2020 (Jul, decisions late Apr)
 - ACL 2020 (Jul, decisions early Apr)
 
+## -----------------------------------------------------------------------------
+# [ACL 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/README.md)
+- [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ladan_acl20/README.md)
+
 
 
 ## -----------------------------------------------------------------------------
