@@ -1,4 +1,4 @@
-# Publications in WWW 2020
+# [Publications in WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/research_track/)
 
 # Heterogeneous Graphs
 - [MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/magnn_www20/README.md)
@@ -30,5 +30,6 @@
 <summary> more </summary> 
 
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
+- Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding
 
 </details>
