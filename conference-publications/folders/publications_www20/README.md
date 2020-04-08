@@ -9,6 +9,7 @@
 # Multi-relational Graphs
 - [Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/upgan_www20/README.md)
 - [Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/mgnn_www20/README.md)
+- [Collective Multi-type Entity Alignment Between Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cgmualign_www20/README.md)
 - [Open Knowledge Enrichment for Long-tail Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/okele_www20/README.md)
 - [GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/graphgen_www20/README.md)
 
