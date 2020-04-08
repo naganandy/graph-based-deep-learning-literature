@@ -31,5 +31,6 @@
 
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
 - Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding
+- Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
 
 </details>
