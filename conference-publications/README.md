@@ -119,6 +119,7 @@
 <summary> more </summary> 
 
 -  [A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/eegcn_www20/README.md)
+- [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
 - [Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/germ_www20/README.md)
 - [ROSE: Role-based Signed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/rose_www20/README.md)
 - [Graph Enhanced Representation Learning for News Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gerl_www20/README.md)
