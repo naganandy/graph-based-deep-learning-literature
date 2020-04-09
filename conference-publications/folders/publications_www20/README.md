@@ -16,8 +16,9 @@
 
 
 # Bipartite Networks
-- [ROSE: Role-based Signed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/rose_www20/README.md)
+- [Graph Enhanced Representation Learning for News Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gerl_www20/README.md)
 - [Learning to Hash with Graph Neural Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hashgnn_www20/README.md)
+- [ROSE: Role-based Signed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/rose_www20/README.md)
 
 
 
