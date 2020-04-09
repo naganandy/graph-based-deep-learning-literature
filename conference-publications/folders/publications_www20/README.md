@@ -49,6 +49,7 @@
 <details> 
 <summary> more </summary> 
 
+- Dynamic Graph Convolutional Networks for Entity Linking
 - Identifying Referential Intention with Heterogeneous Contexts
 - Learning the Structure of Auto-Encoding Recommenders
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
