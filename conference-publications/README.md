@@ -119,6 +119,7 @@
 <summary> more </summary> 
 
 - [ROSE: Role-based Signed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/rose_www20/README.md)
+- [Learning to Hash with Graph Neural Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hashgnn_www20/README.md)
 - [Collective Multi-type Entity Alignment Between Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cgmualign_www20/README.md)
 - [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/taxoexpan_www20/README.md)
 
