@@ -118,6 +118,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Graph Attention Topic Modeling Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gaton_www20/README.md)
 -  [A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/eegcn_www20/README.md)
 - [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
 - [Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/germ_www20/README.md)
