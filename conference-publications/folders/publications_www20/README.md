@@ -39,6 +39,7 @@
 <details> 
 <summary> more </summary> 
 
+- Learning the Structure of Auto-Encoding Recommenders
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
 - Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
 - Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
