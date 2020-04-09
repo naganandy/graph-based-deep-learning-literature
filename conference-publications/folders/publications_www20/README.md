@@ -3,6 +3,7 @@
 # Heterogeneous Graphs
 - [MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/magnn_www20/README.md)
 - [Heterogeneous Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hgt_www20/README.md)
+- [Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/germ_www20/README.md)
 
 
 
@@ -39,7 +40,6 @@
 <summary> more </summary> 
 
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
-- Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding
 - Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
 - Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
 
