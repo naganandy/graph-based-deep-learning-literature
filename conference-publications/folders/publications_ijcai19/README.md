@@ -24,7 +24,7 @@
 
 
 
-# Graph Topoogy
+# Graph Topology
 - [Topology Optimization based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19/togcn_ijcai19/README.md)
 - [Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19/dspgcn_ijcai19/README.md)
 
