@@ -13,6 +13,7 @@
 - [Collective Multi-type Entity Alignment Between Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cgmualign_www20/README.md)
 - [Open Knowledge Enrichment for Long-tail Entities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/okele_www20/README.md)
 - [GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/graphgen_www20/README.md)
+- [One2Multi Graph Autoencoder for Multi-view Graph Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/o2mac_www20/README.md)
 
 
 
