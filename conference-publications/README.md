@@ -124,6 +124,7 @@
 - [Learning to Hash with Graph Neural Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hashgnn_www20/README.md)
 - [Collective Multi-type Entity Alignment Between Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cgmualign_www20/README.md)
 - [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/taxoexpan_www20/README.md)
+- [Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gcscoot_www20/README.md)
 - [Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gacnn_www20/README.md)
 
 </details>
