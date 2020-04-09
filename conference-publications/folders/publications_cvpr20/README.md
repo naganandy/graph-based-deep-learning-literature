@@ -4,6 +4,7 @@
 - [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/asg2caption_cvpr20/README.md)
 - [GPS-Net: Graph Property Sensing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpsnet_cvpr20/README.md)
 - [Semantic Image Manipulation Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/simsg_cvpr20/README.md)
+- [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dssg_cvpr20/README.md)
 
 
 
