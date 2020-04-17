@@ -1,10 +1,10 @@
 # Hierarchical Graph Representation Learning with Differentiable Pooling
 
 ```
-@incollection{diffpool_nips18,
+@incollection{diffpool_neurips18,
 title = {Hierarchical Graph Representation Learning with Differentiable Pooling},
 author = {Ying, Zhitao and You, Jiaxuan and Morris, Christopher and  Xiang, Ren and and Hamilton, William L. and Leskovec, Jure},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {4805--4815},
 publisher = {Curran Associates, Inc.}
