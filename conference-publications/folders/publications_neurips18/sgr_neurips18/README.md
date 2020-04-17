@@ -11,5 +11,5 @@ year = {2018}
 ```
 
 links
-- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11198)
+- [neurips](https://nips.cc/Conferences/2018/Schedule?showEvent=11198)
 - [medium](https://medium.com/@Petuum/symbolic-graph-reasoning-meets-convolutions-neurips-2018-fa23cad37de6)
