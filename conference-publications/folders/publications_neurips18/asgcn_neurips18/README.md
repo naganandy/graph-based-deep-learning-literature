@@ -13,4 +13,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/1809.05343)
-- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11449)
+- [neurips](https://nips.cc/Conferences/2018/Schedule?showEvent=11449)
