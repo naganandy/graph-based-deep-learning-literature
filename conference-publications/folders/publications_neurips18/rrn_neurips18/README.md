@@ -12,5 +12,5 @@ year = {2018}
 
 links
 - [arXiv](https://arxiv.org/abs/1711.08028)
-- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11339)
+- [neurips](https://nips.cc/Conferences/2018/Schedule?showEvent=11339)
 - [code](https://github.com/rasmusbergpalm/recurrent-relational-networks)
