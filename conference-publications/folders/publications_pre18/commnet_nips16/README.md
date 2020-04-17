@@ -15,5 +15,5 @@ links
 - [slides](https://uclmr.github.io/nampi/talk_slides/rob-nampi.pdf)
 - [spotlight](https://www.youtube.com/watch?v=KhtdEvJ1F6Q)
 - [code](https://github.com/facebookresearch/CommNet)
-- [nips](https://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation)
+- [neurips](https://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation)
 - [reviews](https://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1153.html)
