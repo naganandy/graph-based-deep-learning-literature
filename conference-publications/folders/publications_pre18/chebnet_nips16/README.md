@@ -14,7 +14,7 @@ links
 - [arXiv](https://arxiv.org/abs/1606.09375)
 - [tensorflow_code](https://github.com/mdeff/cnn_graph)
 - [pytorch_code](https://github.com/xbresson/graph_convnets_pytorch)
-- [nips](https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering)
+- [neurips](https://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering)
 - [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1911.html)
 - [spotlight](https://www.youtube.com/watch?v=cIA_m7vwOVQ)
 - [slides](https://ndownloader.figshare.com/files/7253636)
