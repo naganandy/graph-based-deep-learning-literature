@@ -1,10 +1,10 @@
 #  Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
 
 ```
-@incollection{gcpn_nips18,
+@incollection{gcpn_neurips18,
 title = {Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation},
 author = {You, Jiaxuan and Liu, Bowen and Ying, Rex and Pande, Vijay and Leskovec, Jure},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {6412--6422},
 publisher = {Curran Associates, Inc.}
