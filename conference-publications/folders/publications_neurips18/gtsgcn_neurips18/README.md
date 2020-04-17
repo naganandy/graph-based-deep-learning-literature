@@ -1,10 +1,10 @@
 # Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search
 
 ```
-@incollection{gtsgcn_nips18,
+@incollection{gtsgcn_neurips18,
 title = {Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search},
 author = {Li, Zhuwen and Chen, Qifeng and Koltun, Vladlen},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {537--546},
 publisher = {Curran Associates, Inc.}
