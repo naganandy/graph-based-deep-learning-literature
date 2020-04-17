@@ -1,10 +1,10 @@
 #  Diffusion Maps for Textual Network Embedding
 
 ```
-@incollection{dmte_nips18,
+@incollection{dmte_neurips18,
 title = {Diffusion Maps for Textual Network Embedding},
 author = {Zhang, Xinyuan and Li, Yitong and Shen, Dinghan and Carin, Lawrence},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {7598--7608},
 publisher = {Curran Associates, Inc.}
