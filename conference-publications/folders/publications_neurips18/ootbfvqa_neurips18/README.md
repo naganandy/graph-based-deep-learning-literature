@@ -1,10 +1,10 @@
 # Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering
 
 ```
-@incollection{ootbfvqa_nips18,
+@incollection{ootbfvqa_neurips18,
 title = {Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering},
 author = {Narasimhan, Medhini and Lazebnik, Svetlana and Schwing, Alexander},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {2659--2670},
 publisher = {Curran Associates, Inc.}
