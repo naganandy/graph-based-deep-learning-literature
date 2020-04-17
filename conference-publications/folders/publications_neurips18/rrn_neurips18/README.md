@@ -1,10 +1,10 @@
 # Recurrent Relational Networks
 
 ```
-@incollection{rrn_nips18,
+@incollection{rrn_neurips18,
 title = {Recurrent Relational Networks},
 author = {Palm, Rasmus and Paquet, Ulrich and Winther, Ole},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 pages = {3368--3378},
 year = {2018}
 }
