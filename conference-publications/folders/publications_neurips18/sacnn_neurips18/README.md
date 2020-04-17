@@ -12,5 +12,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11029)
+- [neurips](https://nips.cc/Conferences/2018/Schedule?showEvent=11029)
 - [poster](https://github.com/vector-1127/SACNNs/blob/master/poster/0033-SACNN-poster.pdf)
