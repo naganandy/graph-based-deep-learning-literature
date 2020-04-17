@@ -14,4 +14,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/1806.08804)
 - [video](https://www.facebook.com/nipsfoundation/videos/265425524142328/) (1:29:00 - 1:34:00)
-- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11471)
+- [neurips](https://nips.cc/Conferences/2018/Schedule?showEvent=11471)
