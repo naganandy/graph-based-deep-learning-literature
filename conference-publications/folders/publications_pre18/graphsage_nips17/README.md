@@ -14,7 +14,7 @@ links
 - [arXiv](https://arxiv.org/abs/1706.02216)
 - [tensorflow_code](https://github.com/williamleif/GraphSAGE)
 - [pytorch_code](https://github.com/williamleif/graphsage-simple/)
-- [nips](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs)
+- [neurips](http://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs)
 - [project_website](http://snap.stanford.edu/graphsage/)
 
 authors
