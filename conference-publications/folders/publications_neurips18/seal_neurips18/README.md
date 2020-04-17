@@ -1,7 +1,7 @@
 # Link Prediction Based on Graph Neural Networks
 
 ```
-@incollection{seal_nips18,
+@incollection{seal_neurips18,
 title = {Link Prediction Based on Graph Neural Networks},
 author = {Zhang, Muhan  and Chen, Yixin},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
