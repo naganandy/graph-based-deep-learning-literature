@@ -1,10 +1,10 @@
 #  Diffusion-Convolutional Neural Networks
 
 ```
-@incollection{dcnn_nips16,
+@incollection{dcnn_neurips16,
 title = {Diffusion-Convolutional Neural Networks},
 author = {Atwood, James and Towsley, Don},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 29},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 29},
 pages = {1993--2001},
 year = {2016},
 publisher = {Curran Associates, Inc.}
