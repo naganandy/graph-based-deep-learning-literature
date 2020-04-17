@@ -16,4 +16,4 @@ links
 - [arXiv](https://arxiv.org/abs/1509.09292)
 - [code](https://github.com/HIPS/neural-fingerprint)
 - [reviews](https://media.nips.cc/nipsbooks/nipspapers/paper_files/nips28/reviews/1321.html)
-- [nips](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints)
+- [neurips](https://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints)
