@@ -12,4 +12,4 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [nips](https://nips.cc/Conferences/2018/Schedule?showEvent=11879)
+- [neurips](https://nips.cc/Conferences/2018/Schedule?showEvent=11879)
