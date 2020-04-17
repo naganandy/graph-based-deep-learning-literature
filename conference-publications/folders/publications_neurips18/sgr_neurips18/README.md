@@ -1,10 +1,10 @@
 # Symbolic Graph Reasoning Meets Convolutions
 
 ```
-@incollection{sgr_nips18,
+@incollection{sgr_neurips18,
 title = {Symbolic Graph Reasoning Meets Convolutions},
 author = {Liang, Xiaodan and Hu, Zhiting and Zhang, Hao and Lin, Liang and Xing, Eric P},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 pages = {1853--1863},
 year = {2018}
 }
