@@ -14,4 +14,4 @@ links
 - [arXiv](https://arxiv.org/abs/1704.06803)
 - [code](https://github.com/fmonti/mgcnn)
 - [slides](https://www.dropbox.com/s/cz2tez4v2yccbkd/talk_Newton_01Nov17.pdf?dl=0#) (around 55mb)
-- [nips](http://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks)
+- [neurips](http://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks)
