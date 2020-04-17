@@ -1,10 +1,10 @@
 # Beyond Grids: Learning Graph Representations for Visual Recognition
 
 ```
-@incollection{gcu_nips18,
+@incollection{gcu_neurips18,
 title = {Beyond Grids: Learning Graph Representations for Visual Recognition},
 author = {Li, Yin and Gupta, Abhinav},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 pages = {9225--9235},
 year = {2018},
 publisher = {Curran Associates, Inc.}
