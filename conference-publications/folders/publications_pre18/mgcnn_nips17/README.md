@@ -1,10 +1,10 @@
 # Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks
 
 ```
-@incollection{mgcnn_nips17,
+@incollection{mgcnn_neurips17,
 title = {Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks},
 author = {Monti, Federico and Bronstein, Michael and Bresson, Xavier},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 30},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 30},
 pages = {3697--3707},
 year = {2017},
 publisher = {Curran Associates, Inc.}
