@@ -1,10 +1,10 @@
 # Learning Conditioned Graph Structures for Interpretable Visual Question Answering
 
 ```
-@incollection{vqagcn_nips18,
+@incollection{vqagcn_neurips18,
 title = {Learning Conditioned Graph Structures for Interpretable Visual Question Answering},
 author = {Norcliffe-Brown, Will and Vafeias, Efstathios and Parisot, Sarah},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {8344--8353},
 publisher = {Curran Associates, Inc.}
