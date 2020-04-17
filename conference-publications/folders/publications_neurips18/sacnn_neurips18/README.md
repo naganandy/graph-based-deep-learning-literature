@@ -1,10 +1,10 @@
 # Structure-Aware Convolutional Neural Networks
 
 ```
-@incollection{sacnn_nips18,
+@incollection{sacnn_neurips18,
 title = {Structure-Aware Convolutional Neural Networks},
 author = {Chang, Jianlong and Gu, Jie and Wang, Lingfeng and Meng, Gaofeng and Xiang, Shiming and Pan, Chunhong},
-booktitle = {Advances in Neural Information Processing Systems (NIPS) 31},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 31},
 year = {2018},
 pages = {11--20},
 publisher = {Curran Associates, Inc.}
