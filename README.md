@@ -1,4 +1,4 @@
-# Graph-based deep learning literature
+# Graph-based Deep Learning Literature
 
 The repository contains links to
 - [conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md) and [the top 10 most cited publications](https://github.com/naganandy/graph-based-deep-learning-literature#top-10-most-cited-publications)
@@ -47,7 +47,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 <br> </br>
 
-# Top 10 most cited publications
+# Top 10 Most-cited Publications
 1. ### [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_iclr17/README.md)
 1. ### [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/chebnet_nips16/README.md)
 1. ### [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
@@ -63,7 +63,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 <br> </br>
 
-# Related workshops
+# Related Workshops
 - ## 2020
    * ### [Graph Neural Networks (KDD)](https://www.aminer.cn/gnn_kdd2020)
    * ### [Graph Representation Learning and Beyond (GRL+) (ICML)](https://grlplus.github.io/)
@@ -82,7 +82,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 <br> </br>
 
-# Surveys / literature reviews
+# Surveys / Literature Reviews
 - ### 2020
    * ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dlgsurvey_tkde20/README.md)
 - ## 2019
