@@ -83,6 +83,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 
 # Surveys / literature reviews
+- ### 2020
+   * ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dlgsurvey_tkde20/README.md)
 - ## 2019
    * ### [Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnaug_arxiv19/README.md)
    * ### [Learning Representations of Graph Data -- A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lrg_arxiv19/README.md)
@@ -90,7 +92,6 @@ in graph-based deep learning. The [links to conference publications](https://git
    * ### [Adversarial Attack and Defense on Graph Data: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aagsurvey_arxiv18/README.md)
    * ### [Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnreview_arxiv18/README.md)
    * ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnsurvey_arxiv19/README.md)
-   * ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/dlgsurvey_arxiv18/README.md)
    * ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnet_arXiv18/README.md)
 - ## 2017
    * ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grl_ideb17/README.md)
