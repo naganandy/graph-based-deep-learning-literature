@@ -5,7 +5,7 @@
 author = {Cao, Ermei and Wang, Difeng and Huang, Jiacheng and Hu, Wei},
 title = {Open Knowledge Enrichment for Long-Tail Entities},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {384–394}
 }
 ```
