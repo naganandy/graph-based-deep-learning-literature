@@ -5,7 +5,7 @@
 author = {Wang, Wen and Zhang, Wei and Liu, Shukai and Liu, Qi and Zhang, Bo and Lin, Leyu and Zha, Hongyuan},
 title = {Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {3056–3062}
 }
 ```
