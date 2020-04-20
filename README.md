@@ -89,7 +89,7 @@ in graph-based deep learning. The [links to conference publications](https://git
    * ### [Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnaug_arxiv19/README.md)
    * ### [Learning Representations of Graph Data -- A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/lrg_arxiv19/README.md)
 - ## 2018
-   * ### [Adversarial Attack and Defense on Graph Data: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/aagsurvey_arxiv18/README.md)
+   * ### [Adversarial Attack and Defense on Graph Data: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/aagsurvey_arxiv18/README.md)
    * ### [Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnreview_arxiv18/README.md)
    * ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnnsurvey_arxiv19/README.md)
    * ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gnet_arXiv18/README.md)
