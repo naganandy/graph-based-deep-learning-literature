@@ -5,7 +5,7 @@
 author = {He, Gaole and Li, Junyi and Zhao, Wayne Xin and Liu, Peiju and Wen, Ji-Rong},
 title = {Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {740–751}
 }
 ```
