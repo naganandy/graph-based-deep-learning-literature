@@ -5,7 +5,7 @@
 author = {Zhu, Qi and Wei, Hao and Sisman, Bunyamin and Zheng, Da and Faloutsos, Christos and Dong, Xin Luna and Han, Jiawei},
 title = {Collective Multi-Type Entity Alignment Between Knowledge Graphs},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {2241–2252}
 }
 ```
