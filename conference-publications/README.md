@@ -71,6 +71,7 @@
  
 - [DeepSphere: a graph-based spherical CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/deepsphere_iclr20/README.md)
 - [Contrastive Learning of Structured World Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cswm_iclr20/README.md)
+- [What Can Neural Networks Reason About?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/nnreasoning_iclr20/README.md)
 - [Geom-GCN: Geometric Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/geomgcn_iclr20/README.md)
 - [Adaptive Structural Fingerprints for Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/adsf_iclr20/README.md)
 - [Graph inference learning for semi-supervised classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gil_iclr20/README.md)
