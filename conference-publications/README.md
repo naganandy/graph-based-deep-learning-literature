@@ -1019,7 +1019,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 ## -----------------------------------------------------------------------------
 
 # TNN 2009
-- [The Graph Neural Network Model](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gnn_tnn09/README.md)
+- [The Graph Neural Network Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gnn_tnn09/README.md)
 
 ## -----------------------------------------------------------------------------
 
