@@ -1,5 +1,14 @@
 # [Publications in WWW 2020](https://www2020.citi.sinica.edu.tw/schedule/research_track/)
 
+
+
+# Unsupervised Learning
+- [Graph Representation Learning via Graphical Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gmi_www20/README.md)
+- [Unsupervised Domain Adaptive Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/udagcn_www20/README.md)
+- [Structural Deep Clustering Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/sdcn_www20/README.md)
+
+
+
 # Heterogeneous Graphs
 - [MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/magnn_www20/README.md)
 - [Heterogeneous Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hgt_www20/README.md)
@@ -31,10 +40,9 @@
 
 
 
-# Unsupervised Learning
-- [Graph Representation Learning via Graphical Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gmi_www20/README.md)
-- [Unsupervised Domain Adaptive Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/udagcn_www20/README.md)
-- [Structural Deep Clustering Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/sdcn_www20/README.md)
+# Adversarial Attacks
+- [Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/nipa_www20/README.md)
+- [Adversarial Attack on Community Detection by Hiding Individuals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cdattack_www20/README.md)
 
 
 
@@ -47,17 +55,8 @@
 # Miscellaneous
 - [Structure-Feature based Graph Self-adaptive Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gsapool_www20/README.md)
 -  [A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/eegcn_www20/README.md)
-- [Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/nipa_www20/README.md)
 - [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
-- [Adversarial Attack on Community Detection by Hiding Individuals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/cdattack_www20/README.md)
 - [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/taxoexpan_www20/README.md)
 
 
-
-<details> 
-<summary> more </summary> 
-
-- Learning the Structure of Auto-Encoding Recommenders
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
-
-</details>
