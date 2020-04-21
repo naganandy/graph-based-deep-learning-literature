@@ -32,6 +32,12 @@
 
 
 
+# Temporal Dependencies
+- [Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/stgnn_www20/README.md)
+- [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
+
+
+
 # Bipartite Networks
 - [Graph Enhanced Representation Learning for News Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gerl_www20/README.md)
 - [Learning to Hash with Graph Neural Networks for Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/hashgnn_www20/README.md)
@@ -55,8 +61,4 @@
 # Miscellaneous
 - [Structure-Feature based Graph Self-adaptive Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gsapool_www20/README.md)
 -  [A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/eegcn_www20/README.md)
-- [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
 - [TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/taxoexpan_www20/README.md)
-
-
-- Traffic Flow Prediction via Spatial Temporal Graph Neural Network
