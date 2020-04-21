@@ -123,6 +123,7 @@
 <summary> more </summary> 
 
 - [Structure-Feature based Graph Self-adaptive Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gsapool_www20/README.md)
+- [Identifying Referential Intention with Heterogeneous Contexts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/iha_www20/README.md)
 - [Graph Attention Topic Modeling Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gaton_www20/README.md)
 -  [A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/eegcn_www20/README.md)
 - [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
