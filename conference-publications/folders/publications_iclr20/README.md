@@ -7,6 +7,7 @@
 - [What graph neural networks cannot learn: depth vs width](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnmp_iclr20/README.md)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cgnn_iclr20/README.md) 
 - [Pruned Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/pgst_iclr20/README.md)
+- [What Can Neural Networks Reason About?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/nnreasoning_iclr20/README.md)
 - [The Logical Expressiveness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/acrgnn_iclr20/README.md)
 
 
