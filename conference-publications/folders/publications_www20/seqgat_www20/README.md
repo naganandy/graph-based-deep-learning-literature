@@ -2,9 +2,13 @@
 
 ```
 @inproceedings{seqgat_www20,
- author = {Zheng Fang and Yanan Cao and Ren Li and Zhenyu Zhang and Yanbing Liu and Shi Wang},
- title = {High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking},
- booktitle = {The World Wide Web Conference (WWW)},
- year = {2020}
-} 
+author = {Fang, Zheng and Cao, Yanan and Li, Ren and Zhang, Zhenyu and Liu, Yanbing and Wang, Shi},
+title = {High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking},
+year = {2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
+pages = {640–650}
+}
 ```
+
+links
+- [acm](https://dl.acm.org/doi/abs/10.1145/3366423.3380146)
