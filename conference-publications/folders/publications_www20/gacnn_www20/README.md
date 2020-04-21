@@ -5,7 +5,7 @@
 author = {He, Suining and Shin, Kang G.},
 title = {Towards Fine-Grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {88–98}
 }
 ```
