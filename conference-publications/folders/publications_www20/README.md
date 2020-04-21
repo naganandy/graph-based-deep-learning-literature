@@ -18,7 +18,7 @@
 
 # Entity Linking
 - [High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/seqgat_www20/README.md)
-- [Dynamic Graph Convolutional Networks for Entity Linking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/dynamicgcn_www20/README.md)
+- [Dynamic Graph Convolutional Networks for Entity Linking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/dgcn_www20/README.md)
 
 
 
