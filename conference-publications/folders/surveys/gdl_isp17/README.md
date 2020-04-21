@@ -18,4 +18,4 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1611.08097)
-- [ieeexplore](https://ieeexplore.ieee.org/document/7974879)
+- [ieee](https://ieeexplore.ieee.org/document/7974879)
