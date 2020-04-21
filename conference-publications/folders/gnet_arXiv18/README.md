@@ -30,7 +30,8 @@
 	Yujia Li and
 	Razvan Pascanu},
 	title     = {Relational inductive biases, deep learning, and graph networks},
-	journal   = {CoRR, arXiv:1806.01261},
+	journal   = {CoRR},
+	volume    = {abs/1806.01261},
 	year      = {2018}
 }
 ```
