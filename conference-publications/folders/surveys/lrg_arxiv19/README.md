@@ -4,7 +4,8 @@
 @article{lrg_arxiv19,
 author    = {Mital Kinderkhedia},
 title     = {Learning Representations of Graph Data -- A Survey},
-journal   = {CoRR, arXiv:1906.02989},
+journal   = {CoRR},
+volume    = {abs/1906.02989},
 year      = {2019}
 }
 ```
