@@ -56,7 +56,6 @@
 <details> 
 <summary> more </summary> 
 
-- Active Domain Transfer on Network Embedding
 - Identifying Referential Intention with Heterogeneous Contexts
 - Learning the Structure of Auto-Encoding Recommenders
 - Traffic Flow Prediction via Spatial Temporal Graph Neural Network
