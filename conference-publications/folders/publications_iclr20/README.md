@@ -7,8 +7,13 @@
 - [What graph neural networks cannot learn: depth vs width](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnmp_iclr20/README.md)
 - [On the Equivalence between Node Embeddings and Structural Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/cgnn_iclr20/README.md) 
 - [Pruned Graph Scattering Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/pgst_iclr20/README.md)
-- [What Can Neural Networks Reason About?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/nnreasoning_iclr20/README.md)
 - [The Logical Expressiveness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/acrgnn_iclr20/README.md)
+
+
+
+# GNN-Algorithmic
+- [What Can Neural Networks Reason About?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/nnreasoning_iclr20/README.md)
+- [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
 
 
 
@@ -92,5 +97,4 @@
 - [DeepSphere: a graph-based spherical CNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/deepsphere_iclr20/README.md)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dirgraph_iclr20/README.md)
-- [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
 - [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/mxgnet_iclr20/README.md)
