@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{gsapool_www20,
- author = {Liang Zhang and Xudong Wang and Hongsheng Li and Guangming Zhu and Peiyi Shen and Ping Li and Xiaoyuan Lu and Syed Afaq Ali Shah and Mohammed Bennamoun},
- title = {One2Multi Graph Autoencoder for Multi-view Graph Clustering},
- booktitle = {The World Wide Web Conference (WWW)},
- year = {2020}
-} 
+author = {Zhang, Liang and Wang, Xudong and Li, Hongsheng and Zhu, Guangming and Shen, Peiyi and Li, Ping and Lu, Xiaoyuan and Shah, Syed Afaq Ali and Bennamoun, Mohammed},
+title = {Structure-Feature Based Graph Self-Adaptive Pooling},
+year = {2020}
+booktitle = {Proceedings of The Web Conference (WWW)},
+pages = {3098–3104}
+}
 ```
 
 links
 - [arXiv](https://arxiv.org/abs/2002.00848)
+- [acm](https://dl.acm.org/doi/abs/10.1145/3366423.3380083)
