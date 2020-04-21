@@ -33,8 +33,8 @@
 
 
 # Temporal Dependencies
-- [Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/stgnn_www20/README.md)
 - [Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/tdgnn_www20/README.md)
+- [Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/stgnn_www20/README.md)
 
 
 
