@@ -5,7 +5,7 @@
 author = {Li, Jia and Zhang, Honglei and Han, Zhichao and Rong, Yu and Cheng, Hong and Huang, Junzhou},
 title = {Adversarial Attack on Community Detection by Hiding Individuals},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {917–927}
 }
 ```
