@@ -56,8 +56,6 @@
 <details> 
 <summary> more </summary> 
 
-- Learning from Cross-Modal Behavior Dynamics with Graph-Regularized Neural Contextual Bandit
-- Dynamic Graph Convolutional Networks for Entity Linking
 - Active Domain Transfer on Network Embedding
 - Identifying Referential Intention with Heterogeneous Contexts
 - Learning the Structure of Auto-Encoding Recommenders
