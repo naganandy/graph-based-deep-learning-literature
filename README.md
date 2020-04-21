@@ -95,5 +95,5 @@ in graph-based deep learning. The [links to conference publications](https://git
    * ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnsurvey_arxiv19/README.md)
    * ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnet_arXiv18/README.md)
 - ## 2017
-   * ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/grl_ideb17/README.md)
-   * ### [Geometric Deep Learning: Going beyond Euclidean data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/gdl_isp17/README.md)
+   * ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/grl_ideb17/README.md)
+   * ### [Geometric Deep Learning: Going beyond Euclidean data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gdl_isp17/README.md)
