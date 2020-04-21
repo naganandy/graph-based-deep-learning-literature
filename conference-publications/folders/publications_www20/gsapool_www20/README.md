@@ -4,7 +4,7 @@
 @inproceedings{gsapool_www20,
 author = {Zhang, Liang and Wang, Xudong and Li, Hongsheng and Zhu, Guangming and Shen, Peiyi and Li, Ping and Lu, Xiaoyuan and Shah, Syed Afaq Ali and Bennamoun, Mohammed},
 title = {Structure-Feature Based Graph Self-Adaptive Pooling},
-year = {2020}
+year = {2020},
 booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {3098–3104}
 }
