@@ -1024,4 +1024,4 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 ## -----------------------------------------------------------------------------
 
 # IJCNN 2005
-- [A new model for learning in graph domains](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/gnn_ijcnn05/README.md)
+- [A new model for learning in graph domains](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gnn_ijcnn05/README.md)
