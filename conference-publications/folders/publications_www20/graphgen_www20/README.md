@@ -5,7 +5,7 @@
 author = {Goyal, Nikhil and Jain, Harsh Vardhan and Ranu, Sayan},
 title = {GraphGen: A Scalable Approach to Domain-Agnostic Labeled Graph Generation},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {1253–1263}
 }
 ```
