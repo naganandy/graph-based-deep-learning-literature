@@ -86,6 +86,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 - ### 2020
    * ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dlgsurvey_tkde20/README.md)
 - ## 2019
+   * ### [Graph convolutional networks: a comprehensive review
+](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gcnreview_csn19/README.md)
    * ### [Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnaug_arxiv19/README.md)
    * ### [Learning Representations of Graph Data -- A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/lrg_arxiv19/README.md)
 - ## 2018
