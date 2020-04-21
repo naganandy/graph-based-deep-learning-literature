@@ -10,7 +10,7 @@ author    = {Jie Zhou and
 	Maosong Sun},
 title     = {Graph Neural Networks: {A} Review of Methods and Applications},
 journal   = {CoRR},
-volume    = {abs/1812.08434}
+volume    = {abs/1812.08434},
 year      = {2018}
 }
 ```
