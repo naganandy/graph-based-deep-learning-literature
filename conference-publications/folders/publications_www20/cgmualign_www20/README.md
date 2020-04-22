@@ -13,3 +13,5 @@ pages = {2241–2252}
 links
 - [acm](https://dl.acm.org/doi/abs/10.1145/3366423.3380289)
 - [preprint](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)
+- [code](https://github.com/GentleZhu/CG-MuAlign)
+- [slides](https://gentlezhu.github.io/files/CG_MuAlign_slides.pdf)
