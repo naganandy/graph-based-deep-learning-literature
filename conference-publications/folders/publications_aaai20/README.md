@@ -70,7 +70,7 @@
 
 
 
-# Zero-shot learning
+# Zero-shot Learning
 - [Zero-shot Sketch-based Image Retrieval via Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/sketchgcn_aaai20/README.md)
 - [Attribute Propagation Network for Graph Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/apnet_aaai20/README.md)
 - [Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/zsgan_aaai20/README.md)
