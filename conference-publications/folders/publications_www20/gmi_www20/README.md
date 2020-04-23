@@ -5,7 +5,7 @@
 author = {Peng, Zhen and Huang, Wenbing and Luo, Minnan and Zheng, Qinghua and Rong, Yu and Xu, Tingyang and Huang, Junzhou},
 title = {Graph Representation Learning via Graphical Mutual Information Maximization},
 year = {2020},
-booktitle = {Proceedings of The Web Conference 2020},
+booktitle = {Proceedings of The Web Conference (WWW)},
 pages = {259–270}
 }
 ```
