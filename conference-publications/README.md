@@ -101,6 +101,7 @@
 - [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/hypersagnn_iclr20/README.md)
 - [Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/padgn_iclr20/README.md)
 - [On the geometry and learning low-dimensional embeddings for directed graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dirgraph_iclr20/README.md)
+- [Mathematical Reasoning in Latent Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/mathreason_iclr20/README.md)
 - [Neural Execution of Graph Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graneurexec_iclr20/README.md)
 - [Abstract Diagrammatic Reasoning with Multiplex Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/mxgnet_iclr20/README.md)
 
