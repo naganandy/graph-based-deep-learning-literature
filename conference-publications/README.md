@@ -4,7 +4,7 @@
 - ICML 2020 (Jul, decisions early Jun)
 - KDD 2020 (Aug, decisions mid May)
 - UAI 2020 (Aug, decisions mid May)
-- IJCAI 2020 (Jul, decisions late Apr)
+## -----------------------------------------------------------------------------
 
 
 
