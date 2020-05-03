@@ -6,6 +6,13 @@
 - UAI 2020 (Aug, decisions mid May)
 - IJCAI 2020 (Jul, decisions late Apr)
 
+
+
+# IJCAI 2020 (Jul)
+- [Dynamic Language Binding in Relational Visual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lognet_ijcai20/README.md)
+
+
+
 ## -----------------------------------------------------------------------------
 # [ACL 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/README.md)
 - [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hdsg_acl20/README.md)
