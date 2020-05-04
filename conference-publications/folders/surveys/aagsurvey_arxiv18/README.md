@@ -1,9 +1,9 @@
 # Adversarial Attack and Defense on Graph Data: A Survey
 
 ```
-@article{aagsurvey_arxiv18,
-author    = {Lichao Sun and Ji Wang and Philip S. Yu and Bo Li},
+@article{sun2018adversarial,
 title     = {Adversarial Attack and Defense on Graph Data: A Survey},
+author    = {Sun, Lichao and Dou, Yingtong and Yang, Carl and Wang, Ji and Yu, Philip S. and Li, Bo},
 journal   = {CoRR},
 volume    = {abs/1812.10528},
 year      = {2018}
