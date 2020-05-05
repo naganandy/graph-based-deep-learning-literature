@@ -16,6 +16,7 @@
 ## -----------------------------------------------------------------------------
 # [ACL 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/README.md)
 - [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hdsg_acl20/README.md)
+- [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/asgard_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Semantic Graphs for Generating Deep Questions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sgdqg_acl20/README.md)
 - [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rgat_acl20/README.md)
