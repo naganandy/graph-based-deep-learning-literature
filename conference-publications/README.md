@@ -952,7 +952,7 @@
 
 ## -----------------------------------------------------------------------------
 
-# [NIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
+# [NeurIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/mgcnn_nips17/README.md)
 - [Protein Interface Prediction using Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/protein_gcn_nips17/README.md)
@@ -1004,7 +1004,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 
 ## -----------------------------------------------------------------------------
 
-# NIPS 2016
+# NeurIPS 2016
 - [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/chebnet_nips16/README.md)
 - [Diffusion-Convolutional Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/dcnn_nips16/README.md)
 - [Learning Multiagent Communication with Backpropagation](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/commnet_nips16/README.md)
@@ -1026,7 +1026,7 @@ july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoE
 
 ## -----------------------------------------------------------------------------
 
-# NIPS 2015
+# NeurIPS 2015
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_nips15/README.md)
 
 ## -----------------------------------------------------------------------------
