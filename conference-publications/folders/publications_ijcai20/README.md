@@ -1,4 +1,4 @@
-# Publications in IJCAI 2020  (To be held in Jan 2021)
+# Publications in IJCAI 2020  ([To be held in Jan 2021](https://ijcai20.org/))
 
 
 
