@@ -84,6 +84,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 
 # Surveys / Literature Reviews
 - ### 2020
+   * ### [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/mlgraphs_arxiv20/README.md)
    * ### [Deep Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dlgsurvey_tkde20/README.md)
    * ### [Adversarial Attack and Defense on Graph Data: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/aagsurvey_arxiv20/README.md)
 - ## 2019
