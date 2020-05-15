@@ -6,6 +6,7 @@
 
 
 
+# Miscellaneous
 - [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hdsg_acl20/README.md)
 - [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/asgard_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
