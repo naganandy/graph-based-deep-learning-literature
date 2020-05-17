@@ -48,6 +48,7 @@
 - Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts
 - ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
 - NeuInfer: Knowledge Inference on N-ary Facts
+- Structural Information Preserving for Graph-to-Text Generation
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
 - In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts
