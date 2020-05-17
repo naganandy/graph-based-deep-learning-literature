@@ -36,5 +36,6 @@
 - A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
 - A Joint Neural Model for Information Extraction with Global Features
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
+- Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
 
 </details>
