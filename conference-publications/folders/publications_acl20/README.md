@@ -34,5 +34,6 @@
 <summary> more </summary> 
 
 - A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
+- A Joint Neural Model for Information Extraction with Global Features
 
 </details>
