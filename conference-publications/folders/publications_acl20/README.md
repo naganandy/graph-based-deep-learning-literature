@@ -41,5 +41,6 @@
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
 - Connecting Embeddings for Knowledge Graph Entity Typing
+- Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
 
 </details>
