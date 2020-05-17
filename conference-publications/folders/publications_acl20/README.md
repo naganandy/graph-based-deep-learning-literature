@@ -1,4 +1,6 @@
-# Publications in ACL 2020
+# [Publications in ACL 2020](https://acl2020.org/program/accepted/)
+
+
 
 # Relation Extraction
 - [ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/zsceres_acl20/README.md)
