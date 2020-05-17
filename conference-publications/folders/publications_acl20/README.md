@@ -39,5 +39,6 @@
 - Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
+- Connecting Embeddings for Knowledge Graph Entity Typing
 
 </details>
