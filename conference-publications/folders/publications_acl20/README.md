@@ -49,6 +49,7 @@
 - ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
 - NeuInfer: Knowledge Inference on N-ary Facts
 - Structural Information Preserving for Graph-to-Text Generation
+- Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
 - In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts
