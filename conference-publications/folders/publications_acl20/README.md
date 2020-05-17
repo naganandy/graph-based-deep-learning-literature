@@ -42,6 +42,7 @@
 - Heterogeneous Graph Transformer for Graph-to-Sequence Learning
 - Graph-to-Tree Learning for Solving Math Word Problems
 - Graph Neural News Recommendation with Unsupervised Preference Disentanglement
+- HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
