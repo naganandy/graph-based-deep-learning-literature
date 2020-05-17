@@ -58,6 +58,7 @@
 - Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
 - Connecting Embeddings for Knowledge Graph Entity Typing
+- Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer
 - Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
 - Hierarchy-Aware Global Model for Hierarchical Text Classification
 
