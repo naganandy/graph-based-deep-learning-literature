@@ -61,5 +61,6 @@
 - Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer
 - Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
 - Hierarchy-Aware Global Model for Hierarchical Text Classification
+- Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification
 
 </details>
