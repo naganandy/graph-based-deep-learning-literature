@@ -39,6 +39,7 @@
 - A Joint Neural Model for Information Extraction with Global Features
 - Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation
 - Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information
+- Graph-to-Tree Learning for Solving Math Word Problems
 - Graph Neural News Recommendation with Unsupervised Preference Disentanglement
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
