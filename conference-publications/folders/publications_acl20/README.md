@@ -52,6 +52,7 @@
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
 - In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts
 - Leveraging Graph to Improve Abstractive Multi-Document Summarization
+- Semi-supervised Contextual Historical Text Normalization
 - Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
 - Connecting Embeddings for Knowledge Graph Entity Typing
