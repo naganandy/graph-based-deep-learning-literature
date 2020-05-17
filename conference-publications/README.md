@@ -27,6 +27,7 @@
  
 - [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
 - [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ladan_acl20/README.md)
+- [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
 
 </details>
 
