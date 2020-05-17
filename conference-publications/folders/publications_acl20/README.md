@@ -42,6 +42,7 @@
 - Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection
 - Heterogeneous Graph Transformer for Graph-to-Sequence Learning
 - Graph-to-Tree Learning for Solving Math Word Problems
+- Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks
 - Graph Neural News Recommendation with Unsupervised Preference Disentanglement
 - HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
 - Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts
