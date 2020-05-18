@@ -2,8 +2,17 @@
 
 - ECCV 2020 (Aug, decisions early Jul)
 - ICML 2020 (Jul, decisions early Jun)
-- KDD 2020 (Aug, decisions mid May)
 - UAI 2020 (Aug, decisions mid May)
+
+
+
+## -----------------------------------------------------------------------------
+# [KDD 2020 (Aug)]
+- Scaling Graph Neural Networks with Approximate PageRank
+- Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
+- Graph Structure Learning for Robust Graph Neural Networks
+- MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
+- PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
 
 
 
