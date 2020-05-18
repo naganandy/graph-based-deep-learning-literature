@@ -7,7 +7,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [KDD 2020 (Aug)]
+# KDD 2020 (Aug)
 - Scaling Graph Neural Networks with Approximate PageRank
 - Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
 - Graph Structure Learning for Robust Graph Neural Networks
