@@ -40,5 +40,6 @@
 - Community-Centric Graph Convolutional Network for Unsupervised Community Detection
 - Exploiting Mutual Information for Substructure-aware Graph Representation Learning
 - The Graph-based Mutual Attentive Network for Automatic Diagnosis
+-  Better AMR-To-Text Generation with Graph Structure Reconstruction
 
 </details>
