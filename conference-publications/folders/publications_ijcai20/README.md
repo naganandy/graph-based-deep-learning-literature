@@ -32,5 +32,7 @@
 - BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment
 - KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction
 - LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks
+- Multi-Class Imbalanced Graph Convolutional Network Learning
+- Multi-View Attribute Graph Convolution Networks for Clustering
 
 </details>
