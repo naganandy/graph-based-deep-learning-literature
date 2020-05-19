@@ -1,4 +1,4 @@
-# Publications in CVPR 2020 
+# [Publications in CVPR 2020](http://cvpr2020.thecvf.com/program/main-conference)
 
 # Scene Graphs
 - [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/asg2caption_cvpr20/README.md)
