@@ -997,6 +997,7 @@
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/mgcnn_nips17/README.md)
 - [Protein Interface Prediction using Graph Convolutional Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/protein_gcn_nips17/README.md)
+- [Learning Graph Representations with Embedding Propagation](ning-literature/blob/master/conference-publications/folders/publications_pre18/ep_neurips17/README.md)
 
 [podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
