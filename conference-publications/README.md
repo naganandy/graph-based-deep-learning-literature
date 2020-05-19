@@ -86,6 +86,7 @@
 - [Graph Structured Network for Image-Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gsmn_cvpr20/README.md)
 - [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
+- [Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/mgh_cvpr20/README.md)
 - [Semantic Image Manipulation Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/simsg_cvpr20/README.md)
 - [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dssg_cvpr20/README.md)
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
