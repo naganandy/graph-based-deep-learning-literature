@@ -43,5 +43,6 @@
 - Better AMR-To-Text Generation with Graph Structure Reconstruction
 - Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding
 - Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network
+- Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA
 
 </details>
