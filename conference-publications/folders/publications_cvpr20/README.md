@@ -39,13 +39,7 @@
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
 - [Collaborative Motion Prediction via Neural Motion Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/nmmp_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
-- Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction	
-
-
-
-# Skeleton-Based Action Recognition
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/msg3d_cvpr20/README.md)
-- Skeleton-Based Action Recognition With Shift Graph Convolutional Network	
 
 
 
@@ -62,3 +56,13 @@
 - [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
 - [CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cprgcn_cvpr20/README.md)
 - [SGAS: Sequential Greedy Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgas_cvpr20/README.md)
+
+
+<details> 
+<summary> more </summary> 
+
+- Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction	
+- Skeleton-Based Action Recognition With Shift Graph Convolutional Network	
+- A Hierarchical Graph Network for 3D Object Detection on Point Clouds	
+
+</details>
