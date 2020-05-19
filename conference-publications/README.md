@@ -2,7 +2,7 @@
 
 - ECCV 2020 (Aug, decisions early Jul)
 - ICML 2020 (Jul, decisions early Jun)
-- UAI 2020 (Aug, decisions mid May)
+- UAI 2020 (Aug)
 
 
 
