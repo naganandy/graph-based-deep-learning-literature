@@ -39,5 +39,6 @@
 - C3MM: Clique-Closure based Hyperlink Prediction 
 - Community-Centric Graph Convolutional Network for Unsupervised Community Detection
 - Exploiting Mutual Information for Substructure-aware Graph Representation Learning
+- The Graph-based Mutual Attentive Network for Automatic Diagnosis
 
 </details>
