@@ -66,6 +66,7 @@
 - Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction	
 - Skeleton-Based Action Recognition With Shift Graph Convolutional Network	
 - A Hierarchical Graph Network for 3D Object Detection on Point Clouds	
+- View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis	
 - Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
 
 </details>
