@@ -74,5 +74,6 @@
 - A Hierarchical Graph Network for 3D Object Detection on Point Clouds	
 - View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis	
 - Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
+- Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification	
 
 </details>
