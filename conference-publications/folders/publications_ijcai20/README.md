@@ -31,5 +31,6 @@
 - Maximizing the Spread of an Opinion in Few Steps: Opinion Diffusion in Non-Binary Networks
 - BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment
 - KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction
+- LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks
 
 </details>
