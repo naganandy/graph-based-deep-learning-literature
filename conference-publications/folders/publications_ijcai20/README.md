@@ -25,6 +25,8 @@
 - Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation
 - Transductive Relation-Propagation Network for Few-shot Learning
 - Domain Adaptive Classification on Heterogeneous Information Networks
+- GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification
+- Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation
 - Inductive Anomaly Detection on Attributed Networks
 - Inductive Link Prediction for Nodes Having Only Attribute Information
 - MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product
