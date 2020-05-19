@@ -34,5 +34,6 @@
 - LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks
 - Multi-Class Imbalanced Graph Convolutional Network Learning
 - Multi-View Attribute Graph Convolution Networks for Clustering
+- Smart Contract Vulnerability Detection using Graph Neural Network
 
 </details>
