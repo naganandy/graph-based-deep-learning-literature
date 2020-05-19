@@ -33,12 +33,13 @@
 
 
 
-# Humans
+# Action / Behaviour
 - [Hierarchical Human Parsing with Typed Part-Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hhp_cvpr20/README.md)
 - [VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vsgnet_cvpr20/README.md)
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
 - [Collaborative Motion Prediction via Neural Motion Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/nmmp_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
+- Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction	
 
 
 
