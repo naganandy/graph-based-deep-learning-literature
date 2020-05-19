@@ -36,5 +36,6 @@
 - Multi-View Attribute Graph Convolution Networks for Clustering
 - Smart Contract Vulnerability Detection using Graph Neural Network
 - TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure
+- C3MM: Clique-Closure based Hyperlink Prediction 
 
 </details>
