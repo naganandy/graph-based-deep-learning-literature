@@ -1,8 +1,8 @@
 # [Conferences](https://aideadlin.es/)
 
 - ECCV 2020 (Aug, decisions early Jul)
-- ICML 2020 (Jul, decisions early Jun)
 - UAI 2020 (Aug)
+- ICML 2020 (Jul, decisions early Jun)
 
 
 
