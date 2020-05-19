@@ -42,5 +42,6 @@
 - The Graph-based Mutual Attentive Network for Automatic Diagnosis
 - Better AMR-To-Text Generation with Graph Structure Reconstruction
 - Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding
+- Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network
 
 </details>
