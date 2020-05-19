@@ -35,6 +35,7 @@
 <summary> more </summary> 
  
 - [Reasoning Over Semantic-Level Graph for Fact Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dream_acl20/README.md)
+- [LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/logicalfactchecker_acl20/README.md)
 - [Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ram_acl20/README.md)
 - [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
 - [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ladan_acl20/README.md)
