@@ -45,8 +45,16 @@
 
 ## -----------------------------------------------------------------------------
 # [IJCAI 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/README.md)
+- [Bilinear Graph Neural Network with Neighbor Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bgnn_ijcai20/README.md)
 - [Dynamic Language Binding in Relational Visual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lognet_ijcai20/README.md)
+- [JANE: Jointly Adversarial Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_ijcai20/jane_ijcai20)
 - [GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gognn_ijcai20/README.md)
+- [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatgc_ijcai20/README.md)
+- [Multi-Channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/muchgcn_ijcai20/README.md)
+- [Coloring graph neural networks for node disambiguation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/clip_ijcai20/README.md)
+- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/graphflow_ijcai20/README.md)
+- [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
+- [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
 
 
 
