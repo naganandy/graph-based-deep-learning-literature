@@ -45,5 +45,6 @@
 - Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network
 - Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA
 - Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks
+- Multi-View Joint Graph Representation Learning for Urban Region Embedding
 
 </details>
