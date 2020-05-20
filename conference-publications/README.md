@@ -97,6 +97,7 @@
 - [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
 - [Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/mgh_cvpr20/README.md)
+- [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dvbe_cvpr20/README.md)
 - [Density-Aware Graph for Deep Semi-Supervised Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dna_cvpr20/README.md)
 - [Affinity Graph Supervision for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_cvpr20/affinitygcn_cvpr20)
 - [Semantic Image Manipulation Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/simsg_cvpr20/README.md)
