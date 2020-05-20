@@ -50,20 +50,20 @@
 <details> 
 <summary> more </summary> 
 
-- A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
-- A Joint Neural Model for Information Extraction with Global Features
-- Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation
-- Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information
-- Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection
 - Heterogeneous Graph Transformer for Graph-to-Sequence Learning
 - Graph-to-Tree Learning for Solving Math Word Problems
+- Structural Information Preserving for Graph-to-Text Generation
+- Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation
 - Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks
+- A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
+- A Joint Neural Model for Information Extraction with Global Features
+- Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information
+- Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection
 - Graph Neural News Recommendation with Unsupervised Preference Disentanglement
 - HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
 - Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts
 - ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
 - NeuInfer: Knowledge Inference on N-ary Facts
-- Structural Information Preserving for Graph-to-Text Generation
 - Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
