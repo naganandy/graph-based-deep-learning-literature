@@ -110,6 +110,7 @@
 - Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
 - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition	
 - Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification	
+- An End-to-End Edge Aggregation Network for Moving Object Segmentation	
 - Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection	
 - Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution	
 - Pattern-Structure Diffusion for Multi-Task Learning
