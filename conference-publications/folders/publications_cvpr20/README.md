@@ -9,6 +9,12 @@
 
 
 
+# Matching
+- [Learning Combinatorial Solver for Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/lgm_cvpr20/README.md)
+- [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/superglue_cvpr20/README.md)
+
+
+
 # Scene Graphs
 - [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/asg2caption_cvpr20/README.md)
 - [Semantic Image Manipulation Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/simsg_cvpr20/README.md)
