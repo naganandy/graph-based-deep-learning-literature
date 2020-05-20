@@ -43,8 +43,14 @@
 
 
 # Knowledge Distillation
-- [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stvideo_cvpr20/README.md)
 - [Distillating Knowledge from Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/kdgcn_cvpr20/README.md)
+- [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stvideo_cvpr20/README.md)
+
+
+
+# Temporal Dependencies
+- [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtad_cvpr20/README.md)
+- [Improving Action Segmentation via Graph Based Temporal Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtrm_cvpr20/README.md)
 
 
 
@@ -58,12 +64,6 @@
 - [GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/graphter_cvpr20/README.md)
 - [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
 - [Grid-GCN for Fast and Scalable Point Cloud Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gridgcn_cvpr20/README.md)
-
-
-
-# Temporal Dependencies
-- [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtad_cvpr20/README.md)
-- [Improving Action Segmentation via Graph Based Temporal Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtrm_cvpr20/README.md)
 
 
 
