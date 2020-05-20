@@ -99,5 +99,6 @@
 - Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection	
 - Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution	
 - Pattern-Structure Diffusion for Multi-Task Learning
+- Probabilistic Structural Latent Representation for Unsupervised Embedding	
 
 </details>
