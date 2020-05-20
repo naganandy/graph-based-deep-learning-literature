@@ -40,6 +40,13 @@
 
 
 
+# Point Clouds
+- [GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/graphter_cvpr20/README.md)
+- [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
+- [Grid-GCN for Fast and Scalable Point Cloud Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gridgcn_cvpr20/README.md)
+
+
+
 # Videos
 - [Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgr_cvpr20/README.md)
 - [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/orgtlr_cvpr20/README.md)
@@ -64,12 +71,6 @@
 # Person Re-Identification
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
 - [Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/mgh_cvpr20/README.md)
-
-
-
-# Point Clouds
-- [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
-- [Grid-GCN for Fast and Scalable Point Cloud Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gridgcn_cvpr20/README.md)
 
 
 
