@@ -36,6 +36,12 @@
 
 
 
+# Videos
+- [Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgr_cvpr20/README.md)
+- [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/orgtlr_cvpr20/README.md)
+
+
+
 # Knowledge Distillation
 - [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stvideo_cvpr20/README.md)
 - [Distillating Knowledge from Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/kdgcn_cvpr20/README.md)
@@ -58,12 +64,6 @@
 # Temporal Dependencies
 - [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtad_cvpr20/README.md)
 - [Improving Action Segmentation via Graph Based Temporal Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtrm_cvpr20/README.md)
-
-
-
-# Videos
-- [Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgr_cvpr20/README.md)
-- [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/orgtlr_cvpr20/README.md)
 
 
 
