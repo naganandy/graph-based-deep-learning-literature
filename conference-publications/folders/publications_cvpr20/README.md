@@ -9,7 +9,7 @@
 
 # Scene generation
 - [End-to-End Optimization of Scene Layout](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dsln_cvpr20/README.md)
-- [Semantic Image Manipulation Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/simsg_cvpr20/README.md)
+- [GPS-Net: Graph Property Sensing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpsnet_cvpr20/README.md)
 
 
 
