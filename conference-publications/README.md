@@ -94,6 +94,8 @@
 - [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dssg_cvpr20/README.md)
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
 - [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/bgrnet_cvpr20/README.md)
+- [SGAS: Sequential Greedy Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgas_cvpr20/README.md)
+- [Graph-guided Architecture Search for Real-time Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gas_cvpr20/README.md)
 - [HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hopenet_cvpr20/README.md)
 - [Adaptive Interaction Modeling via Graph Operations Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gos_cvpr20/README.md)
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
@@ -108,7 +110,6 @@
 - [CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cprgcn_cvpr20/README.md)
 - [VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vsgnet_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
-- [SGAS: Sequential Greedy Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgas_cvpr20/README.md)
 
 </details>
 
