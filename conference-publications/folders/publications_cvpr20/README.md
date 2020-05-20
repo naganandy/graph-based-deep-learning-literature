@@ -108,6 +108,7 @@
 - A Hierarchical Graph Network for 3D Object Detection on Point Clouds	
 - View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis	
 - Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
+- Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition	
 - Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification	
 - Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection	
 - Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution	
