@@ -126,5 +126,6 @@
 - Probabilistic Structural Latent Representation for Unsupervised Embedding	
 - PropagationNet: Propagate Points to Curve to Learn Structure Information
 - Deep Structure-Revealed Network for Texture Recognition
+- End-to-End 3D Point Cloud Instance Segmentation Without Detection
 
 </details>
