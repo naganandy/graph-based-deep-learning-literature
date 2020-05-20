@@ -120,6 +120,7 @@
 - An End-to-End Edge Aggregation Network for Moving Object Segmentation	
 - Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection	
 - Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution	
+- Learning Multi-View Camera Relocalization With Graph Neural Networks
 - Pattern-Structure Diffusion for Multi-Task Learning
 - Probabilistic Structural Latent Representation for Unsupervised Embedding	
 - PropagationNet: Propagate Points to Curve to Learn Structure Information
