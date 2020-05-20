@@ -92,6 +92,7 @@
 - [Dynamic Graph Message Passing Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgmn_cvpr20/README.md)
 - [Geometrically Principled Connections in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/affgcn_cvpr20/README.md)
 - [Graph Structured Network for Image-Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gsmn_cvpr20/README.md)
+- [Graph Embedded Pose Clustering for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gepc_cvpr20/README.md)
 - [Iterative Context-Aware Graph Inference for Visual Dialog](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cagnn_cvpr20/README.md)
 - [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
