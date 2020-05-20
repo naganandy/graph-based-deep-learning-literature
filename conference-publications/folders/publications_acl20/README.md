@@ -64,6 +64,7 @@
 - Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts
 - ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
 - NeuInfer: Knowledge Inference on N-ary Facts
+- Connecting Embeddings for Knowledge Graph Entity Typing
 - Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
@@ -72,7 +73,6 @@
 - Semi-supervised Contextual Historical Text Normalization
 - Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
-- Connecting Embeddings for Knowledge Graph Entity Typing
 - Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer
 - Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
 - Hierarchy-Aware Global Model for Hierarchical Text Classification
