@@ -68,7 +68,7 @@
 
 # Semantic Segmentation
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
-
+- [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dmpa_cvpr20/README.md)
 
 
 
