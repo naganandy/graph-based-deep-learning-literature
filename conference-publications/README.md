@@ -13,6 +13,7 @@
 - Graph Structure Learning for Robust Graph Neural Networks
 - MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 - PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
+- M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems
 
 
 
