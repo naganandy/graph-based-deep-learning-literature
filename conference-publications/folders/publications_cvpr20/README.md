@@ -67,6 +67,12 @@
 
 
 
+# Point Clouds
+- [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
+- [Grid-GCN for Fast and Scalable Point Cloud Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gridgcn_cvpr20/README.md)
+
+
+
 # Miscellaneous
 - [Dynamic Graph Message Passing Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgmn_cvpr20/README.md)
 - [Geometrically Principled Connections in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/affgcn_cvpr20/README.md)
@@ -74,7 +80,6 @@
 - [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/convmpn_cvpr20/README.md)
 - [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/superglue_cvpr20/README.md)
 - [Rotation Equivariant Graph Convolutional Network for Spherical Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgcn_cvpr20/README.md)
-- [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
 - [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcnve_cvpr20/README.md)
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
 - [DPGN: Distribution Propagation Graph Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dpgn_cvpr20/README.md)
