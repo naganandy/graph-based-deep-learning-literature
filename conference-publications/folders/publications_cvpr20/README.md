@@ -114,6 +114,7 @@
 - A Hierarchical Graph Network for 3D Object Detection on Point Clouds	
 - View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis	
 - Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
+- Webly Supervised Knowledge Embedding Model for Visual Reasoning	
 - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition	
 - Dynamic Neural Relational Inference
 - Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification	
