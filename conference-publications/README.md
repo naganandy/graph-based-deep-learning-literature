@@ -86,6 +86,7 @@
 - [Learning Combinatorial Solver for Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/lgm_cvpr20/README.md)
 - [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/superglue_cvpr20/README.md)
 - [GPS-Net: Graph Property Sensing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpsnet_cvpr20/README.md)
+- [Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/feat_cvpr20/README.md)
 - [DPGN: Distribution Propagation Graph Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dpgn_cvpr20/README.md)
 - [End-to-End Optimization of Scene Layout](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dsln_cvpr20/README.md)
 - [Dynamic Graph Message Passing Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgmn_cvpr20/README.md)
