@@ -96,5 +96,6 @@
 - Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
 - Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification	
 - Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection	
+- Pattern-Structure Diffusion for Multi-Task Learning
 
 </details>
