@@ -64,7 +64,6 @@
 - HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
 - Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts
 - ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
-- NeuInfer: Knowledge Inference on N-ary Facts
 - Connecting Embeddings for Knowledge Graph Entity Typing
 - Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
