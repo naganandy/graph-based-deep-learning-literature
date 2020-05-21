@@ -166,7 +166,7 @@
 
 
 
-# Multi-task Learning
+# Multi-Task Learning
 - [Collaborative Graph Convolutional Networks: Unsupervised Learning Meets Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gmmvgae_aaai20/README.md)
 - [Graph-Driven Generative Models for Heterogeneous Multi-Task Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/gdvae_aaai20/README.md)
 
