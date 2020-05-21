@@ -23,7 +23,7 @@
 
 
 
-# Few Shot Learning
+# Few-Shot Learning
 - [Memory-Based Neighbourhood Embedding for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/mne_iccv19/README.md)
 - [Pyramid Graph Networks With Connection Attentions for Region-Based One-Shot Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv19/pgnet_iccv19/README.md)
 
