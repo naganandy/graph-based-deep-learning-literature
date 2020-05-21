@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{prognn_kdd19,
- author = {Wang, Yuandong and Yin, Hongzhi and Chen, Hongxu and Wo, Tianyu and Xu, Jie and Zheng, Kai},
+ author = {Wei Jin and Yao Ma and Xiaorui Liu and Xianfeng Tang and Suhang Wang and Jiliang Tang},
  title = {Graph Structure Learning for Robust Graph Neural Networks},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
  year = {2019}
