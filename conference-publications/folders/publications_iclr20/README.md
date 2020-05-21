@@ -17,7 +17,7 @@
 
 
 
-# Multi-relational graphs
+# Multi-Relational graphs
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/compgcn_iclr20/README.md)
 - [Efficient Probabilistic Logic Reasoning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/expressgnn_iclr20/README.md)
 - [Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/dpmpn_iclr20/README.md)
