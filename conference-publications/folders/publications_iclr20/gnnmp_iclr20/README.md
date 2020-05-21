@@ -12,3 +12,4 @@ year={2020}
 links
 - [openreview](https://openreview.net/forum?id=B1l2bp4YwS)
 - [blog](https://andreasloukas.blog/2019/12/27/what-gnn-can-and-cannot-learn/)
+- [iclr](https://iclr.cc/virtual_2020/poster_B1l2bp4YwS.html)
