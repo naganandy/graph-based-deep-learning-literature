@@ -49,7 +49,7 @@
 
 
 
-# Multi-relational Graphs
+# Multi-Relational Graphs
  - [Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19/rdgcn_ijcai19/README.md)
  - [A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19/avrgcn_ijcai19/README.md)
 - [MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai19/mrgnn_ijcai19/README.md)
