@@ -24,6 +24,7 @@
 # Efficient Training
 - [Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/ladies_neurips19/README.md)
 - [Diffusion Improves Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/gdc_neurips19/README.md)
+- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/clusternet_neurips19/README.md)
 
 
 
@@ -103,7 +104,6 @@
 
 # Miscellaneous
 - [Variational Graph Recurrent Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/vgrnn_neurips19/README.md)
-- [End to end learning and optimization on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/clusternet_neurips19/README.md)
 - [Graph Transformer Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/gtn_neurips19/README.md)
 - [Embedding Symbolic Knowledge into Deep Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/lensr_neurips19/README.md)
 - [Combining Generative and Discriminative Models for Hybrid Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/hybrid_neurips19/README.md)
