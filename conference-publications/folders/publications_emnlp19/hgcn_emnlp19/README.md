@@ -8,7 +8,7 @@
       Feng, Yansong  and
       Wang, Zheng  and
       Zhao, Dongyan},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {240--249},
     year = {2019}
 }
