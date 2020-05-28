@@ -9,7 +9,7 @@
       Qian, Longhua  and
       Zhang, Min  and
       Zhou, Guodong},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {5462--5471},
     year = {2019}
 }
