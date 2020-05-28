@@ -8,7 +8,7 @@
       Liu, Kang  and
       Zhao, Jun  and
       Liu, Shengping},
-    booktitle = {Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {3821--3831},
     year = {2019}
 }
