@@ -2,10 +2,14 @@
 
 ```
 @inproceedings{kagnet_emnlp19,
-  author    = {Bill Yuchen Lin and Xinyue Chen and Jamin Chen and Xiang Ren},
-  title     = {KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning},
-  booktitle =  {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2019}
+    title = {{K}ag{N}et: Knowledge-Aware Graph Networks for Commonsense Reasoning},
+    author = {Lin, Bill Yuchen  and
+      Chen, Xinyue  and
+      Chen, Jamin  and
+      Ren, Xiang},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+    year = {2019},
+    pages = {2829--2839}
 }
 ```
 
