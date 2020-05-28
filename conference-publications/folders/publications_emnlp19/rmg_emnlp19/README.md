@@ -9,7 +9,7 @@
       Ge, Suyu  and
       Huang, Yongfeng  and
       Xie, Xing},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {4886--4895},
     year = {2019}
 }
