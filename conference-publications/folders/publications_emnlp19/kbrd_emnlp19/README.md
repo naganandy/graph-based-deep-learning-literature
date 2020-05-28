@@ -10,7 +10,7 @@
       Cen, Yukuo  and
       Yang, Hongxia  and
       Tang, Jie},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {1803--1813},
     year = {2019}
 }
