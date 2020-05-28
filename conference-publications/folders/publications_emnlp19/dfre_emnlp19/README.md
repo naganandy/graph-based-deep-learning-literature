@@ -9,7 +9,7 @@
       Yu, Mo  and
       Wang, Zhiguo  and
       su, jinsong},
-    booktitle = {Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {208--218},
     year = {2019}
 }
