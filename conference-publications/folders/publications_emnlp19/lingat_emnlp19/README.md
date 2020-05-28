@@ -7,7 +7,7 @@
       Marcheggiani, Diego  and
       Schulte im Walde, Sabine  and
       Fern{\'a}ndez, Raquel},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {4701--4711},
     year = {2019}
 }
