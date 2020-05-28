@@ -5,7 +5,7 @@
     title = {Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks},
     author = {Huang, Binxuan  and
       Carley, Kathleen},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {5472--5480},
     year = {2019}
 }
