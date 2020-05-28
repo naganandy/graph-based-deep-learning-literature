@@ -6,7 +6,7 @@
     author = {Gupta, Swapnil  and
       Kenkre, Sreyash  and
       Talukdar, Partha},
-    booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP))},
+    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
     pages = {378--388},
     year = {2019}
 }
