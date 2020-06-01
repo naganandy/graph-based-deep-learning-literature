@@ -2,7 +2,7 @@
 
 - ECCV 2020 (Aug, decisions early Jul)
 - UAI 2020 (Aug)
-- ICML 2020 (Jul, decisions early Jun)
+-  (Jul, decisions early Jun)
 
 
 
@@ -15,6 +15,13 @@
 - Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
 - MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 - PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
+
+
+
+
+## -----------------------------------------------------------------------------
+# ICML 2020 (Jul)
+- [Constant Curvature Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/kgcn_icml20/README.md)
 
 
 
