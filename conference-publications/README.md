@@ -2,6 +2,7 @@
 
 - NeurIPS 2020 (Dec, decisions late Sep)
 - EMNLP 2020 (Nov, decisions mid Sep)
+- ICDM 2020 (Nov, decisions late Aug)
 - ECCV 2020 (Aug, decisions early Jul)
 - UAI 2020 (Aug)
 
