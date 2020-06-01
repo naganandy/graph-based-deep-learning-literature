@@ -1,7 +1,7 @@
 # [Conferences](https://aideadlin.es/)
 
 - NeurIPS 2020 (Dec, decisions late Sep)
-- EMNLP 2020 (Nov, decisions mid Aug)
+- EMNLP 2020 (Nov, decisions mid Sep)
 - ECCV 2020 (Aug, decisions early Jul)
 - UAI 2020 (Aug)
 
