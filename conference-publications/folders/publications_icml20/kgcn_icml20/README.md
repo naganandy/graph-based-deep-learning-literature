@@ -1,7 +1,7 @@
 # Constant Curvature Graph Convolutional Networks
 
 ```
-@inproceedings{kgcn_icml19,
+@inproceedings{kgcn_icml20,
   title = 	 {Constant Curvature Graph Convolutional Networks},
   author = 	 {Gregor Bachmann and Gary Becigneul and Octavian-Eugen Ganea},
   booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning (ICML)},
