@@ -23,5 +23,6 @@
 - When Does Self-Supervision Help Graph Convolutional Networks?
 - Spectral Clustering with Graph Neural Networks for Graph Pooling
 - Graph Optimal Transport for Cross-Domain Alignment
+- A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
 
 </details>
