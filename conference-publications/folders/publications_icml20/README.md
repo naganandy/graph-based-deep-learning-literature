@@ -48,5 +48,6 @@
 - Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
 - Fractal Gaussian Networks: A sparse random graph model based on Gaussian Multiplicative Chaos
 - Faster Graph Embeddings via Coarsening
+- Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs
 
 </details>
