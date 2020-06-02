@@ -34,5 +34,6 @@
 - A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
 - A Flexible Latent Space Model for Multilayer Networks
 - NetGAN without GAN: From Random Walks to Low-Rank Approximations
+- Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
 
 </details>
