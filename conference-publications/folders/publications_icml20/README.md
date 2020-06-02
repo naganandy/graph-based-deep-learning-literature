@@ -37,5 +37,6 @@
 - A Flexible Latent Space Model for Multilayer Networks
 - NetGAN without GAN: From Random Walks to Low-Rank Approximations
 - Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
+- Fractal Gaussian Networks: A sparse random graph model based on Gaussian Multiplicative Chaos
 
 </details>
