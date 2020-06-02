@@ -27,6 +27,7 @@
 - Graph Structure of Neural Networks
 - Simple and Deep Graph Convolutional Networks
 - Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views
+- Quantized Decentralized Stochastic Learning over Directed Graphs
 - When Does Self-Supervision Help Graph Convolutional Networks?
 - Spectral Clustering with Graph Neural Networks for Graph Pooling
 - Interferometric Graph Transform:a Deep Unsupervised Graph Invariant Representation
