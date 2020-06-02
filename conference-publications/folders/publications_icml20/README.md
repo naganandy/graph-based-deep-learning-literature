@@ -32,6 +32,7 @@
 - Interferometric Graph Transform:a Deep Unsupervised Graph Invariant Representation
 - Graph Optimal Transport for Cross-Domain Alignment
 - A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
+- Scalable Deep Generative Modeling for Sparse Graphs
 - A Flexible Latent Space Model for Multilayer Networks
 - NetGAN without GAN: From Random Walks to Low-Rank Approximations
 - Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
