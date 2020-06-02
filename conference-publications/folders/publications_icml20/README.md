@@ -18,6 +18,7 @@
 <summary> more </summary> 
 
 - Graph Structure of Neural Networks
+- Simple and Deep Graph Convolutional Networks
 - Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views
 - When Does Self-Supervision Help Graph Convolutional Networks?
 - Spectral Clustering with Graph Neural Networks for Graph Pooling
