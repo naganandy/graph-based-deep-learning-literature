@@ -18,5 +18,6 @@
 
 - Graph Structure of Neural Networks
 - Graph Optimal Transport for Cross-Domain Alignment
+- When Does Self-Supervision Help Graph Convolutional Networks?
 
 </details>
