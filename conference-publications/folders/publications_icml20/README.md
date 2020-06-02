@@ -42,6 +42,7 @@
 - Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
 - Fractal Gaussian Networks: A sparse random graph model based on Gaussian Multiplicative Chaos
 - Faster Graph Embeddings via Coarsening
+- Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction
 - Bayesian Graph Neural Networks with Adaptive Connection Sampling
 - Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs
 - DrRepair: A Self-Supervised, Graph-Attentional Approach to Repairing Programs from Diagnostic Feedback
