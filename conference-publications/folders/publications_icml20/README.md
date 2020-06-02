@@ -23,6 +23,7 @@
 - [Robust Graph Representation Learning via Neural Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsparse_icml20/README.md)
 - [Convolutional Kernel Networks for Graph-Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gckn_icml20/README.md)
 - [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hiervae_icml20/README.md)
+- [Learning to Simulate Complex Physics with Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gns_icml20/README.md)
 - [GraphOpt: Learning Optimization Models of Graph Formation](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_icml20/graphopt_icml20)
 - [Semiparametric Nonlinear Bipartite Graph Representation Learning with Provable Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/bigrl_icml20/README.md)
 - [Learning Algebraic Multigrid Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/amg_icml20/README.md)
