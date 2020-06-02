@@ -15,6 +15,7 @@
 
 
 # Miscellaneous
+- [Inductive Relation Prediction by Subgraph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grail_icml20/README.md)
 - [Generalization and Representational Limits of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cpngnn_icml20/README.md)
 - [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
