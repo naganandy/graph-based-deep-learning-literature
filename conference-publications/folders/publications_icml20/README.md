@@ -22,6 +22,7 @@
 - Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views
 - When Does Self-Supervision Help Graph Convolutional Networks?
 - Spectral Clustering with Graph Neural Networks for Graph Pooling
+- Interferometric Graph Transform:a Deep Unsupervised Graph Invariant Representation
 - Graph Optimal Transport for Cross-Domain Alignment
 - A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
 
