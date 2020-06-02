@@ -18,8 +18,9 @@
 <summary> more </summary> 
 
 - Graph Structure of Neural Networks
-- Graph Optimal Transport for Cross-Domain Alignment
+- Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views
 - When Does Self-Supervision Help Graph Convolutional Networks?
 - Spectral Clustering with Graph Neural Networks for Graph Pooling
+- Graph Optimal Transport for Cross-Domain Alignment
 
 </details>
