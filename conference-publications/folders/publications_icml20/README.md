@@ -17,5 +17,6 @@
 <summary> more </summary> 
 
 - Graph Structure of Neural Networks
+- Graph Optimal Transport for Cross-Domain Alignment
 
 </details>
