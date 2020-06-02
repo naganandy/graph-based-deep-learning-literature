@@ -31,5 +31,6 @@
 - Interferometric Graph Transform:a Deep Unsupervised Graph Invariant Representation
 - Graph Optimal Transport for Cross-Domain Alignment
 - A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
+- A Flexible Latent Space Model for Multilayer Networks
 
 </details>
