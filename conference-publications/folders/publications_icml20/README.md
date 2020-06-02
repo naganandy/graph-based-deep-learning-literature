@@ -8,6 +8,11 @@
 
 
 
+# Miscellaneous
+- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
+
+
+
 <details> 
 <summary> more </summary> 
 
