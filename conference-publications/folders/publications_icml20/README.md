@@ -39,6 +39,7 @@
 - Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case
 - Spectral Clustering with Graph Neural Networks for Graph Pooling
 - Interferometric Graph Transform:a Deep Unsupervised Graph Invariant Representation
+- Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates
 - Graph Optimal Transport for Cross-Domain Alignment
 - A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning
 - Scalable Deep Generative Modeling for Sparse Graphs
@@ -46,5 +47,6 @@
 - NetGAN without GAN: From Random Walks to Low-Rank Approximations
 - Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
 - Fractal Gaussian Networks: A sparse random graph model based on Gaussian Multiplicative Chaos
+- Faster Graph Embeddings via Coarsening
 
 </details>
