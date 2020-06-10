@@ -11,3 +11,4 @@ year = {2020}
 
 links
 - [arXiv](https://arxiv.org/abs/2002.08274)
+- [code](https://github.com/000Justin000/gnn-residual-correlation)
