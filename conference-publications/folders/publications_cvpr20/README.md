@@ -119,6 +119,13 @@
 
 
 
+# Face Recognition
+- [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/glgn_cvpr20/README.md)
+- [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcnve_cvpr20/README.md)
+- [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
+
+
+
 # Pose Estimation
 - [HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hopenet_cvpr20/README.md)
 - [Graph Embedded Pose Clustering for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gepc_cvpr20/README.md)
@@ -151,12 +158,9 @@
 - [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dvbe_cvpr20/README.md)
 - [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/convmpn_cvpr20/README.md)
 - [Rotation Equivariant Graph Convolutional Network for Spherical Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgcn_cvpr20/README.md)
-- [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcnve_cvpr20/README.md)
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
 - [Can We Learn Heuristics For Graphical Model Inference Using Reinforcement Learning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnnheurl_cvpr20/README.md)
-- [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
 - [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnn3dmot_cvpr20/README.md)
 - [View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/viewgcn_cvpr20/README.md)
 - [Learning Multi-View Camera Relocalization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/grnet_cvpr20/README.md)
-- [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/glgn_cvpr20/README.md)
 - [Probabilistic Structural Latent Representation for Unsupervised Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pslr_cvpr20/README.md)
