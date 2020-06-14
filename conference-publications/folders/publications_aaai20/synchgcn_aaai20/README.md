@@ -1,8 +1,8 @@
-# Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony viaGraph Convolutional Networks
+# Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks
 
 ```
 @inproceedings{synchgcn_aaai20,
-  title     = {Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony viaGraph Convolutional Networks},
+  title     = {Synch-Graph: Multisensory Emotion Recognition Through Neural Synchrony via Graph Convolutional Networks},
   author    = {Esma Mansouri-Benssassi and Juan Ye},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
   pages	    = {1351--1358},
