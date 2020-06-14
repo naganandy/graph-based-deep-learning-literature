@@ -44,6 +44,7 @@
 
 # Visual Recognition
 - [Density-Aware Graph for Deep Semi-Supervised Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dna_cvpr20/README.md)
+- [Hierarchical Graph Attention Network for Visual Relationship Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgat_cvpr20/README.md)
 - [Affinity Graph Supervision for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_cvpr20/affinitygcn_cvpr20)
 
 
@@ -69,8 +70,10 @@
 # Point Clouds
 - [GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/graphter_cvpr20/README.md)
 - [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
-- [Grid-GCN for Fast and Scalable Point Cloud Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gridgcn_cvpr20/README.md)
+- [Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dgcn_cvpr20/README.md)
 - [SegGCN: Efficient 3D Point Cloud Segmentation With Fuzzy Spherical Kernel](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/seggcn_cvpr20/README.md)
+- [Grid-GCN for Fast and Scalable Point Cloud Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gridgcn_cvpr20/README.md)
+- [A Hierarchical Graph Network for 3D Object Detection on Point Clouds](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgnet_cvpr20/README.md)
 
 
 
@@ -100,15 +103,30 @@
 
 
 
-# Skeleton-based Action Recognition
+# Skeleton-based Human Motion
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/msg3d_cvpr20/README.md)
 - [Skeleton-Based Action Recognition With Shift Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/shiftgcn_cvpr20/README.md)
+- [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cagcn_cvpr20/README.md)
+- [Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dmgnn_cvpr20/README.md)
 
 
 
 # Person Re-Identification
 - [High-Order Information Matters: Learning Relation and Topology for Occluded Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/honet_cvpr20/README.md)
+- [Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stgcn_cvpr20/README.md)
+
+
+
+# Hypergraphs
 - [Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/mgh_cvpr20/README.md)
+- [Hypergraph Attention Networks for Multimodal Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/han_cvpr20/README.md)
+
+
+
+# Medical, Biological and Cell Microscopy
+- [CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cprgcn_cvpr20/README.md)
+- [Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/bgrcnn_cvpr20/README.md)
+- [Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vaegcn_cvpr20/README.md)
 
 
 
@@ -128,32 +146,9 @@
 - [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pmpnet_cvpr20/README.md)
 - [Can We Learn Heuristics For Graphical Model Inference Using Reinforcement Learning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnnheurl_cvpr20/README.md)
 - [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
-- [CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cprgcn_cvpr20/README.md)
 - [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnn3dmot_cvpr20/README.md)
-
-<details> 
-<summary> more </summary> 
-
-- Hierarchical Graph Attention Network for Visual Relationship Detection	
-- Data-Efficient Semi-Supervised Learning by Reliable Edge Mining
-- Context Aware Graph Convolution for Skeleton-Based Action Recognition
-- Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction	
-- Skeleton-Based Action Recognition With Shift Graph Convolutional Network	
-- A Hierarchical Graph Network for 3D Object Detection on Point Clouds	
-- View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis	
-- Geometric Structure Based and Regularized Depth Estimation From 360° Indoor Imagery
-- Webly Supervised Knowledge Embedding Model for Visual Reasoning	
-- Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition	
-- Dynamic Neural Relational Inference
-- Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification	
-- An End-to-End Edge Aggregation Network for Moving Object Segmentation	
-- Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection	
-- Predicting Lymph Node Metastasis Using Histopathological Images Based on Multiple Instance Learning With Deep Graph Convolution	
-- Learning Multi-View Camera Relocalization With Graph Neural Networks
-- Pattern-Structure Diffusion for Multi-Task Learning
-- Probabilistic Structural Latent Representation for Unsupervised Embedding	
-- PropagationNet: Propagate Points to Curve to Learn Structure Information
-- Deep Structure-Revealed Network for Texture Recognition
-- End-to-End 3D Point Cloud Instance Segmentation Without Detection
-- Hypergraph Attention Networks for Multimodal Learning	
-
+- [View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/viewgcn_cvpr20/README.md)
+- [Learning Multi-View Camera Relocalization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/grnet_cvpr20/README.md)
+- [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/glgn_cvpr20/README.md)
+- [Dynamic Neural Relational Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dnri_cvpr20/README.md)
+- [Probabilistic Structural Latent Representation for Unsupervised Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pslr_cvpr20/README.md)
