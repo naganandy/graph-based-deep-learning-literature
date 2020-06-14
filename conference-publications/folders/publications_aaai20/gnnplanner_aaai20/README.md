@@ -5,6 +5,7 @@
   title     = {Online Planner Selection with Graph Neural Networks and Adaptive Scheduling},
   author    = {Tengfei Ma and Patrick Ferber and Siyu Huo and Jie Chen and Michael Katz},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {5077--5084},
   year      = {2020}
 }
 ```
@@ -12,3 +13,4 @@
 links
 - [arXiv](https://arxiv.org/abs/1811.00210)
 - [code](https://github.com/matenure/GNN_planner)
+- [AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/5949)

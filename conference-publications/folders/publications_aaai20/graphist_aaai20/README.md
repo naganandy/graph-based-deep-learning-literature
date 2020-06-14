@@ -5,9 +5,11 @@
   title     = {Graph-Hist: Graph Classification from Latent Feature Histograms With Application to Bot Detection},
   author    = {Thomas Magelinski and David Beskow and Kathleen M. Carley},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {5134--5141},
   year      = {2020}
 }
 ```
 
 links
 - [arXiv](https://arxiv.org/abs/1910.01180)
+- [AAAI](https://aaai.org/ojs/index.php/AAAI/article/view/5956)
