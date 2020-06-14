@@ -69,6 +69,7 @@
 
 # Temporal Dependencies
 - [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtad_cvpr20/README.md)
+- [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pmpnet_cvpr20/README.md)
 - [Improving Action Segmentation via Graph Based Temporal Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtrm_cvpr20/README.md)
 
 
@@ -152,7 +153,6 @@
 - [Rotation Equivariant Graph Convolutional Network for Spherical Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgcn_cvpr20/README.md)
 - [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcnve_cvpr20/README.md)
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
-- [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pmpnet_cvpr20/README.md)
 - [Can We Learn Heuristics For Graphical Model Inference Using Reinforcement Learning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnnheurl_cvpr20/README.md)
 - [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
 - [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnn3dmot_cvpr20/README.md)
