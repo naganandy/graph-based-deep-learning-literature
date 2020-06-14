@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{feat_cvpr20,
-author = {Han-Jia Ye and Hexiang Hu and De-Chuan Zhan and Fei Sha},
-title = {Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+author = {Ye, Han-Jia and Hu, Hexiang and Zhan, De-Chuan and Sha, Fei},
+title = {Few-Shot Learning via Embedding Adaptation With Set-to-Set Functions},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+pages = {8808--8817},
 year = {2020}
 }
 ```
