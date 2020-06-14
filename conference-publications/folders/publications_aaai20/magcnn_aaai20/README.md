@@ -5,7 +5,6 @@
   title     = {Motif-matching based Subgraph-level Attentional Convolutional Network for Graph Classification},
   author    = {Hao Peng and Jianxin Li and Qiran Gong and Yuanxing Ning and Senzhang Wang and Lifang He},
   booktitle = {Proceedings of the Thirty-Fourth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages     = {5387--5394},
   year      = {2020}
 }
 ```
