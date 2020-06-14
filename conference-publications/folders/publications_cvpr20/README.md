@@ -15,7 +15,7 @@
 
 
 
-# Non-Euclidean Convolutions
+# Non-Euclidean Geometry
 - [Rotation Equivariant Graph Convolutional Network for Spherical Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgcn_cvpr20/README.md)
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
 
