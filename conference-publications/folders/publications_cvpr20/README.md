@@ -36,9 +36,15 @@
 
 
 
-# Videos
+# Videos and Text
 - [Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgr_cvpr20/README.md)
 - [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/orgtlr_cvpr20/README.md)
+
+
+
+# Knowledge Distillation
+- [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stvideo_cvpr20/README.md)
+- [Distillating Knowledge from Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/kdgcn_cvpr20/README.md)
 
 
 
@@ -46,12 +52,6 @@
 - [Density-Aware Graph for Deep Semi-Supervised Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dna_cvpr20/README.md)
 - [Hierarchical Graph Attention Network for Visual Relationship Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hgat_cvpr20/README.md)
 - [Affinity Graph Supervision for Visual Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_cvpr20/affinitygcn_cvpr20)
-
-
-
-# Knowledge Distillation
-- [Distillating Knowledge from Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/kdgcn_cvpr20/README.md)
-- [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/stvideo_cvpr20/README.md)
 
 
 
