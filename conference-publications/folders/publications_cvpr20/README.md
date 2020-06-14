@@ -95,19 +95,25 @@
 
 
 
+# Dynamic Learning
+- [Dynamic Neural Relational Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dnri_cvpr20/README.md)
+- [Dynamic Graph Message Passing Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgmn_cvpr20/README.md)
+
+
+
+# Skeleton-based Human Motion
+- [Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dmgnn_cvpr20/README.md)
+- [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/msg3d_cvpr20/README.md)
+- [Skeleton-Based Action Recognition With Shift Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/shiftgcn_cvpr20/README.md)
+- [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cagcn_cvpr20/README.md)
+
+
+
 # Action / Behaviour
 - [Hierarchical Human Parsing with Typed Part-Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hhp_cvpr20/README.md)
 - [VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vsgnet_cvpr20/README.md)
 - [Collaborative Motion Prediction via Neural Motion Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/nmmp_cvpr20/README.md)
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/socialstgcnn_cvpr20/README.md)
-
-
-
-# Skeleton-based Human Motion
-- [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/msg3d_cvpr20/README.md)
-- [Skeleton-Based Action Recognition With Shift Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/shiftgcn_cvpr20/README.md)
-- [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cagcn_cvpr20/README.md)
-- [Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dmgnn_cvpr20/README.md)
 
 
 
@@ -137,7 +143,6 @@
 
 
 # Miscellaneous
-- [Dynamic Graph Message Passing Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgmn_cvpr20/README.md)
 - [Geometrically Principled Connections in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/affgcn_cvpr20/README.md)
 - [Adaptive Interaction Modeling via Graph Operations Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gos_cvpr20/README.md)
 - [VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vectornet_cvpr20/README.md)
@@ -154,5 +159,4 @@
 - [View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/viewgcn_cvpr20/README.md)
 - [Learning Multi-View Camera Relocalization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/grnet_cvpr20/README.md)
 - [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/glgn_cvpr20/README.md)
-- [Dynamic Neural Relational Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dnri_cvpr20/README.md)
 - [Probabilistic Structural Latent Representation for Unsupervised Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pslr_cvpr20/README.md)
