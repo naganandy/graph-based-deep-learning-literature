@@ -145,6 +145,12 @@
 
 
 
+# View Graphs
+- [View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/viewgcn_cvpr20/README.md)
+- [Learning Multi-View Camera Relocalization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/grnet_cvpr20/README.md)
+
+
+
 # Medicine, Biology
 - [CPR-GCN: Conditional Partial-Residual Graph Convolutional Network in Automated Anatomical Labeling of Coronary Arteries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cprgcn_cvpr20/README.md)
 - [Cross-View Correspondence Reasoning Based on Bipartite Graph Convolutional Network for Mammogram Mass Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/bgrcnn_cvpr20/README.md)
@@ -162,5 +168,3 @@
 - [DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dcmnet_cvpr20/README.md)
 - [Can We Learn Heuristics For Graphical Model Inference Using Reinforcement Learning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnnheurl_cvpr20/README.md)
 - [GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking With 2D-3D Multi-Feature Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnn3dmot_cvpr20/README.md)
-- [View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/viewgcn_cvpr20/README.md)
-- [Learning Multi-View Camera Relocalization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/grnet_cvpr20/README.md)
