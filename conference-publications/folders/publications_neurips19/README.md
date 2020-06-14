@@ -34,7 +34,7 @@
 
 
 
-# Non-Euclidean Geometry
+# Hyperbolic Geometry
 - [Hyperbolic Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/hgcn_neurips19/README.md)
 - [Hyperbolic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips19/hgnn_neurips19/README.md)
 
