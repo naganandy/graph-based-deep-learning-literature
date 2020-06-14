@@ -12,5 +12,3 @@ year = {2020}
 
 links
 - [openaccess](http://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Disentangling_and_Unifying_Graph_Convolutions_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.html)
-- [arXiv](https://arxiv.org/abs/2003.14111)
-
