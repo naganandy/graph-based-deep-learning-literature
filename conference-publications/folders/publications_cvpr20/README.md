@@ -183,5 +183,6 @@
 - [Probabilistic Structural Latent Representation for Unsupervised Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pslr_cvpr20/README.md)
 - [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dvbe_cvpr20/README.md)
 - [Auto-Encoding Twin-Bottleneck Hashing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/tbh_cvpr20/README.md)
+- [Composing Good Shots by Exploiting Mutual Relations](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_cvpr20/cgs_cvpr20)
 - [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/convmpn_cvpr20/README.md)
 - [Can We Learn Heuristics For Graphical Model Inference Using Reinforcement Learning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gnnheurl_cvpr20/README.md)
