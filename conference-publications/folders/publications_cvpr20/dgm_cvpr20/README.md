@@ -12,3 +12,4 @@ year = {2020}
 
 links
 - [openaccess](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Deep_Grouping_Model_for_Unified_Perceptual_Parsing_CVPR_2020_paper.html)
+- [arXiv](https://arxiv.org/abs/2003.11647)
