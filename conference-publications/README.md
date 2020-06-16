@@ -146,6 +146,7 @@
 - [Improving Action Segmentation via Graph Based Temporal Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtrm_cvpr20/README.md)
 - [Adaptive Interaction Modeling via Graph Operations Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gos_cvpr20/README.md)
 - [SGAS: Sequential Greedy Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/sgas_cvpr20/README.md)
+- [A Semi-Supervised Assessor of Neural Architectures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/ssana_cvpr20/README.md)
 - [Graph-guided Architecture Search for Real-time Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gas_cvpr20/README.md)
 - [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/bgrnet_cvpr20/README.md)
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
