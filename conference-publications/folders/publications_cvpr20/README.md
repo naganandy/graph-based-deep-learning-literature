@@ -179,6 +179,7 @@
 
 # Miscellaneous
 - [Geometrically Principled Connections in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/affgcn_cvpr20/README.md)
+- [Deep Grouping Model for Unified Perceptual Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgm_cvpr20/README.md)
 - [Probabilistic Structural Latent Representation for Unsupervised Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pslr_cvpr20/README.md)
 - [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dvbe_cvpr20/README.md)
 - [Auto-Encoding Twin-Bottleneck Hashing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/tbh_cvpr20/README.md)
