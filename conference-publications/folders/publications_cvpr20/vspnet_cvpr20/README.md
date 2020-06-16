@@ -12,3 +12,4 @@ year = {2020}
 
 links
 - [openaccess](http://openaccess.thecvf.com/content_CVPR_2020/html/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.html)
+- [arXiv](https://arxiv.org/abs/2001.02359)
