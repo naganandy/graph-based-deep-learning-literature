@@ -29,6 +29,7 @@
 
 
 # Scene Generation
+- [Weakly Supervised Visual Semantic Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vspnet_cvpr20/README.md)
 - [End-to-End Optimization of Scene Layout](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dsln_cvpr20/README.md)
 - [GPS-Net: Graph Property Sensing Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpsnet_cvpr20/README.md)
 
