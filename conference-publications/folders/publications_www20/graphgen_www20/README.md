@@ -14,3 +14,4 @@ links
 - [arXiv](https://arxiv.org/abs/2001.08184)
 - [acm](https://dl.acm.org/doi/abs/10.1145/3366423.3380201)
 - [code](https://github.com/idea-iitd/graphgen)
+- [video](https://youtu.be/lMDmvH8aHZc?list=PLJNwhMK_V7Exb_YwrTbmcr9du2pEzAGM7)
