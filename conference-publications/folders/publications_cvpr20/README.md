@@ -161,6 +161,7 @@
 - [HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/hopenet_cvpr20/README.md)
 - [Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spiral_cvpr20/README.md)
 - [Graph Embedded Pose Clustering for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gepc_cvpr20/README.md)
+- [Learning to Dress 3D People in Generative Clothing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cape_cvpr20/README.md)
 
 
 
