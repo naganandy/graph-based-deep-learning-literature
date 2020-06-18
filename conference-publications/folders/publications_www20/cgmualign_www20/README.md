@@ -15,3 +15,4 @@ links
 - [preprint](https://assets.amazon.science/ff/7a/b96282984a0fbe5e31a8fcf68d17/scipub-1202.pdf)
 - [code](https://github.com/GentleZhu/CG-MuAlign)
 - [slides](https://gentlezhu.github.io/files/CG_MuAlign_slides.pdf)
+- [video](https://youtu.be/H6bZwjhTnFY?list=PLJNwhMK_V7Ey1YFclcpycanlrwBXhCqYU)
