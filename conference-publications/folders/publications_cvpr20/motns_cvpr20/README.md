@@ -12,3 +12,5 @@ year = {2020}
 
 links
 - [openaccess](http://openaccess.thecvf.com/content_CVPR_2020/html/Braso_Learning_a_Neural_Solver_for_Multiple_Object_Tracking_CVPR_2020_paper.html)
+- [arXiv](https://arxiv.org/abs/1912.07515)
+- [code](https://github.com/dvl-tum/mot_neural_solver)
