@@ -142,6 +142,7 @@
 # Face Recognition
 - [Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/glgn_cvpr20/README.md)
 - [Learning to Cluster Faces via Confidence and Connectivity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcnve_cvpr20/README.md)
+- [Uncertainty-Aware Mesh Decoder for High Fidelity 3D Face Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/ufr_cvpr20/README.md)
 - [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcn3dmm_cvpr20/README.md)
 
 
