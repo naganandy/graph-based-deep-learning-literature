@@ -15,7 +15,7 @@
 
 
 
-# Zero- Shot Learning
+# Zero-Shot Learning
 - [Two-Stage Peer-Regularized Feature Recombination for Arbitrary Image Style Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/zsist_cvpr20/README.md)
 - [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dvbe_cvpr20/README.md)
 
