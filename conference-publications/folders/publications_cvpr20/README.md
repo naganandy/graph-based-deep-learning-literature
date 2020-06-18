@@ -116,8 +116,14 @@
 
 
 
-# Skeleton-based Human Motion
+# Human Motion Prediction
+- [Learning Dynamic Relationships for 3D Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/ldrgcn_cvpr20/README.md)
+- [Context-Aware Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/crnn_cvpr20/README.md)
 - [Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dmgnn_cvpr20/README.md)
+
+
+
+# Skeleton-based Human Motion
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/msg3d_cvpr20/README.md)
 - [Skeleton-Based Action Recognition With Shift Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/shiftgcn_cvpr20/README.md)
 - [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cagcn_cvpr20/README.md)
