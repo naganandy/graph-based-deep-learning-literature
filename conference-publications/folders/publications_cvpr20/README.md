@@ -105,6 +105,7 @@
 
 # Point Clouds
 - [SegGCN: Efficient 3D Point Cloud Segmentation With Fuzzy Spherical Kernel](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/seggcn_cvpr20/README.md)
+- [Adaptive Hierarchical Down-Sampling for Point Cloud Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cpnet_cvpr20/README.md)
 - [GraphTER: Unsupervised Learning of Graph Transformation Equivariant Representations via Auto-Encoding Node-wise Transformations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/graphter_cvpr20/README.md)
 - [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/pointgnn_cvpr20/README.md)
 - [Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dgcn_cvpr20/README.md)
