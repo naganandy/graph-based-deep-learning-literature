@@ -13,3 +13,4 @@ pages = {486–497}
 links
 - [arXiv](https://arxiv.org/abs/2001.09522)
 - [acm](https://dl.acm.org/doi/abs/10.1145/3366423.3380132)
+- [video](https://youtu.be/1smDpjekJR8?list=PLJNwhMK_V7Ey1YFclcpycanlrwBXhCqYU)
