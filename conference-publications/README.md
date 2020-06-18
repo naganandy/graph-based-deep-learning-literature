@@ -139,6 +139,7 @@
 - [Cross-domain Detection via Graph-induced Prototype Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gpa_cvpr20/README.md)
 - [Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcagc_cvpr20/README.md)
 - [Learning Combinatorial Solver for Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/lgm_cvpr20/README.md)
+- [Visual-Semantic Matching by Exploring High-Order Attention and Distraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gcncsm_cvpr20/README.md)
 - [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/superglue_cvpr20/README.md)
 - [Dynamic Graph Message Passing Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dgmn_cvpr20/README.md)
 - [G-TAD: Sub-Graph Localization for Temporal Action Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/gtad_cvpr20/README.md)
