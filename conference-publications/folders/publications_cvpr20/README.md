@@ -102,6 +102,7 @@
 - [Bidirectional Graph Reasoning Network for Panoptic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/bgrnet_cvpr20/README.md)
 - [Spatial Pyramid Based Graph Reasoning for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/spygr_cvpr20/README.md)
 - [3D-MPA: Multi Proposal Aggregation for 3D Semantic Instance Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/3dmpa_cvpr20/README.md)
+- [Learning Visual Motion Segmentation Using Event Surfaces](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/vmses_cvpr20/README.md)
 
 
 
