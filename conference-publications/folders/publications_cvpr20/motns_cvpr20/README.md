@@ -1,7 +1,7 @@
 # Learning a Neural Solver for Multiple Object Tracking
 
 ```
-@InProceedings{motns_cvpr20,
+@inproceedings{motns_cvpr20,
 author = {Braso, Guillem and Leal-Taixe, Laura},
 title = {Learning a Neural Solver for Multiple Object Tracking},
 booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
