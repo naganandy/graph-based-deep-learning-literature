@@ -123,7 +123,7 @@
 
 
 
-# Skeleton-based Human Motion
+# Skeleton-based Action Recognition
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/msg3d_cvpr20/README.md)
 - [Skeleton-Based Action Recognition With Shift Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/shiftgcn_cvpr20/README.md)
 - [Context Aware Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/cagcn_cvpr20/README.md)
