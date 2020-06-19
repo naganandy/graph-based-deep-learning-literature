@@ -41,6 +41,8 @@
 
 # Miscellaneous
 - [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
+- Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection
+- Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer
 - [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dualenc_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Neighborhood Matching Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nmn_acl20/README.md)
@@ -61,9 +63,6 @@
 - Structural Information Preserving for Graph-to-Text Generation
 - Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks
 - A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
-- A Joint Neural Model for Information Extraction with Global Features
-- Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information
-- Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection
 - Graph Neural News Recommendation with Unsupervised Preference Disentanglement
 - HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
 - Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts
@@ -72,11 +71,9 @@
 - Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks
 - Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation
 - A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation
-- In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts
 - Semi-supervised Contextual Historical Text Normalization
 - Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction
 - Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification
-- Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer
 - Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
 - Hierarchy-Aware Global Model for Hierarchical Text Classification
 - Neural Graph Matching Networks for Chinese Short Text Matching
