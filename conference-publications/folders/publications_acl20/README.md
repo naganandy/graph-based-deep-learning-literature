@@ -59,7 +59,6 @@
 - Heterogeneous Graph Transformer for Graph-to-Sequence Learning
 - Graph-to-Tree Learning for Solving Math Word Problems
 - Structural Information Preserving for Graph-to-Text Generation
-- Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation
 - Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks
 - A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction
 - A Joint Neural Model for Information Extraction with Global Features
