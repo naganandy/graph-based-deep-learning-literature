@@ -2,6 +2,12 @@
 
 
 
+# Robustness
+- [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
+- [Robust Graph Representation Learning via Neural Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsparse_icml20/README.md)
+
+
+
 # Non-Euclidean Geometry
 - [Constant Curvature Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/kgcn_icml20/README.md)
 - [Differentiating through the Fréchet Mean](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hfm_icml20/README.md)
@@ -24,14 +30,12 @@
 # Miscellaneous
 - [Inductive Relation Prediction by Subgraph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grail_icml20/README.md)
 - [Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
-- [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
 - [Bayesian Graph Neural Networks with Adaptive Connection Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/bbgdc_icml20/README.md)
 - [Generalization and Representational Limits of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cpngnn_icml20/README.md)
 - [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
 - [Distance-Preserving Graph Embeddings from Random Neural Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grnf_icml20/README.md)
 - [Graph Homomorphism Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ghc_icml20/README.md)
-- [Robust Graph Representation Learning via Neural Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsparse_icml20/README.md)
 - [Convolutional Kernel Networks for Graph-Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gckn_icml20/README.md)
 - [Learning to Simulate Complex Physics with Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gns_icml20/README.md)
 - [GraphOpt: Learning Optimization Models of Graph Formation](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_icml20/graphopt_icml20)
