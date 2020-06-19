@@ -10,4 +10,4 @@
 ```
 
 links
-- [prprint](http://jiyang3.web.engr.illinois.edu/files/alagnn.pdf)
+- [preprint](http://jiyang3.web.engr.illinois.edu/files/alagnn.pdf)
