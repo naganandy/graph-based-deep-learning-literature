@@ -1,7 +1,7 @@
 # Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection
 
 ```
-@inproceedings{ladan_acl20,
+@inproceedings{dtpgcn_acl20,
 author = {Lei Zhong and Juan Cao and Qiang Sheng and Junbo Guo and Ziang Wang},
 title = {Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
