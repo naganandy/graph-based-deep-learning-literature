@@ -51,8 +51,6 @@
 - Simple and Deep Graph Convolutional Networks
 - Quantized Decentralized Stochastic Learning over Directed Graphs
 - Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case
-- Spectral Clustering with Graph Neural Networks for Graph Pooling
-- Interferometric Graph Transform:a Deep Unsupervised Graph Invariant Representation
 - Deep Graph Random Process for Relational-Thinking-Based Speech Recognition
 - Fractal Gaussian Networks: A sparse random graph model based on Gaussian Multiplicative Chaos
 - Faster Graph Embeddings via Coarsening
