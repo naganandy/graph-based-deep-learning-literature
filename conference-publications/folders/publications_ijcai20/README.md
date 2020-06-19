@@ -9,10 +9,15 @@
 
 
 
+# Knowledge Graphs
+- [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
+- [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
+
+
+
 # Natural Language Processing
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
 - [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
-- [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
 
 
 
@@ -33,7 +38,6 @@
 - [GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gognn_ijcai20/README.md)
 - [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatgc_ijcai20/README.md)
 - [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
-- [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
  - [When Do GNNs Work: Understanding and Improving Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/alagnn_ijcai20/README.md)
 - [Multi-View Joint Graph Representation Learning for Urban Region Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mvjrl_ijcai20/README.md)
 
