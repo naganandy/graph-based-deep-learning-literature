@@ -30,7 +30,7 @@
 
 
 ## -----------------------------------------------------------------------------
-## [UAI 2020](http://www.auai.org/uai2020/accepted.php)
+# [UAI 2020](http://www.auai.org/uai2020/accepted.php)
 - Non Parametric Graph Learning for Bayesian Graph Neural Networks
 
 
