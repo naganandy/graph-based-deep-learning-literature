@@ -4,7 +4,6 @@
 - EMNLP 2020 (Nov, decisions mid Sep)
 - ICDM 2020 (Nov, decisions late Aug)
 - ECCV 2020 (Aug, decisions early Jul)
-- UAI 2020 (Aug)
 
 
 ## -----------------------------------------------------------------------------
@@ -27,6 +26,12 @@
 - PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
 
 </details>
+
+
+
+## -----------------------------------------------------------------------------
+## [UAI 2020](http://www.auai.org/uai2020/accepted.php)
+- Non Parametric Graph Learning for Bayesian Graph Neural Networks
 
 
 
