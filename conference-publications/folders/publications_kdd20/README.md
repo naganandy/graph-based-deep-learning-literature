@@ -9,7 +9,7 @@
 - [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mtgnn_kdd20/README.md)
 - [Interpretable Deep Graph Generation with Node-Edge Co-Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nedipvae_kdd20/README.md)
 - [Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/fate_kdd20/README.md)
-
+- [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 
 
 
