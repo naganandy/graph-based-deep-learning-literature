@@ -42,5 +42,12 @@
 - Graph Structural-topic Neural Network
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification
+- HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
+- Hierarchical Attention Propagation for Healthcare Representation Learning
+- Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
+- Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
+- InFoRM: Individual Fairness on Graph Mining
+- Interactive Path Reasoning on Graph for Conversational Recommendation
+- Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
 
 </details>
