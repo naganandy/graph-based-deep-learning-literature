@@ -24,5 +24,6 @@
 - A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
 - Adaptive Graph Encoder for Attributed Graph Embedding
 - AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
+- ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction
 
 </details>
