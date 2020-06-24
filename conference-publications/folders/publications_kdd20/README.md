@@ -32,5 +32,8 @@
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
 - Deep Learning of High-Order Interactions for Protein Interface Prediction
 - DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation
+- Dual Channel Hypergraph Collaborative Filtering
+- Dynamic Knowledge Graph based Multi-Event Forecasting
+- Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
 
 </details>
