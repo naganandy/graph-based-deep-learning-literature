@@ -59,6 +59,7 @@
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Grale: Designing Networks for Graph Learning
+- Personalized Image Retrieval with Sparse Graph Representation Learning
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
@@ -75,5 +76,6 @@
 - Hypergraph Convolutional Recurrent Neural Network
 - Large-Scale Training System for 100-Million Classification at Alibaba
 - OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena
+- SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter
 
 </details>
