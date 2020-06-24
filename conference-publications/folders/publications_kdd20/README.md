@@ -1,6 +1,6 @@
 # [Publications in KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)
 
-# Multi-Relation Graphs
+# Multi-Relational Graphs
 - [MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multiimport_kdd20/README.md)
 - [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
 
