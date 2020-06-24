@@ -49,5 +49,6 @@
 - InFoRM: Individual Fairness on Graph Mining
 - Interactive Path Reasoning on Graph for Conversational Recommendation
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
+- Local Community Detection in Multiple Networks
 
 </details>
