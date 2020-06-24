@@ -66,5 +66,7 @@
 - SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
 - TinyGNN: Learning Efficient Graph Neural Networks
 - Towards Deeper Graph Neural Networks
+- A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce
+- ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 
 </details>
