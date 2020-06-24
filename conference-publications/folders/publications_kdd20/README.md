@@ -31,5 +31,6 @@
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
 - Deep Learning of High-Order Interactions for Protein Interface Prediction
+- DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation
 
 </details>
