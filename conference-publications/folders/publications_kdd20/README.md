@@ -50,5 +50,9 @@
 - Interactive Path Reasoning on Graph for Conversational Recommendation
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
 - Local Community Detection in Multiple Networks
+- Local Motif Clustering on Time-Evolving Graphs
+- Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks
+- Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
+- NodeAug: Semi-Supervised Node Classification with Data Augmentation
 
 </details>
