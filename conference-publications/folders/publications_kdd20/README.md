@@ -26,5 +26,7 @@
 - AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
 - ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
+- CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
+- Correlation Networks for Extreme Multi-label Text Classification
 
 </details>
