@@ -54,5 +54,6 @@
 - Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
+- Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 
 </details>
