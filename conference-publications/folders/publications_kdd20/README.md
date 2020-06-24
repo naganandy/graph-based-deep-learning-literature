@@ -56,5 +56,6 @@
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 - PolicyGNN: Aggregation Optimization for Graph Neural Networks
+- REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 
 </details>
