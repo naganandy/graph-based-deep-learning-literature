@@ -21,6 +21,7 @@
 # Heterogeneous Graphs
 - [HetGNN: Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/hetgnn_kdd19/README.md)
 - [OAG: Toward Linking Large-scale Heterogeneous Entity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/oag_kdd19/README.md)
+- [IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd19/intentgc_kdd19/README.md)
 
 
 
