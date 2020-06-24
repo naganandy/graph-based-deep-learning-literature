@@ -1,4 +1,4 @@
-# Publications in KDD 2020
+# [Publications in KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)
 
 - [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
 - [Understanding Negative Sampling in Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mcns_kdd20/README.md)
