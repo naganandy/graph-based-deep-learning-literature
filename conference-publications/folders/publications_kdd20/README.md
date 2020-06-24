@@ -32,8 +32,6 @@
 - AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
 - ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
-- CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
-- Correlation Networks for Extreme Multi-label Text Classification
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
 - Deep Learning of High-Order Interactions for Protein Interface Prediction
@@ -41,22 +39,13 @@
 - Dual Channel Hypergraph Collaborative Filtering
 - Dynamic Knowledge Graph based Multi-Event Forecasting
 - Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
-- FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
-- Geodesic Forests
-- Grammatically Recognizing Images with Tree Convolution
 - Graph Attention Networks over Edge Content-Based Channels
 - Graph Structural-topic Neural Network
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification
 - HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
-- Hierarchical Attention Propagation for Healthcare Representation Learning
-- Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
 - Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
-- InFoRM: Individual Fairness on Graph Mining
-- Interactive Path Reasoning on Graph for Conversational Recommendation
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
-- Local Community Detection in Multiple Networks
-- Local Motif Clustering on Time-Evolving Graphs
 - Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
@@ -68,5 +57,17 @@
 - Towards Deeper Graph Neural Networks
 - A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
+- Correlation Networks for Extreme Multi-label Text Classification
+- CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
+- FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
+- Geodesic Forests
+- Grammatically Recognizing Images with Tree Convolution
+- Hierarchical Attention Propagation for Healthcare Representation Learning
+- Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
+- InFoRM: Individual Fairness on Graph Mining
+- Interactive Path Reasoning on Graph for Conversational Recommendation
+- Local Community Detection in Multiple Networks
+- Local Motif Clustering on Time-Evolving Graphs
+- Domain Specific Knowledge Graphs as a Service to the Public
 
 </details>
