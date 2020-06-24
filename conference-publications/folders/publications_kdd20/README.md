@@ -57,5 +57,8 @@
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 - PolicyGNN: Aggregation Optimization for Graph Neural Networks
 - REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
+- SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
+- TinyGNN: Learning Efficient Graph Neural Networks
+- Towards Deeper Graph Neural Networks
 
 </details>
