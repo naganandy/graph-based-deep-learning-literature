@@ -19,6 +19,7 @@
 - [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 - [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/octet_kdd20/README.md)
 - [Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/calendargnn_kdd20/README.md)
+- [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
 
 
 
