@@ -58,6 +58,7 @@
 - A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
+- Grale: Designing Networks for Graph Learning
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
@@ -70,5 +71,9 @@
 - Local Community Detection in Multiple Networks
 - Local Motif Clustering on Time-Evolving Graphs
 - Domain Specific Knowledge Graphs as a Service to the Public
+- HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival
+- Hypergraph Convolutional Recurrent Neural Network
+- Large-Scale Training System for 100-Million Classification at Alibaba
+- OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena
 
 </details>
