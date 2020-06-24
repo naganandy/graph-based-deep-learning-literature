@@ -35,5 +35,6 @@
 - Dual Channel Hypergraph Collaborative Filtering
 - Dynamic Knowledge Graph based Multi-Event Forecasting
 - Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
+- FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
 
 </details>
