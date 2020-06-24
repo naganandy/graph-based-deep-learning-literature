@@ -14,4 +14,4 @@ links
 - [arXiv](https://arxiv.org/abs/1907.12377)
 - [kdd](https://www.kdd.org/kdd2019/accepted-papers/view/intentgc-a-scalable-graph-convolution-framework-fusing-heterogeneous-inform)
 - [acm](https://dl.acm.org/doi/10.1145/3292500.3330686)
-- [video](https://www.youtube.com/watch?v=1Cr8PcwSijQ)
+- [spotlight](https://www.youtube.com/watch?v=1Cr8PcwSijQ)
