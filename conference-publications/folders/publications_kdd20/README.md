@@ -55,5 +55,6 @@
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
+- PolicyGNN: Aggregation Optimization for Graph Neural Networks
 
 </details>
