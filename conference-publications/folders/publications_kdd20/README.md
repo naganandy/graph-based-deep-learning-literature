@@ -29,5 +29,6 @@
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - Correlation Networks for Extreme Multi-label Text Classification
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
+- Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
 
 </details>
