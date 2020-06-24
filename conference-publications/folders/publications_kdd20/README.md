@@ -37,5 +37,10 @@
 - Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
 - FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
 - Geodesic Forests
+- Grammatically Recognizing Images with Tree Convolution
+- Graph Attention Networks over Edge Content-Based Channels
+- Graph Structural-topic Neural Network
+- Handling Information Loss of Graph Neural Networks for Session-based Recommendation
+- HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification
 
 </details>
