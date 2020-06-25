@@ -5,6 +5,7 @@
   author    = {Daixin Wang and Jianbin Lin and Peng Cui and Quanhui Jia and Zhen Wang and Yanming Fang and Quan Yu and Jun Zhou and Shuang Yang and Yuan Qi},
   title     = {A Semi-Supervised Graph Attentive Network for Financial Fraud Detection},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {598-607},
   year      = {2019}
 }
 ```
