@@ -563,6 +563,7 @@
 # [ICDM 2019 (Nov)](http://39.104.72.142:8080/icdm2019/index.php/list-of-accepted-papers/)
 - [Domain-Adversarial Graph Neural Networks for Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/dagnn_icdm19/README.md)
 - [Neural Embedding Propagation on Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/nep_icdm19/README.md)
+- [Relation Structure-Aware Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/rshn_icdm19/README.md)
 - [Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/necdgt_icdm19/README.md)
 - [Multi-Graph Convolution Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/multigccf_icdm19/README.md)
 - [Adaptive Neural Network for Node Classification in Dynamic Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc19/adann_icdm19/README.md)
