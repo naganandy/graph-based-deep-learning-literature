@@ -5,6 +5,7 @@
   author    = {Xiaoyu Li and Buyue Qian and Jishang Wei and An Li and Xuan Liu and Qinghua Zheng },
   title     = {Classify EEG and Reveal Latent Graph Structure with Spatio-Temporal Graph Convolutional Neural Network},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {389-398},
   year      = {2019}
 }
 ```
