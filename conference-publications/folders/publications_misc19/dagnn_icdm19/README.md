@@ -5,6 +5,7 @@
   author    = {Man Wu and Shirui Pan and Xingquan Zhu and Chuan Zhou and Lei Pan},
   title     = {Domain-Adversarial Graph Neural Networks for Text Classification},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {648-657},
   year      = {2019}
 }
 ```
