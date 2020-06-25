@@ -5,6 +5,7 @@
   author    = {Carl Yang and Jieyu Zhang and Jiawei Han},
   title     = {Neural Embedding Propagation on Heterogeneous Networks},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {698-707},
   year      = {2019}
 }
 ```
