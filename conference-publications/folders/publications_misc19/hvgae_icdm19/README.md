@@ -5,6 +5,7 @@
   author    = {Basmah Altaf and Uchenna Akujuobi and Lu Yu and Xiangliang Zhang},
   title     = {Dataset Recommendation via Variational Graph Autoencoder},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {11-20},
   year      = {2019}
 }
 ```
