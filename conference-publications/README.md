@@ -64,6 +64,7 @@
  
 - [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mincutpool_icml20/README.md)
 - [A Graph to Graphs Framework for Retrosynthesis Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/g2g_icml20/README.md)
+- [Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnagd_icml20/README.md)
 - [Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
 - [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
 - [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hiervae_icml20/README.md)
