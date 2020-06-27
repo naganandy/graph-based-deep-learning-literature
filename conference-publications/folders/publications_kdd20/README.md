@@ -31,6 +31,7 @@
 - [Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mgcn_kdd20/README.md)
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
+- [Graph Structural-topic Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/graphstone_kdd20/README.md)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
 - [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
@@ -61,7 +62,6 @@
 - Dynamic Knowledge Graph based Multi-Event Forecasting
 - Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
 - Graph Attention Networks over Edge Content-Based Channels
-- Graph Structural-topic Neural Network
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification
 - HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
