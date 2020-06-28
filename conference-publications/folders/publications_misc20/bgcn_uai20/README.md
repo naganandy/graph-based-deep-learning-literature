@@ -6,6 +6,7 @@ author = {Soumyasundar Pal and Saber Malekmohammadi and Florence Regol and Yingx
 title = {Non-Parametric Graph Learning for Bayesian Graph Neural Networks},
 booktitle = {Proceedings of the Thirty-Sixth Conference on Uncertainty in Artificial Intelligence (UAI)},
 year = {2020}
+}
 ```
 
 links
