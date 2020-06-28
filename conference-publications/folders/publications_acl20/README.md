@@ -85,9 +85,10 @@
 
 
 
-# Visual Question Answering
+# Question Answering
 - [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mngmn_acl20/README.md)
 - [Aligned Dual Channel Graph Convolutional Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dcgcn_acl20/README.md)
+- [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 
 
 
@@ -130,7 +131,6 @@
 # Miscellaneous
 - [Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/pae_acl20/README.md)
 - [Interpreting Twitter User Geolocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/twitergnn_acl20/README.md)
-- [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 - [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/g2t_acl20/README.md)
 - [Neural Reranking for Dependency Parsing: An Evaluation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dpnr_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
