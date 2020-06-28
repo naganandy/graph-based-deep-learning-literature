@@ -51,6 +51,7 @@
 # Relation Extraction
 - [ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/zsceres_acl20/README.md)
 - [Reasoning with Latent Structure Refinement for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/lsr_acl20/README.md)
+- [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/edgat_acl20/README.md)
 
 
 
@@ -130,6 +131,5 @@
 - [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
 - [Autoencoding Keyword Correlation Graph for Document Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sssbmt_acl20/README.md)
 - [Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/pae_acl20/README.md)
-- [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/edgat_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 - [DRTS Parsing with Structure-Aware Encoding and Decoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/drtsparsing_acl20/README.md)
