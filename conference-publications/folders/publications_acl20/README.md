@@ -1,4 +1,4 @@
-# [Publications in ACL 2020](https://www.aclweb.org/anthology/volumes/2020.acl-main/)
+# [Publications in ACL 2020](https://acl2020.org/program/accepted/)
 
 
 # Knowledge Graph Embedding
