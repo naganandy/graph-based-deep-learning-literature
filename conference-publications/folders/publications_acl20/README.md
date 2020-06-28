@@ -60,6 +60,12 @@
 
 
 
+# Math Processing
+- [Premise Selection in Natural Language Mathematical Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/psgcn_acl20/README.md)
+- [Graph-to-Tree Learning for Solving Math Word Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/graph2tree_acl20/README.md)
+
+
+
 # Chinese Language Processing
 - [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/spellgcn_acl20/README.md)
 - [Neural Graph Matching Networks for Chinese Short Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cgmn_acl20/README.md)
@@ -83,13 +89,11 @@
 - [ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/reinceptione_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Parsing into Variable-in-situ Logico-Semantic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hgs_acl20/README.md)
-- [Premise Selection in Natural Language Mathematical Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/psgcn_acl20/README.md)
 - [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
 - [Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/taggat_acl20/README.md)
 - [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
 - [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mmgnmt_acl20/README.md)
 - [Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rankcp_acl20/README.md)
-- [Graph-to-Tree Learning for Solving Math Word Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/graph2tree_acl20/README.md)
 - [Autoencoding Keyword Correlation Graph for Document Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sssbmt_acl20/README.md)
 - [Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/pae_acl20/README.md)
 - [Understanding the Language of Political Agreement and Disagreement in Legislative Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/leggcn_acl20/README.md)
