@@ -29,6 +29,13 @@
 
 
 
+# Natural Language Processing + Computer Vision
+- [Improving Image Captioning with Better Use of Caption](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/icgcn_acl20/README.md)
+- [Aligned Dual Channel Graph Convolutional Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dcgcn_acl20/README.md)
+- [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mngmn_acl20/README.md)
+
+
+
 # Chinese Language Processing
 - [SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/spellgcn_acl20/README.md)
 - [Neural Graph Matching Networks for Chinese Short Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cgmn_acl20/README.md)
@@ -54,8 +61,6 @@
 - [ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/reinceptione_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Parsing into Variable-in-situ Logico-Semantic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hgs_acl20/README.md)
-- [Aligned Dual Channel Graph Convolutional Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dcgcn_acl20/README.md)
-- [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mngmn_acl20/README.md)
 - [Premise Selection in Natural Language Mathematical Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/psgcn_acl20/README.md)
 - [ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/zsceres_acl20/README.md)
 - [Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sqgdg_acl20/README.md)
@@ -75,7 +80,6 @@
 - [Neighborhood Matching Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nmn_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 - [DRTS Parsing with Structure-Aware Encoding and Decoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/drtsparsing_acl20/README.md)
-- [Improving Image Captioning with Better Use of Caption](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/icgcn_acl20/README.md)
 - [Structural Information Preserving for Graph-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sipg2t_acl20/README.md)
 - [Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ram_acl20/README.md)
 - [Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mmppinlp_acl20/README.md)
