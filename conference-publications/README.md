@@ -41,7 +41,7 @@
 
 ## -----------------------------------------------------------------------------
 # [UAI 2020 (Aug)](http://www.auai.org/uai2020/accepted.php)
-- [Non Parametric Graph Learning for Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/bgcn_uai20/README.md)
+- [Non-Parametric Graph Learning for Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/bgcn_uai20/README.md)
 
 
 
