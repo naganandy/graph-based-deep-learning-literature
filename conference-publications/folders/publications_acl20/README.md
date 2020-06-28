@@ -71,6 +71,7 @@
 - [Improving Image Captioning with Better Use of Caption](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/icgcn_acl20/README.md)
 - [Aligned Dual Channel Graph Convolutional Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dcgcn_acl20/README.md)
 - [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mngmn_acl20/README.md)
+- [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mmgnmt_acl20/README.md)
 
 
 
@@ -106,7 +107,6 @@
 - [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
 - [Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/taggat_acl20/README.md)
 - [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
-- [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mmgnmt_acl20/README.md)
 - [Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rankcp_acl20/README.md)
 - [Autoencoding Keyword Correlation Graph for Document Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sssbmt_acl20/README.md)
 - [Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/pae_acl20/README.md)
