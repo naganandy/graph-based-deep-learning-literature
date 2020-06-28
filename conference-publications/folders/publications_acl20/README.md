@@ -1,5 +1,13 @@
 # [Publications in ACL 2020](https://www.aclweb.org/anthology/volumes/2020.acl-main/)
 
+
+
+# Heterogeneous Graphs
+- [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hetgt_acl20/README.md)
+- [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hdsg_acl20/README.md)
+
+
+
 - [Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/texting_acl20/README.md)
 - [Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dtpcgcn_acl20/README.md)
 - [Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/linemixgat_acl20/README.md)
@@ -46,12 +54,10 @@
 - [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/edgat_acl20/README.md)
 - [LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/logicalfactchecker_acl20/README.md)
 - [Neural Graph Matching Networks for Chinese Short Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cgmn_acl20/README.md)
-- [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hdsg_acl20/README.md)
 - [Leveraging Graph to Improve Abstractive Multi-Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/graphsum_acl20/README.md)
 - [Neighborhood Matching Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nmn_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 - [DRTS Parsing with Structure-Aware Encoding and Decoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/drtsparsing_acl20/README.md)
-- [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hetgt_acl20/README.md)
 - [Improving Image Captioning with Better Use of Caption](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/icgcn_acl20/README.md)
 - [Structural Information Preserving for Graph-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sipg2t_acl20/README.md)
 - [Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ram_acl20/README.md)
