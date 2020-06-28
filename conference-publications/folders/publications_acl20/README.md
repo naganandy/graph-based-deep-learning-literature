@@ -23,6 +23,7 @@
 
 # Sentiment Analysis
 - [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rgat_acl20/README.md)
+- [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kingdom_acl20/README.md)
 - [Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dgedt_acl20/README.md)
 - [Aspect Sentiment Classification with Document-level Sentiment Preference Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cogan_acl20/README.md)
 
@@ -91,7 +92,6 @@
 - [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ladan_acl20/README.md)
 - [HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hypercore_acl20/README.md)
 - [Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sekt_acl20/README.md)
-- [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kingdom_acl20/README.md)
 - [Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/depgcn_acl20/README.md)
 - [Neural Reranking for Dependency Parsing: An Evaluation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dpnr_acl20/README.md)
 - [Graph Neural News Recommendation with Unsupervised Preference Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gnud_acl20/README.md)
