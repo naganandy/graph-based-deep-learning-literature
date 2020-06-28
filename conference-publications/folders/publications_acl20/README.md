@@ -24,11 +24,16 @@
 # Sentiment Analysis
 - [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rgat_acl20/README.md)
 - [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kingdom_acl20/README.md)
-- [Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dgedt_acl20/README.md)
-- [Aspect Sentiment Classification with Document-level Sentiment Preference Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cogan_acl20/README.md)
 - [Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/depgcn_acl20/README.md)
 - [Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sekt_acl20/README.md)
 - [Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rankcp_acl20/README.md)
+- [Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dtpcgcn_acl20/README.md)
+
+
+
+# Aspect Sentiment Classification
+- [Aspect Sentiment Classification with Document-level Sentiment Preference Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cogan_acl20/README.md)
+- [Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dgedt_acl20/README.md)
 
 
 
@@ -96,7 +101,6 @@
 
 
 # Miscellaneous
-- [Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dtpcgcn_acl20/README.md)
 - [Interpreting Twitter User Geolocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/twitergnn_acl20/README.md)
 - [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/g2t_acl20/README.md)
 - [HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hypercore_acl20/README.md)
