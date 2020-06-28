@@ -15,6 +15,12 @@
 
 
 
+# Text Classification
+- [Hierarchy-Aware Global Model for Hierarchical Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hiagm_acl20/README.md)
+- [Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/texting_acl20/README.md)
+
+
+
 # Sentiment Analysis
 - [Relational Graph Attention Network for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/rgat_acl20/README.md)
 - [Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dgedt_acl20/README.md)
@@ -43,7 +49,6 @@
 
 
 # Miscellaneous
-- [Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/texting_acl20/README.md)
 - [Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dtpcgcn_acl20/README.md)
 - [Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/linemixgat_acl20/README.md)
 - [Interpreting Twitter User Geolocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/twitergnn_acl20/README.md)
@@ -66,7 +71,6 @@
 - [Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sqgdg_acl20/README.md)
 - [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
 - [Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/taggat_acl20/README.md)
-- [Hierarchy-Aware Global Model for Hierarchical Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hiagm_acl20/README.md)
 - [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
 - [Reasoning with Latent Structure Refinement for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/lsr_acl20/README.md)
 - [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/conceptflow_acl20/README.md)
