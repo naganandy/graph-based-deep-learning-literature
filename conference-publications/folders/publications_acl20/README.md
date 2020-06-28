@@ -8,6 +8,12 @@
 
 
 
+# Abstractive Summarisation
+- [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/asgard_acl20/README.md)
+- [Leveraging Graph to Improve Abstractive Multi-Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/graphsum_acl20/README.md)
+
+
+
 # Miscellaneous
 - [Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/texting_acl20/README.md)
 - [Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dtpcgcn_acl20/README.md)
@@ -50,12 +56,10 @@
 - [Graph-to-Tree Learning for Solving Math Word Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/graph2tree_acl20/README.md)
 - [Autoencoding Keyword Correlation Graph for Document Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sssbmt_acl20/README.md)
 - [Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/pae_acl20/README.md)
-- [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/asgard_acl20/README.md)
 - [Understanding the Language of Political Agreement and Disagreement in Legislative Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/leggcn_acl20/README.md)
 - [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/edgat_acl20/README.md)
 - [LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/logicalfactchecker_acl20/README.md)
 - [Neural Graph Matching Networks for Chinese Short Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cgmn_acl20/README.md)
-- [Leveraging Graph to Improve Abstractive Multi-Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/graphsum_acl20/README.md)
 - [Neighborhood Matching Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nmn_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 - [DRTS Parsing with Structure-Aware Encoding and Decoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/drtsparsing_acl20/README.md)
