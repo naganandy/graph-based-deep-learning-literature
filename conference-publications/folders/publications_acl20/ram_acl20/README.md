@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{ram_acl20,
-author = {Zhiliang Tian and Wei Bi and Dongkyu Lee and Lanqing Xue and Yiping Song and Xiaojiang Liu and Nevin L. Zhang},
+author = {Tian, Zhiliang  and Bi, Wei  and Lee, Dongkyu  and Xue, Lanqing  and Song, Yiping  and Liu, Xiaojiang  and Zhang, Nevin L.},
 title = {Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
+pages = {650–-659},
 year = {2020}
 }
 ```
