@@ -96,6 +96,12 @@
 
 
 
+# Biology
+- [HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hypercore_acl20/README.md)
+- [Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mmppinlp_acl20/README.md)
+
+
+
 # Law Articles
 - [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/ladan_acl20/README.md)
 - [Understanding the Language of Political Agreement and Disagreement in Legislative Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/leggcn_acl20/README.md)
@@ -111,7 +117,6 @@
 # Miscellaneous
 - [Interpreting Twitter User Geolocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/twitergnn_acl20/README.md)
 - [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/g2t_acl20/README.md)
-- [HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hypercore_acl20/README.md)
 - [Neural Reranking for Dependency Parsing: An Evaluation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dpnr_acl20/README.md)
 - [Graph Neural News Recommendation with Unsupervised Preference Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gnud_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
@@ -124,4 +129,3 @@
 - [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/edgat_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
 - [DRTS Parsing with Structure-Aware Encoding and Decoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/drtsparsing_acl20/README.md)
-- [Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mmppinlp_acl20/README.md)
