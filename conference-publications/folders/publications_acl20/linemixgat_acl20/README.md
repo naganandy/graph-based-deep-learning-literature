@@ -7,6 +7,7 @@ author = {Zhao, Yanbin and Chen, Lu and Chen, Zhi and Cao, Ruisheng and Zhu, Su 
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {732--741},
 year = {2020}
+}
 ```
 
 links

@@ -7,6 +7,7 @@ author = {Li, Wei and Xiao, Xinyan and Liu, Jiachen and Wu, Hua and Wang, Haifen
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6232--6243},
 year = {2020}
+}
 ```
 
 links

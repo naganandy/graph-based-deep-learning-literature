@@ -7,6 +7,7 @@ author = {Zhou, Jie and Ma, Chunping and Long, Dingkun and Xu, Guangwei and Ding
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {1106--1117},
 year = {2020}
+}
 ```
 
 links

@@ -7,6 +7,7 @@ author = {Zhang, Bowen and Yang, Min and Li, Xutao and Ye, Yunming and Xu, Xiaof
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3188--3197},
 year = {2020}
+}
 ```
 
 links

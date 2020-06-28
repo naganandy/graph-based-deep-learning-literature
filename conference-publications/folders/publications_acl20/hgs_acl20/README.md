@@ -7,6 +7,7 @@ author = {Chen, Yufei and Sun, Weiwei},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6772--6782},
 year = {2020}
+}
 ```
 
 links

@@ -7,6 +7,7 @@ author = {Nan, Guoshun and Guo, Zhijiang and Sekulic, Ivan and Lu, Wei},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {1546--1557},
 year = {2020}
+}
 ```
 
 links

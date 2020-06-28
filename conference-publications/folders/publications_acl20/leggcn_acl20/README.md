@@ -7,6 +7,7 @@ author = {Davoodi, Maryam and Waltenburg, Eric and Goldwasser, Dan},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {5358--5368},
 year = {2020}
+}
 ```
 
 links

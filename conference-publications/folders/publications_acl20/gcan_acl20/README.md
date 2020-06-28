@@ -7,6 +7,7 @@ author = {Lu, Yi-Ju and Li, Cheng-Te},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {505--514},
 year = {2020}
+}
 ```
 
 links

@@ -7,6 +7,7 @@ author = {Shang, Chao and Dash, Sarthak and Chowdhury, Md. Faisal Mahbub and Mih
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {2198--2208},
 year = {2020}
+}
 ```
 
 links

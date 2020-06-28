@@ -7,6 +7,7 @@ author = {Lockard, Colin and Shiralkar, Prashant and Dong, Xin Luna and Hajishir
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {8105--8117},
 year = {2020}
+}
 ```
 
 links

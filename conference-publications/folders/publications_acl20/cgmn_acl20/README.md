@@ -7,6 +7,7 @@ author = {Chen, Lu and Zhao, Yanbin and Lyu, Boer and Jin, Lesheng and Chen, Zhi
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6152--6158},
 year = {2020}
+}
 ```
 
 links

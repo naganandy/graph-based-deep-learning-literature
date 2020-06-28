@@ -7,6 +7,7 @@ author = {Song, Linfeng and Wang, Ante and Su, Jinsong and Zhang, Yue and Xu, Ku
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {7987--7998},
 year = {2020}
+}
 ```
 
 links

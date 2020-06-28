@@ -7,6 +7,7 @@ author = {Zhang, Jipeng and Wang, Lei and Lee, Roy Ka-Wei and Bin, Yi and Wang, 
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3928--3937},
 year = {2020}
+}
 ```
 
 links

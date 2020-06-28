@@ -7,6 +7,7 @@ author = {Chen, Xiao and Sun, Changlong and Wang, Jingjing and Li, Shoushan and 
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3667--3677},
 year = {2020}
+}
 ```
 
 links

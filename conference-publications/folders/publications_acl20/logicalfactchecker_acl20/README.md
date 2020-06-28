@@ -7,6 +7,7 @@ author = {Zhong, Wanjun and Tang, Duyu and Feng, Zhangyin and Duan, Nan and Zhou
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6053--6065},
 year = {2020}
+}
 ```
 
 links

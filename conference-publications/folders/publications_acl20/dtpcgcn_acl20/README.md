@@ -7,6 +7,7 @@ author = {Zhong, Lei and Cao, Juan and Sheng, Qiang and Guo, Junbo and Wang, Zia
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {515--526},
 year = {2020}
+}
 ```
 
 links

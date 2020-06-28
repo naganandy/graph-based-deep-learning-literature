@@ -7,6 +7,7 @@ author = {Chai, Zi and Wan, Xiaojun},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {225--237},
 year = {2020}
+}
 ```
 
 links

@@ -7,6 +7,7 @@ author = {Pan, Liangming and Xie, Yuxi and Feng, Yansong and Chua, Tat-Seng and 
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {1463--1475},
 year = {2020}
+}
 ```
 
 links

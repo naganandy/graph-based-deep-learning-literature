@@ -7,6 +7,7 @@ author = {Luo, Ying and Zhao, Hai},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6408--6418},
 year = {2020}
+}
 ```
 
 links

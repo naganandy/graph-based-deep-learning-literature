@@ -7,6 +7,7 @@ author = {Shi, Zhan and Zhou, Xu and Qiu, Xipeng and Zhu, Xiaodan},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {7454--7464},
 year = {2020}
+}
 ```
 
 links

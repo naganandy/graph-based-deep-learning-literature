@@ -7,6 +7,7 @@ author = {Zhang, Bo and Zhang, Yue and Wang, Rui and Li, Zhenghua and Zhang, Min
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3249--3258},
 year = {2020}
+}
 ```
 
 links

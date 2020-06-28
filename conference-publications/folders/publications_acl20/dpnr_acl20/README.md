@@ -7,6 +7,7 @@ author = {Do, Bich-Ngoc and Rehbein, Ines},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {4123--4133},
 year = {2020}
+}
 ```
 
 links

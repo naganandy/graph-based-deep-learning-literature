@@ -7,6 +7,7 @@ author = {Ma, Nianzu and Mazumder, Sahisnu and Wang, Hao and Liu, Bing},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {5782--5788},
 year = {2020}
+}
 ```
 
 links

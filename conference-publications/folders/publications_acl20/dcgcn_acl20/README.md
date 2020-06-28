@@ -7,6 +7,7 @@ author = {Huang, Qingbao and Wei, Jielong and Cai, Yi and Zheng, Changmeng and C
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {7166--7176},
 year = {2020}
+}
 ```
 
 links

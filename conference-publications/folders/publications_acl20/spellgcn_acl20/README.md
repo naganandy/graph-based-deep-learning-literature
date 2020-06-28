@@ -7,6 +7,7 @@ author = {Cheng, Xingyi and Xu, Weidi and Chen, Kunlong and Jiang, Shaohua and W
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {871--881},
 year = {2020}
+}
 ```
 
 links

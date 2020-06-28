@@ -7,6 +7,7 @@ author = {He, Keqing and Yan, Yuanmeng and XU, Weiran},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {619--624},
 year = {2020}
+}
 ```
 
 links

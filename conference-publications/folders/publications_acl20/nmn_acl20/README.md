@@ -7,6 +7,7 @@ author = {Wu, Yuting and Liu, Xiao and Feng, Yansong and Wang, Zheng and Zhao, D
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6477--6487},
 year = {2020}
+}
 ```
 
 links

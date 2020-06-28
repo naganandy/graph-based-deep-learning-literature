@@ -7,6 +7,7 @@ author = {Ferreira, Deborah and Freitas, Andr{\'e}},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {7365--7374},
 year = {2020}
+}
 ```
 
 links

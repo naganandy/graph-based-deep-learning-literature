@@ -7,6 +7,7 @@ author = {Hofmann, Valentin and Sch{\"u}tze, Hinrich and Pierrehumbert, Janet},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {1127--1138},
 year = {2020}
+}
 ```
 
 links

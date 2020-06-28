@@ -7,6 +7,7 @@ author = {Wang, Kai and Shen, Weizhou and Yang, Yunyi and Quan, Xiaojun and Wang
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3229--3238},
 year = {2020}
+}
 ```
 
 links

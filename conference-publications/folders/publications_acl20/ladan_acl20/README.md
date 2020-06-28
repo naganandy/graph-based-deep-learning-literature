@@ -7,6 +7,7 @@ author = {Xu, Nuo and Wang, Pinghui and Chen, Long and Pan, Li and Wang, Xiaoyan
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3086--3095},
 year = {2020}
+}
 ```
 
 links

@@ -7,6 +7,7 @@ author = {Cao, Pengfei and Chen, Yubo and Liu, Kang and Zhao, Jun and Liu, Sheng
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3105--3114},
 year = {2020}
+}
 ```
 
 links

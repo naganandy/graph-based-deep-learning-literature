@@ -7,6 +7,7 @@ author = {Zhong, Ting and Wang, Tianliang and Zhou, Fan and Trajcevski, Goce and
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {853--859},
 year = {2020}
+}
 ```
 
 links

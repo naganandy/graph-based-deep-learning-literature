@@ -7,6 +7,7 @@ author = {Liu, Zhenghao and Xiong, Chenyan and Sun, Maosong and Liu, Zhiyuan},
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {7342--7351},
 year = {2020}
+}
 ```
 
 links

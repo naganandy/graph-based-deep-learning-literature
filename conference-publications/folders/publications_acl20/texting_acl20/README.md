@@ -7,6 +7,7 @@ author = {Zhang, Yufeng and Yu, Xueli and Cui, Zeyu and Wu, Shu and Wen, Zhongzh
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {334--339},
 year = {2020}
+}
 ```
 
 links

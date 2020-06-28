@@ -7,6 +7,7 @@ author = {Wang, Danqing and Liu, Pengfei and Zheng, Yining and Qiu, Xipeng and H
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6209--6219},
 year = {2020}
+}
 ```
 
 links

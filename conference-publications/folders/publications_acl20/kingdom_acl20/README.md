@@ -7,6 +7,7 @@ author = {Ghosal, Deepanway and Hazarika, Devamanyu and Roy, Abhinaba and Majumd
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {3198--3210},
 year = {2020}
+}
 ```
 
 links

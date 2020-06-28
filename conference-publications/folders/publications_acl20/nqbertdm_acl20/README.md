@@ -7,6 +7,7 @@ author = {Zheng, Bo and Wen, Haoyang and Liang, Yaobo and Duan, Nan and Che, Wan
 booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {6708--6718},
 year = {2020}
+}
 ```
 
 links
