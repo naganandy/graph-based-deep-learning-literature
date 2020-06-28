@@ -1,4 +1,4 @@
-# {Z}ero{S}hot{C}eres: Zero-Shot Relation Extraction from Semi-Structured Webpages
+# ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages
 
 ```
 @inproceedings{zsceres_acl20,

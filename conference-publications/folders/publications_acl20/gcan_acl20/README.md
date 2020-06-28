@@ -1,4 +1,4 @@
-# {GCAN}: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media
+# GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media
 
 ```
 @inproceedings{gcan_acl20,

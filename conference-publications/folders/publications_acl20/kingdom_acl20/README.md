@@ -1,4 +1,4 @@
-# {K}in{GDOM}: {K}nowledge-{G}uided {DOM}ain {A}daptation for {S}entiment {A}nalysis
+# KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis
 
 ```
 @inproceedings{kingdom_acl20,

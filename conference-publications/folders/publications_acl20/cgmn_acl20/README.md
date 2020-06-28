@@ -1,4 +1,4 @@
-# Neural Graph Matching Networks for {C}hinese Short Text Matching
+# Neural Graph Matching Networks for Chinese Short Text Matching
 
 ```
 @inproceedings{cgmn_acl20,

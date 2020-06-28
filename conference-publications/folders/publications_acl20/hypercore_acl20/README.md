@@ -1,4 +1,4 @@
-# {H}yper{C}ore: Hyperbolic and Co-graph Representation for Automatic {ICD} Coding
+# HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding
 
 ```
 @inproceedings{hypercore_acl20,

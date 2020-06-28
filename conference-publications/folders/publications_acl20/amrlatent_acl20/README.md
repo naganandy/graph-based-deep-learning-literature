@@ -1,4 +1,4 @@
-# {AMR} Parsing with Latent Structural Information
+# AMR Parsing with Latent Structural Information
 
 ```
 @inproceedings{amrlatent_acl20,

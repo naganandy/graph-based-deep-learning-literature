@@ -1,4 +1,4 @@
-# Learning to Tag {OOV} Tokens by Integrating Contextual Representation and Background Knowledge
+# Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge
 
 ```
 @inproceedings{taggat_acl20,

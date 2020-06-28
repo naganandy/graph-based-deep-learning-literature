@@ -1,4 +1,4 @@
-# Line Graph Enhanced {AMR}-to-Text Generation with Mix-Order Graph Attention Networks
+# Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks
 
 ```
 @inproceedings{linemixgat_acl20,

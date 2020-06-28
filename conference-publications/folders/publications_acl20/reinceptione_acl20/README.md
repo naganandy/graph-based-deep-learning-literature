@@ -1,4 +1,4 @@
-# {R}e{I}nception{E}: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
+# ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding
 
 ```
 @inproceedings{reinceptione_acl20,

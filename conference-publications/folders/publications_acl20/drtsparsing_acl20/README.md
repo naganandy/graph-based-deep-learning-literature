@@ -1,4 +1,4 @@
-# {DRTS} Parsing with Structure-Aware Encoding and Decoding
+# DRTS Parsing with Structure-Aware Encoding and Decoding
 
 ```
 @inproceedings{drtsparsing_acl20,

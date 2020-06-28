@@ -1,4 +1,4 @@
-# Interpreting {T}witter User Geolocation
+# Interpreting Twitter User Geolocation
 
 ```
 @inproceedings{twitergnn_acl20,

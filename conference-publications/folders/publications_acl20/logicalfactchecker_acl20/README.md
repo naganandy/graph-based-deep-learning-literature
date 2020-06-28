@@ -1,4 +1,4 @@
-# {L}ogical{F}act{C}hecker: Leveraging Logical Operations for Fact Checking with Graph Module Network
+# LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network
 
 ```
 @inproceedings{logicalfactchecker_acl20,

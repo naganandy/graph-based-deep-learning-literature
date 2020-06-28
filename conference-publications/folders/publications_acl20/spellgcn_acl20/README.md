@@ -1,4 +1,4 @@
-# {S}pell{GCN}: Incorporating Phonological and Visual Similarities into Language Models for {C}hinese Spelling Check
+# SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check
 
 ```
 @inproceedings{spellgcn_acl20,
