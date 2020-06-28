@@ -114,14 +114,18 @@
 
 
 
+# News Processing
+- [Graph Neural News Recommendation with Unsupervised Preference Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gnud_acl20/README.md)
+- [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
+
+
+
 # Miscellaneous
 - [Interpreting Twitter User Geolocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/twitergnn_acl20/README.md)
 - [Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/g2t_acl20/README.md)
 - [Neural Reranking for Dependency Parsing: An Evaluation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dpnr_acl20/README.md)
-- [Graph Neural News Recommendation with Unsupervised Preference Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gnud_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Parsing into Variable-in-situ Logico-Semantic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hgs_acl20/README.md)
-- [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gcan_acl20/README.md)
 - [Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/taggat_acl20/README.md)
 - [A Graph Auto-encoder Model of Derivational Morphology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dga_acl20/README.md)
 - [Autoencoding Keyword Correlation Graph for Document Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sssbmt_acl20/README.md)
