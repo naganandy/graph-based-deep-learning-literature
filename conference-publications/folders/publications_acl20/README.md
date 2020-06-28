@@ -15,6 +15,13 @@
 
 
 
+# Fact Check
+- [Reasoning Over Semantic-Level Graph for Fact Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dream_acl20/README.md)
+- [LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/logicalfactchecker_acl20/README.md)
+- [Fine-grained Fact Verification with Kernel Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kgat_acl20/README.md)
+
+
+
 # Miscellaneous
 - [Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/texting_acl20/README.md)
 - [Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dtpcgcn_acl20/README.md)
@@ -33,13 +40,11 @@
 - [Graph Neural News Recommendation with Unsupervised Preference Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/gnud_acl20/README.md)
 - [AMR Parsing with Latent Structural Information](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/amrlatent_acl20/README.md)
 - [ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/reinceptione_acl20/README.md)
-- [Reasoning Over Semantic-Level Graph for Fact Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dream_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dgedt_acl20/README.md)
 - [Parsing into Variable-in-situ Logico-Semantic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hgs_acl20/README.md)
 - [Aligned Dual Channel Graph Convolutional Network for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dcgcn_acl20/README.md)
 - [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/mngmn_acl20/README.md)
-- [Fine-grained Fact Verification with Kernel Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kgat_acl20/README.md)
 - [Premise Selection in Natural Language Mathematical Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/psgcn_acl20/README.md)
 - [ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/zsceres_acl20/README.md)
 - [Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sqgdg_acl20/README.md)
@@ -58,7 +63,6 @@
 - [Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/pae_acl20/README.md)
 - [Understanding the Language of Political Agreement and Disagreement in Legislative Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/leggcn_acl20/README.md)
 - [Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/edgat_acl20/README.md)
-- [LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/logicalfactchecker_acl20/README.md)
 - [Neural Graph Matching Networks for Chinese Short Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/cgmn_acl20/README.md)
 - [Neighborhood Matching Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nmn_acl20/README.md)
 - [Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nqbertdm_acl20/README.md)
