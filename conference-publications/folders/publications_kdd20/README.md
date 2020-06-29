@@ -35,6 +35,7 @@
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
 - [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
+- [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
 - [Neural Dynamics on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/ndcn_kdd20/README.md)
 - [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 - [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/octet_kdd20/README.md)
@@ -71,7 +72,6 @@
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
-- PolicyGNN: Aggregation Optimization for Graph Neural Networks
 - REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 - SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
 - TinyGNN: Learning Efficient Graph Neural Networks
