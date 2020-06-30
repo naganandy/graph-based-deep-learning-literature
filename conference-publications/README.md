@@ -32,6 +32,7 @@
 - [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
+- [Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/lcfn_icml20/README.md)
 - [Neural Dynamics on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/ndcn_kdd20/README.md)
 - [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 - [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/octet_kdd20/README.md)
