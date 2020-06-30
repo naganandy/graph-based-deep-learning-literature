@@ -11,3 +11,4 @@
 
 links
 - [project_page](http://web.cs.ucla.edu/~kwchang/bibliography/hu2020gptgnn/)
+- [arXiv](https://arxiv.org/abs/2006.15437)
