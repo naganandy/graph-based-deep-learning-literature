@@ -25,10 +25,14 @@
 
 
 
-# Miscellaneous
-- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
+# Negative Samples
 - [Understanding Negative Sampling in Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mcns_kdd20/README.md)
 - [SCE: Scalable Network Embedding from Sparsest Cut](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/sce_kdd20/README.md)
+
+
+
+# Miscellaneous
+- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
 - [Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mgcn_kdd20/README.md)
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
