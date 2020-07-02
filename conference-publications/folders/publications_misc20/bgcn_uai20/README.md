@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [auai](http://www.auai.org/uai2020/proceedings/538_main_paper.pdf)
 - [arXiv](https://arxiv.org/abs/2006.13335)
