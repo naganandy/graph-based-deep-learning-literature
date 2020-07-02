@@ -11,3 +11,4 @@
 
 links
 - [project_page](https://www.amazon.science/publications/an-efficient-neighborhood-based-interaction-model-for-recommendation-on-heterogeneous-graph)
+- [arXiv](https://arxiv.org/abs/2007.00216)
