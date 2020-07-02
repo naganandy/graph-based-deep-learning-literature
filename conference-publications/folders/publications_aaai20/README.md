@@ -205,9 +205,6 @@
 <summary> more </summary> 
  
 - Multi-task Learning for Metaphor Detection with Graph Convolutional Neural Networks and Word Sense Disambiguation
-- Knowledge Graph Grounded Goal Planning for Open-Domain Conversation Generation
-- ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion
-
 
 
 </details>
