@@ -2,6 +2,24 @@
 
 
 
+- [Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/bbgm_eccv20/README.md)
+- [Visual-Relation Conscious Image Generation from Structured-Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/igst_eccv20/README.md)
+- [Learning Canonical Representations for Scene Graph to Image Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/wsgc_eccv20/README.md)
+- [Learning Visual Commonsense for Robust Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/glat_eccv20/README.md)
+- [Bridging Knowledge Graphs to Generate Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gbnet_eccv20/README.md)
+- [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gates_eccv20/README.md)
+- [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/star_eccv20/README.md)
+- [GeoGraph: Learning graph-based multi-view object detection with geometric cues end-to-end](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/geograph_eccv20/README.md)
+- [Neural Design Network: Graphic Layout Generation with Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/ndn_eccv20/README.md)
+- [House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/housegan_eccv20/README.md)
+- [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
+- [Graph convolutional networks for learning with few clean and many noisy labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/fcmnl_eccv20/README.md)
+
+
+
+<details> 
+<summary> more </summary> 
+
 - Representative Graph Neural Network
 - Pose2Mesh: Graph Convolutional Network for 3D human Pose and Mesh Recovery from 2D Human Pose
 - Regression of Instance Boundary by Aggregated CNN and GCN
@@ -64,16 +82,6 @@
 - Explainable Graph Networks for Weakly-supervised Learning of Visual Relations
 - Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning
 - Statistical Outlier Identification in Pose Graphs Using Cycles
-- Graph convolutional networks for learning with few clean and many noisy labels
-- Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding
-- House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
-- Neural Design Network: Graphic Layout Generation with Constraints
-- GeoGraph: Learning graph-based multi-view object detection with geometric cues end-to-end
-- Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction
-- A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS
-- Learning Canonical Representations for Scene Graph to Image Generation
-- Learning Visual Commonsense for Robust Scene Graph Generation
-- Bridging Knowledge Graphs to Generate Scene Graphs
-- Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers
-- Visual-Relation Conscious Image Generation from Structured-Text
-- Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers
+
+</details>
+
