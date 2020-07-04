@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{geograph_eccv20,
-author = {Ahmed Samy Nassar and Stefano D'Aronco and Sébastien Lefèvre and Jan D. Wegner},
+author = {Ahmed Samy Nassar and Stefano DAronco and Sebastien LefÃ¨vre and Jan D. Wegner},
 title = {GeoGraph: Learning graph-based multi-view object detection with geometric cues end-to-end},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 year = {2020}
