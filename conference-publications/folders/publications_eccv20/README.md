@@ -13,8 +13,5 @@
 - Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition
 - Multi-view adaptive graph convolutions for graph classification
 - Boundary Content Graph Neural Network for Temporal Action Proposal Generation
-
-
-
-- Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding
 - Graph convolutional networks for learning with few clean and many noisy labels
+- Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding
