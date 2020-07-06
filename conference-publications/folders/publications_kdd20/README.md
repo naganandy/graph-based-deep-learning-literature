@@ -1,5 +1,14 @@
 # [Publications in KDD 2020](https://www.kdd.org/kdd2020/accepted-papers)
 
+
+
+# Efficient Training
+- [Scaling Graph Neural Networks with Approximate PageRank](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/pprgo_kdd20/README.md)
+- [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)
+- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
+
+
+
 # Multi-Relational Graphs
 - [MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multiimport_kdd20/README.md)
 - [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
@@ -10,12 +19,6 @@
 - [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mtgnn_kdd20/README.md)
 - [Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/calendargnn_kdd20/README.md)
 - [Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/fate_kdd20/README.md)
-
-
-
-# Efficient Training
-- [Scaling Graph Neural Networks with Approximate PageRank](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/pprgo_kdd20/README.md)
-- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
 
 
 
@@ -43,7 +46,6 @@
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 - [Graph Structural-topic Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/graphstone_kdd20/README.md)
-- [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
 - [Neural Dynamics on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/ndcn_kdd20/README.md)
