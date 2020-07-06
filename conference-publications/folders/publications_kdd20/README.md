@@ -9,6 +9,12 @@
 
 
 
+# Pre-Training
+- [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gcc_kdd20/README.md)
+- [GPT-GNN: Generative Pre-Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gptgnn_kdd20/README.md)
+
+
+
 # Multi-Relational Graphs
 - [MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multiimport_kdd20/README.md)
 - [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
@@ -19,12 +25,6 @@
 - [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mtgnn_kdd20/README.md)
 - [Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/calendargnn_kdd20/README.md)
 - [Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/fate_kdd20/README.md)
-
-
-
-# Pre-Training
-- [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gcc_kdd20/README.md)
-- [GPT-GNN: Generative Pre-Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gptgnn_kdd20/README.md)
 
 
 
