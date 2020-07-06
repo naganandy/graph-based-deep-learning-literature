@@ -13,6 +13,12 @@
 
 
 
+# Efficient Training
+- [Scaling Graph Neural Networks with Approximate PageRank](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/pprgo_kdd20/README.md)
+- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
+
+
+
 # Pre-Training
 - [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gcc_kdd20/README.md)
 - [GPT-GNN: Generative Pre-Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gptgnn_kdd20/README.md)
@@ -37,7 +43,6 @@
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 - [Graph Structural-topic Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/graphstone_kdd20/README.md)
-- [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
 - [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
@@ -50,7 +55,6 @@
 <details> 
 <summary> more </summary> 
 
-- Scaling Graph Neural Networks with Approximate PageRank
 - Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
 - MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 - PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
