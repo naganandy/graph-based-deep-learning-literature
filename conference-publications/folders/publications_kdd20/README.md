@@ -60,7 +60,6 @@
 
 - Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
 - MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
-- PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
 - A Data Driven Graph Generative Model for Temporal Interaction Networks
 - A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
 - Adaptive Graph Encoder for Attributed Graph Embedding
