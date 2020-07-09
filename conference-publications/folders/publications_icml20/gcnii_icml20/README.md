@@ -12,3 +12,5 @@ year = {2020}
 
 links
 - [icml](https://proceedings.icml.cc/book/3586.pdf)
+- [arXiv](https://arxiv.org/abs/2007.02133)
+- [code](https://github.com/chennnM/GCNII)
