@@ -65,6 +65,7 @@
 
 
 # Molecular Graphs
+- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
 - [A Graph to Graphs Framework for Retrosynthesis Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/g2g_icml20/README.md)
 - [Composing Molecules with Multiple Property Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rationalerl_icml20/README.md)
 - [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hiervae_icml20/README.md)
@@ -88,7 +89,6 @@
 - [Interferometric Graph Transform: a Deep Unsupervised Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/igt_icml20/README.md)
 - [Active Learning on Attributed Graphs via Graph Cognizant Logistic Regression and Preemptive Query Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/geem_icml20/README.md)
 - [Generalized Neural Policies for Relational MDPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/symnet_icml20/README.md)
-- [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
 - [Generating Programmatic Referring Expressions via Program Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/orsgnn_icml20/README.md)
 - [Graph Structure of Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gsnn_icml20/README.md)
 - [Learning Algebraic Multigrid Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/amg_icml20/README.md)
