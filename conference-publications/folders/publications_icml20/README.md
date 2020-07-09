@@ -93,6 +93,8 @@
 - [GraphOpt: Learning Optimization Models of Graph Formation](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_icml20/graphopt_icml20)
 - [Learning Algebraic Multigrid Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/amg_icml20/README.md)
 - [Learning to Simulate and Design for Structural Engineering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsim_icml20/README.md)
+- [Deep Graph Random Process for Relational-Thinking-Based  Speech Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rtn_icml20/README.md)
+- [LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/lpsparsemap_icml20/README.md)
 
 
 
