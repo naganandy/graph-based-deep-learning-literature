@@ -35,9 +35,9 @@
 
 
 # Multi-Relational Graphs
-- [Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/regrab_icml20/README.md)
 - [Inductive Relation Prediction by Subgraph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grail_icml20/README.md)
 - [GraphOpt: Learning Optimization Models of Graph Formation](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_icml20/graphopt_icml20)
+- [Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/regrab_icml20/README.md)
 
 
 
