@@ -37,6 +37,7 @@
 
 # Symbolic Representations
 - [Generating Programmatic Referring Expressions via Program Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/orsgnn_icml20/README.md)
+- [Deep Graph Random Process for Relational-Thinking-Based Speech Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rtn_icml20/README.md)
 - [Generalized Neural Policies for Relational MDPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/symnet_icml20/README.md)
 
 
@@ -97,5 +98,4 @@
 - [Active Learning on Attributed Graphs via Graph Cognizant Logistic Regression and Preemptive Query Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/geem_icml20/README.md)
 - [Graph Structure of Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gsnn_icml20/README.md)
 - [Learning Algebraic Multigrid Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/amg_icml20/README.md)
-- [Deep Graph Random Process for Relational-Thinking-Based  Speech Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rtn_icml20/README.md)
 - [LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/lpsparsemap_icml20/README.md)
