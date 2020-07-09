@@ -37,7 +37,7 @@
 # Miscellaneous
 - [Inductive Relation Prediction by Subgraph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grail_icml20/README.md)
 - [Graph Representation Learning by Maximizing Mutual Information Between Spatial and Spectral Views](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
-- [Bayesian Graph Neural Networks with Adaptive Connection Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/bbgdc_icml20/README.md)
+- [Bayesian Graph Neural Networks with Adaptive Connection Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gdc_icml20/README.md)
 - [Progressive Graph Learning for Open-Set Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/pgl_icml20/README.md)
 - [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 - [Interferometric Graph Transform: a Deep Unsupervised Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/igt_icml20/README.md)
