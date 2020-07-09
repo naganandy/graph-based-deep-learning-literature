@@ -81,6 +81,7 @@
 
 # Physics
 - [Learning to Simulate Complex Physics with Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gns_icml20/README.md)
+- [Learning to Simulate and Design for Structural Engineering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsim_icml20/README.md)
 - [Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cfdgcn_icml20/README.md)
 
 
@@ -92,6 +93,5 @@
 - [Generating Programmatic Referring Expressions via Program Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/orsgnn_icml20/README.md)
 - [Graph Structure of Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gsnn_icml20/README.md)
 - [Learning Algebraic Multigrid Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/amg_icml20/README.md)
-- [Learning to Simulate and Design for Structural Engineering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsim_icml20/README.md)
 - [Deep Graph Random Process for Relational-Thinking-Based  Speech Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rtn_icml20/README.md)
 - [LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/lpsparsemap_icml20/README.md)
