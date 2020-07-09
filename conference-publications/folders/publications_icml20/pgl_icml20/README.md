@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{pgl_icml20,
-  title = 	 {Progressive Graph Learning for Open-Set Domain Adaptation},
-  author = 	 {Yadan Luo and Zijian Wang and Zi Huang and Mahsa Baktashmotlagh},
-  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-  year = 	 {2020}
+title = {Progressive Graph Learning for Open-Set Domain Adaptation},
+author = {Luo, Yadan and Wang, Zijian and Huang, Zi and Baktashmotlagh, Mahsa},
+booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
+pages = {189--199},
+year = {2020}
 }
 ```
 
 links
+- [icml](https://proceedings.icml.cc/book/3258.pdf)
 - [arXiv](https://arxiv.org/abs/2006.12087)

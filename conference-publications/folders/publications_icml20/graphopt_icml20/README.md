@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{graphopt_icml20,
-  title = 	 {GraphOpt: Learning Optimization Models of Graph Formation},
-  author = 	 {Rakshit Trivedi and Jiachen Yang and Hongyuan Zha},
-  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-  year = 	 {2020}
+title = {GraphOpt: Learning Optimization Models of Graph Formation},
+author = {Trivedi, Rakshit and Yang, Jiachen and Zha, Hongyuan},
+booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
+pages = {4641--4651},
+year = {2020}
 }
 ```
 
 links
+- [icml](https://proceedings.icml.cc/book/3671.pdf)
 - [preprint](https://pgr-workshop.github.io/img/PGR022.pdf)

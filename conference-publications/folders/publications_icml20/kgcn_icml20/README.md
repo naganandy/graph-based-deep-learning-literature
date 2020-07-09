@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{kgcn_icml20,
-  title = 	 {Constant Curvature Graph Convolutional Networks},
-  author = 	 {Gregor Bachmann and Gary Becigneul and Octavian-Eugen Ganea},
-  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-  year = 	 {2020}
+title = {Constant Curvature Graph Convolutional Networks},
+author = {Bachmann, Gregor and Becigneul, Gary and Ganea, Octavian},
+booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
+pages = {9118--9128},
+year = {2020}
 }
 ```
 
 links
+- [icml](https://proceedings.icml.cc/book/4089.pdf)
 - [arXiv](https://arxiv.org/abs/1911.05076)
