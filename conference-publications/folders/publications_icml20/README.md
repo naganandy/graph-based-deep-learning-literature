@@ -2,7 +2,7 @@
 
 
 
-# Generalizability
+# Generalisability
 - [Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnagd_icml20/README.md)
 - [Generalization and Representational Limits of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cpngnn_icml20/README.md)
 
