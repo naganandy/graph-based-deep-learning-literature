@@ -36,8 +36,8 @@
 
 
 # Symbolic Representations
-- [Generalized Neural Policies for Relational MDPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/symnet_icml20/README.md)
 - [Generating Programmatic Referring Expressions via Program Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/orsgnn_icml20/README.md)
+- [Generalized Neural Policies for Relational MDPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/symnet_icml20/README.md)
 
 
 
