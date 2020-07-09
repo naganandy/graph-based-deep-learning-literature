@@ -40,6 +40,12 @@
 
 
 
+# Learning with Sets
+- [Progressive Graph Learning for Open-Set Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/pgl_icml20/README.md)
+- [Incidence Networks for Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/incidencenet_icml20/README.md)
+
+
+
 # Graph Classification
 - [Haar Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/haarpooling_icml20/README.md)
 - [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mincutpool_icml20/README.md)
@@ -56,7 +62,6 @@
 
 # Miscellaneous
 - [Contrastive Multi-View Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
-- [Progressive Graph Learning for Open-Set Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/pgl_icml20/README.md)
 - [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 - [Interferometric Graph Transform: a Deep Unsupervised Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/igt_icml20/README.md)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
