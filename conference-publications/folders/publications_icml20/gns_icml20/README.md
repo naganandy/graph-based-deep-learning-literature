@@ -2,10 +2,11 @@
 
 ```
 @inproceedings{gns_icml20,
-  title = 	 {Learning to Simulate Complex Physics with Graph Networks},
-  author = 	 {Alvaro Sanchez-Gonzalez and Jonathan Godwin and Tobias Pfaff and Rex Ying and Jure Leskovec and Peter W. Battaglia},
-  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-  year = 	 {2020}
+title = {Learning to Simulate Complex Physics with Graph Networks},
+author = {Sanchez, Alvaro and Godwin, Jonathan and Pfaff, Tobias and Ying, Rex (Zhitao) and Leskovec, Jure and Battaglia, Peter},
+booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
+pages = {11658--11667},
+year = {2020}
 }
 ```
 
