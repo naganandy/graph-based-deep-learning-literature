@@ -67,6 +67,7 @@
 
 # Multi-Agent Learning
 - [Deep Coordination Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/dcg_icml20/README.md)
+- [Learning General-Purpose Controllers via Locally Communicating Sensorimotor Modules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/modularrl_icml20/README.md)
 - [Multi-Agent Routing Value Iteration Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/marvin_icml20/README.md)
 
 
