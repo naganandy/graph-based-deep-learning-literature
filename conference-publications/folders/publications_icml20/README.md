@@ -82,6 +82,7 @@
 # Miscellaneous
 - [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 - [Interferometric Graph Transform: a Deep Unsupervised Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/igt_icml20/README.md)
+- [Active Learning on Attributed Graphs via Graph Cognizant Logistic Regression and Preemptive Query Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/geem_icml20/README.md)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
 - [Distance-Preserving Graph Embeddings from Random Neural Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grnf_icml20/README.md)
 - [Convolutional Kernel Networks for Graph-Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gckn_icml20/README.md)
