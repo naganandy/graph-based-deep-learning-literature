@@ -12,3 +12,4 @@ year = {2020}
 
 links
 - [icml](https://proceedings.icml.cc/book/4229.pdf)
+- [arXiv](https://arxiv.org/abs/2006.04064)
