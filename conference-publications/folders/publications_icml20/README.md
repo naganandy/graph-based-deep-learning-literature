@@ -57,6 +57,7 @@
 # Graph Classification
 - [Haar Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/haarpooling_icml20/README.md)
 - [Spectral Clustering with Graph Neural Networks for Graph Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mincutpool_icml20/README.md)
+- [Convolutional Kernel Networks for Graph-Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gckn_icml20/README.md)
 - [Graph Filtration Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gfl_icml20/README.md)
 - [Graph Homomorphism Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ghc_icml20/README.md)
 
@@ -90,7 +91,6 @@
 - [Generating Programmatic Referring Expressions via Program Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/orsgnn_icml20/README.md)
 - [Distance-Preserving Graph Embeddings from Random Neural Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/grnf_icml20/README.md)
 - [Graph Structure of Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gsnn_icml20/README.md)
-- [Convolutional Kernel Networks for Graph-Structured Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gckn_icml20/README.md)
 - [Learning Algebraic Multigrid Using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/amg_icml20/README.md)
 - [Learning to Simulate and Design for Structural Engineering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsim_icml20/README.md)
 - [Deep Graph Random Process for Relational-Thinking-Based  Speech Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rtn_icml20/README.md)
