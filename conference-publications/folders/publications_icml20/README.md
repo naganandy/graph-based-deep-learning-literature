@@ -29,8 +29,9 @@
 
 
 # Oversmoothing
-- [Bayesian Graph Neural Networks with Adaptive Connection Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gdc_icml20/README.md)
 - [Simple and Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gcnii_icml20/README.md)
+- [Bayesian Graph Neural Networks with Adaptive Connection Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gdc_icml20/README.md)
+- [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 
 
 
@@ -82,7 +83,6 @@
 
 
 # Miscellaneous
-- [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
 - [Interferometric Graph Transform: a Deep Unsupervised Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/igt_icml20/README.md)
 - [Active Learning on Attributed Graphs via Graph Cognizant Logistic Regression and Preemptive Query Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/geem_icml20/README.md)
 - [Generalized Neural Policies for Relational MDPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/symnet_icml20/README.md)
