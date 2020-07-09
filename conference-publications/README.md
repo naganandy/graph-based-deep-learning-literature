@@ -76,7 +76,7 @@
 ## -----------------------------------------------------------------------------
 # [ICML 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/README.md)
 - [Progressive Graph Learning for Open-Set Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/pgl_icml20/README.md)
-- [Active Learning on Attributed Graphs via Graph   Cognizant Logistic Regression and Preemptive Query Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/geem_icml20/README.md)
+- [Active Learning on Attributed Graphs via Graph Cognizant Logistic Regression and Preemptive Query Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/geem_icml20/README.md)
 - [Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/lcfn_icml20/README.md)
 - [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnfilm_icml20/README.md)
 - [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
