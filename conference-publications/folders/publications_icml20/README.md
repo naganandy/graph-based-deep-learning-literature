@@ -11,12 +11,14 @@
 # Robustness
 - [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
 - [Robust Graph Representation Learning via Neural Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsparse_icml20/README.md)
+- [Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rcsrs_icml20/README.md)
 
 
 
 # Non-Euclidean Geometry
 - [Constant Curvature Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/kgcn_icml20/README.md)
 - [Differentiating through the Fréchet Mean](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hfm_icml20/README.md)
+- [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/whc_icml20/README.md)
 
 
 
