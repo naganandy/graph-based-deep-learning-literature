@@ -1,4 +1,4 @@
-# [Publications in ICML 2020](https://icml.cc/Conferences/2020/AcceptedPapersInitial)
+# [Publications in ICML 2020](https://icml.cc/Conferences/2020/Schedule)
 
 
 
