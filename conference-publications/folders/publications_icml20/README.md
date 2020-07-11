@@ -8,19 +8,6 @@
 
 
 
-# Robustness
-- [Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rcsrs_icml20/README.md)
-- [Robust Graph Representation Learning via Neural Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsparse_icml20/README.md)
-
-
-
-# Self-Supervision
-- [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
-- [Contrastive Multi-View Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
-- [Graph-based, Self-Supervised Program Repair from Diagnostic Feedback](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/drrepair_icml20/README.md)
-
-
-
 # Non-Euclidean Geometry
 - [Constant Curvature Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/kgcn_icml20/README.md)
 - [Differentiating through the Fréchet Mean](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hfm_icml20/README.md)
@@ -32,6 +19,19 @@
 - [Simple and Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gcnii_icml20/README.md)
 - [Bayesian Graph Neural Networks with Adaptive Connection Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gdc_icml20/README.md)
 - [Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/cgnn_icml20/README.md)
+
+
+
+# Robustness
+- [Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rcsrs_icml20/README.md)
+- [Robust Graph Representation Learning via Neural Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/neuralsparse_icml20/README.md)
+
+
+
+# Self-Supervision
+- [When Does Self-Supervision Help Graph Convolutional Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/ssgcn_icml20/README.md)
+- [Contrastive Multi-View Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
+- [Graph-based, Self-Supervised Program Repair from Diagnostic Feedback](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/drrepair_icml20/README.md)
 
 
 
