@@ -216,6 +216,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hast_ijcai20/README.md)
 - [Inductive Link Prediction for Nodes Having Only Attribute Information](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deal_ijcai20/README.md)
 - [Discrete Embedding for Latent Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deln_ijcai20/README.md)
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
