@@ -19,8 +19,13 @@
 # Network Embedding
 - [JANE: Jointly Adversarial Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_ijcai20/jane_ijcai20)
 - [Adversarial Mutual Information Learning for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amil_ijcai20/README.md)
-- [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
 - [Discrete Embedding for Latent Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deln_ijcai20/README.md)
+
+
+
+# Heterogeneous Networks
+- [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
+
 
 
 
