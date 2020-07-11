@@ -2,10 +2,11 @@
 
 
 
-# Semi-Supervised Node Classification
+# Transuctive Node Classification
 - [Bilinear Graph Neural Network with Neighbor Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bgnn_ijcai20/README.md)
  - [When Do GNNs Work: Understanding and Improving Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/alagnn_ijcai20/README.md)
 - [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatgc_ijcai20/README.md)
+- [Multi-Class Imbalanced Graph Convolutional Network Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/drgcn_ijcai20/README.md)
 
 
 
@@ -17,6 +18,7 @@
 
 # Network Emnbedding
 - [JANE: Jointly Adversarial Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_ijcai20/jane_ijcai20)
+- [Adversarial Mutual Information Learning for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amil_ijcai20/README.md)
 - [Discrete Embedding for Latent Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deln_ijcai20/README.md)
 
 
@@ -52,6 +54,16 @@
 
 
 
+# Natural Language Processing
+- [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bigcn_ijcai20/README.md)
+- [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amrgsr_ijcai20/README.md)
+- [Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hypehan_ijcai20/README.md)
+- [Learning Latent Forests for Medical Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lfgcn_ijcai20/README.md)
+- [Generalized Zero-Shot Text Classification for ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gzsl_ijcai20/README.md)
+- [Deep Semantic Compliance Advisor for  Unstructured Document  Compliance Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dsca_ijcai20/README.md)
+
+
+
 # Reading Comprehension
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
 - [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
@@ -60,8 +72,15 @@
 
 
 # Knowledge Graphs
+- [MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrgcn_ijcai20/README.md)
 - [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
+- [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/kgnn_ijcai20/README.md)
+
+
+
+# Entity Alignment
 - [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
+- [Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ssp_ijcai20/README.md)
 
 
 
@@ -70,6 +89,29 @@
 - [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
 - [Multi-View Joint Graph Representation Learning for Urban Region Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/grlure_ijcai20/README.md)
 - [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
+- [GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphsleepnet_ijcai20/README.md)
+- [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
+- [Joint Representation Learning of Legislator and Legislation for Roll Call Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sgcn_ijcai20/README.md)
+- [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
+- [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
+- [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lsgcn_ijcai20/README.md)
+- [MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/macar_ijcai20/README.md)
+- [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
+- [Adaptively Multi-Objective Adversarial Training for Dialogue Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ampgan_ijcai20/README.md)
+- [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
+- [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
+- [Neighbor Combinatorial Attention for Critical Structure Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ncat_ijcai20/README.md)
+- [DeepWeave: Accelerating Job Completion Time with Deep Reinforcement Learning-based Coflow Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deepweave_ijcai20/README.md)
+- [Semi-Markov Reinforcement Learning for Stochastic Resource Collection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sddqn_ijcai20/README.md)
+- [The Graph-based Mutual Attentive Network for Automatic Diagnosis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gman_ijcai20/README.md)
+- [Exploiting Mutual Information for Substructure-aware Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mistructrl_ijcai20/README.md)
+- [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
+- [Community-Centric Graph Convolutional Network for Unsupervised Community Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrfasgcn_ijcai20/README.md)
+- [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
+- [Risk Guarantee Prediction in Networked-Loans](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dgann_ijcai20/README.md)
+- [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lstmrgcn_ijcai20/README.md)
+- [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/stgnn_ijcai20/README.md)
+
 
 
 <details> 
