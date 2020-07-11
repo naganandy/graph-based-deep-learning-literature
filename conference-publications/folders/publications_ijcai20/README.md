@@ -2,7 +2,7 @@
 
 
 
-# Transuctive Node Classification
+# Transductive Node Classification
 - [Bilinear Graph Neural Network with Neighbor Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bgnn_ijcai20/README.md)
  - [When Do GNNs Work: Understanding and Improving Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/alagnn_ijcai20/README.md)
 - [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatgc_ijcai20/README.md)
