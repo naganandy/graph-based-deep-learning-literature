@@ -14,6 +14,17 @@
 - [Coloring graph neural networks for node disambiguation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/clip_ijcai20/README.md)
 
 
+# Knowledge Graphs
+- [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
+- [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
+
+
+
+# Natural Language Processing
+- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
+- [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
+
+
 
 # Computer Vision + Natural Language Processing
 - [Dynamic Language Binding in Relational Visual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lognet_ijcai20/README.md)
@@ -26,18 +37,6 @@
 # Human-Object Interaction Detection
 - [Action-Guided Attention Mining and Relation Reasoning Network for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agrr_ijcai20/README.md)
 - [A Graph-based Interactive Reasoning for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ingraphnet_ijcai20/README.md)
-
-
-
-# Knowledge Graphs
-- [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
-- [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
-
-
-
-# Natural Language Processing
-- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
-- [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
 
 
 
