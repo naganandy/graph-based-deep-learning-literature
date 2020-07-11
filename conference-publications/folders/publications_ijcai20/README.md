@@ -108,6 +108,10 @@
 - [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
 - [Community-Centric Graph Convolutional Network for Unsupervised Community Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrfasgcn_ijcai20/README.md)
 - [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
+
+
+
+# FinTech
 - [Risk Guarantee Prediction in Networked-Loans](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dgann_ijcai20/README.md)
 - [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lstmrgcn_ijcai20/README.md)
 - [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/stgnn_ijcai20/README.md)
