@@ -216,8 +216,8 @@
 <details> 
 <summary> more </summary> 
 
--- [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
- [Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hast_ijcai20/README.md)
+- [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
+- [Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hast_ijcai20/README.md)
 - [Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sdhnn_ijcai20/README.md)
 - [Discrete Embedding for Latent Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deln_ijcai20/README.md)
 - [Rumor Detection on Social Media with Graph Structured Adversarial Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cgat_ijcai20/README.md)
