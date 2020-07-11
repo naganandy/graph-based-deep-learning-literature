@@ -47,20 +47,21 @@
 
 
 # Visual Reasoning
-- [Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mucko_ijcai20/README.md)
 - [Dynamic Language Binding in Relational Visual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lognet_ijcai20/README.md)
+- [Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mucko_ijcai20/README.md)
+
+
+
+# Reading Comprehension
+- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
+- [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
+- [Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dhgcn_ijcai20/README.md)
 
 
 
 # Knowledge Graphs
 - [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
 - [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
-
-
-
-# Natural Language Processing
-- [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
-- [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
 
 
 
