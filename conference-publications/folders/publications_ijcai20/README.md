@@ -109,16 +109,20 @@
 
 
 
+# Search
+- [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
+- [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
+
+
+
 # Miscellaneous
 - [GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gognn_ijcai20/README.md)
-- [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
 - [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
 - [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
 - [Exploiting Mutual Information for Substructure-aware Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mistructrl_ijcai20/README.md)
-- [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
 - [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
 
 
