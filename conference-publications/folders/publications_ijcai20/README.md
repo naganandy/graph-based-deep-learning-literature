@@ -82,10 +82,9 @@
 
 
 
-# Knowledge Graphs
+# Multi-Relational Graphs
 - [MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrgcn_ijcai20/README.md)
 - [Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dartnet_ijcai20/README.md)
-- [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/kgnn_ijcai20/README.md)
 
 
 
@@ -93,6 +92,12 @@
 - [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
 - [Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ssp_ijcai20/README.md)
 - [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
+
+
+
+# Interaction Prediction
+- [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/kgnn_ijcai20/README.md)
+- [GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gognn_ijcai20/README.md)
 
 
 
@@ -116,7 +121,6 @@
 
 
 # Miscellaneous
-- [GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gognn_ijcai20/README.md)
 - [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
 - [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
