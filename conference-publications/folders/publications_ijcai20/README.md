@@ -55,9 +55,9 @@
 
 
 # Natural Language Processing
+- [Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hypehan_ijcai20/README.md)
 - [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bigcn_ijcai20/README.md)
 - [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amrgsr_ijcai20/README.md)
-- [Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hypehan_ijcai20/README.md)
 - [Learning Latent Forests for Medical Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lfgcn_ijcai20/README.md)
 - [Generalized Zero-Shot Text Classification for ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gzsl_ijcai20/README.md)
 - [Deep Semantic Compliance Advisor for  Unstructured Document  Compliance Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dsca_ijcai20/README.md)
