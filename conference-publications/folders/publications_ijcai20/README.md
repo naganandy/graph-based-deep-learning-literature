@@ -25,7 +25,7 @@
 
 # Heterogeneous Networks
 - [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
-
+- [Rumor Detection on Social Media with Graph Structured Adversarial Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cgat_ijcai20/README.md)
 
 
 
