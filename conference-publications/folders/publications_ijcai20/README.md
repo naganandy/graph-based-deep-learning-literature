@@ -29,7 +29,7 @@
 
 
 
-# Graph CLustering
+# Graph Clustering
 - [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
 - [Community-Centric Graph Convolutional Network for Unsupervised Community Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrfasgcn_ijcai20/README.md)
 
