@@ -16,9 +16,9 @@
 
 
 # Computer Vision
+- [Transductive Relation-Propagation Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/trpn_ijcai20/README.md)
 - [G2RL: Geometry-Guided Representation Learning for Facial Action Unit Intensity Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/g2rl_ijcai20/README.md)
 - [Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sdhnn_ijcai20/README.md)
-- [Transductive Relation-Propagation Network for Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/trpn_ijcai20/README.md)
 
 
 
