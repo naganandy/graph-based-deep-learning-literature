@@ -56,8 +56,7 @@
 
 # Natural Language Processing
 - [Hype-HAN: Hyperbolic Hierarchical Attention Network for Semantic Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/hypehan_ijcai20/README.md)
-- [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bigcn_ijcai20/README.md)
-- [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amrgsr_ijcai20/README.md)
+- [Adaptively Multi-Objective Adversarial Training for Dialogue Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ampgan_ijcai20/README.md)
 - [Learning Latent Forests for Medical Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lfgcn_ijcai20/README.md)
 - [Generalized Zero-Shot Text Classification for ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gzsl_ijcai20/README.md)
 - [Deep Semantic Compliance Advisor for  Unstructured Document  Compliance Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dsca_ijcai20/README.md)
@@ -68,6 +67,12 @@
 - [GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphflow_ijcai20/README.md)
 - [Multi-hop Reading Comprehension across Documents with Path-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gatedrgcn_ijcai20/README.md)
 - [Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Hop KBQA](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dhgcn_ijcai20/README.md)
+
+
+
+# Graph-to-Text Generation
+- [Better AMR-To-Text Generation with Graph Structure Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amrgsr_ijcai20/README.md)
+- [RDF-to-Text Generation with Graph-augmented Structural Neural Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bigcn_ijcai20/README.md)
 
 
 
@@ -97,7 +102,6 @@
 - [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lsgcn_ijcai20/README.md)
 - [MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/macar_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
-- [Adaptively Multi-Objective Adversarial Training for Dialogue Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ampgan_ijcai20/README.md)
 - [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
 - [Neighbor Combinatorial Attention for Critical Structure Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ncat_ijcai20/README.md)
