@@ -99,6 +99,13 @@
 # Disease Diagnosis
 - [Generalized Zero-Shot Text Classification for ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gzsl_ijcai20/README.md)
 - [GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphsleepnet_ijcai20/README.md)
+- [The Graph-based Mutual Attentive Network for Automatic Diagnosis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gman_ijcai20/README.md)
+
+
+
+# Distributed Resources
+- [DeepWeave: Accelerating Job Completion Time with Deep Reinforcement Learning-based Coflow Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deepweave_ijcai20/README.md)
+- [Semi-Markov Reinforcement Learning for Stochastic Resource Collection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sddqn_ijcai20/README.md)
 
 
 
@@ -110,9 +117,6 @@
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
-- [DeepWeave: Accelerating Job Completion Time with Deep Reinforcement Learning-based Coflow Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deepweave_ijcai20/README.md)
-- [Semi-Markov Reinforcement Learning for Stochastic Resource Collection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sddqn_ijcai20/README.md)
-- [The Graph-based Mutual Attentive Network for Automatic Diagnosis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gman_ijcai20/README.md)
 - [Exploiting Mutual Information for Substructure-aware Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mistructrl_ijcai20/README.md)
 - [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
 - [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
