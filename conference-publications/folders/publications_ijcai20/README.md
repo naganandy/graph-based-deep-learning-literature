@@ -92,7 +92,6 @@
 # Miscellaneous
 - [GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gognn_ijcai20/README.md)
 - [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
-- [Multi-View Joint Graph Representation Learning for Urban Region Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/grlure_ijcai20/README.md)
 - [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
 - [GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphsleepnet_ijcai20/README.md)
 - [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
@@ -100,7 +99,6 @@
 - [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
 - [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lsgcn_ijcai20/README.md)
-- [MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/macar_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
 - [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
@@ -112,6 +110,12 @@
 - [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
 - [Community-Centric Graph Convolutional Network for Unsupervised Community Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrfasgcn_ijcai20/README.md)
 - [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
+
+
+
+# Urban Planning
+- [Multi-View Joint Graph Representation Learning for Urban Region Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/grlure_ijcai20/README.md)
+- [MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/macar_ijcai20/README.md)
 
 
 
