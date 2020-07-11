@@ -16,7 +16,7 @@
 
 
 
-# Network Emnbedding
+# Network Embedding
 - [JANE: Jointly Adversarial Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_ijcai20/jane_ijcai20)
 - [Adversarial Mutual Information Learning for Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/amil_ijcai20/README.md)
 - [Discrete Embedding for Latent Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deln_ijcai20/README.md)
@@ -26,6 +26,12 @@
 # Graph Classification
 - [Multi-Channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/muchgcn_ijcai20/README.md)
 - [Coloring graph neural networks for node disambiguation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/clip_ijcai20/README.md)
+
+
+
+# Graph CLustering
+- [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
+- [Community-Centric Graph Convolutional Network for Unsupervised Community Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrfasgcn_ijcai20/README.md)
 
 
 
@@ -99,7 +105,6 @@
 - [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
-- [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
 - [Neighbor Combinatorial Attention for Critical Structure Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ncat_ijcai20/README.md)
 - [DeepWeave: Accelerating Job Completion Time with Deep Reinforcement Learning-based Coflow Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deepweave_ijcai20/README.md)
@@ -107,7 +112,6 @@
 - [The Graph-based Mutual Attentive Network for Automatic Diagnosis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gman_ijcai20/README.md)
 - [Exploiting Mutual Information for Substructure-aware Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mistructrl_ijcai20/README.md)
 - [Learning to Accelerate Heuristic Searching for Large-Scale Maximum Weighted b-Matching Problems in Online Advertising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/neusearcher_ijcai20/README.md)
-- [Community-Centric Graph Convolutional Network for Unsupervised Community Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mrfasgcn_ijcai20/README.md)
 - [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
 
 
