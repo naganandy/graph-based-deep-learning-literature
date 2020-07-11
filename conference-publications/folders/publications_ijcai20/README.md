@@ -26,6 +26,7 @@
 # Graph Classification
 - [Multi-Channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/muchgcn_ijcai20/README.md)
 - [Coloring graph neural networks for node disambiguation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/clip_ijcai20/README.md)
+- [Neighbor Combinatorial Attention for Critical Structure Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ncat_ijcai20/README.md)
 
 
 
@@ -109,7 +110,6 @@
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
-- [Neighbor Combinatorial Attention for Critical Structure Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ncat_ijcai20/README.md)
 - [DeepWeave: Accelerating Job Completion Time with Deep Reinforcement Learning-based Coflow Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deepweave_ijcai20/README.md)
 - [Semi-Markov Reinforcement Learning for Stochastic Resource Collection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sddqn_ijcai20/README.md)
 - [The Graph-based Mutual Attentive Network for Automatic Diagnosis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/gman_ijcai20/README.md)
