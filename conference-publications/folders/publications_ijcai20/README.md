@@ -9,6 +9,12 @@
 
 
 
+# Inductive Learning
+- [Inductive Link Prediction for Nodes Having Only Attribute Information](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/deal_ijcai20/README.md)
+- [Inductive Anomaly Detection on Attributed Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/aegis_ijcai20/README.md)
+
+
+
 # Graph Classification
 - [Multi-Channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/muchgcn_ijcai20/README.md)
 - [Coloring graph neural networks for node disambiguation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/clip_ijcai20/README.md)
