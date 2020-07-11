@@ -98,7 +98,6 @@
 - [Joint Representation Learning of Legislator and Legislation for Roll Call Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/sgcn_ijcai20/README.md)
 - [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
-- [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lsgcn_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
 - [Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/magcn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
@@ -113,9 +112,10 @@
 
 
 
-# Urban Planning
+# Urban / Traffic Data
 - [Multi-View Joint Graph Representation Learning for Urban Region Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/grlure_ijcai20/README.md)
 - [MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/macar_ijcai20/README.md)
+- [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lsgcn_ijcai20/README.md)
 
 
 
