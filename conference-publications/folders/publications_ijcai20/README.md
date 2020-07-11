@@ -26,11 +26,15 @@
 
 
 
-# Computer Vision + Natural Language Processing
+# Visual Reasoning
+- [Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mucko_ijcai20/README.md)
 - [Dynamic Language Binding in Relational Visual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lognet_ijcai20/README.md)
+
+
+
+# Visual Retrieval
 - [Exploiting Visual Semantic Reasoning for Video-Text Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/visern_ijcai20/README.md)
 - [Label-Attended Hashing for Multi-Label Image Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/lah_ijcai20/README.md)
-- [Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mucko_ijcai20/README.md)
 
 
 
