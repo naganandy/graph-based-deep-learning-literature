@@ -35,7 +35,6 @@
 
 
 # Adversarial Network Emnbedding
-- [Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/fim_ijcai20/README.md)
 - [JANE: Jointly Adversarial Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_ijcai20/jane_ijcai20)
 
 
