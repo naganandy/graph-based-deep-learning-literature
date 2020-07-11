@@ -149,9 +149,6 @@
 <details> 
 <summary> more </summary> 
 
-- A Graph-based Interactive Reasoning for Human-Object Interaction Detection
-- Action-Guided Attention Mining and Relation Reasoning Network for Human-Object Interaction Detection
-- G2RL: Geometry-Guided Representation Learning for Facial Action Unit Intensity Estimation
 - Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description
 - Multi-graph Fusion for Functional Neuroimaging Biomarker Detection
 - Recurrent Relational Memory Network for Unsupervised Image Captioning
