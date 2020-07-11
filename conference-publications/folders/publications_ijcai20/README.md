@@ -88,9 +88,10 @@
 
 
 
-# Entity Alignment
+# Entity / User Alignment
 - [BERT-INT:A BERT-based Interaction Model For Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bertint_ijcai20/README.md)
 - [Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/ssp_ijcai20/README.md)
+- [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
 
 
 
@@ -105,7 +106,6 @@
 - [Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/graphnas_ijcai20/README.md)
 - [NLocalSAT: Boosting Local Search with Solution Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/nlocalsat_ijcai20/README.md)
 - [Domain Adaptive Classification on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/musdac_ijcai20/README.md)
-- [BANANA: when Behavior ANAlysis meets social Network Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/banana_ijcai20/README.md)
 - [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
 - [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
