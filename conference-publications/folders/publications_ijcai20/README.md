@@ -149,16 +149,7 @@
 <details> 
 <summary> more </summary> 
 
-- Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description
-- Multi-graph Fusion for Functional Neuroimaging Biomarker Detection
-- Recurrent Relational Memory Network for Unsupervised Image Captioning
-- Semi-Dynamic Hypergraph Neural Network for 3D Pose Estimation
-- Transductive Relation-Propagation Network for Few-shot Learning
-- Domain Adaptive Classification on Heterogeneous Information networks
-- GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification
-- Inductive Anomaly Detection on Attributed Networks
-- Inductive Link Prediction for Nodes Having Only Attribute Information
-- MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product
+
 - Rumor Detection on Social Media with Graph Structured Adversarial Learning
 - Understanding the Success of Graph-based Semi-Supervised Learning using Partially Labelled Stochastic Block Model
 - Maximizing the Spread of an Opinion in Few Steps: Opinion Diffusion in Non-Binary Networks
