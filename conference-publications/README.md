@@ -24,6 +24,7 @@
 
 - [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/star_eccv20/README.md)
 - [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
+- [Learning Graph-Convolutional Representations for Point Cloud Denoising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gpdnet_eccv20/README.md)
 
 </details>
 
