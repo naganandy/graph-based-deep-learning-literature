@@ -65,7 +65,8 @@ in graph-based deep learning. The [links to conference publications](https://git
 
 # Related Workshops
 - ## 2020
-   * ### [Graph Neural Networks (KDD)](https://www.aminer.cn/gnn_kdd2020)
+   * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/)
+   * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2020/)
    * ### [Graph Representation Learning and Beyond (GRL+) (ICML)](https://grlplus.github.io/)
    * ### [Bridge Between Perception and Reasoning: Graph Neural Networks and Beyond (ICML)](https://logicalreasoninggnn.github.io/)
    * ### [Deep Learning for Graphs (WWW)](https://www.aminer.cn/dl4g_www2020)
