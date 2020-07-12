@@ -14,6 +14,7 @@
 - [House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/housegan_eccv20/README.md)
 - [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/star_eccv20/README.md)
 - [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
+- [Learning Graph-Convolutional Representations for Point Cloud Denoising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gpdnet_eccv20/README.md)
 
 
 
@@ -64,7 +65,6 @@
 - We Have So Much In Common: Modeling Semantic Relational Set Abstractions in Videos
 - Graph Edit Distance Reward: Learning to Edit Scene Graph
 - Propagating Over Phrase Relations for One-Stage Visual Grounding
-- Learning Graph-Convolutional Representations for Point Cloud Denoising
 - Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images
 - Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language
 - TRRNet: Tree Relation Reasoning for Compositional Visual Question Answering
