@@ -49,7 +49,7 @@
 
 
 
-# Bipartitie Graphs
+# Bipartite Graphs
 - [Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/lcfn_icml20/README.md)
 - [Semiparametric Nonlinear Bipartite Graph Representation Learning with Provable Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/bigrl_icml20/README.md)
 
