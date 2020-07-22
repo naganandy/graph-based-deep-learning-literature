@@ -25,6 +25,14 @@
 - [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/star_eccv20/README.md)
 - [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
 - [Learning Graph-Convolutional Representations for Point Cloud Denoising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gpdnet_eccv20/README.md)
+- [Class-wise Dynamic Graph Convolution for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/cdgc_eccv20/README.md)
+- [Video Object Segmentation with Episodic Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gmvos_eccv20/README.md)
+- [JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/jgrp2o_eccv20/README.md)
+- [GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gmnet_eccv20/README.md)
+- [Graph-PCNN: Two Stage Human Pose Estimation with Graph Pose Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/graphpcnn_eccv20/README.md)
+- [Graph-Based Social Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gr2n_eccv20/README.md)
+- [Learn to Propagate Reliably on Noisy Affinity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/pnag_eccv20/README.md)
+- [SumGraph: Video Summarization via Recursive Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sumgraph_eccv20/README.md)
 
 </details>
 
