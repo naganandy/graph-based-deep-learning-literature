@@ -52,6 +52,7 @@
 - [Neural Dynamics on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/ndcn_kdd20/README.md)
 - [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 - [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/octet_kdd20/README.md)
+- [Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mvsgcn_kdd20/README.md)
 
 
 
@@ -78,7 +79,6 @@
 - HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
 - Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
-- Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
