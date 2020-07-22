@@ -62,7 +62,6 @@
 - MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 - A Data Driven Graph Generative Model for Temporal Interaction Networks
 - A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
-- Adaptive Graph Encoder for Attributed Graph Embedding
 - AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
 - ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
