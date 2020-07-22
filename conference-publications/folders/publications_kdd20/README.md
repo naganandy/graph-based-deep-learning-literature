@@ -98,7 +98,6 @@
 - Grammatically Recognizing Images with Tree Convolution
 - Hierarchical Attention Propagation for Healthcare Representation Learning
 - InFoRM: Individual Fairness on Graph Mining
-- Interactive Path Reasoning on Graph for Conversational Recommendation
 - Local Community Detection in Multiple Networks
 - Local Motif Clustering on Time-Evolving Graphs
 - Domain Specific Knowledge Graphs as a Service to the Public
