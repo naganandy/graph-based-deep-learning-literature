@@ -97,7 +97,6 @@
 - Geodesic Forests
 - Grammatically Recognizing Images with Tree Convolution
 - Hierarchical Attention Propagation for Healthcare Representation Learning
-- Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
 - InFoRM: Individual Fairness on Graph Mining
 - Interactive Path Reasoning on Graph for Conversational Recommendation
 - Local Community Detection in Multiple Networks
