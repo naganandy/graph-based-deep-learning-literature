@@ -28,11 +28,16 @@
 - [Class-wise Dynamic Graph Convolution for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/cdgc_eccv20/README.md)
 - [Video Object Segmentation with Episodic Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gmvos_eccv20/README.md)
 - [JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/jgrp2o_eccv20/README.md)
-- [GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gmnet_eccv20/README.md)
 - [Graph-PCNN: Two Stage Human Pose Estimation with Graph Pose Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/graphpcnn_eccv20/README.md)
 - [Graph-Based Social Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gr2n_eccv20/README.md)
 - [Learn to Propagate Reliably on Noisy Affinity Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/pnag_eccv20/README.md)
 - [SumGraph: Video Summarization via Recursive Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sumgraph_eccv20/README.md)
+- [Multi-view adaptive graph convolutions for graph classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/mvagc_eccv20/README.md)
+- [Learning Lane Graph Representations for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/lanegcn_eccv20/README.md)
+- [Learning Object Relation Graph and Tentative Policy for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/tpnorgil_eccv20/README.md)
+- [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/hgg_eccv20/README.md)
+- [Edge-aware Graph Representation Learning and Reasoning for Face Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/eagrnet_eccv20/README.md)
+- [Comprehensive Image Captioning via Scene Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/subgc_eccv20/README.md)
 
 </details>
 
