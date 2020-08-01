@@ -107,7 +107,6 @@
 - TinyGNN: Learning Efficient Graph Neural Networks
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
-- Grale: Designing Networks for Graph Learning
 - Personalized Image Retrieval with Sparse Graph Representation Learning
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
