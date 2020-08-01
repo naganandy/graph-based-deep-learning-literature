@@ -39,6 +39,7 @@
 
 # Heterogeneous Graphs
 - [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
+- [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/heteta_kdd20/README.md)
 - [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
 
 
@@ -118,7 +119,6 @@
 - Local Community Detection in Multiple Networks
 - Local Motif Clustering on Time-Evolving Graphs
 - Domain Specific Knowledge Graphs as a Service to the Public
-- HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival
 - Large-Scale Training System for 100-Million Classification at Alibaba
 - OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena
 - SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter
