@@ -90,7 +90,6 @@
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
-- Dual Channel Hypergraph Collaborative Filtering
 - Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
 - Graph Attention Networks over Edge Content-Based Channels
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
