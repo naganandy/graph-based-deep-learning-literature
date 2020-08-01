@@ -29,12 +29,6 @@
 
 
 
-# Heterogeneous Graphs
-- [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
-- [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
-
-
-
 # Multi-Relational Graphs
 - [MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multiimport_kdd20/README.md)
 - [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
@@ -43,11 +37,22 @@
 
 
 
+# Heterogeneous Graphs
+- [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
+- [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
+
+
+
+# Hypergraphs
+- [Dual Channel Hypergraph Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhcf_kdd20/README.md)
+- [Hypergraph Convolutional Recurrent Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgcrnn_kdd20/README.md)
+
+
+
 # Temporal Dependencies
 - [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mtgnn_kdd20/README.md)
 - [Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/calendargnn_kdd20/README.md)
 - [Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/fate_kdd20/README.md)
-- [Hypergraph Convolutional Recurrent Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgcrnn_kdd20/README.md)
 
 
 
