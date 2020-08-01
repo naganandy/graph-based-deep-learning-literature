@@ -58,6 +58,7 @@
 - [Interpretable Deep Graph Generation with Node-Edge Co-Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nedipvae_kdd20/README.md)
 - [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
 - [SCE: Scalable Network Embedding from Sparsest Cut](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/sce_kdd20/README.md)
+- [Dual Channel Hypergraph Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhcf_kdd20/README.md)
 - [Hypergraph Convolutional Recurrent Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgcrnn_kdd20/README.md)
 - [DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/deterrent_kdd20/README.md)
 - [Dynamic Knowledge Graph based Multi-Event Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/glean_kdd20/README.md)
