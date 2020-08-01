@@ -40,6 +40,7 @@
 # Heterogeneous Graphs
 - [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 - [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/heteta_kdd20/README.md)
+- [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhgat_kdd20/README.md)
 - [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
 
 
@@ -104,7 +105,6 @@
 - REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 - SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
 - TinyGNN: Learning Efficient Graph Neural Networks
-- A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Grale: Designing Networks for Graph Learning
