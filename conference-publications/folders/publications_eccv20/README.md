@@ -16,10 +16,16 @@
 
 
 # Videos
-- [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
 - [SumGraph: Video Summarization via Recursive Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sumgraph_eccv20/README.md)
 - [Video Object Segmentation with Episodic Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gmvos_eccv20/README.md)
+- [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
 
+
+
+
+# Temporal Dependencies
+- [Boundary Content Graph Neural Network for Temporal Action Proposal Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/bcgnn_eccv20/README.md)
+- [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/star_eccv20/README.md)
 
 
 
@@ -27,6 +33,12 @@
 - [Graph-PCNN: Two Stage Human Pose Estimation with Graph Pose Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/graphpcnn_eccv20/README.md)
 - [JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/jgrp2o_eccv20/README.md)
 - [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/hgg_eccv20/README.md)
+
+
+
+# Object Detection
+- [GeoGraph: Learning graph-based multi-view object detection with geometric cues end-to-end](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/geograph_eccv20/README.md)
+- [Cascade Graph Neural Networks for RGB-D Salient Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/casgnn_eccv20/README.md)
 
 
 
@@ -42,15 +54,15 @@
 - [Edge-aware Graph Representation Learning and Reasoning for Face Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/eagrnet_eccv20/README.md)
 - [Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/bbgm_eccv20/README.md)
 - [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gates_eccv20/README.md)
-- [GeoGraph: Learning graph-based multi-view object detection with geometric cues end-to-end](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/geograph_eccv20/README.md)
 - [Neural Design Network: Graphic Layout Generation with Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/ndn_eccv20/README.md)
 - [House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/housegan_eccv20/README.md)
-- [Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/star_eccv20/README.md)
 - [Class-wise Dynamic Graph Convolution for Semantic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/cdgc_eccv20/README.md)
 - [Graph-Based Social Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gr2n_eccv20/README.md)
 - [Multi-view adaptive graph convolutions for graph classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/mvagc_eccv20/README.md)
 - [Learning Lane Graph Representations for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/lanegcn_eccv20/README.md)
 - [Learning Object Relation Graph and Tentative Policy for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/tpnorgil_eccv20/README.md)
+- [Group Activity Prediction with Sequential Relational Anticipation Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sram_eccv20/README.md)
+- [Graph Wasserstein Correlation Analysis for Movie Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gwca_eccv20/README.md)
 
 
 
@@ -60,12 +72,10 @@
 - Representative Graph Neural Network
 - Pose2Mesh: Graph Convolutional Network for 3D human Pose and Mesh Recovery from 2D Human Pose
 - Regression of Instance Boundary by Aggregated CNN and GCN
-- Cascade Graph Neural Networks for RGB-D Salient Object Detection
 - DDGCN: A Dynamic Directed Graph Convolutional Network for Action Recognition
 - On Dropping Clusters to Regularize Graph Convolutional Neural Networks
 - Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition
 - Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition
-- Boundary Content Graph Neural Network for Temporal Action Proposal Generation
 - Empowering Relational Network by Self-Attention Augmented Conditional Random Fields for Group Activity Recognition
 - Region Graph Embedding Network for Zero-Shot Learning
 - Bounding-box Channels for Visual Relationship Detection
@@ -86,12 +96,10 @@
 - Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language
 - TRRNet: Tree Relation Reasoning for Compositional Visual Question Answering
 - Mining Inter-Video Proposal Relations for Video Object Detection
-- Group Activity Prediction with Sequential Relational Anticipation Model
 - Learning Structural Similarity of User Interface Layouts using Graph Networks
 - SACA Net: Cybersickness Assessment of Individual Viewers for VR Content via Graph-based Symptom Relation Embedding
 - Autoencoder-based Graph Construction for Semi-supervised Learning
 - Inference Graphs for CNN Interpretation
-- Graph Wasserstein Correlation Analysis for Movie Retrieval
 - Semantic Relation Preserving Knowledge Distillation for Image-to-Image Translation
 - Explainable Graph Networks for Weakly-supervised Learning of Visual Relations
 - Statistical Outlier Identification in Pose Graphs Using Cycles
