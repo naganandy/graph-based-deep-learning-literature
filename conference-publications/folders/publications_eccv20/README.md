@@ -68,7 +68,6 @@
 - Boundary Content Graph Neural Network for Temporal Action Proposal Generation
 - Empowering Relational Network by Self-Attention Augmented Conditional Random Fields for Group Activity Recognition
 - Region Graph Embedding Network for Zero-Shot Learning
-- Pixel-Pair Occlusion Relationship Map (P2ORM): Formulation, Inference & Application
 - Bounding-box Channels for Visual Relationship Detection
 - CoTeRe-Net: Discovering Collaborative Ternary Relations in Videos
 - Learning Inter-Plane Relations for Piecewise Planar Reconstruction
@@ -84,7 +83,6 @@
 - We Have So Much In Common: Modeling Semantic Relational Set Abstractions in Videos
 - Graph Edit Distance Reward: Learning to Edit Scene Graph
 - Propagating Over Phrase Relations for One-Stage Visual Grounding
-- Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images
 - Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language
 - TRRNet: Tree Relation Reasoning for Compositional Visual Question Answering
 - Mining Inter-Video Proposal Relations for Video Object Detection
