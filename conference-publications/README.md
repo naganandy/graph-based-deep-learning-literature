@@ -39,8 +39,13 @@
 - [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/hgg_eccv20/README.md)
 - [Edge-aware Graph Representation Learning and Reasoning for Face Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/eagrnet_eccv20/README.md)
 - [Comprehensive Image Captioning via Scene Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/subgc_eccv20/README.md)
+- [Group Activity Prediction with Sequential Relational Anticipation Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sram_eccv20/README.md)
+- [Graph Wasserstein Correlation Analysis for Movie Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gwca_eccv20/README.md)
+- [Cascade Graph Neural Networks for RGB-D Salient Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/casgnn_eccv20/README.md)
+- [Boundary Content Graph Neural Network for Temporal Action Proposal Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/bcgnn_eccv20/README.md)
 
 </details>
+
 
 
 
