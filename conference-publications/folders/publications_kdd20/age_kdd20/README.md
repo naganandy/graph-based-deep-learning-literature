@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/adaptive-graph-encoder-for-attributed-graph-embedding)
 - [arXiv](https://arxiv.org/abs/2007.01594)
