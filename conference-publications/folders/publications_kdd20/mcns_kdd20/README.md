@@ -10,5 +10,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/understanding-negative-sampling-in-graph-representation-learning)
 - [arXiv](https://arxiv.org/abs/2005.09863)
 - [code](https://github.com/zyang-16/MCNS)
