@@ -117,6 +117,5 @@
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - Hierarchical Attention Propagation for Healthcare Representation Learning
-- InFoRM: Individual Fairness on Graph Mining
 
 </details>
