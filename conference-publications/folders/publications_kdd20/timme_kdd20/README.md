@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/timme-twitter-ideology-detection-via-multi-task-multi-relational-embedding)
 - [arXiv](https://arxiv.org/abs/2006.01321)
