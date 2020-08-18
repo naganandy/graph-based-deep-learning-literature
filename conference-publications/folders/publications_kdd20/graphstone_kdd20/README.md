@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/graph-structural-topic-neural-network)
 - [arXiv](https://arxiv.org/abs/2006.14278)
