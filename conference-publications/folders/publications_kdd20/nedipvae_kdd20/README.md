@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/node-edge-co-disentangled-representation-learning-for-attributed-graph-gene)
 - [arXiv](https://arxiv.org/abs/2006.05385)
