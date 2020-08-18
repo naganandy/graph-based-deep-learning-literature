@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/xgnn-towards-model-level-explanations-of-graph-neural-networks)
 - [arXiv](https://arxiv.org/abs/2006.02587)
