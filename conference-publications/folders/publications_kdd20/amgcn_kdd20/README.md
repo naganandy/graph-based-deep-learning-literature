@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/am-gcn-adaptive-multi-channel-graph-convolutional-networks)
 - [arXiv](https://arxiv.org/abs/2007.02265)
