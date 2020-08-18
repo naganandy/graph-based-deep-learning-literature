@@ -67,6 +67,7 @@
 <summary> more </summary> 
 
 - [Interpretable Deep Graph Generation with Node-Edge Co-Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nedipvae_kdd20/README.md)
+- [Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/crgcn_kdd20/README.md)
 - [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
 - [SCE: Scalable Network Embedding from Sparsest Cut](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/sce_kdd20/README.md)
 - [Dual Channel Hypergraph Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhcf_kdd20/README.md)
@@ -82,6 +83,7 @@
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 - [Towards Deeper Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dagnn_kdd20/README.md)
+- [TinyGNN: Learning Efficient Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/tinygnn_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
 - [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amgcn_kdd20/README.md)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
