@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/minimal-variance-sampling-with-provable-guarantees-for-fast-training-of-gra)
 - [arXiv](https://arxiv.org/abs/2006.13866)
