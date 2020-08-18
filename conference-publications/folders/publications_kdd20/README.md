@@ -41,17 +41,17 @@
 
 
 
+# Computer Vision
+- [CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/curvanet_kdd20/README.md)
+- [Personalized Image Retrieval with Sparse Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gaps_kdd20/README.md)
+
+
+
 # Multi-Relational Graphs
 - [MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multiimport_kdd20/README.md)
 - [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
 - [DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/deterrent_kdd20/README.md)
 - [Dynamic Knowledge Graph based Multi-Event Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/glean_kdd20/README.md)
-
-
-
-# Computer Vision
-- [CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/curvanet_kdd20/README.md)
-- [Personalized Image Retrieval with Sparse Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gaps_kdd20/README.md)
 
 
 
