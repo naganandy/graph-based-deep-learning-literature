@@ -53,6 +53,7 @@
 - [HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgcn_kdd20/README.md)
 - [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhgat_kdd20/README.md)
 - [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
+- [HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgmf_kdd20/README.md)
 
 
 
@@ -108,7 +109,6 @@
 - Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
 - Graph Attention Networks over Edge Content-Based Channels
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
-- HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
