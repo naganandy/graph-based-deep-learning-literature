@@ -17,15 +17,15 @@
 
 
 
-# Robustness
-- [Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/crgcn_kdd20/README.md)
-- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
-
-
-
 # Pre-Training
 - [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gcc_kdd20/README.md)
 - [GPT-GNN: Generative Pre-Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gptgnn_kdd20/README.md)
+
+
+
+# Robustness
+- [Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/crgcn_kdd20/README.md)
+- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
 
 
 
