@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/multiimport-inferring-node-importance-in-a-knowledge-graph-from-multiple-in)
 - [arXiv](https://arxiv.org/abs/2006.12001)
