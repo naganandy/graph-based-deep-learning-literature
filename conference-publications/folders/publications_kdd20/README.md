@@ -96,7 +96,6 @@
 <details> 
 <summary> more </summary> 
 
-- A Data Driven Graph Generative Model for Temporal Interaction Networks
 - A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
