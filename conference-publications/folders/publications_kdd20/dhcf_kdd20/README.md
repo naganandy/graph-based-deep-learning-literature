@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/dual-channel-hypergraph-collaborative-filtering)
 - [preprint](http://gaoyue.org/paper/shuyi_KDD_final.pdf)
