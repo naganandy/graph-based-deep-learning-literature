@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/connecting-the-dots-multivariate-time-series-forecasting-with-graph-neural-)
 - [arXiv](https://arxiv.org/abs/2005.11650)
