@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/asgn-an-active-semi-supervised-graph-neural-network-for-molecular-property-)
 - [arXiv](https://arxiv.org/abs/2007.03196)
