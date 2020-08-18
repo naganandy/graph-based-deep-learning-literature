@@ -105,8 +105,6 @@
 
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
-- Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
-- Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data
 - Graph Attention Networks over Edge Content-Based Channels
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
@@ -117,6 +115,7 @@
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
 - Grammatically Recognizing Images with Tree Convolution
+- Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - Hierarchical Attention Propagation for Healthcare Representation Learning
