@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/a-dual-heterogeneous-graph-attention-network-to-improve-long-tail-performan)
 - [spotlight](https://www.youtube.com/watch?v=E1Ywws7rI4U)
