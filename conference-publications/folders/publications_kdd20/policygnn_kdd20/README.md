@@ -1,4 +1,4 @@
-# Policy-GNN: Aggregation Optimization for Graph Neural Networks
+# PolicyGNN: Aggregation Optimization for Graph Neural Networks
 
 ```
 @inproceedings{policygnn_kdd20,
@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/policygnn-aggregation-optimization-for-graph-neural-networks)
 - [arXiv](https://arxiv.org/abs/2006.15097)
