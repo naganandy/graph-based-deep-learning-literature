@@ -11,4 +11,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/multisage-empowering-gcn-with-contextualized-multi-embeddings-on-web-scale-)
 - [prerpint](http://jiyang3.web.engr.illinois.edu/files/multisage.pdf)
