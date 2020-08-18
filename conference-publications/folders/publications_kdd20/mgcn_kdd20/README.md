@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/multi-level-graph-convolutional-networks-for-cross-platform-anchor-link-pre)
 - [arXiv](https://arxiv.org/abs/2006.01963)
