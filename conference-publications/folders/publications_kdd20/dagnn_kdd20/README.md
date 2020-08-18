@@ -10,5 +10,6 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/towards-deeper-graph-neural-networks)
 - [arXiv](https://arxiv.org/abs/2007.09296)
 - [code](https://github.com/divelab/DeeperGNN)
