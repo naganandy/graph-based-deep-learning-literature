@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/dynamic-knowledge-graph-based-multi-event-forecasting)
 - [preprint](https://yue-ning.github.io/docs/KDD20_glean.pdf)
