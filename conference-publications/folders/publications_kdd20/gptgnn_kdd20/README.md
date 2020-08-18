@@ -10,5 +10,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/gpt-gnn-generative-pre-training-of-graph-neural-networks)
 - [project_page](http://web.cs.ucla.edu/~kwchang/bibliography/hu2020gptgnn/)
 - [arXiv](https://arxiv.org/abs/2006.15437)
