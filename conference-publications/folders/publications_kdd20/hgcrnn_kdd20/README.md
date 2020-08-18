@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/hypergraph-convolutional-recurrent-neural-network)
 - [spotlight](http://silab.kaist.ac.kr/hypergraph-convolutional-recurrent-neural-network/)
