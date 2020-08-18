@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/sce-scalable-newtork-embedding-from-sparsest-cut)
 - [arXiv](https://arxiv.org/abs/2006.16499)
