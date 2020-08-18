@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a)
 - [code](https://silly.cool/didi/heteta)
