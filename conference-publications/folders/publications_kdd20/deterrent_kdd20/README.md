@@ -10,5 +10,6 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/deterrent-knowledge-guided-graph-attention-network-for-detecting-healthcare)
 - [preprint](http://pike.psu.edu/publications/kdd20-deterrent.pdf)
 - [code](https://github.com/cuilimeng/DETERRENT)
