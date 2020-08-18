@@ -49,6 +49,12 @@
 
 
 
+# Computer Vision
+- [CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/curvanet_kdd20/README.md)
+- [Personalized Image Retrieval with Sparse Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gaps_kdd20/README.md)
+
+
+
 # Heterogeneous Graphs
 - [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/heteta_kdd20/README.md)
 - [HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgcn_kdd20/README.md)
@@ -104,7 +110,6 @@
 <summary> more </summary> 
 
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
-- CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
 - Graph Attention Networks over Edge Content-Based Channels
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
@@ -112,7 +117,6 @@
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
-- Personalized Image Retrieval with Sparse Graph Representation Learning
 - Grammatically Recognizing Images with Tree Convolution
 - REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
