@@ -106,28 +106,26 @@
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification
 - HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness
-- Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
-- Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 - REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
-- SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
-- Correlation Networks for Extreme Multi-label Text Classification
-- CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
-- FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
-- Geodesic Forests
 - Grammatically Recognizing Images with Tree Convolution
-- Hierarchical Attention Propagation for Healthcare Representation Learning
-- InFoRM: Individual Fairness on Graph Mining
-- Local Community Detection in Multiple Networks
 - Local Motif Clustering on Time-Evolving Graphs
 - Domain Specific Knowledge Graphs as a Service to the Public
 - Large-Scale Training System for 100-Million Classification at Alibaba
 - OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena
 - SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter
+- Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
+- Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
+- SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
+- Correlation Networks for Extreme Multi-label Text Classification
+- CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
+- FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
+- Hierarchical Attention Propagation for Healthcare Representation Learning
+- InFoRM: Individual Fairness on Graph Mining
 
 </details>
