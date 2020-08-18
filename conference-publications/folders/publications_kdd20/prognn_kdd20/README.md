@@ -10,5 +10,6 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/graph-structure-learning-for-robust-graph-neural-networks)
 - [arXiv](https://arxiv.org/abs/2005.10203)
 - [code](https://github.com/ChandlerBang/Pro-GNN)
