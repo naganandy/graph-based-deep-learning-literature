@@ -114,10 +114,8 @@
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
 - Grammatically Recognizing Images with Tree Convolution
-- SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
-- FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
 - Hierarchical Attention Propagation for Healthcare Representation Learning
 - InFoRM: Individual Fairness on Graph Mining
 
