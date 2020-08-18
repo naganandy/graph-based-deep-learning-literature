@@ -110,11 +110,11 @@
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
 - Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
-- REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
 - Grammatically Recognizing Images with Tree Convolution
+- REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
 - Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
