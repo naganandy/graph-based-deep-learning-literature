@@ -17,6 +17,12 @@
 
 
 
+# Robustness
+- [Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/crgcn_kdd20/README.md)
+- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
+
+
+
 # Pre-Training
 - [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gcc_kdd20/README.md)
 - [GPT-GNN: Generative Pre-Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gptgnn_kdd20/README.md)
@@ -72,7 +78,6 @@
 
 
 # Miscellaneous
-- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 - [Graph Structural-topic Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/graphstone_kdd20/README.md)
@@ -86,7 +91,6 @@
 <details> 
 <summary> more </summary> 
 
-- Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations
 - A Data Driven Graph Generative Model for Temporal Interaction Networks
 - A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
