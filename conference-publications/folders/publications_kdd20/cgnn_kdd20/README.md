@@ -10,5 +10,6 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/residual-correlation-in-graph-neural-network-regression)
 - [arXiv](https://arxiv.org/abs/2002.08274)
 - [code](https://github.com/000Justin000/gnn-residual-correlation)
