@@ -113,7 +113,6 @@
 - Graph Attention Networks over Edge Content-Based Channels
 - Handling Information Loss of Graph Neural Networks for Session-based Recommendation
 - Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
-- Node-Edge Co-disentangled Representation Learning for Attributed Graph Generation
 - NodeAug: Semi-Supervised Node Classification with Data Augmentation
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
