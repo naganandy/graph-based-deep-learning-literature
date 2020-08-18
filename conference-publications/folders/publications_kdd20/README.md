@@ -49,10 +49,14 @@
 
 
 # Heterogeneous Graphs
-- [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 - [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/heteta_kdd20/README.md)
 - [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhgat_kdd20/README.md)
 - [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
+
+
+
+# Collaborative Filtering
+- [An efficient neighborhood-based interaction model for recommendation on heterogeneous graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nirec_kdd20/README.md)
 
 
 
