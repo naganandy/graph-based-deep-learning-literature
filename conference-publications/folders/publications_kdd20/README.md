@@ -5,6 +5,7 @@
 # Adaptive Aggregation
 - [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amgcn_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
+- [Adaptive Graph Encoder for Attributed Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/age_kdd20/README.md)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
 
 
@@ -93,7 +94,6 @@
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 - [Graph Structural-topic Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/graphstone_kdd20/README.md)
-- [Adaptive Graph Encoder for Attributed Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/age_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
 - [Neural Dynamics on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/ndcn_kdd20/README.md)
 - [Octet: Online Catalog Taxonomy Enrichment with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/octet_kdd20/README.md)
