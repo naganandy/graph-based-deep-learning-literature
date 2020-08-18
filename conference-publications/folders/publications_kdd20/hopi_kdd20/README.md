@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/deep-learning-of-high-order-interactions-for-protein-interface-prediction)
 - [arXiv](https://arxiv.org/abs/2007.09334)
