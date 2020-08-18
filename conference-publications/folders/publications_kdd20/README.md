@@ -114,8 +114,6 @@
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
 - Grammatically Recognizing Images with Tree Convolution
-- Large-Scale Training System for 100-Million Classification at Alibaba
-- OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena
 - SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 - Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
