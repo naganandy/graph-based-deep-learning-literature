@@ -5,8 +5,13 @@
 # Adaptive Aggregation
 - [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amgcn_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
-- [Towards Deeper Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dagnn_kdd20/README.md)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
+
+
+
+# Oversmoothing
+- [Towards Deeper Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dagnn_kdd20/README.md)
+- [TinyGNN: Learning Efficient Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/tinygnn_kdd20/README.md)
 
 
 
@@ -108,7 +113,6 @@
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 - REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
 - SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
-- TinyGNN: Learning Efficient Graph Neural Networks
 - ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
