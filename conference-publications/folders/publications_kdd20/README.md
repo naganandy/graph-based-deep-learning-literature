@@ -114,7 +114,6 @@
 - Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
 - Personalized Image Retrieval with Sparse Graph Representation Learning
 - Grammatically Recognizing Images with Tree Convolution
-- SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter
 - Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism
 - Incremental Mobile User Profiling: Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams
 - SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks
