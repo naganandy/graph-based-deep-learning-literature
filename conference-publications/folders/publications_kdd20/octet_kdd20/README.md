@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/octet-online-catalog-taxonomy-enrichment-with-self-supervision)
 - [arXiv](https://arxiv.org/abs/2006.10276)
