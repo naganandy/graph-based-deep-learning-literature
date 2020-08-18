@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/personalized-pagerank-to-a-target-node-revisited)
 - [arXiv](https://arxiv.org/abs/2006.11876)
