@@ -101,7 +101,6 @@
 <details> 
 <summary> more </summary> 
 
-- A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
 - Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
 - CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis
 - Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
