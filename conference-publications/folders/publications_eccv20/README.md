@@ -30,7 +30,7 @@
 - [SumGraph: Video Summarization via Recursive Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sumgraph_eccv20/README.md)
 - [Video Object Segmentation with Episodic Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gmvos_eccv20/README.md)
 - [Neural Message Passing on Hybrid Spatio-Temporal Visual and Symbolic Graphs for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/stmpnn_eccv20/README.md)
-
+- [Graph Wasserstein Correlation Analysis for Movie Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gwca_eccv20/README.md)
 
 
 
@@ -101,6 +101,12 @@
 
 
 
+# Autonomous Navigation
+- [Learning Lane Graph Representations for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/lanegcn_eccv20/README.md)
+- [Learning Object Relation Graph and Tentative Policy for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/tpnorgil_eccv20/README.md)
+
+
+
 # Miscellaneous
 - [Edge-aware Graph Representation Learning and Reasoning for Face Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/eagrnet_eccv20/README.md)
 - [On Dropping Clusters to Regularize Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/dropcluster_eccv20/README.md)
@@ -108,8 +114,5 @@
 - [Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/bbgm_eccv20/README.md)
 - [A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gates_eccv20/README.md)
 - [Multi-view adaptive graph convolutions for graph classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/mvagc_eccv20/README.md)
-- [Learning Lane Graph Representations for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/lanegcn_eccv20/README.md)
 - [Explanation-based Weakly-supervised Learning of Visual Relations with Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/wsvrd_eccv20/README.md)
 - [SACA Net: Cybersickness Assessment of Individual Viewers for VR Content via Graph-based Symptom Relation Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/sacanet_eccv20/README.md)
-- [Learning Object Relation Graph and Tentative Policy for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/tpnorgil_eccv20/README.md)
-- [Graph Wasserstein Correlation Analysis for Movie Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/gwca_eccv20/README.md)
