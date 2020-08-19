@@ -63,7 +63,7 @@
 
 
 # Object Detection
-- [GeoGraph: Learning graph-based multi-view object detection with geometric cues end-to-end](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/geograph_eccv20/README.md)
+- [GeoGraph: Graph-based multi-view object detection with geometric cues end-to-end](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/geograph_eccv20/README.md)
 - [Cascade Graph Neural Networks for RGB-D Salient Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/casgnn_eccv20/README.md)
 
 
