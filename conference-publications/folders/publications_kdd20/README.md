@@ -6,6 +6,7 @@
 - [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amgcn_kdd20/README.md)
 - [Policy-GNN: Aggregation Optimization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/policygnn_kdd20/README.md)
 - [Adaptive Graph Encoder for Attributed Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/age_kdd20/README.md)
+- [NodeAug: Semi-Supervised Node Classification with Data Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/nodeaug_kdd20/README.md)
 - [Redundancy-Free Computation Graphs for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hag_kdd20/README.md)
 
 
@@ -29,12 +30,6 @@
 
 
 
-# Robustness
-- [Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/crgcn_kdd20/README.md)
-- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
-
-
-
 # Negative Samples
 - [Understanding Negative Sampling in Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mcns_kdd20/README.md)
 - [SCE: Scalable Network Embedding from Sparsest Cut](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/sce_kdd20/README.md)
@@ -43,11 +38,20 @@
 
 # Computer Vision
 - [CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/curvanet_kdd20/README.md)
+- [Grammatically Recognizing Images with Tree Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/treeconv_kdd20/README.md)
+- [Task-Adaptive Graph Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/tadanet_kdd20/README.md)
 - [Personalized Image Retrieval with Sparse Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/gaps_kdd20/README.md)
 
 
 
+# Robustness
+- [Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/crgcn_kdd20/README.md)
+- [Graph Structure Learning for Robust Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/prognn_kdd20/README.md)
+
+
+
 # Multi-Relational Graphs
+- [REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rea_kdd20/README.md)
 - [MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multiimport_kdd20/README.md)
 - [TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/timme_kdd20/README.md)
 - [DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/deterrent_kdd20/README.md)
@@ -96,9 +100,19 @@
 
 
 
+# Urban Planning
+- [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/regnn_kdd20/README.md)
+- [Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amgcn_kdd20/README.md)
+- [Learning Effective Road Network Representation with Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hrnr_kdd20/README.md)
+- [ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/constgat_kdd20/README.md)
+
+
+
+
 # Miscellaneous
 - [Outcome Correlation in Graph Neural Network Regression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cgnn_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
+- [Handling Information Loss of Graph Neural Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/lessr_kdd20/README.md)
 - [Graph Structural-topic Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/graphstone_kdd20/README.md)
 - [Neural Subgraph Isomorphism Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/diamnet_kdd20/README.md)
 - [Neural Dynamics on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/ndcn_kdd20/README.md)
@@ -109,17 +123,7 @@
 <details> 
 <summary> more </summary> 
 
-- Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
 - Graph Attention Networks over Edge Content-Based Channels
-- Handling Information Loss of Graph Neural Networks for Session-based Recommendation
-- Learning Effective Road Network Representation with Hierarchical Graph Neural Networks
-- NodeAug: Semi-Supervised Node Classification with Data Augmentation
-- ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps
-- Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction
-- Grammatically Recognizing Images with Tree Convolution
-- REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs
-- Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning
-- Correlation Networks for Extreme Multi-label Text Classification
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - Hierarchical Attention Propagation for Healthcare Representation Learning
 

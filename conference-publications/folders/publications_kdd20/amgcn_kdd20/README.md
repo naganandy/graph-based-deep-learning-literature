@@ -1,14 +1,13 @@
-# AM-GCN: Adaptive Multi-channel Graph Convolutional Networks
+# Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data
 
 ```
 @inproceedings{amgcn_kdd20,
-author = {Xiao Wang and Meiqi Zhu and Deyu Bo and Peng Cui and Chuan Shi and Jian Pei},
-title = {AM-GCN: Adaptive Multi-channel Graph Convolutional Networks},
+author = {Fengli Xu and Yong Li and Shusheng Xu},
+title = {Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
 year = {2020}
 }
 ```
 
 links
-- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/am-gcn-adaptive-multi-channel-graph-convolutional-networks)
-- [arXiv](https://arxiv.org/abs/2007.02265)
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/attentional-multi-graph-convolutional-network-for-regional-economy-predicti)
