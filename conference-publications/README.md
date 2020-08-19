@@ -142,22 +142,22 @@
 # [SIGIR 2020 (Jul)](https://dl.acm.org/doi/proceedings/10.1145/3397271)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/ackrec_sigir20/README.md)
 - [MVIN: Learning Multiview Items for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mvin_sigir20/README.md)
-- [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hfgn_sigir20/README.md)
+- [Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/transgrec_sigir20/README.md)
 - [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/gcegcn_sigir20/README.md)
-- [Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/muse_sigir20/README.md)
-- [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/stdgat_sigir20/README.md)
+- [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/niagcn_sigir20/README.md)
 - [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/lightgcn_sigir20/README.md)
 - [Multi-behavior Recommendation with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mbgcn_sigir20/README.md)
 - [GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/graphrfi_sigir20/README.md)
+- [Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/muse_sigir20/README.md)
 - [Streaming Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/dygnn_sigir20/README.md)
 
 <details> 
 <summary> more </summary>
 
-- [Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/transgrec_sigir20/README.md)
-- [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/niagcn_sigir20/README.md)
+- [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hfgn_sigir20/README.md)
 - [Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/graphconsis_sigir20/README.md)
 - [Neural Concept Map Generation for Effective Document Classification with Interpretable Structured Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/doc2graph_sigir20/README.md)
+- [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/stdgat_sigir20/README.md)
 - [Social Media User Geolocation via Hybrid Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hug_sigir20/README.md)
 - [Bundle Recommendation with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/bgcn_sigir20/README.md)
 - [MGNN: A Multimodal Graph Neural Network for Predicting the Survival of Cancer Patients](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mgnn_sigir20/README.md)
