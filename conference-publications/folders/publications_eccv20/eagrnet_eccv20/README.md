@@ -10,5 +10,6 @@ year = {2020}
 ```
 
 links
+- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570256.pdf)
 - [arXiv](https://arxiv.org/abs/2007.11240)
 - [code](https://github.com/tegusi/EAGRNet)
