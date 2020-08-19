@@ -139,7 +139,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [SIGIR 2020 (Aug)](https://dl.acm.org/doi/proceedings/10.1145/3397271)
+# [SIGIR 2020 (Jul)](https://dl.acm.org/doi/proceedings/10.1145/3397271)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/ackrec_sigir20/README.md)
 - [MVIN: Learning Multiview Items for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mvin_sigir20/README.md)
 - [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hfgn_sigir20/README.md)
