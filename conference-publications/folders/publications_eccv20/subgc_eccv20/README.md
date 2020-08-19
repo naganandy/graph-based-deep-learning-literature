@@ -10,6 +10,7 @@ year = {2020}
 ```
 
 links
+- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590205.pdf)
 - [project_page](http://pages.cs.wisc.edu/~yiwuzhong/Sub-GC.html)
 - [arXiv](https://arxiv.org/abs/2007.11731)
 - [code](https://github.com/YiwuZhong/Sub-GC)
