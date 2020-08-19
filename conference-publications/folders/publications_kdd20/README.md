@@ -63,6 +63,7 @@
 - [HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgmf_kdd20/README.md)
 - [HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hgcn_kdd20/README.md)
 - [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/multisage_kdd20/README.md)
+- [Graph Attention Networks over Edge Content-Based Channels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/cagat_kdd20/README.md)
 - [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/dhgat_kdd20/README.md)
 - [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/heteta_kdd20/README.md)
 
@@ -123,7 +124,6 @@
 <details> 
 <summary> more </summary> 
 
-- Graph Attention Networks over Edge Content-Based Channels
 - CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
 - Hierarchical Attention Propagation for Healthcare Representation Learning
 
