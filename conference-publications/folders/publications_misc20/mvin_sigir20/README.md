@@ -5,7 +5,7 @@
 author = {Tai, Chang-You and Wu, Meng-Ru and Chu, Yun-Wei and Chu, Shao-Yu and Ku, Lun-Wei},
 title = {MVIN: Learning Multiview Items for Recommendation},
 booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},
-pages = {99–--08},
+pages = {99â€“-108},
 year = {2020}
 }
 ```
