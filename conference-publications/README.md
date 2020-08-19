@@ -683,7 +683,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [WSDM 2020(Feb)](https://www.wsdm-conference.org/2020/acm-proceedings.php)
+# [WSDM 2020 (Feb)](https://www.wsdm-conference.org/2020/acm-proceedings.php)
 - [Recurrent Attention Walk for Semi-supervised Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/raw_wsdm20/README.md)
 - [Popularity Prediction on Social Platforms with Coupled Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/coupledgnn_wsdm20/README.md)
 - [Epidemic Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/epidemicgcn_wsdm20/README.md)
