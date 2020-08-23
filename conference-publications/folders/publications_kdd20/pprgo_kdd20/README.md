@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/scaling-graph-neural-networks-with-approximate-pagerank)
 - [arXiv](https://arxiv.org/abs/2007.01570)
