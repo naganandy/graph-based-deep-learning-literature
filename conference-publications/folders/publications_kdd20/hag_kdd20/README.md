@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/redundancy-free-computation-for-graph-neural-networks)
 - [arXiv](https://arxiv.org/abs/1906.03707)
