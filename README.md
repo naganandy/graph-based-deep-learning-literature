@@ -84,7 +84,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 <br> </br>
 
-# Surveys / Literature Reviews
+# Surveys / Literature Reviews / Books
 - ### 2020
    * ### [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/mlgraphs_arxiv20/README.md)
    * ### [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dygnn_arxiv20/README.md)
