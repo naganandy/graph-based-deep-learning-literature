@@ -3,7 +3,12 @@
 - ICLR 2021 (May, decisions mid Jan, all submissions early Oct)
 - NeurIPS 2020 (Dec, decisions late Sep)
 - EMNLP 2020 (Nov, decisions mid Sep)
-- ICDM 2020 (Nov, decisions late Aug)
+
+
+
+## -----------------------------------------------------------------------------
+# ICDM 2020 (Nov)
+- [Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/tgnn_icdm20/README.md)
 
 
 
