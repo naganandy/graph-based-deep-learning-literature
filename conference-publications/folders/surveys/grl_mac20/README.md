@@ -10,4 +10,4 @@ year = {2020}
 ```
 
 links
-- [mcgill](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- [pre-publication](https://www.cs.mcgill.ca/~wlh/grl_book/)
