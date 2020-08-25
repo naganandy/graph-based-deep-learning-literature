@@ -65,6 +65,7 @@ in graph-based deep learning. The [links to conference publications](https://git
 
 # Related Workshops
 - ## 2020
+   * ### [Differential Geometry meets Deep Learning (NeurIPS)](https://sites.google.com/view/diffgeo4dl/home)
    * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/)
    * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2020/)
    * ### [Graph Representation Learning and Beyond (GRL+) (ICML)](https://grlplus.github.io/)
