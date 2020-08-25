@@ -70,7 +70,7 @@ in graph-based deep learning. The [links to conference publications](https://git
    * ### [Graph Representation Learning and Beyond (GRL+) (ICML)](https://grlplus.github.io/)
    * ### [Bridge Between Perception and Reasoning: Graph Neural Networks and Beyond (ICML)](https://logicalreasoninggnn.github.io/)
    * ### [Deep Learning for Graphs (WWW)](https://www.aminer.cn/dl4g_www2020)
-   * ### [Deep Learning on Graphs: Methodologies and Applications (AAAI)](https://dlg2019.bitbucket.io/aaai20/)
+   * ### [Deep Learning on Graphs: Methodologies and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai20/)
 - ## 2019
    * ### [Graph Representation Learning (NeurIPS)](https://grlearning.github.io/)
    * ### [Scene Graph Representation and Learning (ICCV)](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
