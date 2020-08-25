@@ -8,7 +8,7 @@
 
 
 
-# Non-Euclidean Geometry
+# Differential Geometry
 - [Constant Curvature Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/kgcn_icml20/README.md)
 - [Differentiating through the Fréchet Mean](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/hfm_icml20/README.md)
 - [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/whc_icml20/README.md)
