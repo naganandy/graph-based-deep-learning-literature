@@ -103,7 +103,7 @@
 
 # Urban Planning
 - [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/regnn_kdd20/README.md)
-- [Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amgcn_kdd20/README.md)
+- [Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/amcn_kdd20/README.md)
 - [Learning Effective Road Network Representation with Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/hrnr_kdd20/README.md)
 - [ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/constgat_kdd20/README.md)
 
