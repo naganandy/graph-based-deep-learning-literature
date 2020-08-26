@@ -10,4 +10,5 @@
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/calendar-graph-neural-networks-for-modeling-time-structures-in-spatiotempor)
 - [arXiv](https://arxiv.org/abs/2006.06820)
