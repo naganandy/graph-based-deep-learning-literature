@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/knowing-your-fate-friendship-action-and-temporal-explanations-for-user-enga)
 - [arXiv](https://arxiv.org/abs/2006.06427)
