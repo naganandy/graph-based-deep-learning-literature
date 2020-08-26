@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/neural-dynamics-on-complex-networks)
 - [arXiv](https://arxiv.org/abs/1908.06491)
