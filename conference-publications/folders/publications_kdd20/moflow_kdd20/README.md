@@ -10,4 +10,5 @@ year = {2020}
 ```
 
 links
+- [kdd](https://www.kdd.org/kdd2020/accepted-papers/view/moflow-an-invertible-flow-model-for-generating-molecular-graphs)
 - [arXiv](https://arxiv.org/abs/2006.10137)
