@@ -4,9 +4,9 @@
 @inproceedings{nirec_kdd20,
 author = {Jin, Jiarui and Qin, Jiarui and Fang, Yuchen and Du, Kounianhua and Zhang, Weinan and Yu, Yong and Zhang, Zheng and Smola, Alexander J},
 title = {An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph},
- booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
 pages = {75--84},
- year = {2020}
+year = {2020}
 }
 ```
 
