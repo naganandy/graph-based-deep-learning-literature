@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{gcc_kdd20,
-author = {Jiezhong Qiu and Qibin Chen and Yuxiao Dong and Jing Zhang and Hongxia Yang and Ming Ding and Kuansan Wang and Jie Tang},
+author = {Qiu, Jiezhong and Chen, Qibin and Dong, Yuxiao and Zhang, Jing and Yang, Hongxia and Ding, Ming and Wang, Kuansan and Tang, Jie},
 title = {GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1150--1160},
 year = {2020}
 }
 ```

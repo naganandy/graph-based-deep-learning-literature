@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{constgat_kdd20,
-author = {Fang Xiaomin and Jizhou Huang and Fan Wang and Lingke Zeng and Haijin Liang and Haifeng Wang},
+author = {Fang, Xiaomin and Huang, Jizhou and Wang, Fan and Zeng, Lingke and Liang, Haijin and Wang, Haifeng},
 title = {ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2697--2705},
 year = {2020}
 }
 ```

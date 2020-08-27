@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{tadanet_kdd20,
-author = {Qiuling Suo and Jingyuan Chou and Weida Zhong and Aidong Zhang},
-title = {Task-Adaptive Graph Meta-learning},
+author = {Xu, Fengli and Li, Yong and Xu, Shusheng},
+title = {Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2225--2233},
 year = {2020}
 }
 ```

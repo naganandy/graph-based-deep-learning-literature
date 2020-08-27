@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{diamnet_kdd20,
- author = {Xin Liu and Haojie Pan and Mutian He and Yangqiu Song and Xin Jiang and Lifeng Shang},
- title = {Neural Subgraph Isomorphism Counting},
+author = {Liu, Xin and Pan, Haojie and He, Mutian and Song, Yangqiu and Jiang, Xin and Shang, Lifeng},
+title = {Neural Subgraph Isomorphism Counting},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1959--1969},
  year = {2020}
 }
 ```

@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{cagat_kdd20,
-author = {Lu Lin and Hongning Wang},
+author = {Lin, Lu and Wang, Hongning},
 title = {Graph Attention Networks over Edge Content-Based Channels},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1819--1827},
 year = {2020}
 }
 ```

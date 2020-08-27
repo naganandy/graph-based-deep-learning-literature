@@ -2,9 +2,10 @@
 
  ```
  @inproceedings{mtgnn_kdd20,
- author = {Zonghan Wu and Shirui Pan and Guodong Long and Jing Jiang and Xiaojun Chang and Chengqi Zhang},
- title = {Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks},
+author = {Wu, Zonghan and Pan, Shirui and Long, Guodong and Jiang, Jing and Chang, Xiaojun and Zhang, Chengqi},
+title = {Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {753--763},
  year = {2020}
 }
 ```

@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{cgnn_kdd20,
-author = {Junteng Jia and Austin Benson},
-title = {Outcome Correlation in Graph Neural Network Regression},
+author = {Jia, Junteng and Benson, Austion R},
+title = {Residual Correlation in Graph Neural Network Regression},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {588--598},
 year = {2020}
 }
 ```

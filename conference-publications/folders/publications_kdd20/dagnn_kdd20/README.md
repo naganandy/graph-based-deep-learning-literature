@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{dagnn_kdd20,
-author = {Meng Liu and Hongyang Gao and Shuiwang Ji},
+author = {Liu, Meng and Gao, Hongyang and Ji, Shuiwang},
 title = {Towards Deeper Graph Neural Networks},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {338--348},
 year = {2020}
 }
 ```

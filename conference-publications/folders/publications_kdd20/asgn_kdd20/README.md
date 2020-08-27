@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{asgn_kdd20,
-author = {Zhongkai Hao and Chengqiang Lu and Zheyuan Hu and Hao Wang and Zhenya Huang and Qi Liu and Enhong Chen and Cheekong Lee},
+author = {Hao, Zhongkai and Lu, Chengqiang and Huang, Zhenya and Wang, Hao and Hu, Zheyuan and Liu, Qi and Chen, Enhong and Lee, Cheekong},
 title = {ASGN: An Active Semi-supervised Graph Neural Network for Molecular Property Prediction},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {731--752},
 year = {2020}
 }
 ```

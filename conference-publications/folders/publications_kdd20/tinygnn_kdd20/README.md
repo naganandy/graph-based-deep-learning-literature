@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{tinygnn_kdd20,
-author = {Bencheng Yan and Chaokun Wang and Gaoyang Guo and Yunkai Lou},
+author = {Yan, Bencheng and Wang, Chaokun and Guo, Gaoyang and Lou, Yunkai},
 title = {TinyGNN: Learning Efficient Graph Neural Networks},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1848--1856},
 year = {2020}
 }
 ```

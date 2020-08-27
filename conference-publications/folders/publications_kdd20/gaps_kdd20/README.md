@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{gaps_kdd20,
-author = {Xiaowei Jia and Handong Zhao and Zhe Lin and Ajinkya Kale and Vipin Kumar},
+author = {Jia, Xiaowei and Zhao, Handong and Lin, Zhe and Kale, Ajinkya and Kumar, Vipin},
 title = {Personalized Image Retrieval with Sparse Graph Representation Learning},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2735--2743},
 year = {2020}
 }
 ```

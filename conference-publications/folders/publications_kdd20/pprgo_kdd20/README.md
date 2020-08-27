@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{pprgo_kdd20,
-author = {Aleksandar Bojchevski and Johannes Klicpera and Bryan Perozzi and Amol Kapoor and Martin Blais and Benedek RÃ³zemberczki and Michal Lukasik and Stephan Gunnemann},
+author = {Bojchevski, Aleksandar and Klicpera, Johannes and Perozzi, Bryan and Kapoor, Amol and Blais, Martin and Rózemberczki, Benedek and Lukasik, Michal and Günnemann, Stephan},
 title = {Scaling Graph Neural Networks with Approximate PageRank},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2464--2473},
 year = {2020}
 }
 ```

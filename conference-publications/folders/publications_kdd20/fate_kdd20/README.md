@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{fate_kdd20,
-author = {Xianfeng Tang and Yozen Liu and Neil Shah and Xiaolin Shi and Prasenjit Mitra and Suhang Wang},
+author = {Tang, Xianfeng and Liu, Yozen and Shah, Neil and Shi, Xiaolin and Mitra, Prasenjit and Wang, Suhang},
 title = {Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2269--2279},
 year = {2020}
 }
 ```

@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{hopi_kdd20,
-author = {Yi Liu and Hao Yuan and Lei Cai and Shuiwang Ji},
+author = {Liu, Yi and Yuan, Hao and Cai, Lei and Ji, Shuiwang},
 title = {Deep Learning of High-Order Interactions for Protein Interface Prediction},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {679--687},
 year = {2020}
 }
 ```

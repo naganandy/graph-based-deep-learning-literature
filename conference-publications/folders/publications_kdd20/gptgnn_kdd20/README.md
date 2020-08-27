@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{gptgnn_kdd20,
- author = {Ziniu Hu and Yuxiao Dong and Kuansan Wang and Kai-Wei Chang and Yizhou Sun},
- title = {GPT-GNN: Generative Pre-Training of Graph Neural Networks},
+author = {Hu, Ziniu and Dong, Yuxiao and Wang, Kuansan and Chang, Kai-Wei and Sun, Yizhou},
+title = {GPT-GNN: Generative Pre-Training of Graph Neural Networks},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1857--1867},
  year = {2020}
 }
 ```

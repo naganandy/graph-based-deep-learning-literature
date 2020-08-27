@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{calendargnn_kdd20,
- author = {Daheng Wang and Meng Jiang and Munira Syed and Oliver Conway and Vishal Juneja and Sriram Subramanian and Nitesh V. Chawla},
- title = {Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors},
+author = {Wang, Daheng and Jiang, Meng and Syed, Munira and Conway, Oliver and Juneja, Vishal and Subramanian, Sriram},
+title = {Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2581--2589},
  year = {2020}
 }
 ```

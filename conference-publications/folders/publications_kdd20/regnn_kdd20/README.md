@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{regnn_kdd20,
-author = {Wenjuan Luo and Han Zhang and Xiaodi Yang and Lin Bo and Xiaoqing Yang and Zang Li and Xiaohu Qie and Jieping Ye},
+author = {Luo, Wenjuan and Zhang, Han and Yang, Xiaodi and Bo, Lin and Yang, Xiaoqing and Li, Zang and Qie, Xiaohu and Ye, Jieping},
 title = {Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {3213--3223},
 year = {2020}
 }
 ```

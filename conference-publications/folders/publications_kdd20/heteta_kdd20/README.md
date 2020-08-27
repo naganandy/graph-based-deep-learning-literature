@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{heteta_kdd20,
- author = {Huiting Hong and Yucheng Lin and Kun Fu and Zheng Wang and Xiaohu Qie},
- title = {HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival},
+author = {Hong, Huiting and Lin, Yucheng and Yang, Xiaoqing and Li, Zang and Fu, Kung and Wang, Zheng and Qie, Xiaohu and Ye, Jieping},
+title = {HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2444--2454},
  year = {2020}
 }
 ```

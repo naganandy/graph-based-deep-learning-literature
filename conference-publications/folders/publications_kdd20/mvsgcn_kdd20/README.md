@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{mvsgcn_kdd20,
-author = {Weilin Cong and Rana Forsati and Mahmut Kandemir and Mehrdad Mahdavi},
+author = {Cong, Weilin and Forsati, Rana and Kandemir, Mahmut and Mahdavi, Mehrdad},
 title = {Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1393--1403},
 year = {2020}
 }
 ```

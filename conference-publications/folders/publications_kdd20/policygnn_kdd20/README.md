@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{policygnn_kdd20,
-author = {Kwei-Herng Lai and Daochen Zha and Kaixiong Zhou and Xia Hu},
+author = {Lai, Kwei-Herng and Zha, Daochen and Zhou, Kaixiong and Hu, Xia},
 title = {Policy-GNN: Aggregation Optimization for Graph Neural Networks},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {461--471},
 year = {2020}
 }
 ```

@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{nodeaug_kdd20,
-author = {Yiwei Wang and Wei Wang and Yuxuan Liang and Yujun Cai and Juncheng Liu and Bryan Hooi},
+author = {Wang, Yiwei and Wang, Wei and Liang, Yuxuan and Cai, Yujun and Liu, Juncheng and Hooi, Bryan},
 title = {NodeAug: Semi-Supervised Node Classification with Data Augmentation},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {207--217},
 year = {2020}
 }
 ```

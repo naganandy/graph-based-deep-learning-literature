@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{deterrent_kdd20,
-author = {Limeng Cui and Haeseung Seo and Maryam Tabar and Fenglong Ma and Suhang Wang and Dongwon Lee},
+author = {Cui, Limeng and Seo, Haeseung and Tabar, Maryam and Ma, Fenglong and Wang, Suhang and Lee, Dongwon},
 title = {DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {492--502},
 year = {2020}
 }
 ```

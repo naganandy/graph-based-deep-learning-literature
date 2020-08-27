@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{xgnn_kdd20,
- author = {Hao Yuan and Jiliang Tang and Xia Hu and Shuiwang Ji},
- title = {XGNN: Towards Model-Level Explanations of Graph Neural Networks},
+author = {Yuan, Hao and Tang, Jiliang and Hu, Xia and Ji, Shuiwang},
+title = {XGNN: Towards Model-Level Explanations of Graph Neural Networks},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {430--438},
  year = {2020}
 }
 ```

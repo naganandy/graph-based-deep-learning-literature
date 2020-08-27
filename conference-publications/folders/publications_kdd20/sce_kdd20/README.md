@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{sce_kdd20,
-author = {Shengzhong Zhang and Zengfeng Huang and Haicang Zhou and Ziang Zhou},
+author = {Zhang, Shengzhong and Huang, Zengfeng and Zhou, Haicang and Zhou, Ziang},
 title = {SCE: Scalable Network Embedding from Sparsest Cut},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {257--265},
 year = {2020}
 }
 ```

@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{treeconv_kdd20,
-author = {Guangrun Wang and Guangcong Wang and Keze Wang and Xiaodan Liang and Liang Lin},
+author = {Wang, Guangrun and Wang, Guangcong and Wang, Keze and Liang, Xiaodan and Lin, Liang},
 title = {Grammatically Recognizing Images with Tree Convolution},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {903--912},
 year = {2020}
 }
 ```

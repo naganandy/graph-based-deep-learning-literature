@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{curvanet_kdd20,
- author = {Wenchong He and Zhe Jiang and Chengming Zhang and Arpan Man Sainju},
- title = {CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis},
+author = {He, Wenchong and Jiang, Zhe and Zhang, Chengming and Sainju, Arpan Man},
+title = {CurvaNet: Geometric Deep Learning based on Directional Curvature for 3D Shape Analysis},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2214--2224},
  year = {2020}
 }
 ```

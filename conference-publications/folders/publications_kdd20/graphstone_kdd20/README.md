@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{graphstone_kdd20,
-author = {Qingqing Long and Yilun Jin and Guojie Song and Yi Li and Wei Lin},
+author = {Long, Qingqing and Jin, Yilun and Song, Guojie and Li, Yi and Lin, Wei},
 title = {Graph Structural-topic Neural Network},
 booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {1065--1073},
 year = {2020}
 }
 ```

@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{bgcf_kdd20,
- author = {Jianing Sun and Wei Guo and Dengcheng Zhang and Yingxue Zhang and Florence Robert-Regol and Yaochen Hu and Huifeng Guo and Ruiming Tang and Han Yuan and Xiuqiang He and Mark Coates},
- title = {A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks},
+author = {Sun, Jianing and Guo, Wei and Zhang, Dengcheng and Zhang, Yingxue and Regol, Florence and Hu, Yaochen and Guo, Huifeng and Tang, Ruiming and Yuan, Han and He, Xiuqiang and Coates, Mark},
+title = {A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks},
  booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+pages = {2030--2039},
  year = {2020}
 }
 ```
