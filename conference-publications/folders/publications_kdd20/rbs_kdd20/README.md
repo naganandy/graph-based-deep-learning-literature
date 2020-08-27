@@ -4,9 +4,9 @@
 @inproceedings{rbs_kdd20,
 author = {Wang, Hanzhi and Wei, Zhewei and Gan, Junhao and Wang, Sibo and Huang, Zengfeng},
 title = {Personalized PageRank to a Target Node, Revisited},
- booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
 pages = {657--667},
- year = {2020}
+year = {2020}
 }
 ```
 
