@@ -4,9 +4,9 @@
 @inproceedings{age_kdd20,
 author = {Cui, Ganqu and Zhou, Jie and Yang, Cheng and Liu, Zhiyuan},
 title = {Adaptive Graph Encoder for Attributed Graph Embedding},
- booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
+booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining (KDD)},
 pages = {976--985},
- year = {2020}
+year = {2020}
 }
 ```
 
