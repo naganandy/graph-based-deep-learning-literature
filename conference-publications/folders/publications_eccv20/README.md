@@ -1,4 +1,4 @@
-# [Publications in ECCV 2020](https://eccv2020.eu/accepted-papers/)
+# [Publications in ECCV 2020](http://www.ecva.net/papers.php)
 
 
 
