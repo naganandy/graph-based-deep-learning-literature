@@ -1,9 +1,9 @@
-# Multivariate Time-series Anomaly Detection via Graph Attention Network
+# Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework
 
 ```
 @inproceedings{mtadgat_icdm20,
   author    = {Ziyue Qiao and Pengyang Wang and Yanjie Fu and Yi Du and Pengfei Wang and Yuanchun Zhou},
-  title     = {Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning},
+  title     = {Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2020}
 }
