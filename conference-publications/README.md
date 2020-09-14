@@ -9,7 +9,7 @@
 
 ## -----------------------------------------------------------------------------
 # ICDM 2020 (Nov)
-- [Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mtadgat_icdm20/README.md)
+- [Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/infomotif_icdm20/README.md)
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mtadgat_icdm20/README.md)
 - [Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/tgnn_icdm20/README.md)
 - [LFGCN: Levitating over Graphs with Levy Flights](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/lfgcn_icdm20/README.md)
