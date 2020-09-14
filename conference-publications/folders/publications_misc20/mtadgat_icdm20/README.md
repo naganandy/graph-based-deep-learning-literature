@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{mtadgat_icdm20,
-  author    = {Ziyue Qiao and Pengyang Wang and Yanjie Fu and Yi Du and Pengfei Wang and Yuanchun Zhou},
+  author    = {Aravind Sankar and Junting Wang and Adit Krishnan and Hari Sundaram},
   title     = {Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework},
   booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
   year      = {2020}
