@@ -12,4 +12,4 @@ year = {2020}
 
 links
 - [icml](https://proceedings.icml.cc/book/3511.pdf)
-- [video](https://slideslive.com/38927766/latent-variable-modelling-with-hyperbolic-normalizing-flows?ref=speaker-22605-latest)
+- [video](https://slideslive.com/38927766)
