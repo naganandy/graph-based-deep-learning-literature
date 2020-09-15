@@ -13,4 +13,5 @@ year = {2020}
 links
 - [icml](https://proceedings.icml.cc/book/3505.pdf)
 - [arXiv](https://arxiv.org/abs/2003.05189)
+- [video](https://slideslive.com/38927759)
 - [code](https://github.com/claying/GCKN)
