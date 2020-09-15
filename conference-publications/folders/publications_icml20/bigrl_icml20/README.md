@@ -5,7 +5,7 @@
   title = 	 {Semiparametric Nonlinear Bipartite Graph Representation Learning with Provable Guarantees},
   author = 	 {Na, Sen and Luo, Yuwei and Yang, Zhuoran and Wang, Zhaoran and Kolar, Mladen},
   booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-  pages     =    {4481--4492}
+  pages =        {4481--4492}
   year = 	 {2020}
 }
 ```
