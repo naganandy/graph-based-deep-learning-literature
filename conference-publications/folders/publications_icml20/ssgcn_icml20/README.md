@@ -14,3 +14,4 @@ links
 - [icml](https://proceedings.icml.cc/book/3423.pdf)
 - [arXiv](https://arxiv.org/abs/2006.09136)
 - [code](https://github.com/Shen-Lab/SS-GCNs)
+- [video](https://slideslive.com/38927677)
