@@ -8,7 +8,7 @@
 
 ## -----------------------------------------------------------------------------
 # EMNLP 2020 (Nov)
-- Message Passing for Hyper-Relational Knowledge Graphs()
+- Message Passing for Hyper-Relational Knowledge Graphs
 
 
 
