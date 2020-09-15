@@ -13,4 +13,4 @@ year = {2020}
 links
 - [icml](https://proceedings.icml.cc/book/3724.pdf)
 - [arXiv](https://arxiv.org/abs/2002.06157)
-- [video](https://slideslive.com/38927979/generalization-and-representational-limits-of-graph-neural-networks?ref=speaker-31182-latest)
+- [video](https://slideslive.com/38927979)
