@@ -13,4 +13,4 @@ year = {2020}
 links
 - [icml](https://proceedings.icml.cc/book/3548.pdf)
 - [arXiv](https://arxiv.org/abs/2003.00335)
-- [video](https://slideslive.com/38927803/differentiating-through-the-frechet-mean?ref=speaker-30859-latest)
+- [video](https://slideslive.com/38927803)
