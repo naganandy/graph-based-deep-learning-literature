@@ -13,4 +13,5 @@ year = {2020}
 links
 - [icml](https://proceedings.icml.cc/book/3316.pdf)
 - [arXiv](https://arxiv.org/abs/2006.15516)
+- [video](https://slideslive.com/38927570)
 - [code](https://github.com/Wenhui-Yu/LCFN)
