@@ -13,3 +13,4 @@ year = {2020}
 links
 - [icml](https://proceedings.icml.cc/book/3593.pdf)
 - [arXiv](https://arxiv.org/abs/1909.11580)
+- [video](https://slideslive.com/38927848)
