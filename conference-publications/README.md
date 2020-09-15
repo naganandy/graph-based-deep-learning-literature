@@ -9,6 +9,7 @@
 ## -----------------------------------------------------------------------------
 # EMNLP 2020 (Nov)
 - Message Passing for Hyper-Relational Knowledge Graphs
+- Be More with Less: Hypergraph Attention Networks for Inductive Text Classification
 
 
 
