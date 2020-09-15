@@ -13,4 +13,4 @@ year = {2020}
 links
 - [icml](https://proceedings.icml.cc/book/4089.pdf)
 - [arXiv](https://arxiv.org/abs/1911.05076)
-- [video](https://slideslive.com/38928345/constant-curvature-graph-convolutional-networks?ref=speaker-31866-latest)
+- [video](https://slideslive.com/38928345)
