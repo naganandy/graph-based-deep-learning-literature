@@ -1,4 +1,4 @@
-# Differentiating through the Fréchet Mean
+# Differentiating through the Frechet Mean
 
 ```
 @inproceedings{hfm_icml20,
