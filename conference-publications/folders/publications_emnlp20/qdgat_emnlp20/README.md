@@ -1,9 +1,9 @@
-# Question Directed Graph Attention Network for Numerical Reasoning over Text
+# Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering
 
 ```
-@inproceedings{qdgat_emnlp20,
-    title = {Question Directed Graph Attention Network for Numerical Reasoning over Text},
-    author = {Kunlong Chen and Weidi Xu and Xingyi Cheng and Zou Xiaochuan and Yuyu Zhang and Le Song and Taifeng Wang and Yuan Qi and Wei Chu},
+@inproceedings{mhgrn_emnlp20,
+    title = {Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering},
+    author = {Yanlin Feng and Xinyue Chen and Bill Yuchen Lin and Peifeng Wang and Jun Yan and Xiang Ren},
     booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
     year = {2020}
 }
