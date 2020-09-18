@@ -9,8 +9,8 @@
 ## -----------------------------------------------------------------------------
 # EMNLP 2020 (Nov)
 - [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mhgrn_emnlp20/README.md)
-- [Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/renet_emnlp20/README.md)
 - [Question Directed Graph Attention Network for Numerical Reasoning over Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/qdgat_emnlp20/README.md)
+- [Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/renet_emnlp20/README.md)
 - Message Passing for Hyper-Relational Knowledge Graphs
 - Be More with Less: Hypergraph Attention Networks for Inductive Text Classification
 
