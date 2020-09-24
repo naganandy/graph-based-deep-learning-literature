@@ -64,6 +64,9 @@ in graph-based deep learning. The [links to conference publications](https://git
 <br> </br>
 
 # Related Workshops
+- ## 2021
+   * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/)
+   * ### [Graphs and more Complex structures for Learning and Reasoning (AAAI)](https://sites.google.com/view/gclr2021/)
 - ## 2020
    * ### [Differential Geometry meets Deep Learning (NeurIPS)](https://sites.google.com/view/diffgeo4dl/home)
    * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/)
