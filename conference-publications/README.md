@@ -2,7 +2,6 @@
 
 - ICLR 2021 (May, decisions mid Jan, all submissions early Oct)
 - AAAI 2021 (Feb, decisions early Dec)
-- NeurIPS 2020 (Dec, decisions late Sep)
 
 
 
