@@ -7,6 +7,11 @@
 
 
 ## -----------------------------------------------------------------------------
+# NeurIPS 2020 (Dec)
+
+
+
+## -----------------------------------------------------------------------------
 # EMNLP 2020 (Nov)
 - [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mhgrn_emnlp20/README.md)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grf_emnlp20/README.md)
