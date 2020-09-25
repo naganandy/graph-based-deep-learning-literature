@@ -7,6 +7,7 @@
 
 ## -----------------------------------------------------------------------------
 # NeurIPS 2020 (Dec)
+- [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgn_neurips20/README.md)
 
 
 
