@@ -22,6 +22,7 @@
 <summary> more </summary> 
 
 - Parameterized Explainer for Graph Neural Network
+- Reward Propagation using Graph Convolutional Networks
 
 </details>
 
