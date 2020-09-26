@@ -13,6 +13,7 @@
 - [Graph Meta Learning via Local Subgraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmeta_neurips20/README.md)
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
 - [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cgcn_neurips20/README.md)
+- [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
 - [GNNGuard: Defending Graph Neural Networks against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gnnguard_neurips20/README.md)
 - [Path Integral Based Convolution and Pooling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pan_neurips20/README.md)
 - Parameterized Explainer for Graph Neural Network
