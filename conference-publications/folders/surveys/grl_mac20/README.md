@@ -8,7 +8,8 @@ journal={Synthesis Lectures on Artificial Intelligence and Machine Learning},
 volume={14},
 number={3},
 pages={1-159},
-publisher={Morgan and Claypool}
+publisher={Morgan and Claypool},
+year={2020}
 }
 ```
 
