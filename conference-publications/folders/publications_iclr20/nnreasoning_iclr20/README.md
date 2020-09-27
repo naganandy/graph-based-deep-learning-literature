@@ -12,3 +12,4 @@ year={2020}
 links
 - [openreview](https://openreview.net/forum?id=rJxbJeHFPS)
 - [iclr](https://iclr.cc/virtual_2020/poster_rJxbJeHFPS.html)
+- [talk](https://slideslive.com/38923505/invited-talk-set-representations-in-graph-neural-networks-and-reasoning)
