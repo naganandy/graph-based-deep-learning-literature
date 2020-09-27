@@ -1,11 +1,14 @@
 # Graph Representation Learning
 
 ```
-@book{grl_mac20,
-author = {William L. Hamilton},
-title = {Graph Representation Learning},
-publisher = {Morgan & Claypool},
-year = {2020}
+@article{grl_mac20
+author={Hamilton, William L.},
+title={Graph Representation Learning},
+journal={Synthesis Lectures on Artificial Intelligence and Machine Learning},
+volume={14},
+number={3},
+pages={1-159},
+publisher={Morgan and Claypool}
 }
 ```
 
