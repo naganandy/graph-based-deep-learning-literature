@@ -24,6 +24,7 @@
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
 - Parameterized Explainer for Graph Neural Network
 - Reward Propagation using Graph Convolutional Networks
+- Reliable Graph Neural Networks via Robust Location Estimation
 
 </details>
 
