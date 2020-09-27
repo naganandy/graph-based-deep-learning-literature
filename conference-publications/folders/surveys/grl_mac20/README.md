@@ -1,7 +1,7 @@
 # Graph Representation Learning
 
 ```
-@article{grl_mac20
+@article{grl_mac20,
 author={Hamilton, William L.},
 title={Graph Representation Learning},
 journal={Synthesis Lectures on Artificial Intelligence and Machine Learning},
