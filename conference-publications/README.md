@@ -1,6 +1,6 @@
 # [Conferences](https://aideadlin.es/)
 
-- ICLR 2021 (May, decisions mid Jan, all submissions early Oct)
+- ICLR 2021 (May, decisions mid Jan, Click [here](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/submissions_iclr21/README.md) for submissions)
 - AAAI 2021 (Feb, decisions early Dec)
 
 
