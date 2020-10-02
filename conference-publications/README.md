@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Towards Deeper Graph Neural Networks with Differentiable Group Normalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgn_neurips20/README.md)
 - [Path Integral Based Convolution and Pooling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pan_neurips20/README.md)
 - [Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egp_neurips20/README.md)
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
