@@ -16,7 +16,6 @@
 # Efficient Training
 - [On the Importance of Sampling in Training GCNs: Convergence Analysis and Variance Reduction](https://openreview.net/forum?id=Oq79NOiZB1H)
 - [Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences](https://openreview.net/forum?id=l3YcqzaPlx0)
-- [Scalable Graph Neural Networks for Heterogeneous Graphs](https://openreview.net/forum?id=iMKvxHlrZb3)
 - [On Batch-size Selection for Stochastic Training for Graph Neural Networks](https://openreview.net/forum?id=HeEzgm-f4g1)
 - [Communication-Efficient Sampling for Distributed Training of Graph Convolutional Networks](https://openreview.net/forum?id=xtKFuhfK1tK)
 - [BDS-GCN: Efficient Full-Graph Training of Graph Convolutional Nets with Partition-Parallelism and Boundary Sampling](https://openreview.net/forum?id=uFA24r7v4wL)
@@ -25,29 +24,17 @@
 
 
 
-# Graph Attention
-- [Gated Relational Graph Attention Networks](https://openreview.net/forum?id=v-9E8egy_i)
-- [Global Node Attentions via Adaptive Spectral Filters](https://openreview.net/forum?id=w6Vm1Vob0-X)
-- [Multi-hop Attention Graph Neural Network](https://openreview.net/forum?id=muppfCkU9H1)
-- [Global Attention Improves Graph Networks Generalization](https://openreview.net/forum?id=H-BVtEaipej)
-- [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://openreview.net/forum?id=Wi5KUNlqWty)
-- [Graph Joint Attention Networks](https://openreview.net/forum?id=yvzMA5im3h)
-- [Learning to Solve Multi-Robot Task Allocation with a Covariant-Attention based Neural Architecture](https://openreview.net/forum?id=VNJUTmR-CaZ)
+# Heterogeneous Graphs
+- [Scalable Graph Neural Networks for Heterogeneous Graphs](https://openreview.net/forum?id=iMKvxHlrZb3)
+- [PanRep: Universal node embeddings for heterogeneous graphs](https://openreview.net/forum?id=2nm0fGwWBMr)
+- [Learning to Represent Programs with Heterogeneous Graphs](https://openreview.net/forum?id=q8mp_buclp)
 
 
 
-# Expressivity
-- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
-- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
-- [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting](https://openreview.net/forum?id=LT0KSFnQDWF)
-- [Breaking the Expressive Bottlenecks of Graph Neural Networks](https://openreview.net/forum?id=ztMLindFLWR)
-- [An Empirical Study of the Expressiveness of Graph Kernels and Graph Neural Networks](https://openreview.net/forum?id=CJmMqnXthgX)
-
-
-
-# Explainability
-- [Hard Masking for Explaining Graph Neural Networks](https://openreview.net/forum?id=uDN8pRAdsoC)
-- [Graph Structural Aggregation for Explainable Learning](https://openreview.net/forum?id=6lH8nkwKRXV)
+# Code Representations
+- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
+- [GN-Transformer: Fusing AST and Source Code information in Graph Networks](https://openreview.net/forum?id=XavM6v_q59q)
+- [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
 
 
 
@@ -71,6 +58,33 @@
 - [Adaptive Spatial-Temporal Inception Graph Convolutional Networks for Multi-step Spatial-Temporal Network Data Forecasting](https://openreview.net/forum?id=mzfqkPOhVI4)
 - [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://openreview.net/forum?id=HWX5j6Bv_ih)
 - [One Vertex Attack on Graph Neural Networks-based Spatiotemporal Forecasting](https://openreview.net/forum?id=W0MKrbVOxtd)
+
+
+
+# Graph Attention
+- [Gated Relational Graph Attention Networks](https://openreview.net/forum?id=v-9E8egy_i)
+- [Global Node Attentions via Adaptive Spectral Filters](https://openreview.net/forum?id=w6Vm1Vob0-X)
+- [Multi-hop Attention Graph Neural Network](https://openreview.net/forum?id=muppfCkU9H1)
+- [Global Attention Improves Graph Networks Generalization](https://openreview.net/forum?id=H-BVtEaipej)
+- [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://openreview.net/forum?id=Wi5KUNlqWty)
+- [Graph Joint Attention Networks](https://openreview.net/forum?id=yvzMA5im3h)
+- [Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks](https://openreview.net/forum?id=pHkBwAaZ3UK)
+- [Learning to Solve Multi-Robot Task Allocation with a Covariant-Attention based Neural Architecture](https://openreview.net/forum?id=VNJUTmR-CaZ)
+
+
+
+# Expressivity
+- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
+- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
+- [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting](https://openreview.net/forum?id=LT0KSFnQDWF)
+- [Breaking the Expressive Bottlenecks of Graph Neural Networks](https://openreview.net/forum?id=ztMLindFLWR)
+- [An Empirical Study of the Expressiveness of Graph Kernels and Graph Neural Networks](https://openreview.net/forum?id=CJmMqnXthgX)
+
+
+
+# Explainability
+- [Hard Masking for Explaining Graph Neural Networks](https://openreview.net/forum?id=uDN8pRAdsoC)
+- [Graph Structural Aggregation for Explainable Learning](https://openreview.net/forum?id=6lH8nkwKRXV)
 
 
 
@@ -129,14 +143,6 @@
 - [HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs](https://openreview.net/forum?id=cKnKJcTPRcV)
 - [DyHCN: Dynamic Hypergraph Convolutional Networks](https://openreview.net/forum?id=Bx05YH2W8bE)
 - [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
-
-
-
-# Code Representations
-- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
-- [GN-Transformer: Fusing AST and Source Code information in Graph Networks](https://openreview.net/forum?id=XavM6v_q59q)
-- [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
-- [Learning to Represent Programs with Heterogeneous Graphs](https://openreview.net/forum?id=q8mp_buclp)
 
 
 
@@ -274,8 +280,6 @@
 - [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
 - [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
 - [Non-Local Graph Neural Networks](https://openreview.net/forum?id=heqv8eIweMY)
-- [Learning Discrete Adaptive Receptive Fields for Graph Convolutional Networks](https://openreview.net/forum?id=pHkBwAaZ3UK)
-- [PanRep: Universal node embeddings for heterogeneous graphs](https://openreview.net/forum?id=2nm0fGwWBMr)
 - [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
 - [Structural Landmarking and Interaction Modelling: on Resolution Dilemmas in Graph Classification](https://openreview.net/forum?id=JCz05AtXO3y)
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
