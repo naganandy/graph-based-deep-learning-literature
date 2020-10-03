@@ -129,6 +129,14 @@
 # Label Propagation
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=oh71uL93yay)
+- [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification](https://openreview.net/forum?id=B9t708KMr9d)
+
+
+
+# Unified Formulations
+- [A Unified View on Graph Neural Networks as Graph Signal Denoising](https://openreview.net/forum?id=MD3D5UbTcb1)
+- [A Unified Framework for Convolution-based Graph Neural Networks](https://openreview.net/forum?id=zUMD--Fb9Bt)
+- [Generalizing Graph Convolutional Networks](https://openreview.net/forum?id=yBJihVXahXc)
 
 
 
@@ -149,6 +157,21 @@
 # Scene Graphs
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
 - [Weakly Supervised Scene Graph Grounding](https://openreview.net/forum?id=412_KkkGjJ4)
+
+
+
+# Mesh Learning
+- [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)
+- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)
+- [MeshMVS: Multi-view Stereo Guided Mesh Reconstruction](https://openreview.net/forum?id=pULTvw9X313)
+
+
+
+# Physics
+- [Grounding Physical Object and Event Concepts Through Dynamic Visual Reasoning](https://openreview.net/forum?id=bhCDO_cEGCz)
+- [Accurately Solving Physical Systems with Graph Learning](https://openreview.net/forum?id=v2tmeZVV9-c)
+- [Combining Physics and Machine Learning for Network Flow Estimation](https://openreview.net/forum?id=l0V53bErniB)
+- [Learning Lagrangian Fluid Dynamics with Graph Neural Networks](https://openreview.net/forum?id=7WwYBADS3E_)
 
 
 
@@ -174,20 +197,15 @@
 - [XLVIN: eXecuted Latent Value Iteration Nets](https://openreview.net/forum?id=OodqmQT3fir)
 - [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
 - [Solving NP-Hard Problems on Graphs with Extended AlphaGo Zero](https://openreview.net/forum?id=0_ao8yS2eBw)
-- [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)
-- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)
 - [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
 - [Local Clustering Graph Neural Networks](https://openreview.net/forum?id=jN8TTVCgOqf)
-- [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification](https://openreview.net/forum?id=B9t708KMr9d)
 - [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
-- [Generalizing Graph Convolutional Networks](https://openreview.net/forum?id=yBJihVXahXc)
 - [Polynomial Graph Convolutional Networks](https://openreview.net/forum?id=uqD-un_Mzd-)
 - [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/forum?id=kHSu4ebxFXY)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://openreview.net/forum?id=3u3ny6UYmjy)
 - [Memory Augmented Design of Graph Neural Networks](https://openreview.net/forum?id=K6YbHUIWHOy)
 - [Matrix Shuffle-Exchange Networks for Hard 2D Tasks](https://openreview.net/forum?id=Ns8v4jHGyAV)
 - [Beyond COVID-19 Diagnosis: Prognosis with Hierarchical Graph Representation Learning](https://openreview.net/forum?id=_L6b4Qzn5bp)
-- [A Unified View on Graph Neural Networks as Graph Signal Denoising](https://openreview.net/forum?id=MD3D5UbTcb1)
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
 - [Graph-Graph Similarity Network](https://openreview.net/forum?id=R3a2G2tSf3c)
 - [ScheduleNet: Learn to Solve MinMax mTSP Using Reinforcement Learning with Delayed Reward](https://openreview.net/forum?id=P63SQE0fVa)
@@ -195,14 +213,12 @@
 - [GraphCGAN: Convolutional Graph Neural Network with Generative Adversarial Networks](https://openreview.net/forum?id=iy3xVojOhV)
 - [Motif-Driven Contrastive Learning of Graph Representations](https://openreview.net/forum?id=qcKh_Msv1GP)
 - [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
-- [Grounding Physical Object and Event Concepts Through Dynamic Visual Reasoning](https://openreview.net/forum?id=bhCDO_cEGCz)
 - [On Single-environment Extrapolations in Graph Classification and Regression Tasks](https://openreview.net/forum?id=wXBt-7VM2JE)
 - [Energy-based View of Retrosynthesis](https://openreview.net/forum?id=0Hj3tFCSjUd)
 - [Transferable Feature Learning on Graphs Across Visual Domains](https://openreview.net/forum?id=l-kqekaFvI9)
 - [Concentric Spherical GNN for 3D Representation Learning](https://openreview.net/forum?id=OItp-Avs6Iy)
 - [ATOM3D: Tasks On Molecules in Three Dimensions](https://openreview.net/forum?id=jnMjOctlfbZ)
 - [Online Learning of Graph Neural Networks: When Can Data Be Permanently Deleted](https://openreview.net/forum?id=lfJpQn3xPV-)
-- [Learning Lagrangian Fluid Dynamics with Graph Neural Networks](https://openreview.net/forum?id=7WwYBADS3E_)
 - [GraphLog: A Benchmark for Measuring Logical Generalization in Graph Neural Networks](https://openreview.net/forum?id=Ux5zdAir9-U)
 - [Beyond GNNs: A Sample Efficient Architecture for Graph Problems](https://openreview.net/forum?id=Px7xIKHjmMS)
 - [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
@@ -248,7 +264,6 @@
 - [Iterated graph neural network system](https://openreview.net/forum?id=9vCLOXwprc)
 - [Action Concept Grounding Network for Semantically-Consistent Video Generation](https://openreview.net/forum?id=4_57x7xhymn)
 - [A Deep Graph Neural Networks Architecture Design: From Global Pyramid-like Shrinkage Skeleton to Local Link Rewiring](https://openreview.net/forum?id=8IX8Qum6jGR)
-- [A Unified Framework for Convolution-based Graph Neural Networks](https://openreview.net/forum?id=zUMD--Fb9Bt)
 - [Bridging Graph Network to Lifelong Learning with Feature Interaction](https://openreview.net/forum?id=o29tNZZqGcN)
 - [ForceNet: A Graph Neural Network for Large-Scale Quantum Chemistry Simulation](https://openreview.net/forum?id=K3qa-sMHpQX)
 - [FASG: Feature Aggregation Self-training GCN for Semi-supervised Node Classification](https://openreview.net/forum?id=SkUfhuFsvK-)
@@ -281,11 +296,9 @@
 - [TopoTER: Unsupervised Learning of Topology Transformation Equivariant Representations](https://openreview.net/forum?id=9az9VKjOx00)
 - [Directional graph networks](https://openreview.net/forum?id=FUdBF49WRV1)
 - [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://openreview.net/forum?id=reEp2BReEou)
-- [Accurately Solving Physical Systems with Graph Learning](https://openreview.net/forum?id=v2tmeZVV9-c)
 - [Graph Edit Networks](https://openreview.net/forum?id=dlEJsyHGeaL)
 - [Learning to Search for Fast Maximum Common Subgraph Detection](https://openreview.net/forum?id=HP-tcf48fT)
 - [Weighted Line Graph Convolutional Networks](https://openreview.net/forum?id=RVANVvSi8MZ)
-- [MeshMVS: Multi-view Stereo Guided Mesh Reconstruction](https://openreview.net/forum?id=pULTvw9X313)
 - [Towards Robust Graph Neural Networks against Label Noise](https://openreview.net/forum?id=H38f_9b90BO)
 - [GraphSAD: Learning Graph Representations with Structure-Attribute Disentanglement](https://openreview.net/forum?id=ZS-9XoX20AV)
 - [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration](https://openreview.net/forum?id=2bw8QFtPAZD)
@@ -301,9 +314,7 @@
 - [Dynamic Graph: Learning Instance-aware Connectivity for Neural Networks](https://openreview.net/forum?id=RuUdMAU-XbI)
 - [Incremental Learning on Growing Graphs](https://openreview.net/forum?id=nySHNUlKTVw)
 - [Learning Latent Topology for Graph Matching](https://openreview.net/forum?id=wjJ3pR-ZQD)
-- [Accurately Solving Physical Systems with Graph Learning](https://openreview.net/forum?id=v2tmeZVV9-c)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
-- [Combining Physics and Machine Learning for Network Flow Estimation](https://openreview.net/forum?id=l0V53bErniB)
 - [Iterative Graph Self-Distillation](https://openreview.net/forum?id=Z532uNJyG5y)
 - [To Understand Representation of Layer-aware Sequence Encoders as Multi-order-graph](https://openreview.net/forum?id=lDjgALS4qs8)
 - [Alpha-DAG: a reinforcement learning based algorithm to learn Directed Acyclic Graphs](https://openreview.net/forum?id=0jqRSnFnmL_)
