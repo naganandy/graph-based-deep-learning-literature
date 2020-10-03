@@ -167,6 +167,13 @@
 
 
 
+# Point Clouds
+- [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration](https://openreview.net/forum?id=2bw8QFtPAZD)
+- [Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks](https://openreview.net/forum?id=784_F-WCW46)
+- [Efficient Long-Range Convolutions for Point Clouds](https://openreview.net/forum?id=le9LIliDOG)
+
+
+
 # Physics
 - [Grounding Physical Object and Event Concepts Through Dynamic Visual Reasoning](https://openreview.net/forum?id=bhCDO_cEGCz)
 - [Accurately Solving Physical Systems with Graph Learning](https://openreview.net/forum?id=v2tmeZVV9-c)
@@ -301,8 +308,6 @@
 - [Weighted Line Graph Convolutional Networks](https://openreview.net/forum?id=RVANVvSi8MZ)
 - [Towards Robust Graph Neural Networks against Label Noise](https://openreview.net/forum?id=H38f_9b90BO)
 - [GraphSAD: Learning Graph Representations with Structure-Attribute Disentanglement](https://openreview.net/forum?id=ZS-9XoX20AV)
-- [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration](https://openreview.net/forum?id=2bw8QFtPAZD)
-- [Rethinking Sampling in 3D Point Cloud Generative Adversarial Networks](https://openreview.net/forum?id=784_F-WCW46)
 - [Dual Graph Complementary Network](https://openreview.net/forum?id=yN5kwvn4E1R)
 - [Learning Graph Normalization for Graph Neural Networks](https://openreview.net/forum?id=oLltLS5F9R)
 - [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://openreview.net/forum?id=mj7WsaHYxj)
@@ -318,4 +323,3 @@
 - [Iterative Graph Self-Distillation](https://openreview.net/forum?id=Z532uNJyG5y)
 - [To Understand Representation of Layer-aware Sequence Encoders as Multi-order-graph](https://openreview.net/forum?id=lDjgALS4qs8)
 - [Alpha-DAG: a reinforcement learning based algorithm to learn Directed Acyclic Graphs](https://openreview.net/forum?id=0jqRSnFnmL_)
-- [Efficient Long-Range Convolutions for Point Clouds](https://openreview.net/forum?id=le9LIliDOG)
