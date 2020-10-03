@@ -6,6 +6,7 @@
 - [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
 - [Don't stack layers in graph neural networks, wire them randomly](https://openreview.net/forum?id=eZllW0F5aM_)
 - [NODE-SELECT: A FLEXIBLE GRAPH NEURAL NETWORK BASED ON REALISTIC PROPAGATION SCHEME](https://openreview.net/forum?id=KfRtxjqU-Hd)
+- [Polynomial Graph Convolutional Networks](https://openreview.net/forum?id=uqD-un_Mzd-)
 - [Teleport Graph Convolutional Networks](https://openreview.net/forum?id=IpPQmzj4T_)
 - [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://openreview.net/forum?id=GIeGTl8EYx)
 - [DeeperGCN: Training Deeper GCNs with Generalized Aggregation Functions](https://openreview.net/forum?id=dmCL033_YwO)
@@ -88,6 +89,12 @@
 
 
 
+# COVID-19
+- [Beyond COVID-19 Diagnosis: Prognosis with Hierarchical Graph Representation Learning](https://openreview.net/forum?id=_L6b4Qzn5bp)
+- [Finding Patient Zero: Learning Contagion Source with Graph Neural Networks](https://openreview.net/forum?id=xQnvyc6r3LL)
+
+
+
 # Graph Pooling
 - [Recursive Neighborhood Pooling for Graph Representation Learning](https://openreview.net/forum?id=jH7wTMOYvbw)
 - [Spectrally Similar Graph Pooling](https://openreview.net/forum?id=D_I6trPKwlt)
@@ -99,9 +106,14 @@
 
 
 # Graph-Level Representations
-- [GL-Disen: Global-Local disentanglement for unsupervised learning of graph-level representations](https://openreview.net/forum?id=PmUGXmOY1wK)
 - [Self-supervised Graph-level Representation Learning with Local and Global Structure](https://openreview.net/forum?id=DAaaaqPv9-q)
 - [Learning a Transferable Scheduling Policy for Various Vehicle Routing Problems based on Graph-centric Representation Learning](https://openreview.net/forum?id=enhd0P_ERBO)
+
+
+
+# Disentanglement
+- [GL-Disen: Global-Local disentanglement for unsupervised learning of graph-level representations](https://openreview.net/forum?id=PmUGXmOY1wK)
+- [GraphSAD: Learning Graph Representations with Structure-Attribute Disentanglement](https://openreview.net/forum?id=ZS-9XoX20AV)
 
 
 
@@ -209,12 +221,10 @@
 - [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
 - [Local Clustering Graph Neural Networks](https://openreview.net/forum?id=jN8TTVCgOqf)
 - [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
-- [Polynomial Graph Convolutional Networks](https://openreview.net/forum?id=uqD-un_Mzd-)
 - [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/forum?id=kHSu4ebxFXY)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://openreview.net/forum?id=3u3ny6UYmjy)
 - [Memory Augmented Design of Graph Neural Networks](https://openreview.net/forum?id=K6YbHUIWHOy)
 - [Matrix Shuffle-Exchange Networks for Hard 2D Tasks](https://openreview.net/forum?id=Ns8v4jHGyAV)
-- [Beyond COVID-19 Diagnosis: Prognosis with Hierarchical Graph Representation Learning](https://openreview.net/forum?id=_L6b4Qzn5bp)
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
 - [Graph-Graph Similarity Network](https://openreview.net/forum?id=R3a2G2tSf3c)
 - [ScheduleNet: Learn to Solve MinMax mTSP Using Reinforcement Learning with Delayed Reward](https://openreview.net/forum?id=P63SQE0fVa)
@@ -287,7 +297,6 @@
 - [Embedding a random graph via GNN: mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling](https://openreview.net/forum?id=pXmtZdDW16)
 - [Graph Autoencoders with Deconvolutional Networks](https://openreview.net/forum?id=ohz3OEhVcs)
 - [Adaptive Stacked Graph Filter](https://openreview.net/forum?id=6VPl9khIMz)
-- [Finding Patient Zero: Learning Contagion Source with Graph Neural Networks](https://openreview.net/forum?id=xQnvyc6r3LL)
 - [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [Neural Subgraph Matching](https://openreview.net/forum?id=LMslR3CTzE_)
 - [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)
@@ -307,7 +316,6 @@
 - [Learning to Search for Fast Maximum Common Subgraph Detection](https://openreview.net/forum?id=HP-tcf48fT)
 - [Weighted Line Graph Convolutional Networks](https://openreview.net/forum?id=RVANVvSi8MZ)
 - [Towards Robust Graph Neural Networks against Label Noise](https://openreview.net/forum?id=H38f_9b90BO)
-- [GraphSAD: Learning Graph Representations with Structure-Attribute Disentanglement](https://openreview.net/forum?id=ZS-9XoX20AV)
 - [Dual Graph Complementary Network](https://openreview.net/forum?id=yN5kwvn4E1R)
 - [Learning Graph Normalization for Graph Neural Networks](https://openreview.net/forum?id=oLltLS5F9R)
 - [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://openreview.net/forum?id=mj7WsaHYxj)
