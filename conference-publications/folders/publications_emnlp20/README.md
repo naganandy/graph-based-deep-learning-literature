@@ -40,7 +40,8 @@
 - [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mhgrn_emnlp20/README.md)
 - [Question Directed Graph Attention Network for Numerical Reasoning over Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/qdgat_emnlp20/README.md)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grf_emnlp20/README.md)
-- [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph. 
+- [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)
+- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph. 
 - Towards Interpretable Reasoning over Paragraph Effects in Situation. 
 - Distilling Structured Knowledge for Text-Based Relational Reasoning
 
