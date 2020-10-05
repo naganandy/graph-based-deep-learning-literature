@@ -37,7 +37,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# EMNLP 2020 (Nov)
+# [EMNLP 2020 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/README.md)
 - [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mhgrn_emnlp20/README.md)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grf_emnlp20/README.md)
 - [Question Directed Graph Attention Network for Numerical Reasoning over Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/qdgat_emnlp20/README.md)
