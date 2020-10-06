@@ -63,6 +63,11 @@
 - Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes
 
 
+# Multi-label Few / Zero Shot Learning
+- [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
+- Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs
+
+
 
 # Relation Extraction
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
@@ -90,7 +95,6 @@
 - Compositional Demographic Word Embeddings
 - VolTAGE: Volatility forecasting via Text-Audio fusion with Graph convolution networks for Earnings calls
 - Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding
-- Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs
 - Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
 - Learning to Represent Image and Text with Denotation Graphs
 - Keep it Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit
