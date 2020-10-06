@@ -56,6 +56,7 @@
 - [GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/graphdialog_emnlp20/README.md)
 - [Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glm_emnlp20/README.md)
 - [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
+- [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
 - [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)
 
 </details>
