@@ -6,6 +6,7 @@
 - [Towards Deeper Graph Neural Networks with Differentiable Group Normalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgn_neurips20/README.md)
 - [Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/scatteringgcn_neurips20/README.md)
 - [Graph Random Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gran_neurips20/README.md)
+- [Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbgnn_neurips20/README.md)
 
  
 
@@ -88,7 +89,6 @@
 - [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
 - [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
 - [Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/metatne_neurips20/README.md)
-- [Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbgnn_neurips20/README.md)
 - Sparse Graphical Memory for Robust Planning
 - Binary Matrix Completion with Hierarchical Graph Side Information
 - PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
