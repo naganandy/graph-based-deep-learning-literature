@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/trpupu_neurips20/README.md)
 - [DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic Multigrid Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/diffgcn_neurips20/README.md)
 - [Generalizing Graph Neural Networks Beyond Homophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
 - [Towards Deeper Graph Neural Networks with Differentiable Group Normalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgn_neurips20/README.md)
