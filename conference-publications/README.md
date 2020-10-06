@@ -42,6 +42,7 @@
 - [Cross-Scale Internal Graph Neural Network for Image Super-Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ignn_neurips20/README.md)
 - [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
 - [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
+- [Better Set Representations For Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/srn_neurips20/README.md)
 - [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
 - [Graph Random Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gran_neurips20/README.md)
 - [Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/idgl_neurips20/README.md)

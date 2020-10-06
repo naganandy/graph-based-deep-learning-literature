@@ -74,6 +74,12 @@
 
 
 
+# Learning with Sets
+- [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
+- [Better Set Representations For Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/srn_neurips20/README.md)
+
+
+
 # Computer Vision
 - [Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egp_neurips20/README.md)
 - [Learning Physical Graph Representations from Visual Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/psgnet_neurips20/README.md)
@@ -98,7 +104,6 @@
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
 - [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
 - [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
-- [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
 - [Multipole Graph Neural Operator for Parametric Partial Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgkn_neurips20/README.md)
 - [Learning Dynamic Belief Graphs to Generalize on Text-Based Games](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gata_neurips20/README.md)
 - [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
