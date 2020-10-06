@@ -5,6 +5,8 @@
 # Oversmoothing
 - [Towards Deeper Graph Neural Networks with Differentiable Group Normalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgn_neurips20/README.md)
 - [Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/scatteringgcn_neurips20/README.md)
+- [Graph Random Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gran_neurips20/README.md)
+
  
 
 # Adversarial Attacks
@@ -15,6 +17,7 @@
 
 
 # Robustness
+- [Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/idgl_neurips20/README.md)
 - Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks
 - Reliable Graph Neural Networks via Robust Location Estimation
 
@@ -40,6 +43,8 @@
 - [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cgcn_neurips20/README.md)
 - [Distance Encoding -- Design Provably More Powerful Graph Neural Networks for Structural Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/degnn_neurips20/README.md)
 - [Can graph neural networks count substructures?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/kign_neurips20/README.md)
+- [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
+- [Building powerful and equivariant graph neural networks with structural message-passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/smp_neurips20/README.md)
 
 
 
@@ -74,6 +79,17 @@
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
 - [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
 - [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
+- [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
+- [Multipole Graph Neural Operator for Parametric Partial Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgkn_neurips20/README.md)
+- [Learning Dynamic Belief Graphs to Generalize on Text-Based Games](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gata_neurips20/README.md)
+- [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
+- [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
+- [Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/selar_neurips20/README.md)
+- [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
+- [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
+- [Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/metatne_neurips20/README.md)
+- [Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbgnn_neurips20/README.md)
+- Sparse Graphical Memory for Robust Planning
 - Binary Matrix Completion with Hierarchical Graph Side Information
 - PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
 - Adaptive Shrinkage Estimation for Streaming Graphs
@@ -89,42 +105,19 @@
 - Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models
 - Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes
 - On the Power of Louvain for Graph Clustering
-- Set2Graph: Learning Graphs From Sets
 - Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
 - Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network
-- Universal Function Approximation on Graphs
-- Towards practical differentially private causal graph discovery
-- Graph Random Neural Networks for Semi-Supervised Learning on Graphs
 - Handling Missing Data with Graph Representation Learning
 - Stochastic Deep Gaussian Processes over Graphs
 - Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks
-- Searching Recurrent Architecture for Path-based Knowledge Graph Embedding
-- Iterative Deep Graph Learning for Graph NeuralNetworks: Better and Robust Node Embeddings
-- Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian
-- Provable Overlapping Community Detection in Weighted Graphs
-- Learning of Discrete Graphical Models with Neural Networks
 - Uncertainty Aware Semi-Supervised Learning on Graph Data
-- Multipole Graph Neural Operator for Parametric Partial Differential Equations
 - Probabilistic Circuits for Variational Inference in Discrete Graphical Models
 - Digraph Inception Convolutional Networks
 - Towards Scale-Invariant Graph-related Problem Solving by Iterative Homogeneous GNNs
 - A graph similarity for deep learning
 - Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations
-- COPT: Coordinated Optimal Transport on Graphs
-- Graduated Assignment for Joint Multi-Graph Matching and Clustering with Application to Unsupervised Graph Matching Network Learning
 - A Novel Approach for Constrained Optimization in Graphical Models
-- A polynomial-time algorithm for learning nonparametric causal graphs
-- Universal Steganography and Watermarking: Towards Understanding and Utilizing Deep Hiding
-- Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
-- Building powerful and equivariant graph neural networks with message-passing
-- DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
-- Efficient Learning of Discrete Graphical Models
-- Learning Dynamic Belief Graphs to Generalize on Text-Based Games
 - Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings
-- Robust Multi-Object Matching via Iterative Reweighting of the Graph Connection Laplacian
-- Learning Some Popular Gaussian Graphical Models without Condition Number Bounds
-- Graphon Neural Networks and the Transferability of Graph Neural Networks
-- AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity
 - Strongly Incremental Constituency Parsing with Graph Neural Networks
 - Dirichlet Graph Variational Autoencoder
 - Reward Propagation Using Graph Convolutional Networks
@@ -133,19 +126,11 @@
 - Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting
 - Generalized Independent Noise Condition for Estimating Linear Non-Gaussian Latent Variable Graphs
 - Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
-- Natural Graph Networks
-- Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs
 - Higher-Order Spectral Clustering of Directed Graphs
 - Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
 - How hard is to distinguish graphs with graph neural networks?
-- Provable, Scalable and Automatic Perturbation Analysis on General Computational Graphs
-- Generative 3D Part Assembly via Dynamic Graph Learning
-- Graph Policy Network for Transferable Active Learning on Graphs
-- Sparse Graphical Memory for Robust Planning
 - Factor Graph Grammars
 - On the equivalence of molecular graph convolution and molecular wave function with poor basis set
-- Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding
 - Graph Information Bottleneck
-- Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks
 - EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
 - Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies

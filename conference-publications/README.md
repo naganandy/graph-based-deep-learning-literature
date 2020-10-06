@@ -41,6 +41,21 @@
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
 - [Cross-Scale Internal Graph Neural Network for Image Super-Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ignn_neurips20/README.md)
 - [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
+- [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
+- [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
+- [Graph Random Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gran_neurips20/README.md)
+- [Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/idgl_neurips20/README.md)
+- [Multipole Graph Neural Operator for Parametric Partial Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgkn_neurips20/README.md)
+- [Building powerful and equivariant graph neural networks with structural message-passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/smp_neurips20/README.md)
+- [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
+- [Learning Dynamic Belief Graphs to Generalize on Text-Based Games](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gata_neurips20/README.md)
+- [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
+- [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
+- [Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/selar_neurips20/README.md)
+- [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
+- [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
+- [Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/metatne_neurips20/README.md)
+- [Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbgnn_neurips20/README.md)
 
 </details>
 
@@ -58,7 +73,6 @@
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
 - [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md). 
 - [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
-- [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
 
 <details> 
 <summary> more </summary> 
@@ -69,6 +83,7 @@
 - [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
 - [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
 - [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)
+
 
 </details>
 
