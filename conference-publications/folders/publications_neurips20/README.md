@@ -17,10 +17,16 @@
 - Adversarial Attack on Graph Neural Networks with Limited Node Access
 
 
+
 # Robustness
-- [Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/idgl_neurips20/README.md)
 - Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks
 - Reliable Graph Neural Networks via Robust Location Estimation
+
+
+
+# Iterative Learning
+- [Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/idgl_neurips20/README.md)
+- [Towards Scale-Invariant Graph-related Problem Solving by Iterative Homogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/itergnn_neurips20/README.md)
 
 
 
@@ -29,6 +35,18 @@
 - GCN meets GPU: Decoupling “When to Sample” from “How to Sample”
 - Scalable Graph Neural Networks via Bidirectional Propagation
 - GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs
+
+
+
+# Dynamic Graphs
+- [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
+- [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/evolvegraph_neurips20/README.md)
+
+
+
+# Temporal Structures
+- [Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/trpupu_neurips20/README.md)
+- Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting
 
 
 
@@ -46,6 +64,7 @@
 - [Can graph neural networks count substructures?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/kign_neurips20/README.md)
 - [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
 - [Building powerful and equivariant graph neural networks with structural message-passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/smp_neurips20/README.md)
+- [Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dklgnn_neurips20/README.md)
 
 
 
@@ -70,7 +89,6 @@
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
 - [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
 - [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
-- [Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/trpupu_neurips20/README.md)
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
 - [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
@@ -86,9 +104,9 @@
 - [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
 - [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
 - [Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/selar_neurips20/README.md)
-- [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
 - [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
 - [Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/metatne_neurips20/README.md)
+- [Reward Propagation Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rpgnn_neurips20/README.md)
 - Sparse Graphical Memory for Robust Planning
 - Binary Matrix Completion with Hierarchical Graph Side Information
 - PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
@@ -113,17 +131,13 @@
 - Uncertainty Aware Semi-Supervised Learning on Graph Data
 - Probabilistic Circuits for Variational Inference in Discrete Graphical Models
 - Digraph Inception Convolutional Networks
-- Towards Scale-Invariant Graph-related Problem Solving by Iterative Homogeneous GNNs
 - A graph similarity for deep learning
 - Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations
 - A Novel Approach for Constrained Optimization in Graphical Models
-- Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings
 - Strongly Incremental Constituency Parsing with Graph Neural Networks
 - Dirichlet Graph Variational Autoencoder
-- Reward Propagation Using Graph Convolutional Networks
 - Parameterized Explainer for Graph Neural Network
 - Graph Geometry Interaction Learning
-- Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting
 - Generalized Independent Noise Condition for Estimating Linear Non-Gaussian Latent Variable Graphs
 - Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
 - Higher-Order Spectral Clustering of Directed Graphs
@@ -132,5 +146,4 @@
 - Factor Graph Grammars
 - On the equivalence of molecular graph convolution and molecular wave function with poor basis set
 - Graph Information Bottleneck
-- EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
 - Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies
