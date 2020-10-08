@@ -88,7 +88,7 @@
 - Multimodal Graph Networks for Compositional Generalization in Visual Question Answering
 
 
-# Point Clods
+# Point Clouds
 - [Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rilg_neurips20/README.md)
 - [Self-Supervised Few-Shot Learning on Point Clouds](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ssfsl_neurips20/README.md)
 
