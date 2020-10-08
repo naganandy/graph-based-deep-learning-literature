@@ -4,10 +4,14 @@
 
 # Knowledge Graphs
 - [CaRe: Open Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/care_emnlp19/README.md)
-- [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_emnlp19/README.md)
 - [Learning to Update Knowledge Graph by Reading News](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/gupdater_emnlp19/README.md)
 - [Towards Knowledge-Based Recommender Dialog System](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kbrd_emnlp19/README.md)
 - [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/attnpath_emnlp19/README.md)
+
+
+# Question Answering
+- [PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/pullnet_emnlp19/README.md)
+- [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/kagnet_emnlp19/README.md)
 - [Machine Reading Comprehension Using Structural Knowledge Graph-aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/skgn_emnlp19/README.md)
 
 
