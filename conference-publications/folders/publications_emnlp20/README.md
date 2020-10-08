@@ -13,6 +13,7 @@
 
 # Temporal Knowledge
 - [Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/renet_emnlp20/README.md)
+- [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/temp_emnlp20/README.md)
 - DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion
 
 
