@@ -19,7 +19,8 @@
 
 
 
-# Reading Comprehension
+# Question Answering
+- [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/sgreader_acl19/README.md)
 - [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/fgcn_acl19/README.md)
 - [Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/gnnhderc_acl19/README.md)
 - [Dynamically Fused Graph Network for Multi-hop Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/dfgn_acl19/README.md)
