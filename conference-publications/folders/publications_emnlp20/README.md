@@ -43,6 +43,11 @@
 - Distilling Structured Knowledge for Text-Based Relational Reasoning
 
 
+# Semantic Role Labelling
+- [SRLGRN: Semantic Role Labeling Graph Reasoning Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/srlgrn_emnlp20/README.md)
+- [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
+
+
 
 # Hierarchical Structures
 - [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hyperka_emnlp20/README.md)
@@ -64,6 +69,7 @@
 - Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes
 
 
+
 # Multi-label Few / Zero Shot Learning
 - [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
 - Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs
@@ -75,11 +81,6 @@
 - [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
 - Joint Constrained Learning for Event-Event Relation Extraction
 - Learning from Context or Names? An Empirical Study on Neural Relation Extraction
-
-
-# Semantic Role Labelling
-- [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
-- SRLGRN: Semantic Role Labeling Graph Reasoning Network
 
 
 
