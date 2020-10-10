@@ -86,7 +86,7 @@
 
 # Dialogue
 - [GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/graphdialog_emnlp20/README.md)
-- GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems
+- [GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grade_emnlp20/README.md)
 
 
 
