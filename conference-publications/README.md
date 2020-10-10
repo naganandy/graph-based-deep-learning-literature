@@ -84,6 +84,7 @@
 <summary> more </summary> 
 
 - [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/temp_emnlp20/README.md)
+- [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/attrgnn_emnlp20/README.md)
 - [Neural Topic Modeling by Incorporating Document Relationship Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gtm_emnlp20/README.md)
 - [GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/graphdialog_emnlp20/README.md)
 - [GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grade_emnlp20/README.md)
