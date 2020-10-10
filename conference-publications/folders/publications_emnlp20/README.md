@@ -4,7 +4,6 @@
 
 # Knowledge Graphs
 - [Message Passing for Hyper-Relational Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/stare_emnlp20/README.md)
-- Knowledge Graph Alignment with Entity-Pair Embedding
 - Debiasing knowledge graph embeddings
 - Adaptive Attentional Network for Few-Shot Knowledge Graph Completion
 - Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization
@@ -18,17 +17,17 @@
 
 
 
-# Events
-- [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
-- Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
-- Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks 
+# Alignment
+- [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/attrgnn_emnlp20/README.md)
+- Knowledge Graph Alignment with Entity-Pair Embedding
 
 
 
-# Text Generation
-- [Knowledge Graph Empowered Entity Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgcn_emnlp20/README.md)
-- IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation
-- Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation
+# Hierarchical Structures
+- [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hyperka_emnlp20/README.md)
+- [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md)
+- H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network
+- Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network
 
 
 
@@ -43,17 +42,24 @@
 - Distilling Structured Knowledge for Text-Based Relational Reasoning
 
 
+
 # Semantic Role Labelling
 - [SRLGRN: Semantic Role Labeling Graph Reasoning Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/srlgrn_emnlp20/README.md)
 - [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
 
 
 
-# Hierarchical Structures
-- [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hyperka_emnlp20/README.md)
-- [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md)
-- H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network
-- Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network
+# Events
+- [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
+- Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
+- Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks 
+
+
+
+# Text Generation
+- [Knowledge Graph Empowered Entity Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgcn_emnlp20/README.md)
+- IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation
+- Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation
 
 
 
