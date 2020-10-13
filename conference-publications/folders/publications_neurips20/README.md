@@ -100,6 +100,7 @@
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
 - [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
 - [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
+- [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
 - [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
@@ -125,7 +126,6 @@
 - Graph Stochastic Neural Networks for Semi-supervised Learning
 - Transferable Graph Optimizers for ML Compilers
 - Curvature Regularization to Prevent Distortion in Graph Embedding
-- Factorizable Graph Convolutional Networks
 - Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine
 - GPS-Net: Graph-based Photometric Stereo Network
