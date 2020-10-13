@@ -58,8 +58,8 @@
 
 # Text Generation
 - [Knowledge Graph Empowered Entity Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgcn_emnlp20/README.md)
+- [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ldgcn_emnlp20/README.md)
 - IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation
-- Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation
 
 
 
