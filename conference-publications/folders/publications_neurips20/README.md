@@ -113,6 +113,7 @@
 - [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
 - [Multipole Graph Neural Operator for Parametric Partial Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgkn_neurips20/README.md)
 - [Learning Dynamic Belief Graphs to Generalize on Text-Based Games](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gata_neurips20/README.md)
+- [Dirichlet Graph Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgvae_neurips20/README.md)
 - [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
 - [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
 - [Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/selar_neurips20/README.md)
@@ -145,7 +146,6 @@
 - Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations
 - A Novel Approach for Constrained Optimization in Graphical Models
 - Strongly Incremental Constituency Parsing with Graph Neural Networks
-- Dirichlet Graph Variational Autoencoder
 - Parameterized Explainer for Graph Neural Network
 - Graph Geometry Interaction Learning
 - Generalized Independent Noise Condition for Estimating Linear Non-Gaussian Latent Variable Graphs
