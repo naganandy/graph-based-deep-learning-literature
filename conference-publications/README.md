@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/scatteringgcn_neurips20/README.md)
 - [Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/trpupu_neurips20/README.md)
 - [Graph Cross Networks with Vertex Infomax Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gxn_neurips20/README.md)
