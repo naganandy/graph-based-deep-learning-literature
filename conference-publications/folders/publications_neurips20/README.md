@@ -103,6 +103,7 @@
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
+- [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
 - [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
 - [Factor Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/fgnn_neurips20/README.md)
 - [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grover_neurips20/README.md)
@@ -130,7 +131,6 @@
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine
 - GPS-Net: Graph-based Photometric Stereo Network
 - Design Space for Graph Neural Networks
-- Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models
 - Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes
 - On the Power of Louvain for Graph Clustering
 - Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
