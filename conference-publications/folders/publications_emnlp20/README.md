@@ -98,6 +98,7 @@
 
 # Miscellaneous
 - [Neural Topic Modeling by Incorporating Document Relationship Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gtm_emnlp20/README.md)
+- [Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/agcn_emnlp20/README.md)
 - Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages
 - Program Enhanced Fact Verification with Verbalization and Graph Attention Network 
 - Compositional Demographic Word Embeddings
@@ -106,7 +107,6 @@
 - Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
 - Learning to Represent Image and Text with Denotation Graphs
 - Keep it Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit
-- Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks
 - Disentangle-based Continual Graph Representation Learning
 - Embedding Words in Non-Vector Space with Unsupervised Graph Learning
 - Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning 
