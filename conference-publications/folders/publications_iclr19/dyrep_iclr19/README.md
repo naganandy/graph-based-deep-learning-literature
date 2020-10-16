@@ -8,7 +8,7 @@ author={Rakshit Trivedi and
         Prasenjeet Biswal and
         Hongyuan Zha},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}   
 }
 ```
 
