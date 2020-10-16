@@ -8,7 +8,7 @@ author={Wengong Jin and
         Regina Barzilay and
         Tommi Jaakkola},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}  
 }
 ```
 
