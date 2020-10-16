@@ -7,7 +7,7 @@ author={Fernando Gama and
         Alejandro Ribeiro and
         Joan Bruna},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}
 }
 ```
 
