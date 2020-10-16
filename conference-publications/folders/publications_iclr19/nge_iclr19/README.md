@@ -8,7 +8,7 @@ author={Tingwu Wang and
         Sanja Fidler and
         Jimmy Ba},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}   
 }
 ```
 
