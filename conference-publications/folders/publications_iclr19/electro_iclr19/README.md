@@ -9,7 +9,7 @@ author={John Bradshaw and
         Marwin H. S. Segler and
         Jose Miguel Hernandez-Lobato},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}   
 }
 ```
 
