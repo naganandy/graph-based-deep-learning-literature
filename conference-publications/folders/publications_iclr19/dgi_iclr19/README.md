@@ -10,7 +10,7 @@ author={Petar Veli{\v{c}}kovi{\'{c}} and
         Yoshua Bengio and
         R Devon Hjelm},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}    
 }
 ```
 
