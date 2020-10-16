@@ -8,7 +8,7 @@ author={Renjie Liao and
         Raquel Urtasun and
         Richard S. Zemel},    
 booktitle={International Conference on Learning Representations (ICLR)},    
-year={2019},    
+year={2019}
 }
 ```
 
