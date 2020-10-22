@@ -37,8 +37,6 @@
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grf_emnlp20/README.md)
 - [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)
 - [Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glm_emnlp20/README.md)
-- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph 
-- Towards Interpretable Reasoning over Paragraph Effects in Situation
 - Distilling Structured Knowledge for Text-Based Relational Reasoning
 
 
