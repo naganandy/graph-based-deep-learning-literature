@@ -101,6 +101,7 @@
 - [Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glm_emnlp20/README.md)
 - [SRLGRN: Semantic Role Labeling Graph Reasoning Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/srlgrn_emnlp20/README.md)
 - [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
+- [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kamg_emnlp20/README.md)
 - [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
 - [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)
 
