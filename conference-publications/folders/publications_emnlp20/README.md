@@ -106,7 +106,6 @@
 - VolTAGE: Volatility forecasting via Text-Audio fusion with Graph convolution networks for Earnings calls
 - Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding
 - Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
-- Learning to Represent Image and Text with Denotation Graphs
 - Disentangle-based Continual Graph Representation Learning
 - AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue
 - Pre-training Entity Relation Encoder with Intra-span and Inter-span Information
