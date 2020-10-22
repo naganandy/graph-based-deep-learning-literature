@@ -4,8 +4,8 @@
 
 # Knowledge Graphs
 - [Message Passing for Hyper-Relational Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/stare_emnlp20/README.md)
+- [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/faan_emnlp20/README.md)
 - Debiasing knowledge graph embeddings
-- Adaptive Attentional Network for Few-Shot Knowledge Graph Completion
 - Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization
 
 
