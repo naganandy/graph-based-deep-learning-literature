@@ -102,7 +102,6 @@
 - [Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/agcn_emnlp20/README.md)
 - Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages
 - Program Enhanced Fact Verification with Verbalization and Graph Attention Network 
-- Compositional Demographic Word Embeddings
 - VolTAGE: Volatility forecasting via Text-Audio fusion with Graph convolution networks for Earnings calls
 - Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
 - Disentangle-based Continual Graph Representation Learning
