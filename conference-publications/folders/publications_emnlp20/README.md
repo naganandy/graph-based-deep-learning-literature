@@ -5,6 +5,7 @@
 # Knowledge Graphs
 - [Message Passing for Hyper-Relational Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/stare_emnlp20/README.md)
 - [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/faan_emnlp20/README.md)
+- [Disentangle-based Continual Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/dicgrl_emnlp20/README.md)
 - Debiasing knowledge graph embeddings
 - Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization
 
@@ -104,6 +105,5 @@
 - Program Enhanced Fact Verification with Verbalization and Graph Attention Network 
 - VolTAGE: Volatility forecasting via Text-Audio fusion with Graph convolution networks for Earnings calls
 - Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
-- Disentangle-based Continual Graph Representation Learning
 - AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue
 - Pre-training Entity Relation Encoder with Intra-span and Inter-span Information
