@@ -81,7 +81,7 @@
 
 # Multi-label Few / Zero Shot Learning
 - [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
-- Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs
+- [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kamg_emnlp20/README.md)
 
 
 
