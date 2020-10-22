@@ -24,8 +24,8 @@
 
 
 # Hierarchical Structures
-- [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/h2kgat_emnlp20/README.md)
 - [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hyperka_emnlp20/README.md)
+- [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/h2kgat_emnlp20/README.md)
 - [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md)
 - Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network
 
