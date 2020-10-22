@@ -111,6 +111,5 @@
 - Disentangle-based Continual Graph Representation Learning
 - Embedding Words in Non-Vector Space with Unsupervised Graph Learning
 - Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning 
-- Self-Supervised Text Planning for Paragraph Completion Task
 - AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue
 - Pre-training Entity Relation Encoder with Intra-span and Inter-span Information
