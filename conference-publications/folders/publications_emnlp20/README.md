@@ -104,7 +104,6 @@
 - Program Enhanced Fact Verification with Verbalization and Graph Attention Network 
 - Compositional Demographic Word Embeddings
 - VolTAGE: Volatility forecasting via Text-Audio fusion with Graph convolution networks for Earnings calls
-- Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding
 - Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
 - Disentangle-based Continual Graph Representation Learning
 - AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue
