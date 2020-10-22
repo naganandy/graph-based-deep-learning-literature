@@ -110,6 +110,5 @@
 - Keep it Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit
 - Disentangle-based Continual Graph Representation Learning
 - Embedding Words in Non-Vector Space with Unsupervised Graph Learning
-- Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning 
 - AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue
 - Pre-training Entity Relation Encoder with Intra-span and Inter-span Information
