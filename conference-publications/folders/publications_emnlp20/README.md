@@ -88,8 +88,6 @@
 # Relation Extraction
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
 - [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
-- Joint Constrained Learning for Event-Event Relation Extraction
-- Learning from Context or Names? An Empirical Study on Neural Relation Extraction
 
 
 
