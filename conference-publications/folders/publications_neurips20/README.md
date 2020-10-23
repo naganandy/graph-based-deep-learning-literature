@@ -12,9 +12,9 @@
 
 # Adversarial Attacks
 - [GNNGuard: Defending Graph Neural Networks against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gnnguard_neurips20/README.md)
+- [Adversarial Attack on Graph Neural Networks with Limited Node Access](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwcs_neurips20/README.md)
 - [Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/vgcn_neurips20/README.md)
 - Adversarial Attacks on Deep Graph Matching
-- Adversarial Attack on Graph Neural Networks with Limited Node Access
 
 
 
