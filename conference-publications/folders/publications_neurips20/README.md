@@ -128,7 +128,6 @@
 - Graph Stochastic Neural Networks for Semi-supervised Learning
 - Transferable Graph Optimizers for ML Compilers
 - Curvature Regularization to Prevent Distortion in Graph Embedding
-- Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine
 - GPS-Net: Graph-based Photometric Stereo Network
 - Design Space for Graph Neural Networks
