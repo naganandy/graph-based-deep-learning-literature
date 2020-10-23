@@ -68,6 +68,12 @@
 
 
 
+# Explanations
+- PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
+- Parameterized Explainer for Graph Neural Network
+
+
+
 # Subgraphs
 - [Subgraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/subgnn_neurips20/README.md)
 - [Graph Meta Learning via Local Subgraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmeta_neurips20/README.md)
@@ -122,7 +128,6 @@
 - [Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/metatne_neurips20/README.md)
 - [Reward Propagation Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rpgnn_neurips20/README.md)
 - Binary Matrix Completion with Hierarchical Graph Side Information
-- PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
 - Adaptive Shrinkage Estimation for Streaming Graphs
 - Attribution for Graph Neural Networks
 - Graph Stochastic Neural Networks for Semi-supervised Learning
@@ -145,7 +150,6 @@
 - Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations
 - A Novel Approach for Constrained Optimization in Graphical Models
 - Strongly Incremental Constituency Parsing with Graph Neural Networks
-- Parameterized Explainer for Graph Neural Network
 - Graph Geometry Interaction Learning
 - Generalized Independent Noise Condition for Estimating Linear Non-Gaussian Latent Variable Graphs
 - Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
