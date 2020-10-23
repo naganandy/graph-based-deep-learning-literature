@@ -102,6 +102,7 @@
 
 # Miscellaneous
 - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ogb_neurips20/README.md)
+- [Digraph Inception Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/digcn_neurips20/README.md)
 - [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgn_neurips20/README.md)
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
 - [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
@@ -145,7 +146,6 @@
 - Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks
 - Uncertainty Aware Semi-Supervised Learning on Graph Data
 - Probabilistic Circuits for Variational Inference in Discrete Graphical Models
-- Digraph Inception Convolutional Networks
 - A graph similarity for deep learning
 - Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations
 - A Novel Approach for Constrained Optimization in Graphical Models
