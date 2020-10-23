@@ -121,7 +121,6 @@
 - [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
 - [Node Classification on Graphs with Few-Shot Novel Labels via Meta Transformed Network Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/metatne_neurips20/README.md)
 - [Reward Propagation Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rpgnn_neurips20/README.md)
-- Sparse Graphical Memory for Robust Planning
 - Binary Matrix Completion with Hierarchical Graph Side Information
 - PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
 - Adaptive Shrinkage Estimation for Streaming Graphs
