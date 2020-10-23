@@ -42,6 +42,12 @@
 
 
 
+# Sentiment Analysis
+- Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis 
+- Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations
+
+
+
 # Semantic Role Labelling
 - [SRLGRN: Semantic Role Labeling Graph Reasoning Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/srlgrn_emnlp20/README.md)
 - [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/spangcn_emnlp20/README.md)
@@ -64,12 +70,6 @@
 # AMR-to-Text Generation
 - [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ldgcn_emnlp20/README.md)
 - [Online Back-Parsing for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/amrbackparsing_emnlp20/README.md)
-
-
-
-# Sentiment Analysis
-- Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis 
-- Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations
 
 
 
