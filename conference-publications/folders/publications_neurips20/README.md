@@ -151,7 +151,6 @@
 - A Novel Approach for Constrained Optimization in Graphical Models
 - Strongly Incremental Constituency Parsing with Graph Neural Networks
 - Graph Geometry Interaction Learning
-- Generalized Independent Noise Condition for Estimating Linear Non-Gaussian Latent Variable Graphs
 - Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
 - Higher-Order Spectral Clustering of Directed Graphs
 - Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
