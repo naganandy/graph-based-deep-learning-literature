@@ -54,7 +54,7 @@
 - [Path Integral Based Convolution and Pooling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pan_neurips20/README.md)
 - [Graph Cross Networks with Vertex Infomax Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gxn_neurips20/README.md)
 - [DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic Multigrid Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/diffgcn_neurips20/README.md)
-- Rethinking pooling in graph neural networks
+- [Rethinking pooling in graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/repool_neurips20/README.md)
 
 
 
