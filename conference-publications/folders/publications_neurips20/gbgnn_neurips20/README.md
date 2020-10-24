@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2006.08550)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17377)
 - [code](https://github.com/delta2323/GB-GNN)

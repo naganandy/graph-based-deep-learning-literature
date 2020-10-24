@@ -13,3 +13,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/2006.16673)
 - [code](https://github.com/sczhou/IGNN)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17015)

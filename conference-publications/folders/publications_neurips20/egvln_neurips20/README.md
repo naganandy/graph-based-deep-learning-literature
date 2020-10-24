@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.09304)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17748)
 - [code](https://github.com/YicongHong/Entity-Graph-VLN)

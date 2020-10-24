@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.11418)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=19022)
 - [code](https://github.com/AaltoPML/Rethinking-pooling-in-GNNs)

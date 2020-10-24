@@ -11,4 +11,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18127)
 - [preprint](https://rlgm.github.io/papers/11.pdf)

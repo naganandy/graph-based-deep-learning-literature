@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.05421)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18011)
 - [code](https://github.com/ihollywhy/FactorGCN.PyTorch)

@@ -12,3 +12,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [preprint](https://www.lix.polytechnique.fr/~nikolentzos/files/rw_gnns_neurips20)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17331)
