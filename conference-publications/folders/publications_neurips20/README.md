@@ -206,4 +206,3 @@
 - Probabilistic Inference with Algebraic Constraints: Theoretical Limits and Practical Approximations
 - Learning Continuous System Dynamics fromIrregularly-Sampled Partial Observations
 - All-or-nothing statistical and computational phase transitions in sparse spiked matrix estimation
-- Transferable Graph Optimizers for ML Compilers
