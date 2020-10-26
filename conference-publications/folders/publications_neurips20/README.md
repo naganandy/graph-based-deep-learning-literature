@@ -197,7 +197,6 @@
 - Higher-Order Spectral Clustering of Directed Graphs
 - Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
 - Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies
-- Factor Graph Grammars
 - Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning
 - A Novel Automated Curriculum Strategy to Solve Hard AI Planning Instances
 - Inference and Estimation in Multi-Layer Models
