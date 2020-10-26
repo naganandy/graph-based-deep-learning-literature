@@ -156,6 +156,7 @@
 - [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
+- [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
 - [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
 - [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
@@ -194,7 +195,6 @@
 - Stochastic Deep Gaussian Processes over Graphs
 - Probabilistic Circuits for Variational Inference in Discrete Graphical Models
 - A Novel Approach for Constrained Optimization in Graphical Models
-- Graph Geometry Interaction Learning
 - Higher-Order Spectral Clustering of Directed Graphs
 - Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
 - Less is More: A Deep Graph Metric Learning Perspective Using Few Proxies
