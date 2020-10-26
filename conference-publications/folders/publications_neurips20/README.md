@@ -105,6 +105,7 @@
 # Programs
 - [CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/codecmr_neurips20/README.md)
 - [Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ipagnn_neurips20/README.md)
+- [Transferable Graph Optimizers for ML Compilers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/go_neurips20/README.md)
 
 
 
@@ -185,7 +186,6 @@
 - [Deep Imitation Learning for Bimanual Robotic Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hdril_neurips20/README.md)
 - Binary Matrix Completion with Hierarchical Graph Side Information
 - Adaptive Shrinkage Estimation for Streaming Graphs
-- Transferable Graph Optimizers for ML Compilers
 - Curvature Regularization to Prevent Distortion in Graph Embedding
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine
 - Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes
