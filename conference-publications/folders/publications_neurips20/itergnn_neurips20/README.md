@@ -11,5 +11,6 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [arXiv](https://arxiv.org/abs/2010.13547)
 - [preprint](https://haotang1995.github.io/files/IterGNN_draft.pdf)
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17656)
