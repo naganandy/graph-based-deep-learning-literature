@@ -43,6 +43,7 @@
 
 
 # Sentiment Analysis
+- [Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ong_emnlp20/README.md)
 - Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis 
 - Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations
 
