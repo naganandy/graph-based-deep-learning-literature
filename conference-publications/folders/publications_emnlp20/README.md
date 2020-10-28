@@ -57,8 +57,8 @@
 
 # Events
 - [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
+- [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gatedgcn_emnlp20/README.md)
 - Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
-- Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks 
 
 
 
