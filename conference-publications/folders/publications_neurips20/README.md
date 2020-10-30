@@ -25,8 +25,8 @@
 
 
 # Robustness
+- [Reliable Graph Neural Networks via Robust Location Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/softmedoid_neurips20/README.md)
 - Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks
-- Reliable Graph Neural Networks via Robust Location Estimation
 
 
 
