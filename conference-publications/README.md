@@ -55,6 +55,7 @@
 - [Deep Statistical Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dss_neurips20/README.md)
 - [Bandit Samplers for Training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gcnbs_neurips20/README.md)
 - [Adversarial Attack on Graph Neural Networks with Limited Node Access](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwcs_neurips20/README.md)
+- [Reliable Graph Neural Networks via Robust Location Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/softmedoid_neurips20/README.md)
 - [Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/vgcn_neurips20/README.md)
 - [Can graph neural networks count substructures?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/kign_neurips20/README.md)
 - [Learning Physical Graph Representations from Visual Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/psgnet_neurips20/README.md)
