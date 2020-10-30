@@ -12,3 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18375)
+- [arXiv](https://arxiv.org/abs/2010.13902)
+- [code](https://github.com/Shen-Lab/GraphCL)
