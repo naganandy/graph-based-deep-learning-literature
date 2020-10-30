@@ -12,3 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16808)
+- [arXiv](https://arxiv.org/abs/2010.14568)
+- [code](https://github.com/princeton-vl/attach-juxtapose-parser)
