@@ -74,7 +74,7 @@
 
 
 # Text Classification
-- Be More with Less: Hypergraph Attention Networks for Inductive Text Classification
+- [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hypergat_emnlp20/README.md)
 - Text Graph Transformer for Document Classification
 - Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes
 
