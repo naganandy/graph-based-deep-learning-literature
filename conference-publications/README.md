@@ -398,18 +398,19 @@
 - [Hierarchy-Aware Global Model for Hierarchical Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hiagm_acl20/README.md)
 - [Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/asgard_acl20/README.md)
 - [ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/zsceres_acl20/README.md)
+- [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/atth_acl20/README.md)
 - [HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hypercore_acl20/README.md)
 - [Structural Information Preserving for Graph-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/sipg2t_acl20/README.md)
 - [Bipartite Flat-Graph Network for Nested Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/biflag_acl20/README.md)
 - [Improving Image Captioning with Better Use of Caption](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/icgcn_acl20/README.md)
 - [Reasoning Over Semantic-Level Graph for Fact Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/dream_acl20/README.md)
-- [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kingdom_acl20/README.md)
 
 
 
 <details> 
 <summary> more </summary> 
  
+- [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/kingdom_acl20/README.md)
 - [Neighborhood Matching Network for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/nmn_acl20/README.md)
 - [ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/reinceptione_acl20/README.md)
 - [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hdsg_acl20/README.md)
