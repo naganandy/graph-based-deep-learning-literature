@@ -188,7 +188,6 @@
 - Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
 - Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network
 - Stochastic Deep Gaussian Processes over Graphs
-- Probabilistic Circuits for Variational Inference in Discrete Graphical Models
 - A Novel Approach for Constrained Optimization in Graphical Models
 - Higher-Order Spectral Clustering of Directed Graphs
 - Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
