@@ -94,6 +94,7 @@
 # Heterogeneous Graphs
 - [Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/selar_neurips20/README.md)
 - [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
+- [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 
 
 
@@ -209,7 +210,6 @@
 - [Design Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphgym_neurips20/README.md)
 - [The Convolution Exponential and Generalized Sylvester Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cegsf_neurips20/README.md)
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
-- [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
 - [Factor Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/fgnn_neurips20/README.md)
