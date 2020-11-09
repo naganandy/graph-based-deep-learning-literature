@@ -65,6 +65,7 @@
 # Expressive Power
 - [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cgcn_neurips20/README.md)
 - [Distance Encoding -- Design Provably More Powerful Graph Neural Networks for Structural Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/degnn_neurips20/README.md)
+- [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
 - [Can graph neural networks count substructures?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/kign_neurips20/README.md)
 - [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
 - [Building powerful and equivariant graph neural networks with structural message-passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/smp_neurips20/README.md)
@@ -216,7 +217,6 @@
 - [Dirichlet Graph Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgvae_neurips20/README.md)
 - [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
 - [The Diversified Ensemble Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/den_neurips20/README.md)
-- [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
 - [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
 - [Learning Policy with Compositional Generalizability using Self-Supervised Object Proposals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/refactorize_neurips20/README.md)
 - [RetroXpert: Decompose Retrosynthesis Prediction like A Chemist](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/retroxpert_neurips20/README.md)
