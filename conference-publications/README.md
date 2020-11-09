@@ -114,6 +114,7 @@
 - [3D Shape Reconstruction from Vision and Touch](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/srvt_neurips20/README.md)
 - [Primal-Dual Mesh Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pdmeshnet_neurips20/README.md)
 - [Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/masvk_neurips20/README.md)
+- [Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/lgode_neurips20/README.md)
 - [Deep Imitation Learning for Bimanual Robotic Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hdril_neurips20/README.md)
 
 </details>
