@@ -125,7 +125,7 @@
 - [GPS-Net: Graph-based Photometric Stereo Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpsnet_neurips20/README.md)
 - [Primal-Dual Mesh Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pdmeshnet_neurips20/README.md)
 - [SIRI: Spatial Relation Induced Network For Spatial Description Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/siri_neurips20/README.md)
-- Multimodal Graph Networks for Compositional Generalization in Visual Question Answering
+- [Multimodal Graph Networks for Compositional Generalization in Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgn_neurips20/README.md)
 
 
 
