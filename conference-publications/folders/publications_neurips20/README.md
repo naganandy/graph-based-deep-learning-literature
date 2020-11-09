@@ -97,7 +97,7 @@
 
 
 
-# Multi-Relational Data
+# Knowledge Graphs
 - [Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/betae_neurips20/README.md)
 - [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
 
