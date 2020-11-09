@@ -97,7 +97,7 @@
 # Molecules
 - [Reinforced Molecular Optimization with Neighborhood-Controlled Grammars](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mncerl_neurips20/README.md)
 - [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grover_neurips20/README.md)
-- On the equivalence of molecular graph convolution and molecular wave function with poor basis set
+- [On the equivalence of molecular graph convolution and molecular wave function with poor basis set](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/qdf_neurips20/README.md)
 
 
 
