@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.12455)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18963)
 - [code](https://github.com/MIT-SPARK/PD-MeshNet)
