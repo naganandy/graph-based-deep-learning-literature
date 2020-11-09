@@ -67,6 +67,12 @@
 
 
 
+# Graph Classification
+- [A graph similarity for deep learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/wls_neurips20/README.md)
+- [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
+
+
+
 # Expressive Power
 - [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cgcn_neurips20/README.md)
 - [Distance Encoding -- Design Provably More Powerful Graph Neural Networks for Structural Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/degnn_neurips20/README.md)
@@ -154,10 +160,8 @@
 - [Handling Missing Data with Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grape_neurips20/README.md)
 - [Design Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphgym_neurips20/README.md)
 - [The Convolution Exponential and Generalized Sylvester Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cegsf_neurips20/README.md)
-- [A graph similarity for deep learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/wls_neurips20/README.md)
 - [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgn_neurips20/README.md)
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
-- [Random Walk Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rwnn_neurips20/README.md)
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/h2gcn_neurips20/README.md)
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
