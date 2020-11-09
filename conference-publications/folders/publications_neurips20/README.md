@@ -87,14 +87,19 @@
 # Higher-order Interactions
 - [Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dklgnn_neurips20/README.md)
 - [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
-- [Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmpnnr_neurips20/README.md)
 
 
 
 # Learning with Sets
 - [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
 - [Better Set Representations For Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/srn_neurips20/README.md)
+
+
+
+# Multi-Relational Data
+- [Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmpnnr_neurips20/README.md)
 - [Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/betae_neurips20/README.md)
+- [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
 
 
 
@@ -185,7 +190,6 @@
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
 - [Factor Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/fgnn_neurips20/README.md)
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
-- [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gen_neurips20/README.md)
 - [Implicit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/imgnn_neurips20/README.md)
 - [JAX MD: A Framework for Differentiable Physics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/jaxmd_neurips20/README.md)
 - [BayReL: Bayesian Relational Learning for Multi-omics Data Integration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/bayrel_neurips20/README.md)
