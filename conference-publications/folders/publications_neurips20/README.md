@@ -193,4 +193,4 @@
 - A Novel Automated Curriculum Strategy to Solve Hard AI Planning Instances
 - Discovering Symbolic Models from Deep Learning with Inductive Biases
 - Curriculum learning for multilevel budgeted combinatorial problems
-- Learning Continuous System Dynamics fromIrregularly-Sampled Partial Observations
+- Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations
