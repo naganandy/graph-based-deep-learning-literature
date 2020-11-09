@@ -110,6 +110,7 @@
 
 
 # Natural Language Processing
+- [Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpgbn_neurips20/README.md)
 - [Learning Dynamic Belief Graphs to Generalize on Text-Based Games](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gata_neurips20/README.md)
 - [Strongly Incremental Constituency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/attachjuxtapose_neurips20/README.md)
 
@@ -214,7 +215,6 @@
 - [Reward Propagation Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rpgnn_neurips20/README.md)
 - [Deep Imitation Learning for Bimanual Robotic Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hdril_neurips20/README.md)
 - Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
-- Deep Relational Topic Modeling via Graph Poisson Gamma Belief Network
 - Stochastic Deep Gaussian Processes over Graphs
 - Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning
 - A Novel Automated Curriculum Strategy to Solve Hard AI Planning Instances
