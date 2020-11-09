@@ -17,6 +17,13 @@
 - [Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/scatteringgcn_neurips20/README.md)
 - [Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbgnn_neurips20/README.md)
 
+
+
+# Transferability
+- [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
+- [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
+- [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
+
  
 
 # Adversarial Attacks
@@ -31,13 +38,6 @@
 - [Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gib_neurips20/README.md)
 - [Reliable Graph Neural Networks via Robust Location Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/softmedoid_neurips20/README.md)
 - [Certified Robustness of Graph Convolution Networks for Graph Classification under Topological Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/robograph_neurips20/README.md)
-
-
-
-# Transferability
-- [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
-- [Graph Policy Network for Transferable Active Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpa_neurips20/README.md)
-- [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
 
 
 
