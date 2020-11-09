@@ -198,6 +198,7 @@
 - [Multipole Graph Neural Operator for Parametric Partial Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgkn_neurips20/README.md)
 - [Deep Statistical Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dss_neurips20/README.md)
 - [Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/lgode_neurips20/README.md)
+- [Curriculum learning for multilevel budgeted combinatorial problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mcn_neurips20/README.md)
 
 
 
@@ -225,4 +226,3 @@
 - Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning
 - A Novel Automated Curriculum Strategy to Solve Hard AI Planning Instances
 - Discovering Symbolic Models from Deep Learning with Inductive Biases
-- Curriculum learning for multilevel budgeted combinatorial problems
