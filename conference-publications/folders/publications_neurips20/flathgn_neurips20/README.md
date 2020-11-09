@@ -13,3 +13,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/2006.11287)
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18671)
+- [code](https://github.com/MilesCranmer/symbolic_deep_learning)
