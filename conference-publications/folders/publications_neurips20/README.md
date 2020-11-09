@@ -124,6 +124,7 @@
 - [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grover_neurips20/README.md)
 - [On the equivalence of molecular graph convolution and molecular wave function with poor basis set](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/qdf_neurips20/README.md)
 - [BayReL: Bayesian Relational Learning for Multi-omics Data Integration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/bayrel_neurips20/README.md)
+- [RetroXpert: Decompose Retrosynthesis Prediction like A Chemist](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/retroxpert_neurips20/README.md)
 
 
 
@@ -223,7 +224,6 @@
 - [Dirichlet Graph Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgvae_neurips20/README.md)
 - [The Diversified Ensemble Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/den_neurips20/README.md)
 - [Learning Policy with Compositional Generalizability using Self-Supervised Object Proposals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/refactorize_neurips20/README.md)
-- [RetroXpert: Decompose Retrosynthesis Prediction like A Chemist](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/retroxpert_neurips20/README.md)
 - [Reward Propagation Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rpgnn_neurips20/README.md)
 - [Deep Imitation Learning for Bimanual Robotic Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hdril_neurips20/README.md)
 - Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
