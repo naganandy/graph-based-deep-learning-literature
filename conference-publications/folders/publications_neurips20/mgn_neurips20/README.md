@@ -12,3 +12,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18559)
+- [code](https://github.com/raeidsaqur/mgn)
