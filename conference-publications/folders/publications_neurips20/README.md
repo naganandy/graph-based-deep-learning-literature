@@ -87,6 +87,7 @@
 # Higher-order Interactions
 - [Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dklgnn_neurips20/README.md)
 - [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
+- [Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmpnnr_neurips20/README.md)
 
 
 
@@ -114,7 +115,6 @@
 - [Reinforced Molecular Optimization with Neighborhood-Controlled Grammars](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mncerl_neurips20/README.md)
 - [GROVER: Self-supervised Message Passing Transformer on Large-scale Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grover_neurips20/README.md)
 - [On the equivalence of molecular graph convolution and molecular wave function with poor basis set](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/qdf_neurips20/README.md)
-
 
 
 
@@ -164,6 +164,7 @@
 # Combinatorial Optimisation
 - [Hybrid Models for Learning to Branch](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hl2b_neurips20/README.md)
 - [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
+- [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
 
 
 
@@ -176,7 +177,6 @@
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
-- [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
 - [Deep Statistical Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dss_neurips20/README.md)
 - [Factor Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/fgnn_neurips20/README.md)
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
@@ -189,7 +189,6 @@
 - [Dirichlet Graph Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgvae_neurips20/README.md)
 - [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
 - [The Diversified Ensemble Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/den_neurips20/README.md)
-- [Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmpnnr_neurips20/README.md)
 - [Natural Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ngn_neurips20/README.md)
 - [Strongly Incremental Constituency Parsing with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/attachjuxtapose_neurips20/README.md)
 - [Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/selar_neurips20/README.md)
