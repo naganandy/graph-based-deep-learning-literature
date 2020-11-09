@@ -12,3 +12,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [preprint](https://www.researchgate.net/publication/344454811_EvolveGraph_Multi-Agent_Trajectory_Prediction_with_Dynamic_Relational_Reasoning)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18023)
