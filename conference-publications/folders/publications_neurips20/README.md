@@ -48,18 +48,6 @@
 
 
 
-# Dynamic Graphs
-- [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
-- [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/evolvegraph_neurips20/README.md)
-
-
-
-# Temporal Structures
-- [Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/trpupu_neurips20/README.md)
-- [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/stemgnn_neurips20/README.md)
-
-
-
 # Graph Pooling
 - [Path Integral Based Convolution and Pooling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pan_neurips20/README.md)
 - [Graph Cross Networks with Vertex Infomax Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gxn_neurips20/README.md)
@@ -177,6 +165,18 @@
 # Point Clouds
 - [Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rilg_neurips20/README.md)
 - [Self-Supervised Few-Shot Learning on Point Clouds](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ssfsl_neurips20/README.md)
+
+
+
+# Dynamic Graphs
+- [Generative 3D Part Assembly via Dynamic Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/padgl_neurips20/README.md)
+- [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/evolvegraph_neurips20/README.md)
+
+
+
+# Temporal Structures
+- [Temporal Positive-unlabeled Learning for Biomedical Hypothesis Generation via Risk Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/trpupu_neurips20/README.md)
+- [Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/stemgnn_neurips20/README.md)
 
 
 
