@@ -155,15 +155,19 @@
 
 
 # Computer Vision
-- [Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egp_neurips20/README.md)
 - [Learning Physical Graph Representations from Visual Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/psgnet_neurips20/README.md)
 - [Cross-Scale Internal Graph Neural Network for Image Super-Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ignn_neurips20/README.md)
 - [Learning Policy with Compositional Generalizability using Self-Supervised Object Proposals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/refactorize_neurips20/README.md)
-- [Language and Visual Entity Relationship Graph for Agent Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egvln_neurips20/README.md)
 - [GPS-Net: Graph-based Photometric Stereo Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gpsnet_neurips20/README.md)
 - [Primal-Dual Mesh Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pdmeshnet_neurips20/README.md)
 - [SIRI: Spatial Relation Induced Network For Spatial Description Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/siri_neurips20/README.md)
 - [Multimodal Graph Networks for Compositional Generalization in Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgn_neurips20/README.md)
+
+
+
+# Visual and Language Navigation
+- [Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egp_neurips20/README.md)
+- [Language and Visual Entity Relationship Graph for Agent Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egvln_neurips20/README.md)
 
 
 
