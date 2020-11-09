@@ -77,6 +77,7 @@
 - [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
 - [Dirichlet Graph Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgvae_neurips20/README.md)
 - [Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/idgl_neurips20/README.md)
+- [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/flathgn_neurips20/README.md)
 - [JAX MD: A Framework for Differentiable Physics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/jaxmd_neurips20/README.md)
 - [Multipole Graph Neural Operator for Parametric Partial Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mgkn_neurips20/README.md)
 - [A graph similarity for deep learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/wls_neurips20/README.md)
