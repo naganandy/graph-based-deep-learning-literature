@@ -34,6 +34,13 @@
 
 
 
+# Label Propagation
+- [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
+- [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=oh71uL93yay)
+- [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification](https://openreview.net/forum?id=B9t708KMr9d)
+
+
+
 # Normalisation
 - [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://openreview.net/forum?id=reEp2BReEou)
 - [Learning Graph Normalization for Graph Neural Networks](https://openreview.net/forum?id=oLltLS5F9R)
@@ -241,13 +248,6 @@
 # Recommender Systems
 - [Inductive Collaborative Filtering via Relation Graph Learning](https://openreview.net/forum?id=xfNotLXwtQb)
 - [Matrix Data Deep Decoder - Geometric Learning for Structured Data Completion](https://openreview.net/forum?id=iUTHidd-ylL)
-
-
-
-# Label Propagation
-- [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
-- [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=oh71uL93yay)
-- [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification](https://openreview.net/forum?id=B9t708KMr9d)
 
 
 
