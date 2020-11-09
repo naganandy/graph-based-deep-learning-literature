@@ -11,4 +11,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16837)
 - [arXiv](https://arxiv.org/abs/2006.07793)
