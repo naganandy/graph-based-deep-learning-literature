@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2005.00687)
-- [project_page](https://ogb.stanford.edu/)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16996)
+- [project](https://ogb.stanford.edu/)
