@@ -80,8 +80,20 @@
 - [Can graph neural networks count substructures?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/kign_neurips20/README.md)
 - [Universal Function Approximation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/npa_neurips20/README.md)
 - [Building powerful and equivariant graph neural networks with structural message-passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/smp_neurips20/README.md)
-- [Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dklgnn_neurips20/README.md)
 - [How hard is to distinguish graphs with graph neural networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/comcap_neurips20/README.md)
+
+
+
+# Higher-order Interactions
+- [Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dklgnn_neurips20/README.md)
+- [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
+
+
+
+# Learning with Sets
+- [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
+- [Better Set Representations For Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/srn_neurips20/README.md)
+- [Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/betae_neurips20/README.md)
 
 
 
@@ -95,13 +107,6 @@
 # Subgraphs
 - [Subgraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/subgnn_neurips20/README.md)
 - [Graph Meta Learning via Local Subgraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gmeta_neurips20/README.md)
-
-
-
-# Learning with Sets
-- [Set2Graph: Learning Graphs From Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/set2graph_neurips20/README.md)
-- [Better Set Representations For Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/srn_neurips20/README.md)
-- [Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/betae_neurips20/README.md)
 
 
 
@@ -171,7 +176,6 @@
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
-- [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
 - [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
 - [Deep Statistical Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dss_neurips20/README.md)
 - [Factor Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/fgnn_neurips20/README.md)
