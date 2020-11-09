@@ -180,6 +180,12 @@
 
 
 
+# Traffic
+- [Stochastic Deep Gaussian Processes over Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgpg_neurips20/README.md)
+- [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
+
+
+
 # Combinatorial Optimisation
 - [Hybrid Models for Learning to Branch](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hl2b_neurips20/README.md)
 - [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
@@ -194,6 +200,7 @@
 
 
 
+
 # Miscellaneous
 - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ogb_neurips20/README.md)
 - [Handling Missing Data with Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grape_neurips20/README.md)
@@ -204,7 +211,6 @@
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
 - [Factor Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/fgnn_neurips20/README.md)
-- [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
 - [Dirichlet Graph Variational Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgvae_neurips20/README.md)
 - [Graphon Neural Networks and the Transferability of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphon_neurips20/README.md)
 - [The Diversified Ensemble Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/den_neurips20/README.md)
@@ -215,7 +221,6 @@
 - [Reward Propagation Using Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/rpgnn_neurips20/README.md)
 - [Deep Imitation Learning for Bimanual Robotic Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hdril_neurips20/README.md)
 - Dense Correspondences between Human Bodies via Learning Transformation Synchronization on Graphs
-- Stochastic Deep Gaussian Processes over Graphs
 - Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning
 - A Novel Automated Curriculum Strategy to Solve Hard AI Planning Instances
 - Discovering Symbolic Models from Deep Learning with Inductive Biases
