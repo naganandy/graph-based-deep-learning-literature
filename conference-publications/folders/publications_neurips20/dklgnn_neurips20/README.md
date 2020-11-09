@@ -12,3 +12,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [preprint](https://grlplus.github.io/papers/80.pdf)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17474)
