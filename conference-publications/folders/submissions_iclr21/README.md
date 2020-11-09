@@ -41,6 +41,13 @@
 
 
 
+# Unified Formulations
+- [A Unified View on Graph Neural Networks as Graph Signal Denoising](https://openreview.net/forum?id=MD3D5UbTcb1)
+- [A Unified Framework for Convolution-based Graph Neural Networks](https://openreview.net/forum?id=zUMD--Fb9Bt)
+- [Generalizing Graph Convolutional Networks](https://openreview.net/forum?id=yBJihVXahXc)
+
+
+
 # Normalisation
 - [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://openreview.net/forum?id=reEp2BReEou)
 - [Learning Graph Normalization for Graph Neural Networks](https://openreview.net/forum?id=oLltLS5F9R)
@@ -248,13 +255,6 @@
 # Recommender Systems
 - [Inductive Collaborative Filtering via Relation Graph Learning](https://openreview.net/forum?id=xfNotLXwtQb)
 - [Matrix Data Deep Decoder - Geometric Learning for Structured Data Completion](https://openreview.net/forum?id=iUTHidd-ylL)
-
-
-
-# Unified Formulations
-- [A Unified View on Graph Neural Networks as Graph Signal Denoising](https://openreview.net/forum?id=MD3D5UbTcb1)
-- [A Unified Framework for Convolution-based Graph Neural Networks](https://openreview.net/forum?id=zUMD--Fb9Bt)
-- [Generalizing Graph Convolutional Networks](https://openreview.net/forum?id=yBJihVXahXc)
 
 
 
