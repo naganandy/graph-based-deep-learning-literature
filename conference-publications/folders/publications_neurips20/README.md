@@ -113,6 +113,12 @@
 
 
 
+# Structure Learning
+- [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgn_neurips20/README.md)
+- [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
+
+
+
 # Programs
 - [CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/codecmr_neurips20/README.md)
 - [Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ipagnn_neurips20/README.md)
@@ -161,12 +167,10 @@
 - [Handling Missing Data with Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grape_neurips20/README.md)
 - [Design Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphgym_neurips20/README.md)
 - [The Convolution Exponential and Generalized Sylvester Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cegsf_neurips20/README.md)
-- [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgn_neurips20/README.md)
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
 - [Factorizable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/factorgcn_neurips20/README.md)
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphcl_neurips20/README.md)
-- [Learning Graph Structure With A Finite-State Automaton Layer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gfsa_neurips20/README.md)
 - [Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mhmgnn_neurips20/README.md)
 - [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
 - [Deep Statistical Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dss_neurips20/README.md)
