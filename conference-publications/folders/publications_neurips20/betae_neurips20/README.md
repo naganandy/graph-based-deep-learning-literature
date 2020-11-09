@@ -13,3 +13,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/2010.11465)
 - [neurips](https://neurips.cc/Conferences/2020/ScheduleMultitrack?event=18271)
+- [project](http://snap.stanford.edu/betae/)
