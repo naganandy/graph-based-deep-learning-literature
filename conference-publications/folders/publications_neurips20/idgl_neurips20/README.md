@@ -12,4 +12,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2006.13009)
+- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18758)
 - [code](https://github.com/hugochan/IDGL)
