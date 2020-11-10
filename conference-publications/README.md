@@ -1564,8 +1564,6 @@
 
 [podcast](https://www.youtube.com/watch?v=Qtgep2CEExY)
 
-july: [Machine Learning meets Geometry](https://www.youtube.com/watch?v=pgomVDoEMrc)
-
 ## -----------------------------------------------------------------------------
 
 # EMNLP 2017
