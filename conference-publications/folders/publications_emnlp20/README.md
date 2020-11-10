@@ -40,6 +40,30 @@
 
 
 
+# Text Generation
+- [Knowledge Graph Empowered Entity Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgcn_emnlp20/README.md)
+- [KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kgpt_emnlp20/README.md)
+
+
+
+# AMR-to-Text Generation
+- [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ldgcn_emnlp20/README.md)
+- [Online Back-Parsing for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/amrbackparsing_emnlp20/README.md)
+
+
+
+# Text Classification
+- [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hypergat_emnlp20/README.md)
+- [Text Graph Transformer for Document Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tgtransformer_emnlp20/README.md)
+
+
+
+# Multi-label Few / Zero Shot Learning
+- [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
+- [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kamg_emnlp20/README.md)
+
+
+
 # Heterogeneous Graphs
 - [Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tmln_emnlp20/README.md)
 - [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/henin_emnlp20/README.md)
@@ -81,34 +105,9 @@
 
 
 
-# Text Generation
-- [Knowledge Graph Empowered Entity Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgcn_emnlp20/README.md)
-- [KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kgpt_emnlp20/README.md)
-
-
-
-# AMR-to-Text Generation
-- [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ldgcn_emnlp20/README.md)
-- [Online Back-Parsing for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/amrbackparsing_emnlp20/README.md)
-
-
-
-# Text Classification
-- [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hypergat_emnlp20/README.md)
-- [Text Graph Transformer for Document Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tgtransformer_emnlp20/README.md)
-
-
-
-# Multi-label Few / Zero Shot Learning
-- [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
-- [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kamg_emnlp20/README.md)
-
-
-
 # Relation Extraction
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
 - [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
-
 
 
 
