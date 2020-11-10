@@ -233,7 +233,7 @@
 
 # Proteins
 - [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)*
-- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)
+- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)*
 - [Prediction of Enzyme Specificity using Protein Graph Convolutional Neural Networks](https://openreview.net/forum?id=8mVSD0ETOXl)
 - [Neural representation and generation for RNA secondary structures](https://openreview.net/forum?id=snOgiCYZgJ7)
 
