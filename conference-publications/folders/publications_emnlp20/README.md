@@ -12,7 +12,6 @@
 # Temporal Knowledge
 - [Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/renet_emnlp20/README.md)
 - [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/temp_emnlp20/README.md)
-- DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion
 
 
 
@@ -22,11 +21,27 @@
 
 
 
-# Hierarchical Structures
-- [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hyperka_emnlp20/README.md)
+# Hyperbolic Geometry
 - [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/h2kgat_emnlp20/README.md)
+- [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hyperka_emnlp20/README.md)
+
+
+
+# Hierarchical Structures
 - [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md)
 - [Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hahsum_emnlp20/README.md)
+
+
+
+# External Knowledge
+- [AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/attnio_emnlp20/README.md)
+- [A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kas2t_emnlp20/README.md)
+
+
+
+# Heterogeneous Graphs
+- [Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tmln_emnlp20/README.md)
+- [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/henin_emnlp20/README.md)
 
 
 
@@ -40,11 +55,17 @@
 
 
 
+# Machine Reading Comprehension
+- [Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kmqa_emnlp20/README.md)
+- [Scene Restoring for Narrative Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gdin_emnlp20/README.md)
+
+
+
 # Sentiment Analysis
-- [Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ong_emnlp20/README.md)
 - [Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/bigcn_emnlp20/README.md)
+- [Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ong_emnlp20/README.md)
+- [Inducing Target-specific Latent Structures for Aspect Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kumagcn_emnlp20/README.md)
 - [Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/rgat_emnlp20/README.md)
-- [Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tmln_emnlp20/README.md)
 
 
 
@@ -62,7 +83,7 @@
 
 # Text Generation
 - [Knowledge Graph Empowered Entity Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgcn_emnlp20/README.md)
-- IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation
+- [KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kgpt_emnlp20/README.md)
 
 
 
@@ -75,7 +96,6 @@
 # Text Classification
 - [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hypergat_emnlp20/README.md)
 - [Text Graph Transformer for Document Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tgtransformer_emnlp20/README.md)
-- Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes
 
 
 
@@ -88,6 +108,7 @@
 # Relation Extraction
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
 - [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
+
 
 
 
@@ -104,12 +125,4 @@
 - [Learn to Cross-lingual Transfer with Meta Graph Learning across Heterogeneous Languages](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mgl_emnlp20/README.md)
 - [VolTAGE: Volatility Forecasting via Text-Audio Fusion with Graph Convolution Networks for Earnings Calls](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/voltage_emnlp20/README.md)
 - [Neural Deepfake Detection with Factual Structure of Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/fast_emnlp20/README.md)
-- [AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/attnio_emnlp20/README.md)
-- [A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kas2t_emnlp20/README.md)
-- [Inducing Target-specific Latent Structures for Aspect Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kumagcn_emnlp20/README.md)
-- [Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kmqa_emnlp20/README.md)
-- [Scene Restoring for Narrative Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gdin_emnlp20/README.md)
-- [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/henin_emnlp20/README.md)
-- [KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kgpt_emnlp20/README.md)
 - [Deep Attentive Learning for Stock Movement Prediction from Social Media Text and Company Correlations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mansf_emnlp20/README.md)
-
