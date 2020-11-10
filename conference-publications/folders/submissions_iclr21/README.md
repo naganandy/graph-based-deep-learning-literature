@@ -350,7 +350,6 @@
 - [Graph Neural Network Acceleration via Matrix Dimension Reduction](https://openreview.net/forum?id=8IbZUle6ieH)
 - [Real-Time AutoML](https://openreview.net/forum?id=JNtw9rUJnV)
 - [Data-driven Learning of Geometric Scattering Networks](https://openreview.net/forum?id=Mh1Abj33qI)
-- [New GCNN-Based Architecture for Semi-Supervised Node Classification](https://openreview.net/forum?id=hz_l6dFqfQ)
 - [Lie Algebra Convolutional Neural Networks with Automatic Symmetry Extraction](https://openreview.net/forum?id=cTQnZPLIohy)
 - [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
 - [Non-Local Graph Neural Networks](https://openreview.net/forum?id=heqv8eIweMY)
