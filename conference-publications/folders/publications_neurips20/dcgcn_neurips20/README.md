@@ -11,4 +11,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
+- [preprint](https://www.cs.utexas.edu/~xrhuang/publications/Neurips2020_HumanCorres.pdf)
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17820)
