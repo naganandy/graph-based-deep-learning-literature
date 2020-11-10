@@ -134,6 +134,7 @@
 
 # Expressivity
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)*
+- [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)*
 - [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
 - [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting](https://openreview.net/forum?id=LT0KSFnQDWF)
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
@@ -143,7 +144,6 @@
 - [Towards Powerful Graph Neural Networks: Diversity Matters](https://openreview.net/forum?id=yuXQOhKRjBr)
 - [An Empirical Study of the Expressiveness of Graph Kernels and Graph Neural Networks](https://openreview.net/forum?id=CJmMqnXthgX)
 - [On Size Generalization in Graph Neural Networks](https://openreview.net/forum?id=9p2CltauWEY)
-- [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
 - [A Simple and General Graph Neural Network with Stochastic Message Passing](https://openreview.net/forum?id=fhcMwjavKEZ)
 
 
