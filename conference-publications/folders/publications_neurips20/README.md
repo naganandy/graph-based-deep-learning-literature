@@ -166,7 +166,7 @@
 
 
 
-# Visual and Language Navigation
+# Vision and Language Navigation
 - [Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egp_neurips20/README.md)
 - [Language and Visual Entity Relationship Graph for Agent Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/egvln_neurips20/README.md)
 
