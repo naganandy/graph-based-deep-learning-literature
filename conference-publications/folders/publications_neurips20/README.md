@@ -119,7 +119,7 @@
 
 
 
-# Explanations
+# Explainability
 - [PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgmexplainer_neurips20/README.md)
 - [Parameterized Explainer for Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgexplainer_neurips20/README.md)
 - [Attribution for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gnnattribution_neurips20/README.md)
