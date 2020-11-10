@@ -133,8 +133,8 @@
 
 
 # Expressivity
+- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)*
 - [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
-- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
 - [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting](https://openreview.net/forum?id=LT0KSFnQDWF)
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
 - [The Surprising Power of Graph Neural Networks with Random Node Initialization](https://openreview.net/forum?id=L7Irrt5sMQa)
