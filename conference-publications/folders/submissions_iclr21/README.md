@@ -62,7 +62,7 @@
 
 
 # Code Representations
-- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
+- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)*
 - [GN-Transformer: Fusing AST and Source Code information in Graph Networks](https://openreview.net/forum?id=XavM6v_q59q)
 - [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
 - [Learning Axioms to Compute Verifiable Symbolic Expression Equivalence Proofs Using Graph-to-Sequence Networks](https://openreview.net/forum?id=PkqwRo2wjuW)
