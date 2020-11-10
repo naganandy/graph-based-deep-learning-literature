@@ -289,8 +289,8 @@
 
 
 # Mesh Learning
+- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)*
 - [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)
-- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)
 - [MeshMVS: Multi-view Stereo Guided Mesh Reconstruction](https://openreview.net/forum?id=pULTvw9X313)
 
 
