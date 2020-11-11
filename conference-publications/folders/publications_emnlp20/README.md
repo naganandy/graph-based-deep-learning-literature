@@ -33,6 +33,19 @@
 
 
 
+# Heterogeneous Graphs
+- [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/henin_emnlp20/README.md)
+- [Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tmln_emnlp20/README.md)
+
+
+# Sentiment Analysis
+- [Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/bigcn_emnlp20/README.md)
+- [Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ong_emnlp20/README.md)
+- [Inducing Target-specific Latent Structures for Aspect Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kumagcn_emnlp20/README.md)
+- [Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/rgat_emnlp20/README.md)
+
+
+
 # External Knowledge
 - [AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/attnio_emnlp20/README.md)
 - [A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kas2t_emnlp20/README.md)
@@ -61,12 +74,6 @@
 # Multi-label Few / Zero Shot Learning
 - [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/lwan_emnlp20/README.md)
 - [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kamg_emnlp20/README.md)
-
-
-
-# Heterogeneous Graphs
-- [Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tmln_emnlp20/README.md)
-- [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/henin_emnlp20/README.md)
 
 
 
@@ -100,14 +107,6 @@
 # Events
 - [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
 - [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gatedgcn_emnlp20/README.md)
-
-
-
-# Sentiment Analysis
-- [Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/bigcn_emnlp20/README.md)
-- [Introducing Syntactic Structures into Target Opinion Word Extraction with Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ong_emnlp20/README.md)
-- [Inducing Target-specific Latent Structures for Aspect Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kumagcn_emnlp20/README.md)
-- [Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/rgat_emnlp20/README.md)
 
 
 
