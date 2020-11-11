@@ -3,9 +3,9 @@
 
 
 # Oversmoothing
-- [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)
-- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
-- [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://openreview.net/forum?id=GIeGTl8EYx)
+- [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)*
+- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)*
+- [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://openreview.net/forum?id=GIeGTl8EYx)*
 - [VEM-GCN: Topology Optimization with Variational EM for Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)
 - [Don't stack layers in graph neural networks, wire them randomly](https://openreview.net/forum?id=eZllW0F5aM_)
 - [SoGCN: Second-Order Graph Convolutional Networks](https://openreview.net/forum?id=JeweO9-QqV-)
@@ -62,8 +62,8 @@
 
 
 # Code Representations
-- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
-- [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
+- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)*
+- [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)*
 - [Deep Data Flow Analysis](https://openreview.net/forum?id=SPhswbiXpJQ)
 - [GN-Transformer: Fusing AST and Source Code information in Graph Networks](https://openreview.net/forum?id=XavM6v_q59q)
 - [Learning Axioms to Compute Verifiable Symbolic Expression Equivalence Proofs Using Graph-to-Sequence Networks](https://openreview.net/forum?id=PkqwRo2wjuW)
@@ -93,8 +93,8 @@
 
 
 # Temporal Structures
-- [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)
-- [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)
+- [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)*
+- [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)*
 - [One Vertex Attack on Graph Neural Networks-based Spatiotemporal Forecasting](https://openreview.net/forum?id=W0MKrbVOxtd)
 - [Dynamic Graph Representation Learning with Fourier Temporal State Embedding](https://openreview.net/forum?id=pBDwTjmdDo)
 - [Online Learning of Graph Neural Networks: When Can Data Be Permanently Deleted](https://openreview.net/forum?id=lfJpQn3xPV-)
@@ -110,7 +110,7 @@
 
 
 # Graph Attention
-- [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://openreview.net/forum?id=Wi5KUNlqWty)
+- [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://openreview.net/forum?id=Wi5KUNlqWty)*
 - [Multi-hop Attention Graph Neural Network](https://openreview.net/forum?id=muppfCkU9H1)
 - [Global Attention Improves Graph Networks Generalization](https://openreview.net/forum?id=H-BVtEaipej)
 - [Global Node Attentions via Adaptive Spectral Filters](https://openreview.net/forum?id=w6Vm1Vob0-X)
@@ -122,7 +122,7 @@
 
 
 # Natural Language Processing
-- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)
+- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)*
 - [DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues](https://openreview.net/forum?id=kDnal_bbb-E)
 - [To Understand Representation of Layer-aware Sequence Encoders as Multi-order-graph](https://openreview.net/forum?id=lDjgALS4qs8)
 - [Semi-Supervised Speech-Language Joint Pre-Training for Spoken Language Understanding](https://openreview.net/forum?id=GboAslXYiBr)
@@ -133,10 +133,10 @@
 
 
 # Expressivity
-- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
-- [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
-- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
-- [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
+- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)*
+- [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)*
+- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)*
+- [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)*
 - [The Surprising Power of Graph Neural Networks with Random Node Initialization](https://openreview.net/forum?id=L7Irrt5sMQa)
 - [A Simple and General Graph Neural Network with Stochastic Message Passing](https://openreview.net/forum?id=fhcMwjavKEZ)
 - [Breaking the Expressive Bottlenecks of Graph Neural Networks](https://openreview.net/forum?id=ztMLindFLWR)
@@ -173,7 +173,7 @@
 
 
 # Robustness
-- [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
+- [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)*
 - [A Deep Graph Neural Networks Architecture Design: From Global Pyramid-like Shrinkage Skeleton to Local Link Rewiring](https://openreview.net/forum?id=8IX8Qum6jGR)
 - [Certifying Robustness of Graph Laplacian Based Semi-Supervised Learning](https://openreview.net/forum?id=cQyybLUoXxc)
 
@@ -232,8 +232,8 @@
 
 
 # Proteins
-- [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)
-- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)
+- [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)*
+- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)*
 - [Neural representation and generation for RNA secondary structures](https://openreview.net/forum?id=snOgiCYZgJ7)
 - [Prediction of Enzyme Specificity using Protein Graph Convolutional Neural Networks](https://openreview.net/forum?id=8mVSD0ETOXl)
 
@@ -246,7 +246,7 @@
 
 
 # Hypergraphs
-- [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
+- [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)*
 - [HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs](https://openreview.net/forum?id=cKnKJcTPRcV)
 - [DyHCN: Dynamic Hypergraph Convolutional Networks](https://openreview.net/forum?id=Bx05YH2W8bE)
 
@@ -259,7 +259,7 @@
 
 
 # Optimal Transport
-- [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)
+- [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)*
 - [Warpspeed Computation of Optimal Transport, Graph Distances, and Embedding Alignment](https://openreview.net/forum?id=AM0PBmqmojH)
 - [GG-GAN: A Geometric Graph Generative Adversarial Network](https://openreview.net/forum?id=qiAxL3Xqx1o)
 - [Optimal Transport Graph Neural Networks](https://openreview.net/forum?id=o1O5nc48rn)
@@ -289,9 +289,9 @@
 
 
 # Mesh Learning
-- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)
-- [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)
-- [MeshMVS: Multi-view Stereo Guided Mesh Reconstruction](https://openreview.net/forum?id=pULTvw9X313)
+- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)*
+- [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)*
+- [MeshMVS: Multi-view Stereo Guided Mesh Reconstruction](https://openreview.net/forum?id=pULTvw9X313)*
 
 
 
@@ -303,14 +303,14 @@
 
 
 # Directed Acyclic Graphs
-- [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
+- [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)*
 - [Alpha-DAG: a reinforcement learning based algorithm to learn Directed Acyclic Graphs](https://openreview.net/forum?id=0jqRSnFnmL_)
 
 
 
 # Physics
-- [Grounding Physical Object and Event Concepts Through Dynamic Visual Reasoning](https://openreview.net/forum?id=bhCDO_cEGCz)
-- [ForceNet: A Graph Neural Network for Large-Scale Quantum Chemistry Simulation](https://openreview.net/forum?id=K3qa-sMHpQX)
+- [Grounding Physical Object and Event Concepts Through Dynamic Visual Reasoning](https://openreview.net/forum?id=bhCDO_cEGCz)*
+- [ForceNet: A Graph Neural Network for Large-Scale Quantum Chemistry Simulation](https://openreview.net/forum?id=K3qa-sMHpQX)*
 - [Combining Physics and Machine Learning for Network Flow Estimation](https://openreview.net/forum?id=l0V53bErniB)
 - [Accurately Solving Physical Systems with Graph Learning](https://openreview.net/forum?id=v2tmeZVV9-c)
 - [Isometric Transformation Invariant and Equivariant Graph Convolutional Networks](https://openreview.net/forum?id=FX0vR39SJ5q)
@@ -330,15 +330,15 @@
 # Miscellaneous
 - [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)*
 - [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)*
-- [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)
-- [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
-- [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
-- [CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks](https://openreview.net/forum?id=XI-OJ5yyse)
-- [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/forum?id=kHSu4ebxFXY)
-- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
-- [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
-- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)
-- [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)
+- [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)*
+- [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)*
+- [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)*
+- [CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks](https://openreview.net/forum?id=XI-OJ5yyse)*
+- [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/forum?id=kHSu4ebxFXY)*
+- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)*
+- [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)*
+- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)*
+- [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)*
 - [Data-driven Learning of Geometric Scattering Networks](https://openreview.net/forum?id=Mh1Abj33qI)
 - [Conformation-Guided Molecular Representation with Hamiltonian Neural Networks](https://openreview.net/forum?id=q-cnWaaoUTH)
 - [TopoTER: Unsupervised Learning of Topology Transformation Equivariant Representations](https://openreview.net/forum?id=9az9VKjOx00)
