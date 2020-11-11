@@ -33,9 +33,22 @@
 
 
 
+# Events
+- [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
+- [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gatedgcn_emnlp20/README.md)
+
+
+
+# Relation Extraction
+- [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
+- [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
+
+
+
 # Heterogeneous Graphs
 - [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/henin_emnlp20/README.md)
 - [Sentiment Analysis of Tweets Using Heterogeneous Multi-layer Network Representation and Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/tmln_emnlp20/README.md)
+
 
 
 # Sentiment Analysis
@@ -95,18 +108,6 @@
 # Machine Reading Comprehension
 - [Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/kmqa_emnlp20/README.md)
 - [Scene Restoring for Narrative Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gdin_emnlp20/README.md)
-
-
-
-# Relation Extraction
-- [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
-- [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
-
-
-
-# Events
-- [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
-- [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gatedgcn_emnlp20/README.md)
 
 
 
