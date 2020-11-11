@@ -22,15 +22,15 @@
 
 # Efficient Training
 - [On the Importance of Sampling in Training GCNs: Convergence Analysis and Variance Reduction](https://openreview.net/forum?id=Oq79NOiZB1H)
-- [Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences](https://openreview.net/forum?id=l3YcqzaPlx0)
-- [On Batch-size Selection for Stochastic Training for Graph Neural Networks](https://openreview.net/forum?id=HeEzgm-f4g1)
-- [Communication-Efficient Sampling for Distributed Training of Graph Convolutional Networks](https://openreview.net/forum?id=xtKFuhfK1tK)
-- [Local Clustering Graph Neural Networks](https://openreview.net/forum?id=jN8TTVCgOqf)
-- [LINGUINE: LearnIng to pruNe on subGraph convolUtIon NEtworks](https://openreview.net/forum?id=j7qEcn647RY)
-- [BDS-GCN: Efficient Full-Graph Training of Graph Convolutional Nets with Partition-Parallelism and Boundary Sampling](https://openreview.net/forum?id=uFA24r7v4wL)
 - [FAST GRAPH ATTENTION NETWORKS USING EFFECTIVE RESISTANCE BASED GRAPH SPARSIFICATION](https://openreview.net/forum?id=sjGBjudWib)
-- [Distributed Training of Graph Convolutional Networks using Subgraph Approximation](https://openreview.net/forum?id=4zr9e5xwZ9Y)
+- [BDS-GCN: Efficient Full-Graph Training of Graph Convolutional Nets with Partition-Parallelism and Boundary Sampling](https://openreview.net/forum?id=uFA24r7v4wL)
+- [Local Clustering Graph Neural Networks](https://openreview.net/forum?id=jN8TTVCgOqf)
 - [Decoupled Greedy Learning of Graph Neural Networks](https://openreview.net/forum?id=QTgP9nKmMPM)
+- [Neighbor2Seq: Deep Learning on Massive Graphs by Transforming Neighbors to Sequences](https://openreview.net/forum?id=l3YcqzaPlx0)
+- [Communication-Efficient Sampling for Distributed Training of Graph Convolutional Networks](https://openreview.net/forum?id=xtKFuhfK1tK)
+- [Distributed Training of Graph Convolutional Networks using Subgraph Approximation](https://openreview.net/forum?id=4zr9e5xwZ9Y)
+- [On Batch-size Selection for Stochastic Training for Graph Neural Networks](https://openreview.net/forum?id=HeEzgm-f4g1)
+- [LINGUINE: LearnIng to pruNe on subGraph convolUtIon NEtworks](https://openreview.net/forum?id=j7qEcn647RY)
 
 
 
