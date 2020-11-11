@@ -3,20 +3,20 @@
 
 
 # Oversmoothing
-- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
-- [Don't stack layers in graph neural networks, wire them randomly](https://openreview.net/forum?id=eZllW0F5aM_)
-- [NODE-SELECT: A FLEXIBLE GRAPH NEURAL NETWORK BASED ON REALISTIC PROPAGATION SCHEME](https://openreview.net/forum?id=KfRtxjqU-Hd)
-- [Polynomial Graph Convolutional Networks](https://openreview.net/forum?id=uqD-un_Mzd-)
-- [Teleport Graph Convolutional Networks](https://openreview.net/forum?id=IpPQmzj4T_)
-- [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://openreview.net/forum?id=GIeGTl8EYx)
-- [DeeperGCN: Training Deeper GCNs with Generalized Aggregation Functions](https://openreview.net/forum?id=dmCL033_YwO)
-- [SoGCN: Second-Order Graph Convolutional Networks](https://openreview.net/forum?id=JeweO9-QqV-)
-- [A spectral perspective on GCNs](https://openreview.net/forum?id=2isb_482lP)
-- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
-- [Are Graph Convolutional Networks Fully Exploiting the Graph Structure?](https://openreview.net/forum?id=OcTUl1kc_00)
-- [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)
-- [Directional graph networks](https://openreview.net/forum?id=FUdBF49WRV1)
+- [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://openreview.net/forum?id=xHqKw3xJQhi)
 - [VEM-GCN: Topology Optimization with Variational EM for Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Don't stack layers in graph neural networks, wire them randomly](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [SoGCN: Second-Order Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Directional graph networks](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [DeeperGCN: Training Deeper GCNs with Generalized Aggregation Functions](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Polynomial Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Are Graph Convolutional Networks Fully Exploiting the Graph Structure?](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [Teleport Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [A spectral perspective on GCNs](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [NODE-SELECT: A FLEXIBLE GRAPH NEURAL NETWORK BASED ON REALISTIC PROPAGATION SCHEME](https://openreview.net/forum?id=xHqKw3xJQhi)
 
 
 
