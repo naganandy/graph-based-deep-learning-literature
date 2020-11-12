@@ -144,7 +144,6 @@
 
 - [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md). 
 - [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/faan_emnlp20/README.md)
-- [Biomedical Event Extraction on Graph Edge-conditioned Attention Networks with Hierarchical Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/geanet_emnlp20/README.md)
 - [Deep Attentive Learning for Stock Movement Prediction from Social Media Text and Company Correlations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mansf_emnlp20/README.md)
 - [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gatedgcn_emnlp20/README.md)
 - [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/temp_emnlp20/README.md)
