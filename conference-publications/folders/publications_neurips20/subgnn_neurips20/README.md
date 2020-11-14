@@ -13,3 +13,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/2006.10538)
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18146)
+- [video](https://www.youtube.com/watch?v=wNXSkISMTw8)
