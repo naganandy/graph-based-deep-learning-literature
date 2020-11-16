@@ -51,7 +51,15 @@
 - [Bandit Samplers for Training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gcnbs_neurips20/README.md)
 - [Scalable Graph Neural Networks via Bidirectional Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbp_neurips20/README.md)
 - [GCN meets GPU: Decoupling When to Sample from How to Sample](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/lazygcn_neurips20/README.md)
+
+
+
+# Combinatorial Optimisation
 - [GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gcomb_neurips20/README.md)
+- [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
+- [Curriculum learning for multilevel budgeted combinatorial problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mcn_neurips20/README.md)
+- [Hybrid Models for Learning to Branch](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hl2b_neurips20/README.md)
+- [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
 
 
 
@@ -199,14 +207,6 @@
 # Traffic
 - [Stochastic Deep Gaussian Processes over Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/dgpg_neurips20/README.md)
 - [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/agcrn_neurips20/README.md)
-
-
-
-# Combinatorial Optimisation
-- [Hybrid Models for Learning to Branch](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/hl2b_neurips20/README.md)
-- [Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications/folders/publications_neurips20/erdosgnn_neurips20)
-- [Can Q-Learning with Graph Networks Learn a Generalizable Branching Heuristic for a SAT Solver?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gqsat_neurips20/README.md)
-- [Curriculum learning for multilevel budgeted combinatorial problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/mcn_neurips20/README.md)
 
 
 
