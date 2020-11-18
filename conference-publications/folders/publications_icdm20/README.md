@@ -15,9 +15,9 @@
 
 
 # Robustness
+- [Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/crossgraph_icdm20/README.md)
 - Provably Robust Node Classification via Low-Pass Message Passing
 - Robust Meta Network Embedding against Adversarial Attacks
-- [Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/crossgraph_icdm20/README.md)
 
 
 
