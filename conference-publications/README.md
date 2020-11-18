@@ -189,7 +189,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [ICDM 2020 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/README.md)
+# [ICDM 2020 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/README.md)
 - [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
 - [OWGL: Open-World Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/owgl_icdm20/README.md)
 - [Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmgnn_icdm20/README.md)
