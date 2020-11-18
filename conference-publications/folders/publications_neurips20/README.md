@@ -156,7 +156,8 @@
 
 
 
-# Neural Architecture Search
+# Architecture Search
+- [Design Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphgym_neurips20/README.md)
 - [Bridging the Gap between Sample-based and One-shot Neural Architecture Search with BONAS](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/bonas_neurips20/README.md)
 - [BRP-NAS: Prediction-based NAS using GCNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/brpnas_neurips20/README.md)
 
@@ -230,7 +231,6 @@
 # Miscellaneous
 - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ogb_neurips20/README.md)
 - [Handling Missing Data with Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/grape_neurips20/README.md)
-- [Design Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/graphgym_neurips20/README.md)
 - [The Convolution Exponential and Generalized Sylvester Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/cegsf_neurips20/README.md)
 - [Principal Neighbourhood Aggregation for Graph Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pna_neurips20/README.md)
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
