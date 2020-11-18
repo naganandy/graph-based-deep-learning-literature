@@ -189,7 +189,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# ICDM 2020 (Nov)
+# [ICDM 2020 (Nov)](http://icdm2020.bigke.org//detailed-program/)
 - [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/subgcon_icdm20/README.md)
 - [Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hmgnn_icdm20/README.md)
 - [Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/infomotif_icdm20/README.md)
