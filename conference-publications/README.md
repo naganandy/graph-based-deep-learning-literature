@@ -199,15 +199,22 @@
 - [Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/tgnn_icdm20/README.md)
 - [Exploratory Adversarial Attacks on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/epoatk_icdm20/README.md)
 - [LFGCN: Levitating over Graphs with Levy Flights](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/lfgcn_icdm20/README.md)
+- [Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmgnn_icdm20/README.md)
 
 <details> 
 <summary> more </summary> 
 
+- [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/taxogan_icdm20/README.md)
+- [Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/crossgraph_icdm20/README.md)
+- [AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/agstn_icdm20/README.md)
+- [Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mapairrnn_icdm20/README.md)
+- [Dynamic Graph Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/dgcf_icdm20/README.md)
+- [Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/metacf_icdm20/README.md)
 - [Defending Water Treatment Networks: Exploiting Spatio-temporal Effects for Cyber Attack Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/stod_icdm20/README.md)
-- [Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmgnn_icdm20/README.md)
 - [STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/stgcn_icdm20/README.md)
 - [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/ewsgcn_icdm20/README.md)
 - [TSSRGCN: Temporal Spectral Spatial Retrieval Graph Convolutional Network for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/tssrgcn_icdm20/README.md)
+- [NF-VGA: Incorporating Normalizing Flows into Graph Variational Autoencoder for Embedding Attribute Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/nfvga_icdm20/README.md)
 
 </details>
 
