@@ -200,6 +200,7 @@
 - [Defending Water Treatment Networks: Exploiting Spatio-temporal Effects for Cyber Attack Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/stod_icdm20/README.md)
 - [Exploratory Adversarial Attacks on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/epoatk_icdm20/README.md)
 - Adversarial Label-Flipping Attack and Defense for Graph Neural Networks
+- A Heterogeneous Spatiotemporal Network for Lightning Prediction
 
 
 
