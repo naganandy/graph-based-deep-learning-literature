@@ -1,13 +1,13 @@
-# Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties
+# Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection
 
 ```
 @inproceedings{hmgnn_icdm20,
-  author    = {Zeren Shui and George Karypis},
-  title     = {Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties},
-  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
-  year      = {2020}
+author = {Yong-Nan Zhu and Xiaotian Luo and Yu-Feng Li and Bin Bu and Kaibo Zhou and Wenbin Zhang and Mingfan Lu},
+title = {Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection},
+booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+year = {2020}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2009.12710)
+- [preprint](https://cs.nju.edu.cn/liyf/paper/icdm20-hmgnn.pdf)
