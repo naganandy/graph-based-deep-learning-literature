@@ -1,8 +1,8 @@
-# Adversarial Attack on Graph Neural Networks with Limited Node Access
+# Towards More Practical Adversarial Attacks on Graph Neural Networks
 
 ```
 @incollection{rwcs_neurips20,
-title = {Adversarial Attack on Graph Neural Networks with Limited Node Access},
+title = {Towards More Practical Adversarial Attacks on Graph Neural Networks},
 author = {Jiaqi Ma and Shuangrui Ding and Qiaozhu Mei},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
 year = {2020},
