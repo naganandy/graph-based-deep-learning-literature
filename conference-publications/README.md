@@ -4,7 +4,12 @@
 - NAACL 2021 (Jun, decisions early Mar)
 - ICLR 2021 (May, decisions mid Jan, click [here](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/submissions_iclr21/README.md) for submissions)
 - WWW 2021 (Apr, decisions mid Jan)
-- AAAI 2021 (Feb, decisions early Dec)
+
+
+
+## -----------------------------------------------------------------------------
+# AAAI 2021 (Feb)
+- [Transfer Graph Neural Networks for Pandemic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mpnntl_aaai21/README.md)
 
 
 
