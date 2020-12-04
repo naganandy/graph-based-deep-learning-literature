@@ -14,5 +14,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1806.09835)
-- [acl](https://aclanthology.info/papers/P18-1026/p18-1026)
+- [aclweb](https://www.aclweb.org/anthology/P18-1026/)
 - [code](https://github.com/beckdaniel/acl2018_graph2seq)
