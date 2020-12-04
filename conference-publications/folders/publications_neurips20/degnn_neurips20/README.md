@@ -15,3 +15,4 @@ links
 - [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18045)
 - [code](https://github.com/snap-stanford/distance-encoding)
 - [slides](https://drive.google.com/file/d/1rGgbjoOP8Y2Uc9MbZgsAIfnXYEP58rcT/view)
+- [video](https://youtu.be/Sdh43jtnnos)
