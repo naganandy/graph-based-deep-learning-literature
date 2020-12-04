@@ -14,5 +14,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1805.02474)
-- [acl](https://aclanthology.info/papers/P18-1030/p18-1030)
+- [aclweb](https://www.aclweb.org/anthology/P18-1030/)
 - [code](https://github.com/leuchine/S-LSTM)
