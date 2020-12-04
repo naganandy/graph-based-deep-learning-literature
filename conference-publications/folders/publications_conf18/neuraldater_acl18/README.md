@@ -14,5 +14,5 @@
 ```
 
 links
-- [acl](https://aclanthology.info/papers/P18-1149/p18-1149)
+- [acl](https://www.aclweb.org/anthology/P18-1149/)
 - [code](https://github.com/malllabiisc/NeuralDater)
