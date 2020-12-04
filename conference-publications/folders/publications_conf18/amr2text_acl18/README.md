@@ -15,5 +15,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1805.02473)
-- [acl](https://aclanthology.info/papers/P18-1150/p18-1150)
+- [aclweb](https://www.aclweb.org/anthology/P18-1150/)
 - [code](https://github.com/freesunshine0316/neural-graph-to-seq-mp)
