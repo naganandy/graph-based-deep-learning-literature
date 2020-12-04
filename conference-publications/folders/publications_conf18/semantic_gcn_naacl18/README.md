@@ -14,5 +14,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1804.08313)
-- [aclanthology](https://aclanthology.coli.uni-saarland.de/papers/N18-2078/n18-2078)
+- [aclweb](https://www.aclweb.org/anthology/N18-2078/)
 - [poster](https://diegma.github.io/posters/NAACL18.pdf)
