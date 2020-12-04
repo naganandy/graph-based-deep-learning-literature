@@ -14,6 +14,6 @@
 
 links
 - [arXiv](https://arxiv.org/abs/1804.08049)
-- [acl](https://aclanthology.info/papers/P18-1187/p18-1187)
+- [aclweb](https://www.aclweb.org/anthology/P18-1187/)
 - [code](https://github.com/afshinrahimi/geographconv)
 - [talk](https://vimeo.com/285805016)
