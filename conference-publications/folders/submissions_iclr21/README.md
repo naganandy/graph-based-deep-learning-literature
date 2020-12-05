@@ -6,7 +6,7 @@
 - [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)*
 - [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)*
 - [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://openreview.net/forum?id=GIeGTl8EYx)*
-- [VEM-GCN: Topology Optimization with Variational EM for Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)
+- [VEM-GCN: Topology Optimization with Variational EM for Graph Convolutional Networks](https://openreview.net/forum?id=xHqKw3xJQhi)*
 - [Don't stack layers in graph neural networks, wire them randomly](https://openreview.net/forum?id=eZllW0F5aM_)
 - [SoGCN: Second-Order Graph Convolutional Networks](https://openreview.net/forum?id=JeweO9-QqV-)
 - [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
