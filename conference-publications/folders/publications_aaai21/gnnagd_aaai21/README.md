@@ -1,4 +1,4 @@
-# 
+# Learning Graph Neural Networks with Approximate Gradient Descent
 
 ```
 @inproceedings{gnnagd_aaai21,
