@@ -35,7 +35,7 @@
 
 
 # Label Propagation
-- [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
+- [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)*
 - [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification](https://openreview.net/forum?id=B9t708KMr9d)
 - [Unifying Graph Convolutional Neural Networks and Label Propagation](https://openreview.net/forum?id=oh71uL93yay)
 
