@@ -90,7 +90,8 @@ in graph-based deep learning. [The links to conference publications](https://git
 
 # Surveys / Literature Reviews / Books
 - ### 2020
-   * ### [Graph Representation Learning (Book)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/grl_mac20/README.md)
+   * ### [Utilising Graph Machine Learning within Drug Discovery and Development](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gmldrug_aaai20/README.md)
+* ### [Graph Representation Learning (Book)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/grl_mac20/README.md)
    * ### [Deep Learning on Graphs (Book)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dlg_cup20/README.md)
    * ### [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/mlgraphs_arxiv20/README.md)
    * ### [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dygnn_arxiv20/README.md)
