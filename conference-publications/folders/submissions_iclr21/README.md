@@ -339,6 +339,7 @@
 - [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)*
 - [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)*
 - [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)*
+- [XLVIN: eXecuted Latent Value Iteration Nets](https://openreview.net/forum?id=OodqmQT3fir)*
 - [Data-driven Learning of Geometric Scattering Networks](https://openreview.net/forum?id=Mh1Abj33qI)
 - [Conformation-Guided Molecular Representation with Hamiltonian Neural Networks](https://openreview.net/forum?id=q-cnWaaoUTH)
 - [TopoTER: Unsupervised Learning of Topology Transformation Equivariant Representations](https://openreview.net/forum?id=9az9VKjOx00)
@@ -351,7 +352,6 @@
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
 - [Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning](https://openreview.net/forum?id=-6vS_4Kfz0)
 - [ColdExpand: Semi-Supervised Graph Learning in Cold Start](https://openreview.net/forum?id=3uiR9bkbDjL)
-- [XLVIN: eXecuted Latent Value Iteration Nets](https://openreview.net/forum?id=OodqmQT3fir)
 - [Non-Local Graph Neural Networks](https://openreview.net/forum?id=heqv8eIweMY)
 - [Debiased Graph Neural Networks with Agnostic Label Selection Bias](https://openreview.net/forum?id=xboZWqM_ELA)
 - [Towards Robust Graph Neural Networks against Label Noise](https://openreview.net/forum?id=H38f_9b90BO)
