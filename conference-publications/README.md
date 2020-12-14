@@ -10,6 +10,7 @@
 ## -----------------------------------------------------------------------------
 # AAAI 2021 (Feb)
 - [Learning Graph Neural Networks with Approximate Gradient Descent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gnnagd_aaai21/README.md)
+- [Overcoming Catastrophic Forgetting in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/twp_aaai21/README.md)
 - [Transfer Graph Neural Networks for Pandemic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mpnntl_aaai21/README.md)
 - [Data Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gaug_aaai21/README.md)
 - [Context-Aware Graph Convolution Network for Target Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cagcn_aaai21/README.md)
