@@ -65,6 +65,7 @@ in graph-based deep learning. [The links to conference publications](https://git
 
 # Related Workshops
 - ## 2021
+   * ### [Graph Learning Benchmarks (WWW)](https://graph-learning-benchmarks.github.io/)
    * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/)
    * ### [Graphs and more Complex structures for Learning and Reasoning (AAAI)](https://sites.google.com/view/gclr2021/)
 - ## 2020
