@@ -19,11 +19,11 @@
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
 - [Infusing Multi-Source Knowledge with Heterogeneous Graph Neural Network for Emotional Conversation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgnn_aaai21/README.md)
 - [EQG-RACE: Examination-Type Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/eqgrace_aaai21/README.md)
-- [GDPNet: Refining Latent Multi-View Graph for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gdpnet_aaai21/README.md)
 
 <details> 
 <summary> more </summary> 
  
+- [GDPNet: Refining Latent Multi-View Graph for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gdpnet_aaai21/README.md)
 - [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dhcn_aaai21/README.md)
  - [Context-Aware Graph Convolution Network for Target Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cagcn_aaai21/README.md)
 - [Temporal Relational Modeling with Self-Supervision for Action Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dtgrm_aaai21/README.md)
