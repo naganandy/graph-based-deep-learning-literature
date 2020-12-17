@@ -17,12 +17,13 @@
 - [Context Matters: Graph-based Self-supervised Representation Learning for Medical Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cassl_aaai21/README.md)
 - [Movie Summarization via Sparse Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphtp_aaai21/README.md)
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
+- [Communicative Message Passing for Inductive Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/compile_aaai21/README.md)
 - [Infusing Multi-Source Knowledge with Heterogeneous Graph Neural Network for Emotional Conversation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgnn_aaai21/README.md)
-- [EQG-RACE: Examination-Type Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/eqgrace_aaai21/README.md)
 
 <details> 
 <summary> more </summary> 
  
+- [EQG-RACE: Examination-Type Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/eqgrace_aaai21/README.md)
 - [Hierarchical Graph Capsule Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcn_aaai21/README.md)
 - [GDPNet: Refining Latent Multi-View Graph for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gdpnet_aaai21/README.md)
 - [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dhcn_aaai21/README.md)
