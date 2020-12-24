@@ -1,0 +1,13 @@
+# Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos
+
+```
+@inproceedings{jvtcn_aaai21,
+  title     = {Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos},
+  author    = {Yu Cheng and Bo Wang and Bo Yang and Robby T. Tan},
+  booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  year      = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2012.11806)
