@@ -24,6 +24,7 @@
 <summary> more </summary> 
  
 - [Infusing Multi-Source Knowledge with Heterogeneous Graph Neural Network for Emotional Conversation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgnn_aaai21/README.md)
+- [Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act Recognition and Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cogat_aaai21/README.md)
 - [A Graph Reasoning Network for Multi-turn Response Selection via Customized Pre-training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grn_aaai21/README.md)
 - [PTN: A Poisson Transfer Network for Semi-supervised Few-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ptn_aaai21/README.md)
 - [Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/geml_aaai2/README.md)
