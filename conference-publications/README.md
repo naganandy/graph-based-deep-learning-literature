@@ -8,7 +8,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# AAAI 2021 (Feb)
+# [AAAI 2021 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/README.md)
 - [Learning Graph Neural Networks with Approximate Gradient Descent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gnnagd_aaai21/README.md)
 - [Graph Neural Networks with Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cpgnn_aaai21/README.md)
 - [Overcoming Catastrophic Forgetting in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/twp_aaai21/README.md)
