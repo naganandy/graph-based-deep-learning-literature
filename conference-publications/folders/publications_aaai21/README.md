@@ -21,6 +21,7 @@
 
 # Heterogeneous Graphs
 - [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
+- Heterogeneous Graph Structure Learning for Graph Neural Networks 
 
 
 
@@ -181,7 +182,6 @@
 - Why Do Attributes Propagate in Graph Convolutional Neural Networks? 
 - SDGNN: Learning Node Representation for Signed Directed Networks 
 - Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
-- Heterogeneous Graph Structure Learning for Graph Neural Networks 
 - Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay 
 - Graph Neural Network-Based Anomaly Detection in Multivariate Time Series 
 - Neural Relational Inference with Efficient Message Passing Mechanisms 
