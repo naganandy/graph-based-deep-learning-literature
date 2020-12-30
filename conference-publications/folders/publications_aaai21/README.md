@@ -32,6 +32,7 @@
 
 # Dynamic Graphs
 - [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rnngcn_aaai21/README.md)
+- [Deep Graph Spectral Evolution Networks for Graph Topological Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
 - Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs 
 
 
@@ -63,9 +64,9 @@
 
 
 # Graph Matching
+- [Gene Regulatory Network Inference as Relaxed Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/panda_aaai21/README.md)
 - Proxy Graph Matching with Proximal Matching Networks 
 - IA-GM: A Deep Bidirectional Learning Method for Graph Matching 
-- Gene Regulatory Network Inference as Relaxed Graph Matching 
 - Dynamic Knowledge Graph Alignment 
 
 
@@ -171,26 +172,26 @@
 
 # Miscellaneous
 - [Learning Graph Neural Networks with Approximate Gradient Descent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gnnagd_aaai21/README.md)
+- [Identity-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/idgnn_aaai21/README.md)
 - [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/twp_aaai21/README.md)
 - [Data Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gaug_aaai21/README.md)
+- [Why Do Attributes Propagate in Graph Convolutional Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gcc_aaai21/README.md)
 - [Adversarial Permutation Guided Node Representations for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/permgnn_aaai21/README.md)
 - [Planning with Learned Object Importance in Large Problem Instances using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ploi_aaai21/README.md)
 - [Scalable Graph Networks for Particle Simulations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/deltahogn_aaai21/README.md)
 - [Inductive Graph Neural Networks for Spatiotemporal Kriging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ignnk_aaai21/README.md)
 - [Adversarial Directed Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dggan_aaai21/README.md)
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/otcoarsening_aaai21/README.md)
+- [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
 - [Graph Learning for Inverse Landscape Genetics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
-- Why Do Attributes Propagate in Graph Convolutional Neural Networks? 
 - SDGNN: Learning Node Representation for Signed Directed Networks 
 - Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
-- Graph Neural Network-Based Anomaly Detection in Multivariate Time Series 
 - Neural Relational Inference with Efficient Message Passing Mechanisms 
 - Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training 
 - Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field 
 - Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank 
 - Knowledge-Aware Coupled Graph Neural Network for Social Recommendation 
 - Learning to Pre-Train Graph Neural Networks 
-- Identity-Aware Graph Neural Networks 
 - Beyond Low-Frequency Information in Graph Convolutional Networks 
 - Land Deformation Prediction via Slope-Aware Graph Neural Networks 
 - Graph Heterogeneous Multi-Relational Recommendation 
@@ -205,7 +206,6 @@
 - MolGrow: A Graph Normalizing Flow for Hierarchical Molecular Generation 
 - ChronoR: Rotation Based Temporal Knowledge Graph Embedding 
 - Cost-Aware Graph Generation: A Deep Bayesian Optimization Approach 
-- Deep Graph Spectral Evolution Networks for Graph Topological Evolution 
 - GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks 
 - Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective 
 - A Graph-Based Relevance Matching Model for Ad-Hoc Retrieval 
