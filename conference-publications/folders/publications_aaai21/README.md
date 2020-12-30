@@ -32,7 +32,7 @@
 
 # Dynamic Graphs
 - [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rnngcn_aaai21/README.md)
-- [Deep Graph Spectral Evolution Networks for Graph Topological Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
+- [Deep Graph Spectral Evolution Networks for Graph Topological Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gsen_aaai21/README.md)
 - Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs 
 
 
