@@ -5,7 +5,7 @@
 # Graph-based Semi-Supervised Learning
 - [Graph Neural Networks with Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cpgnn_aaai21/README.md)
 - [Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pmrfgnn_aaai21/README.md)
-- [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cpgnn_aaai21/README.md)
+- [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](hhttps://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmix_aaai21/README.md)
 - Rethinking Graph Regularization for Graph Neural Networks 
 - Contrastive and Generative Graph Convolutional Networks for Graph-Based Semi-Supervised Learning
 - Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph 
