@@ -1,3 +1,7 @@
+# [Publications in AAAI 2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)
+
+
+
 # Graph-based Semi-Supervised Learning
 - [Graph Neural Networks with Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cpgnn_aaai21/README.md)
 - [Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pmrfgnn_aaai21/README.md)
