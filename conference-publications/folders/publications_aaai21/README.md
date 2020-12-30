@@ -213,4 +213,3 @@
 - Scalable and Explainable 1-Bit Matrix Completion via Graph Signal Learning 
 - GTA: Graph Truncated Attention for Retrosynthesis 
 - Estimating the Number of Induced Subgraphs from Incomplete Data and Neighborhood 
-- [Graph Learning for Inverse Landscape Genetics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
