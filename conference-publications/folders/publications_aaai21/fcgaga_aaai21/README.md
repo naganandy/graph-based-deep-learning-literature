@@ -1,0 +1,14 @@
+# FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting
+
+```
+@inproceedings{fcgaga_aaai21,
+title = {FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting},
+author = {Boris N. Oreshkin and Arezou Amini and Lucy Coyle and Mark J. Coates},
+booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+year = {2021},
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2007.15531)
+- [code](https://github.com/boreshkinai/fc-gaga)
