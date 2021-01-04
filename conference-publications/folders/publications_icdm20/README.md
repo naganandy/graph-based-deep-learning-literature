@@ -71,6 +71,5 @@
 - Data-Agnostic Local Neighborhood Generation
 - A Weighted Overlook Graph Representation of EEG Data for Absence Epilepsy Detection
 - PERFECT: A Hyperbolic Embedding for Joint Social Network Alignment
-- Learning Node Representations from Noisy Graph Structures
 - The Necessity of Geometrical Representation for Deep Graph Analysis
 - Deep Semantic Network Representation
