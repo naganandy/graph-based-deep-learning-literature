@@ -125,7 +125,7 @@
 
 
 
-# Video Dialoue
+# Video Dialogue
 - Structured Co-Reference Graph Attention for Video-Grounded Dialogue Analysis and Graph Neural Network 
 - Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers
 
