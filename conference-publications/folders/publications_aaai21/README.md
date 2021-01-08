@@ -7,6 +7,7 @@
 - [Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pmrfgnn_aaai21/README.md)
 - [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmix_aaai21/README.md)
 - [Rethinking Graph Regularization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/preg_aaai21/README.md)
+- [Beyond Low-Frequency Information in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/fagcn_aaai21/README.md)
 - [Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cg_aaai21/README.md)
 - Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph 
 
@@ -192,7 +193,6 @@
 - Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank 
 - Knowledge-Aware Coupled Graph Neural Network for Social Recommendation 
 - Learning to Pre-Train Graph Neural Networks 
-- Beyond Low-Frequency Information in Graph Convolutional Networks 
 - Land Deformation Prediction via Slope-Aware Graph Neural Networks 
 - Graph Heterogeneous Multi-Relational Recommendation 
 - Deep Metric Learning with Graph Consistency 
