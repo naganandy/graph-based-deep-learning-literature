@@ -11,10 +11,10 @@
 # [AAAI 2021 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/README.md)
 - [Learning Graph Neural Networks with Approximate Gradient Descent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gnnagd_aaai21/README.md)
 - [Graph Neural Networks with Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cpgnn_aaai21/README.md)
+- [Beyond Low-Frequency Information in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/fagcn_aaai21/README.md)
 - [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/twp_aaai21/README.md)
 - [Data Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gaug_aaai21/README.md)
 - [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmix_aaai21/README.md)
-- [Transfer Graph Neural Networks for Pandemic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mpnntl_aaai21/README.md)
 - [Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pmrfgnn_aaai21/README.md)
 - [Identity-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/idgnn_aaai21/README.md)
 - [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
@@ -23,6 +23,7 @@
 <details> 
 <summary> more </summary> 
  
+- [Transfer Graph Neural Networks for Pandemic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mpnntl_aaai21/README.md)
 - [Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-supervised Edge Features and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ssef_aaai21/README.md)
 - [Rethinking Graph Regularization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/preg_aaai21/README.md)
 - [Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cg_aaai21/README.md)
