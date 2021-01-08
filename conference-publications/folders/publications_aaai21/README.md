@@ -7,6 +7,7 @@
 - [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmix_aaai21/README.md)
 - [Rethinking Graph Regularization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/preg_aaai21/README.md)
 - [Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cg_aaai21/README.md)
+- [Data Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gaug_aaai21/README.md)
 - Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph 
 
 
@@ -179,7 +180,6 @@
 - [Learning Graph Neural Networks with Approximate Gradient Descent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gnnagd_aaai21/README.md)
 - [Identity-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/idgnn_aaai21/README.md)
 - [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/twp_aaai21/README.md)
-- [Data Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gaug_aaai21/README.md)
 - [Why Do Attributes Propagate in Graph Convolutional Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gcc_aaai21/README.md)
 - [Adversarial Permutation Guided Node Representations for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/permgnn_aaai21/README.md)
 - [Planning with Learned Object Importance in Large Problem Instances using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ploi_aaai21/README.md)
