@@ -179,6 +179,7 @@
 # Miscellaneous
 - [Learning Graph Neural Networks with Approximate Gradient Descent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gnnagd_aaai21/README.md)
 - [Identity-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/idgnn_aaai21/README.md)
+- [SDGNN: Learning Node Representation for Signed Directed Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/sdgnn_aaai21/README.md)
 - [Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/twp_aaai21/README.md)
 - [Why Do Attributes Propagate in Graph Convolutional Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gcc_aaai21/README.md)
 - [Adversarial Permutation Guided Node Representations for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/permgnn_aaai21/README.md)
@@ -189,7 +190,6 @@
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/otcoarsening_aaai21/README.md)
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
 - [Graph Learning for Inverse Landscape Genetics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
-- SDGNN: Learning Node Representation for Signed Directed Networks 
 - Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
 - Neural Relational Inference with Efficient Message Passing Mechanisms 
 - Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training 
