@@ -67,3 +67,4 @@
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
 - [Accurate Learning of Graph Representations with Graph Multiset Pooling](https://openreview.net/forum?id=JHcqXGaqiGn)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
+- [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
