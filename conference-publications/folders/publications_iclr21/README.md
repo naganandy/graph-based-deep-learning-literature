@@ -46,6 +46,13 @@
 
 
 
+# Proteins
+- [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)*
+- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)*
+- [Neural representation and generation for RNA secondary structures](https://openreview.net/forum?id=snOgiCYZgJ7)
+
+
+
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
