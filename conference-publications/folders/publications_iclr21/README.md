@@ -12,6 +12,15 @@
 
 
 
+# Expressivity
+- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
+- [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
+- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
+- [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
+
+
+
+
 # Code Representations
 - [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
 - [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
