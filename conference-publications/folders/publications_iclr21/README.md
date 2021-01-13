@@ -13,6 +13,11 @@
 
 
 
+# Time Series
+- [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk)
+- [Graph Edit Networks](https://openreview.net/forum?id=dlEJsyHGeaL)
+
+
 
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
