@@ -31,6 +31,12 @@
 
 
 
+# Natural Language Processing
+- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)*
+- [DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues](https://openreview.net/forum?id=kDnal_bbb-E)
+
+
+
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
