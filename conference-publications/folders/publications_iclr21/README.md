@@ -55,6 +55,7 @@
 
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
+- [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
 - [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)
 - [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
