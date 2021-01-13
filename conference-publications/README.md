@@ -25,6 +25,7 @@
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
 - [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
 - [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
+- [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://openreview.net/forum?id=Xh5eMZVONGF)
 - [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk)
 - [Graph Edit Networks](https://openreview.net/forum?id=dlEJsyHGeaL)
 - [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)
