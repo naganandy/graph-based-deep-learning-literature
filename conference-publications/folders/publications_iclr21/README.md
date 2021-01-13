@@ -53,6 +53,12 @@
 
 
 
+# Meshes
+- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)*
+- [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)*
+
+
+
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
