@@ -35,20 +35,20 @@
 
 
 # Temporal Structures
-- [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)*
-- [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)*
+- [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)
+- [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)
 
 
 
 # Natural Language Processing
-- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)*
+- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)
 - [DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues](https://openreview.net/forum?id=kDnal_bbb-E)
 
 
 
 # Proteins
-- [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)*
-- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)*
+- [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)
+- [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)
 - [Neural representation and generation for RNA secondary structures](https://openreview.net/forum?id=snOgiCYZgJ7)
 
 
