@@ -49,3 +49,4 @@
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
+- [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
