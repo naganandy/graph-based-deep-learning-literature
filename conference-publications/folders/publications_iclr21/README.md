@@ -13,6 +13,7 @@
 
 
 # Expressivity
+- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
 - [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
 - [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
@@ -69,6 +70,9 @@
 
 # Reinforcement Learning
 - [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
+- [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
+
+
 
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
@@ -79,8 +83,6 @@
 - [Accurate Learning of Graph Representations with Graph Multiset Pooling](https://openreview.net/forum?id=JHcqXGaqiGn)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
 - [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
-- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
-- [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
 - [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)
 - [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
 - [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
