@@ -10,8 +10,8 @@
 
 # Oversmoothing and Oversquashing
 - [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
-- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
+- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
 
 
 
