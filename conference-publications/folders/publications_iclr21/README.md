@@ -21,6 +21,11 @@
 
 
 
+# Graph-Level Representations
+- [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)
+- [Accurate Learning of Graph Representations with Graph Multiset Pooling](https://openreview.net/forum?id=JHcqXGaqiGn)
+
+
 
 # Code Representations
 - [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
@@ -35,10 +40,10 @@
 
 
 
-
 # Temporal Structures
 - [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)
 - [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)
+- [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
 
 
 
@@ -72,16 +77,14 @@
 - [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://openreview.net/forum?id=Xv_s64FiXTv)
 - [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
 - [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
+- [Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning](https://openreview.net/forum?id=-6vS_4Kfz0)
 
 
 
 # Miscellaneous
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
-- [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)
-- [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
-- [Accurate Learning of Graph Representations with Graph Multiset Pooling](https://openreview.net/forum?id=JHcqXGaqiGn)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
 - [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
 - [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)
@@ -95,7 +98,6 @@
 - [Conformation-Guided Molecular Representation with Hamiltonian Neural Networks](https://openreview.net/forum?id=q-cnWaaoUTH)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
-- [Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning](https://openreview.net/forum?id=-6vS_4Kfz0)
 - [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
 - [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
