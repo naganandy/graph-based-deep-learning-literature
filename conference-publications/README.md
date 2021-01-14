@@ -258,7 +258,6 @@
 
 ## -----------------------------------------------------------------------------
 # [EMNLP 2020 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/README.md)
-- [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/h2kgat_emnlp20/README.md)
 - [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mhgrn_emnlp20/README.md)
 - [Disentangle-based Continual Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/dicgrl_emnlp20/README.md)
 - [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/grf_emnlp20/README.md)
@@ -268,11 +267,12 @@
 - [Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/renet_emnlp20/README.md)
 - [Double Graph Based Reasoning for Document-level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gain_emnlp20/README.md)
 - [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/glre_emnlp20/README.md)
+- [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md). 
 
 <details> 
 <summary> more </summary> 
 
-- [Hierarchical Graph Network for Multi-hop Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hgn_emnlp20/README.md). 
+- [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/h2kgat_emnlp20/README.md)
 - [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/faan_emnlp20/README.md)
 - [Deep Attentive Learning for Stock Movement Prediction from Social Media Text and Company Correlations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mansf_emnlp20/README.md)
 - [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gatedgcn_emnlp20/README.md)
