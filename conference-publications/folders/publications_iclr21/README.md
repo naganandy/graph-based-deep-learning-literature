@@ -1,10 +1,5 @@
 # Publications in ICLR 2021
 
-# Oversmoothing and Oversquashing
-- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
-- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
-- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
-
 
 
 # Heterophily
@@ -13,17 +8,29 @@
 
 
 
-# Efficient Training
-- [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)
-- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)
+# Oversmoothing and Oversquashing
+- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
+- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
+- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
+
+
+
+# Spectral Analysis
+- [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
+- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
 
 
 
 # Expressivity
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
 - [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
-- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
+
+
+
+# Efficient Training
+- [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://openreview.net/forum?id=6DOZ8XNNfGN)
+- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)
 
 
 
@@ -106,7 +113,6 @@
 - [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
 - [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
-- [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
 - [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
 - [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
