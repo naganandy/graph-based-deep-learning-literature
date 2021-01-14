@@ -1,8 +1,9 @@
 # Publications in ICLR 2021
 
-# Oversmoothing
+# Oversmoothing and Oversquashing
 - [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
 - [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
+- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
 
 
 
@@ -101,7 +102,6 @@
 - [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)
 - [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
-- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
 - [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
 - [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
