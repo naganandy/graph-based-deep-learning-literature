@@ -14,7 +14,6 @@
 
 
 # Expressivity
-- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://openreview.net/forum?id=lxHgXYN4bwl)
 - [Graph Convolution with Low-rank Learnable Local Filters](https://openreview.net/forum?id=9OHFhefeB86)
 - [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
@@ -89,6 +88,7 @@
 
 
 # Miscellaneous
+- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
