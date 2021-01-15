@@ -58,6 +58,7 @@
 - [Spatio-Temporal Graph Scattering Transform](https://openreview.net/forum?id=CF-ZIuSMXRz)
 - [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)
 - [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
+- [Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks](https://openreview.net/forum?id=KYPz4YsCPj)
 
 
 
