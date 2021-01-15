@@ -5,7 +5,7 @@
 title = {Latent Variable Modelling with Hyperbolic Normalizing Flows},
 author = {Bose, Joey and Smofsky, Ariella and Liao, Renjie and Panangaden, Prakash and Hamilton, Will},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {2906--2916},
+pages = {1045--1055},
 year = {2020}
 }
 ```
