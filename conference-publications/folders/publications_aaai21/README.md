@@ -191,6 +191,7 @@
 - [Adversarial Directed Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dggan_aaai21/README.md)
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/otcoarsening_aaai21/README.md)
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
+- [Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rigrl_aaai21/README.md)
 - [Graph Learning for Inverse Landscape Genetics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
 - Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
 - Neural Relational Inference with Efficient Message Passing Mechanisms 
@@ -213,7 +214,6 @@
 - ChronoR: Rotation Based Temporal Knowledge Graph Embedding 
 - Cost-Aware Graph Generation: A Deep Bayesian Optimization Approach 
 - GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks 
-- Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective 
 - A Graph-Based Relevance Matching Model for Ad-Hoc Retrieval 
 - Randomized Generation of Adversary-Aware Fake Knowledge Graphs to Combat Intellectual Property Theft 
 - Scalable and Explainable 1-Bit Matrix Completion via Graph Signal Learning 
