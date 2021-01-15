@@ -11,5 +11,5 @@ year = {2020}
 ```
 
 links
-- [icml](https://proceedings.icml.cc/book/3511.pdf)
+- [pmlr](http://proceedings.mlr.press/v119/bose20a.html)
 - [video](https://slideslive.com/38927766)
