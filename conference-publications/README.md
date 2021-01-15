@@ -558,7 +558,7 @@
 - [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/whc_icml20/README.md)
 - [Contrastive Multi-View Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/mvgrl_icml20/README.md)
 - [GraphOpt: Learning Optimization Models of Graph Formation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/graphopt_icml20/README.md)
-- [Composing Molecules with Multiple Property Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rationalerl_icml20/README.md)
+- [Multi-Objective Molecule Generation using Interpretable Substructures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rationalerl_icml20/README.md)
 - [Incidence Networks for Geometric Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/incidencenet_icml20/README.md)
 - [Deep Graph Random Process for Relational-Thinking-Based  Speech Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/rtn_icml20/README.md)
 - [Graph Filtration Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gfl_icml20/README.md)
