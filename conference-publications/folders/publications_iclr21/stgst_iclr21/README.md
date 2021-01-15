@@ -4,7 +4,7 @@
 @inproceedings{stgst_iclr21,
 title={Spatio-Temporal Graph Scattering Transform},
 author={Chao Pan and Siheng Chen and Antonio Ortega},
-booktitle={International Conference on Learning Representations},
+booktitle={International Conference on Learning Representations (ICLR)},
 year={2021}
 }
 ```
