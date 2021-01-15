@@ -36,7 +36,7 @@
 
 
 # Graph-Level Representations
-- [Wasserstein Embedding for Graph Learning](https://openreview.net/forum?id=AAes_3W-2z)
+- [Wasserstein Embedding for Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/wegl_iclr21/README.md)
 - [Accurate Learning of Graph Representations with Graph Multiset Pooling](https://openreview.net/forum?id=JHcqXGaqiGn)
 
 
