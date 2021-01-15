@@ -193,6 +193,7 @@
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
 - [Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rigrl_aaai21/README.md)
 - [Graph Learning for Inverse Landscape Genetics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
+- [Land Deformation Prediction via Slope-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/sagnn_aaai21/README.md)
 - Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
 - Neural Relational Inference with Efficient Message Passing Mechanisms 
 - Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training 
@@ -200,7 +201,6 @@
 - Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank 
 - Knowledge-Aware Coupled Graph Neural Network for Social Recommendation 
 - Learning to Pre-Train Graph Neural Networks 
-- Land Deformation Prediction via Slope-Aware Graph Neural Networks 
 - Graph Heterogeneous Multi-Relational Recommendation 
 - Deep Metric Learning with Graph Consistency 
 - Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs 
