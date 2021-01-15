@@ -56,7 +56,7 @@
 
 # Temporal Structures
 - [Spatio-Temporal Graph Scattering Transform](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/stgst_iclr21/README.md)
-- [Learning continuous-time PDEs from sparse data with graph neural networks](https://openreview.net/forum?id=aUX5Plaq7Oy)
+- [Learning continuous-time PDEs from sparse data with graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pdegnn_iclr21/README.md)
 - [Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks](https://openreview.net/forum?id=KYPz4YsCPj)
 - [Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs](https://openreview.net/forum?id=pGIHq1m7PU)
 
