@@ -21,6 +21,7 @@
 <details> 
 <summary> more </summary> 
  
+- [Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks](https://openreview.net/forum?id=KYPz4YsCPj)
 - [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://openreview.net/forum?id=tiqI7w64JG2)
 - [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
