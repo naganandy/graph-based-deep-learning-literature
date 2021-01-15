@@ -13,3 +13,4 @@ year = {2020}
 links
 - [pmlr](http://proceedings.mlr.press/v119/huang20d.html)
 - [video](https://slideslive.com/38928279)
+- [project](https://wenlong.page/modular-rl/)
