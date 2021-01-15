@@ -135,6 +135,7 @@
 - [Planning with Learned Object Importance in Large Problem Instances using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ploi_aaai21/README.md)
 - [Graph Learning for Inverse Landscape Genetics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/glilg_aaai21/README.md)
+- [Land Deformation Prediction via Slope-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/sagnn_aaai21/README.md)
 
 </details>
 
