@@ -5,7 +5,7 @@
 title = {Generalization and Representational Limits of Graph Neural Networks},
 author = {Garg, Vikas and Jegelka, Stefanie and Jaakkola, Tommi},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {5204--5215},
+pages = {3419--3430},
 year = {2020}
 }
 ```
