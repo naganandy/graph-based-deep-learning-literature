@@ -49,7 +49,7 @@
 
 
 # Time Series
-- [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk)
+- [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gts_iclr21/README.md)
 - [Graph Edit Networks](https://openreview.net/forum?id=dlEJsyHGeaL)
 
 
