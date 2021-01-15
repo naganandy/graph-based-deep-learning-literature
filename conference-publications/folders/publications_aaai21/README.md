@@ -63,10 +63,12 @@
 - [Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-supervised Edge Features and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ssef_aaai21/README.md)
 
 
+
 # Graph Classification
 - [Hierarchical Graph Capsule Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcn_aaai21/README.md)
 - [Contrastive Self-supervised Learning for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cssl_aaai21/README.md)
 - Deep Wasserstein Graph Discriminant Learning for Graph Classification 
+
 
 
 # Graph Matching
@@ -79,8 +81,8 @@
 
 # Natural Language Processing
 - [EQG-RACE: Examination-Type Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/eqgrace_aaai21/README.md)
+- [Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cwt_aaai21/README.md)
 - Neural Sentence Ordering Based on Constraint Graphs 
-- Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs 
 - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching 
 
 
