@@ -42,7 +42,7 @@
 
 
 # Code Representations
-- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/forum?id=zv-typ1gPxA)
+- [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/hgnn_iclr21/README.md)
 - [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://openreview.net/forum?id=jLoC4ez43PZ)
 - [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://openreview.net/forum?id=Xh5eMZVONGF)
 
