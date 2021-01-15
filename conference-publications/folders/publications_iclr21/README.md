@@ -16,7 +16,7 @@
 
 
 # Spectral Methods
-- [Learning Parametrised Graph Shift Operators](https://openreview.net/forum?id=0OlrLvrsHwQ)
+- [Learning Parametrised Graph Shift Operators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pgso_iclr21/README.md)
 - [Graph Coarsening with Neural Networks](https://openreview.net/forum?id=uxpzitPEooJ)
 - [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://openreview.net/forum?id=-qh0M9XWxnv)
 
