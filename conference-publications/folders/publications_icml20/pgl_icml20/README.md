@@ -5,12 +5,12 @@
 title = {Progressive Graph Learning for Open-Set Domain Adaptation},
 author = {Luo, Yadan and Wang, Zijian and Huang, Zi and Baktashmotlagh, Mahsa},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {189--199},
+pages = {6468--6478},
 year = {2020}
 }
 ```
 
 links
-- [icml](https://proceedings.icml.cc/book/3258.pdf)
+- [pmlr](http://proceedings.mlr.press/v119/luo20b.html)
 - [arXiv](https://arxiv.org/abs/2006.12087)
 - [video](https://slideslive.com/38927512)
