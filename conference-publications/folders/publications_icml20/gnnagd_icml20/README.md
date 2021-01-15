@@ -5,7 +5,7 @@
 title = {Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case},
 author = {zhang, shuai and Wang, Meng and Liu, Sijia and Chen, Pin-Yu and Xiong, Jinjun},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {8168--8177},
+pages = {11268--11277},
 year = {2020}
 }
 ```
