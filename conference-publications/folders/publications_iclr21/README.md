@@ -11,7 +11,7 @@
 # Oversmoothing, Oversquashing
 - [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/adagcn_iclr21/README.md)
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/osquash_iclr21/README.md)
-- [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
+- [Simple Spectral Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/s2gc_iclr21/README.md)
 
 
 
