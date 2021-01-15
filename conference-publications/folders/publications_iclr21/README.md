@@ -3,8 +3,8 @@
 
 
 # Heterophily
-- [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://openreview.net/forum?id=Wi5KUNlqWty)
-- [Adaptive Universal Generalized PageRank Graph Neural Network](https://openreview.net/forum?id=n6jl7fLxrP)
+- [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/supergat_iclr21/README.md)
+- [Adaptive Universal Generalized PageRank Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gprgnn_iclr21/README.md)
 
 
 
