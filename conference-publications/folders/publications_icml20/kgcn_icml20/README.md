@@ -5,7 +5,7 @@
 title = {Constant Curvature Graph Convolutional Networks},
 author = {Bachmann, Gregor and Becigneul, Gary and Ganea, Octavian},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {9118--9128},
+pages = {486--496},
 year = {2020}
 }
 ```
