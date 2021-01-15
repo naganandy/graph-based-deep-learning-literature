@@ -5,11 +5,11 @@
 title = {Graph Structure of Neural Networks},
 author = {You, Jiaxuan and He, Kaiming and Leskovec, Jure and Xie, Saining},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {327--337},
+pages = {10881--10891},
 year = {2020}
 }
 ```
 
 links
-- [icml](https://proceedings.icml.cc/book/3271.pdf)
+- [pmlr](http://proceedings.mlr.press/v119/you20b.html)
 - [video](https://slideslive.com/38927525)
