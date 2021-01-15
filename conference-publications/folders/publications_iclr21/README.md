@@ -44,7 +44,7 @@
 # Code Representations
 - [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/hgnn_iclr21/README.md)
 - [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/graphcodebert_iclr21/README.md)
-- [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://openreview.net/forum?id=Xh5eMZVONGF)
+- [Language-Agnostic Representation Learning of Source Code from Structure and Context](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/codetransformer_iclr21/README.md)
 
 
 
