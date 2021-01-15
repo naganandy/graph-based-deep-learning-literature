@@ -5,7 +5,7 @@
 title = {Simple and Deep Graph Convolutional Networks},
 author = {Chen, Ming and Wei, Zhewei and Huang, Zengfeng and Ding, Bolin and Li, Yaliang},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {3730--3740},
+pages = {1725--1735},
 year = {2020}
 }
 ```
