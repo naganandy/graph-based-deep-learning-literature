@@ -9,7 +9,7 @@
 
 
 # Oversmoothing, Oversquashing
-- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://openreview.net/forum?id=QkRbdiiEjM)
+- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/adagcn_iclr21/README.md)
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://openreview.net/forum?id=i80OPhOCVH2)
 - [Simple Spectral Graph Convolution](https://openreview.net/forum?id=CYO5T-YjWZV)
 
