@@ -31,7 +31,7 @@
 
 # Efficient Training
 - [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gttf_iclr21/README.md)
-- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://openreview.net/forum?id=NSBrFgJAHg)
+- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dq_iclr21/README.md)
 
 
 
