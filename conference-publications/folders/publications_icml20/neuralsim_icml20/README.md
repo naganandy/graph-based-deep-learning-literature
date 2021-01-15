@@ -5,11 +5,11 @@
 title = {Learning to Simulate and Design for Structural Engineering},
 author = {Chang, Kai-Hung and Cheng, Chin-Yi},
 booktitle = {Proceedings of the 37th International Conference on Machine Learning (ICML)},
-pages = {9877--9887},
+pages = {1426--1436},
 year = {2020}
 }
 ```
 
 links
-- [icml](https://proceedings.icml.cc/book/4159.pdf)
+- [pmlr](http://proceedings.mlr.press/v119/chang20a.html)
 - [video](https://slideslive.com/38928415)
