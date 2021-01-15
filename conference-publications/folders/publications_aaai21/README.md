@@ -147,9 +147,9 @@
 
 # Scene Graphs
 - [Classification by Attention: Scene Graph Classification with Prior Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/icp_aaai21/README.md)
+- [Image-to-Image Retrieval by Learning Similarity between Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/irsgs_aaai21/README.md)
 - [Semi-Supervised Learning for Multi-Task Scene Understanding by Neural Graph Consensus](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ngc_aaai21/README.md)
 - Scene Graph Embeddings Using Relative Similarity Supervision 
-- Image-to-Image Retrieval by Learning Similarity between Scene Graphs 
 
 
 
