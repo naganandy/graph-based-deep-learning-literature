@@ -71,7 +71,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# WebConf 2021 (Apr)
+# The WebConf 2021 (Apr)
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pdn_webconf21/README.md)
 - [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
 - Graph Neural Networks for Friend Ranking in Large-scale Social Platforms
