@@ -2,7 +2,6 @@
 
 - CVPR 2021 (Jun, decisions early Mar)
 - NAACL 2021 (Jun, decisions early Mar)
-- WWW 2021 (Apr, decisions mid Jan)
 
 
 ## -----------------------------------------------------------------------------
@@ -67,6 +66,15 @@
 - [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
 - [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
 </details>
+
+
+
+## -----------------------------------------------------------------------------
+# WebConf 2021 (Apr)
+- [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pdn_webconf21/README.md)
+- [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
+- Graph Neural Networks for Friend Ranking in Large-scale Social Platforms
+
 
 
 ## -----------------------------------------------------------------------------
