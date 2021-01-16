@@ -1,5 +1,6 @@
 # [Conferences](https://aideadlin.es/)
 
+- IJCAI 2021 (Aug, decisions early May)
 - CVPR 2021 (Jun, decisions early Mar)
 - NAACL 2021 (Jun, decisions early Mar)
 
