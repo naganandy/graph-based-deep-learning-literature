@@ -63,7 +63,7 @@
 
 
 # Natural Language Processing
-- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://openreview.net/forum?id=WznmQa42ZAx)
+- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/graphmask_iclr21/README.md)
 - [DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues](https://openreview.net/forum?id=kDnal_bbb-E)
 
 
