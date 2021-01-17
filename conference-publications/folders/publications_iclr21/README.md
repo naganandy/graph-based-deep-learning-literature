@@ -29,6 +29,13 @@
 
 
 
+# Generalisation
+- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
+- [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
+- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
+
+
+
 # Efficient Training
 - [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gttf_iclr21/README.md)
 - [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dq_iclr21/README.md)
@@ -110,14 +117,11 @@
 
 
 # Miscellaneous
-- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
 - [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
-- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
-- [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
 - [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
