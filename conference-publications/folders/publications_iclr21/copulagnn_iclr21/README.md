@@ -5,8 +5,7 @@
 title={Copula{\{}GNN{\}}: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks},
 author={Jiaqi Ma and Bo Chang and Xuefei Zhang and Qiaozhu Mei},
 booktitle={International Conference on Learning Representations (ICLR)},
-year={2021},
-url={https://openreview.net/forum?id=XI-OJ5yyse}
+year={2021}
 }
 ```
 
