@@ -17,7 +17,7 @@
 
 # Boosting
 - [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/adagcn_iclr21/README.md)
-- [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
+- [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/bgnn_iclr21/README.md)
 
 
 
