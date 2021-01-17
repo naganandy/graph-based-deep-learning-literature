@@ -123,7 +123,7 @@
 
 # Graphical Models
 - [CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/copulagnn_iclr21/README.md)
-- [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
+- [Lossless Compression of Structured Convolutional Models via Lifting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gnnlift_iclr21/README.md)
 - [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
 
 
