@@ -133,4 +133,4 @@
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/metad2a_iclr21/README.md)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/fairadj_iclr21/README.md)
 - [Learning Hyperbolic Representations of Topological Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/hyperper_iclr21/README.md)
-- [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
+- [Graph Information Bottleneck for Subgraph Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gibsr_iclr21/README.md)
