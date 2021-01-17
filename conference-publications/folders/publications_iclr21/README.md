@@ -75,9 +75,15 @@
 
 
 
+# Semantic Graphs
+- [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
+- [Learning Reasoning Paths over Semantic Graphs for Video-grounded Dialogues](https://openreview.net/forum?id=hPWj1qduVw8)
+
+
+
 # Natural Language Processing
-- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/graphmask_iclr21/README.md)
 - [DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dialograph_iclr21/README.md)
+- [Interpreting Graph Neural Networks for NLP With Differentiable Edge Masking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/graphmask_iclr21/README.md)
 
 
 
@@ -125,8 +131,6 @@
 # Miscellaneous
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
-- [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
-- [Learning Reasoning Paths over Semantic Graphs for Video-grounded Dialogues](https://openreview.net/forum?id=hPWj1qduVw8)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
 - [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
