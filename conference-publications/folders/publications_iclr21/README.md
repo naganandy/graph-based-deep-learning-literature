@@ -77,7 +77,7 @@
 
 # Semantic Graphs
 - [Generative Scene Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gsgn_iclr21/README.md)
-- [Learning Reasoning Paths over Semantic Graphs for Video-grounded Dialogues](https://openreview.net/forum?id=hPWj1qduVw8)
+- [Learning Reasoning Paths over Semantic Graphs for Video-grounded Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/rpsgvd_iclr21/README.md)
 
 
 
