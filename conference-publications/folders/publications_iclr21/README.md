@@ -102,7 +102,7 @@
 
 # Physics
 - [Grounding Physical Object and Event Concepts Through Dynamic Visual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dcl_iclr21/README.md)
-- [Combining Physics and Machine Learning for Network Flow Estimation](https://openreview.net/forum?id=l0V53bErniB)
+- [Combining Physics and Machine Learning for Network Flow Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/bilgcn_iclr21/README.md)
 - [Isometric Transformation Invariant and Equivariant Graph Convolutional Networks](https://openreview.net/forum?id=FX0vR39SJ5q)
 
 
