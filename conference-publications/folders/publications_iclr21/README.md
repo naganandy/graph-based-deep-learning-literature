@@ -2,7 +2,8 @@
 
 
 
-# Heterophily
+# Homophily, Heterophily
+- [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/supergat_iclr21/README.md)
 - [Adaptive Universal Generalized PageRank Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gprgnn_iclr21/README.md)
 
@@ -117,7 +118,6 @@
 
 
 # Miscellaneous
-- [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
