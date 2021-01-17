@@ -38,7 +38,7 @@
 # Generalisability
 - [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gnnextrapolate_iclr21/README.md)
 - [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pacgnn_iclr21/README.md)
-- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
+- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/int_iclr21/README.md)
 
 
 
