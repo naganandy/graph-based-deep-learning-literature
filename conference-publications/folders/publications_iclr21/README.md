@@ -9,20 +9,6 @@
 
 
 
-# Oversmoothing, Oversquashing
-- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/adagcn_iclr21/README.md)
-- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/osquash_iclr21/README.md)
-- [Simple Spectral Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/s2gc_iclr21/README.md)
-
-
-
-# Spectral Methods
-- [Learning Parametrised Graph Shift Operators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pgso_iclr21/README.md)
-- [Graph Coarsening with Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/goren_iclr21/README.md)
-- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/spexp_iclr21/README.md)
-
-
-
 # Expressivity
 - [On Graph Neural Networks versus Graph-Augmented MLPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gamlp_iclr21/README.md)
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/fgnn_iclr21/README.md)
@@ -30,16 +16,35 @@
 
 
 
-# Generalisability
-- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
-- [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
-- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
+# Spectral Methods
+- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/spexp_iclr21/README.md)
+- [Learning Parametrised Graph Shift Operators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pgso_iclr21/README.md)
+- [Graph Coarsening with Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/goren_iclr21/README.md)
+
+
+
+# Oversmoothing, Oversquashing
+- [Simple Spectral Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/s2gc_iclr21/README.md)
+- [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/osquash_iclr21/README.md)
+
+
+
+# Boosting
+- [AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/adagcn_iclr21/README.md)
+- [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
 
 
 
 # Efficient Training
 - [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gttf_iclr21/README.md)
 - [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dq_iclr21/README.md)
+
+
+
+# Generalisability
+- [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
+- [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
+- [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
 
 
 
@@ -121,7 +126,6 @@
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
-- [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
 - [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
