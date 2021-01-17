@@ -94,7 +94,7 @@
 
 
 # Proteins
-- [Learning from Protein Structure with Geometric Vector Perceptrons](https://openreview.net/forum?id=1YLJDvSx6J4)
+- [Learning from Protein Structure with Geometric Vector Perceptrons](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gvpgnn_iclr21/README.md)
 - [Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures](https://openreview.net/forum?id=l0mSUROpwY)
 - [Neural representation and generation for RNA secondary structures](https://openreview.net/forum?id=snOgiCYZgJ7)
 
