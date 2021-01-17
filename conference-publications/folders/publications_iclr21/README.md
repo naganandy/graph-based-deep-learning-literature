@@ -108,7 +108,7 @@
 
 
 # Meshes
-- [Learning Mesh-Based Simulation with Graph Networks](https://openreview.net/forum?id=roNqYL0_XP)
+- [Learning Mesh-Based Simulation with Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/meshgraphnet_iclr21/README.md)
 - [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://openreview.net/forum?id=Jnspzp-oIZE)
 
 
