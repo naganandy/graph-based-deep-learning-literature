@@ -70,7 +70,7 @@
 
 # Molecules
 - [Conformation-Guided Molecular Representation with Hamiltonian Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/hamnet_iclr21/README.md)
-- [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/forum?id=kHSu4ebxFXY)
+- [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/mars_iclr21/README.md)
 
 
 
