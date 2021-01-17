@@ -115,7 +115,7 @@
 
 # Reinforcement Learning
 - [Learning to Represent Action Values as a Hypergraph on the Action Vertices](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/hgqn_iclr21/README.md)
-- [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://openreview.net/forum?id=LmUJqB1Cz8)
+- [Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/smaac_iclr21/README.md)
 - [My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control](https://openreview.net/forum?id=N3zUDGN5lO)
 - [Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning](https://openreview.net/forum?id=-6vS_4Kfz0)
 
