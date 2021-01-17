@@ -9,23 +9,9 @@
 
 
 
-# Expressivity
-- [On Graph Neural Networks versus Graph-Augmented MLPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gamlp_iclr21/README.md)
-- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/fgnn_iclr21/README.md)
-- [Graph Convolution with Low-rank Learnable Local Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/l3net_iclr21/README.md)
-
-
-
-# Spectral Methods
-- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/spexp_iclr21/README.md)
-- [Learning Parametrised Graph Shift Operators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pgso_iclr21/README.md)
-- [Graph Coarsening with Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/goren_iclr21/README.md)
-
-
-
 # Oversmoothing, Oversquashing
-- [Simple Spectral Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/s2gc_iclr21/README.md)
 - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/osquash_iclr21/README.md)
+- [Simple Spectral Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/s2gc_iclr21/README.md)
 
 
 
@@ -35,9 +21,17 @@
 
 
 
-# Efficient Training
-- [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gttf_iclr21/README.md)
-- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dq_iclr21/README.md)
+# Spectral Methods
+- [Learning Parametrised Graph Shift Operators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/pgso_iclr21/README.md)
+- [Graph Coarsening with Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/goren_iclr21/README.md)
+- [Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/spexp_iclr21/README.md)
+
+
+
+# Expressivity
+- [On Graph Neural Networks versus Graph-Augmented MLPs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gamlp_iclr21/README.md)
+- [Expressive Power of Invariant and Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/fgnn_iclr21/README.md)
+- [Graph Convolution with Low-rank Learnable Local Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/l3net_iclr21/README.md)
 
 
 
@@ -45,6 +39,12 @@
 - [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
 - [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
+
+
+
+# Efficient Training
+- [Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gttf_iclr21/README.md)
+- [Degree-Quant: Quantization-Aware Training for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/dq_iclr21/README.md)
 
 
 
