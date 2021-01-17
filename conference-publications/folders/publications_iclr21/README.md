@@ -102,18 +102,22 @@
 
 
 
+# Graphical Models
+- [CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks](https://openreview.net/forum?id=XI-OJ5yyse)
+- [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
+- [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
+
+
+
 # Miscellaneous
 - [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://openreview.net/forum?id=UH-cmocLJC)
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://openreview.net/forum?id=8E1-f3VhX1o)
 - [Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets](https://openreview.net/forum?id=rkQuFUmUOg3)
 - [Collective Robustness Certificates](https://openreview.net/forum?id=ULQdiUTHe3y)
 - [Generative Scene Graph Networks](https://openreview.net/forum?id=RmcPm9m3tnk)
-- [Directed Acyclic Graph Neural Networks](https://openreview.net/forum?id=JbuYF437WB6)
 - [Boost then Convolve: Gradient Boosting Meets Graph Neural Networks](https://openreview.net/forum?id=ebS5NUfoMKL)
-- [CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks](https://openreview.net/forum?id=XI-OJ5yyse)
 - [INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving](https://openreview.net/forum?id=O6LPudowNQm)
 - [A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks](https://openreview.net/forum?id=TR-Nj6nFx42)
 - [On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections](https://openreview.net/forum?id=xgGS6PmzNq6)
 - [Learning Hyperbolic Representations of Topological Features](https://openreview.net/forum?id=yqPnIRhHtZv)
-- [Lossless Compression of Structured Convolutional Models via Lifting](https://openreview.net/forum?id=oxnp2q-PGL4)
 - [Graph Information Bottleneck for Subgraph Recognition](https://openreview.net/forum?id=bM4Iqfg8M2k)
