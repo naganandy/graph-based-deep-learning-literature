@@ -1,5 +1,8 @@
 
 # Surveys / Literature Reviews / Books
+- ### 2021
+   * ### [Hyperbolic Deep Neural Networks: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/hdnn_corr21/README.md)
+
 - ### 2020
    * ### [Utilising Graph Machine Learning within Drug Discovery and Development](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gmldrug_aaai20/README.md)
    * ### [Graph Representation Learning (Book)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/grl_mac20/README.md)
