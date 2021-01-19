@@ -76,6 +76,7 @@
 # The WebConf 2021 (Apr)
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pdn_webconf21/README.md)
 - [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
+- [Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/moher_webconf21/README.md)
 - [TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tedic_webconf21/README.md)
 - Graph Neural Networks for Friend Ranking in Large-scale Social Platforms
 - Knowledge Embedding Based Graph Convolutional Network
