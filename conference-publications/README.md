@@ -79,6 +79,7 @@
 - [TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tedic_webconf21/README.md)
 - [TextGNN: Improving Text Encoder via Graph Neural Network in Sponsored Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/textgnn_webconf21/README.md)
 - [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mhcn_webconf21/README.md)
+- [SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/sugar_webconf21/README.md)
 - Graph Neural Networks for Friend Ranking in Large-scale Social Platforms
 - Knowledge Embedding Based Graph Convolutional Network
 
