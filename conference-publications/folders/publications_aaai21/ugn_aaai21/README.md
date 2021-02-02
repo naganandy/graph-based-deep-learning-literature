@@ -11,3 +11,4 @@ year = {2021}
 
 links
 - [researchgate](https://www.researchgate.net/publication/346853340_Uncertain_Graph_Neural_Networks_for_Facial_Action_Unit_Detection)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-3021.SongT.pdf)
