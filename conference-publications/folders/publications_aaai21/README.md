@@ -51,7 +51,7 @@
 - [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ccrnn_aaai21/README.md)
 - [Hierarchical Graph Convolution Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcnwdf_aaai21/README.md)
 - [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gsnet_aaai21/README.md)
-- Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network
+
 
 
 # Session-based Recommendation
