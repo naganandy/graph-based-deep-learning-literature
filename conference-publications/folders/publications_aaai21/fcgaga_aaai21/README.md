@@ -11,4 +11,5 @@ year = {2021},
 
 links
 - [arXiv](https://arxiv.org/abs/2007.15531)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-9957.OreshkinB.pdf)
 - [code](https://github.com/boreshkinai/fc-gaga)
