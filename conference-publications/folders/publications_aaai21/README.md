@@ -108,7 +108,7 @@
 - [Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act Recognition and Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cogat_aaai21/README.md)
 - [A Graph Reasoning Network for Multi-turn Response Selection via Customized Pre-training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grn_aaai21/README.md)
 - [Graph-Evolving Meta-Learning for Low-Resource Medical Dialogue Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/geml_aaai2/README.md)
-- Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph Auto-Encoder 
+- [Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph Auto-Encoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/egae_aaai21/README.md)
 
 
 
