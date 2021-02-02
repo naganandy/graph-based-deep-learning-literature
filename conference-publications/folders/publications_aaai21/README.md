@@ -14,8 +14,8 @@
 
 # Heterophily
 - [Graph Neural Networks with Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cpgnn_aaai21/README.md)
-- [Why Do Attributes Propagate in Graph Convolutional Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gcc_aaai21/README.md)
 - [Beyond Low-Frequency Information in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/fagcn_aaai21/README.md)
+- [Why Do Attributes Propagate in Graph Convolutional Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gcc_aaai21/README.md)
 
 
 
