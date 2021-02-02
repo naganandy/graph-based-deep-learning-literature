@@ -139,7 +139,8 @@
 - [Gene Regulatory Network Inference as Relaxed Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/panda_aaai21/README.md)
 - [Classification by Attention: Scene Graph Classification with Prior Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/icp_aaai21/README.md)
 - [Image-to-Image Retrieval by Learning Similarity between Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/irsgs_aaai21/README.md)
-- [Semi-Supervised Learning for Multi-Task Scene Understanding by Neural Graph Consensus](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ngc_aaai21/README.md)
+- [Semi-Supervised Learning for Multi-Task Scene Understanding by Neural Graph Consensus](https://github.com/naganandy/graph-based-deep-learni- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
+ng-literature/blob/master/conference-publications/folders/publications_aaai21/ngc_aaai21/README.md)
 - [PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pcrgnn_aaai21/README.md)
 - [GDPNet: Refining Latent Multi-View Graph for Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gdpnet_aaai21/README.md)
 - [Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stfgnn_aaai21/README.md)
@@ -317,7 +318,8 @@
 - [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/attrgnn_emnlp20/README.md)
 - [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/hypergat_emnlp20/README.md)
 - [Neural Topic Modeling by Incorporating Document Relationship Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gtm_emnlp20/README.md)
-- [GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/graphdialog_emnlp20/README.md)
+- [GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems](https://github.com/nag- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
+anandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/graphdialog_emnlp20/README.md)
 - [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/ldgcn_emnlp20/README.md)
 - [Program Enhanced Fact Verification with Verbalization and Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/progvgat_emnlp20/README.md)
 - [Online Back-Parsing for AMR-to-Text Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/amrbackparsing_emnlp20/README.md)
@@ -343,7 +345,8 @@
 - [Is Graph Structure Necessary for Multi-hop Reasoning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/gmhr_emnlp20/README.md)
 
 
-</details>
+</details>- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
+
 
 
 
@@ -364,6 +367,7 @@
 <summary> more </summary> 
 
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/taxogan_icdm20/README.md)
+- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
 - [Cross-Graph: Robust and Unsupervised Embedding for Attributed Graphs with Corrupted Structure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/crossgraph_icdm20/README.md)
 - [AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/agstn_icdm20/README.md)
 - [Adversarial Active Learning based Heterogeneous Graph Neural Network for Fake News Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/aahgnn_icdm20/README.md)
