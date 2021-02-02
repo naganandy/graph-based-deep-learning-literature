@@ -25,6 +25,7 @@
 - [Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/vpn_aaai21/README.md)
 
 
+
 # Heterogeneous Graphs
 - [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
 - [Heterogeneous Graph Structure Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgsl_aaai21/README.md)
@@ -48,7 +49,7 @@
 - [Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stfgnn_aaai21/README.md)
 - [FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/fcgaga_aaai21/README.md)
 - [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ccrnn_aaai21/README.md)
-- Hierarchical Graph Convolution Network for Traffic Forecasting 
+- [Hierarchical Graph Convolution Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcnwdf_aaai21/README.md)
 - GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting 
 - Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network
 
