@@ -10,4 +10,4 @@
 ```
 
 links
-- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-6019.ZhaoKX.pdf)https://www.aaai.org/AAAI21Papers/AAAI-6019.ZhaoKX.pdf)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-6019.ZhaoKX.pdf)
