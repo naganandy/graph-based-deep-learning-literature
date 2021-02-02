@@ -11,4 +11,5 @@
 
 links
 - [arXiv](https://arxiv.org/abs/2012.11384)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-5035.XuW.pdf)
 - [code](https://github.com/xwjim/DocRE-Rec)
