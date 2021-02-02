@@ -114,7 +114,7 @@
 
 # Stories 
 - [Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mgcndp_aaai21/README.md)
-- Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling 
+- [Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gcvae_aaai21/README.md)
 
 
 
