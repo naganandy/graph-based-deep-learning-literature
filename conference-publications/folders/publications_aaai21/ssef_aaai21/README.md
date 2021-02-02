@@ -11,4 +11,5 @@ year = {2021},
 
 links
 - [arXiv](https://arxiv.org/abs/2006.12971)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-2377.SehanobishA.pdf)
 - [code](https://github.com/nealgravindra/self-supervsed_edge_feats)
