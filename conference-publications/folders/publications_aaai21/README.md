@@ -69,7 +69,7 @@
 # Graph Classification
 - [Hierarchical Graph Capsule Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcn_aaai21/README.md)
 - [Contrastive Self-supervised Learning for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cssl_aaai21/README.md)
-- Deep Wasserstein Graph Discriminant Learning for Graph Classification 
+- [Deep Wasserstein Graph Discriminant Learning for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/wgdl_aaai21/README.md)
 
 
 
