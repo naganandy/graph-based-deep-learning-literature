@@ -1,0 +1,13 @@
+# Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees
+
+```
+@inproceedings{mgcndp_aaai21,
+title = {Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees},
+author = {Qingbao Huang and Linzhang Mo and Pijian Li and Yi Cai and Qingguang Liu and Jielong Wei and Qing Li and Ho-fung Leung},
+booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+year = {2021},
+}
+```
+
+links
+- [aaai](aaai.org/AAAI21Papers/AAAI-7220.HuangQ.pdf)
