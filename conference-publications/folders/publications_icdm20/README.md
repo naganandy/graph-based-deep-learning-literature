@@ -11,7 +11,7 @@
 # Adversarial Attacks
 - [Exploratory Adversarial Attacks on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/epoatk_icdm20/README.md)
 - [Adversarial Active Learning based Heterogeneous Graph Neural Network for Fake News Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/aahgnn_icdm20/README.md)
-- Adversarial Label-Flipping Attack and Defense for Graph Neural Networks
+- [Adversarial Label-Flipping Attack and Defense for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/lafak_icdm20/README.md)
 
 
 
