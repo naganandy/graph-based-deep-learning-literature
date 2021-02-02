@@ -181,7 +181,7 @@
 - [GNNGuard: Defending Graph Neural Networks against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gnnguard_neurips20/README.md)
 
 <details> 
-<summary> more </summary> - [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
+<summary> more </summary> 
 
 - [Graph Geometry Interaction Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gil_neurips20/README.md)
 - [PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgmexplainer_neurips20/README.md)
