@@ -92,7 +92,7 @@
 
 # Question Answering
 - [KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/kgbart_aaai21/README.md)
-- Graph-Based Tri-Attention Network for Answer Ranking in CQA 
+- [Graph-Based Tri-Attention Network for Answer Ranking in CQA](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gtan_aaai21/README.md)
 
 
 
