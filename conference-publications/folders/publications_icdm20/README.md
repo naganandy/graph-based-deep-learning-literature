@@ -56,6 +56,7 @@
 # Miscellaneous
 - [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
 - [Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/otgnn_icdm20/README.md)
+- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
 - [OWGL: Open-World Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/owgl_icdm20/README.md)
 - [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/ewsgcn_icdm20/README.md)
 - [Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/infomotif_icdm20/README.md)
@@ -71,5 +72,4 @@
 - Data-Agnostic Local Neighborhood Generation
 - A Weighted Overlook Graph Representation of EEG Data for Absence Epilepsy Detection
 - PERFECT: A Hyperbolic Embedding for Joint Social Network Alignment
-- The Necessity of Geometrical Representation for Deep Graph Analysis
 - Deep Semantic Network Representation
