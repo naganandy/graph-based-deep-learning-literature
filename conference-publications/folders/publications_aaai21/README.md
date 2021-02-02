@@ -75,7 +75,7 @@
 
 # Graph Matching
 - [Gene Regulatory Network Inference as Relaxed Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/panda_aaai21/README.md)
-- Proxy Graph Matching with Proximal Matching Networks 
+- [Proxy Graph Matching with Proximal Matching Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dpgm_aaai21/README.md)
 - IA-GM: A Deep Bidirectional Learning Method for Graph Matching 
 - Dynamic Knowledge Graph Alignment 
 
