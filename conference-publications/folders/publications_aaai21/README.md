@@ -60,12 +60,6 @@
 
 
 
-# COVID-19
-- [Transfer Graph Neural Networks for Pandemic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mpnntl_aaai21/README.md)
-- [Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-supervised Edge Features and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ssef_aaai21/README.md)
-
-
-
 # Graph Classification
 - [Hierarchical Graph Capsule Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcn_aaai21/README.md)
 - [Contrastive Self-supervised Learning for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cssl_aaai21/README.md)
@@ -118,8 +112,14 @@
 
 
 
-# Computer Vision
+# COVID-19
+- [Transfer Graph Neural Networks for Pandemic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mpnntl_aaai21/README.md)
+- [Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-supervised Edge Features and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ssef_aaai21/README.md)
  - [Context Matters: Graph-based Self-supervised Representation Learning for Medical Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cassl_aaai21/README.md)
+
+
+
+# Computer Vision
 - [Movie Summarization via Sparse Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphtp_aaai21/README.md)
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
 - [Uncertain Graph Neural Networks for Facial Action Unit Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ugn_aaai21/README.md)
