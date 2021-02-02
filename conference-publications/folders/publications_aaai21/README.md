@@ -8,7 +8,7 @@
 - [Rethinking Graph Regularization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/preg_aaai21/README.md)
 - [Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cg_aaai21/README.md)
 - [Data Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gaug_aaai21/README.md)
-- Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph 
+- [Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rale_aaai21/README.md)
 
 
 
