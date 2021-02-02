@@ -26,7 +26,7 @@
 
 # Heterogeneous Graphs
 - [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
-- Heterogeneous Graph Structure Learning for Graph Neural Networks 
+- [Heterogeneous Graph Structure Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgsl_aaai21/README.md)
 
 
 
