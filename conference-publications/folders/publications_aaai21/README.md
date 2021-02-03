@@ -146,7 +146,7 @@
 
 
 # Video Dialogue
-- Structured Co-Reference Graph Attention for Video-Grounded Dialogue Analysis and Graph Neural Network 
+- [Structured Co-Reference Graph Attention for Video-Grounded Dialogue Analysis and Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/scga_aaai21/README.md)
 - Dynamic Graph Representation Learning for Video Dialog via Multi-Modal Shuffled Transformers
 
 
