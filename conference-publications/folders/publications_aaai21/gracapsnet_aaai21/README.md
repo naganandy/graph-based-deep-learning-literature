@@ -5,7 +5,7 @@
 title = {Interpretable Graph Capsule Networks for Object Recognition},
 author = {Jindong Gu and Volker Tresp},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-year = {2021},
+year = {2021}
 }
 ```
 
