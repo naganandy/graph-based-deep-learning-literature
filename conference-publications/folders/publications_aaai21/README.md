@@ -129,7 +129,7 @@
 - [Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mstgcn_aaai21/README.md)
 - [Disentangled Motif-Aware Graph Learning for Phrase Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dign_aaai21/README.md)
 - [Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/umgf_aaai21/README.md)
-- Consensus Graph Representation Learning for Better Grounded Image Captioning 
+- [Consensus Graph Representation Learning for Better Grounded Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cgrl_aaai21/README.md)
 - Modular Graph Transformer Networks for Multi-Label Image Classification 
 - Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory 
 - Multi-Scale Graph Fusion for Co-Saliency Detection 
