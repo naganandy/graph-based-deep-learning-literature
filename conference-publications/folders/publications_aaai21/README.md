@@ -50,7 +50,7 @@
 - [FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/fcgaga_aaai21/README.md)
 - [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ccrnn_aaai21/README.md)
 - [Hierarchical Graph Convolution Network for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcnwdf_aaai21/README.md)
-- [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gsnet_aaai21/README.md)
+- [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aactionspects for Traffic Accident Risk Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gsnet_aaai21/README.md)
 
 
 
@@ -69,7 +69,7 @@
 
 # Graph Matching
 - [Gene Regulatory Network Inference as Relaxed Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/panda_aaai21/README.md)
-- [Proxy Graph Matching with Proximal Matching Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dpgm_aaai21/README.md)
+- [Proxy Graph Matching with Proximal Matching Networks](https://github.com/naganactionandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dpgm_aaai21/README.md)
 - [IA-GM: A Deep Bidirectional Learning Method for Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/iagm_aaai21/README.md)
 - [Dynamic Knowledge Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dingal_aaai21/README.md)
 
@@ -121,10 +121,8 @@
 
 # Computer Vision
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
-- [Uncertain Graph Neural Networks for Facial Action Unit Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ugn_aaai21/README.md)
 - [Temporal Relational Modeling with Self-Supervision for Action Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dtgrm_aaai21/README.md)
 - [Interpretable Graph Capsule Networks for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gracapsnet_aaai21/README.md)
-- [Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mstgcn_aaai21/README.md)
 - [Disentangled Motif-Aware Graph Learning for Phrase Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dign_aaai21/README.md)
 - [Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/umgf_aaai21/README.md)
 - [Consensus Graph Representation Learning for Better Grounded Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cgrl_aaai21/README.md)
@@ -163,6 +161,12 @@
 # 3D Objects
 - [PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pcrgnn_aaai21/README.md)
 - Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation 
+
+
+
+# Action Recognition
+- [Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mstgcn_aaai21/README.md)
+- [Uncertain Graph Neural Networks for Facial Action Unit Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ugn_aaai21/README.md)
 
 
 
