@@ -5,7 +5,7 @@
 title = {Deep Wasserstein Graph Discriminant Learning for Graph Classification},
 author = {Tong Zhang and Yun Wang and Zhen Cui and Chuanwei Zhou and Baoliang Cui and Haikuan Huang and Jian Yang},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-year = {2021},
+year = {2021}
 }
 ```
 
