@@ -5,7 +5,7 @@
 title = {Contrastive Self-supervised Learning for Graph Classification},
 author = {Jiaqi Zeng and Pengtao Xie},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-year = {2021},
+year = {2021}
 }
 ```
 
