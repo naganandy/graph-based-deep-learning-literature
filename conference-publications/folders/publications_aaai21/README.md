@@ -34,7 +34,7 @@
 
 # Inductive Relation Prediction
 - [Communicative Message Passing for Inductive Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/compile_aaai21/README.md)
-- [Topology-Aware Correlations between Relations for Inductive Link Prediction in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/tact_aaai21/README.md)https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mgtn_aaai21/README.md
+- [Topology-Aware Correlations between Relations for Inductive Link Prediction in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/tact_aaai21/README.md)
 
 
 
