@@ -1,9 +1,9 @@
 # Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance
 
 ```
-@inproceedings{dign_aaai21,
-title = {Disentangled Motif-Aware Graph Learning for Phrase Grounding},
-author = {Zongshen Mu and Siliang Tang and Jie Tan and Qiang Yu and Yueting Zhuang},
+@inproceedings{umgf_aaai21,
+title = {Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance},
+author = {Dong Zhang and Suzhong Wei and Shoushan Li and Hanqian Wu and Zhu Qiaoming and Zhou Guodong},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
 year = {2021}
 }
