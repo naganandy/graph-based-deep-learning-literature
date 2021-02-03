@@ -5,7 +5,7 @@
 title = {Rethinking Graph Regularization for Graph Neural Networks},
 author = {Han Yang and Kaili Ma and James Cheng},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-year = {2021},
+year = {2021}
 }
 ```
 
