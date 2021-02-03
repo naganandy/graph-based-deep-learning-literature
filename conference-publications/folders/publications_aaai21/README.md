@@ -186,7 +186,7 @@
 
 # Pose Estimation
 - [Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/jvtcn_aaai21/README.md)
-- RSGNet: Relation Based Skeleton Graph Network for Crowded Scenes Pose Estimation 
+- [RSGNet: Relation Based Skeleton Graph Network for Crowded Scenes Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rsgnet_aaai21/README.md)
 
 
 
