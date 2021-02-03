@@ -121,7 +121,6 @@
 
 # Computer Vision
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
-- [Temporal Relational Modeling with Self-Supervision for Action Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dtgrm_aaai21/README.md)
 - [Interpretable Graph Capsule Networks for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gracapsnet_aaai21/README.md)
 - [Disentangled Motif-Aware Graph Learning for Phrase Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dign_aaai21/README.md)
 - [Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/umgf_aaai21/README.md)
@@ -166,6 +165,7 @@
 
 # Action Recognition
 - [Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mstgcn_aaai21/README.md)
+- [Temporal Relational Modeling with Self-Supervision for Action Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dtgrm_aaai21/README.md)
 - [Uncertain Graph Neural Networks for Facial Action Unit Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ugn_aaai21/README.md)
 
 
