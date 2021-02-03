@@ -216,7 +216,7 @@
 - [Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/otcoarsening_aaai21/README.md)
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gdn_aaai21/README.md)
 - [Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rigrl_aaai21/README.md)
-- Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
+- [Graph Neural Network to Dilute Outliers for Refactoring Monolith Application](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cogcn_aaai21/README.md)
 - Neural Relational Inference with Efficient Message Passing Mechanisms 
 - Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training 
 - Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field 
