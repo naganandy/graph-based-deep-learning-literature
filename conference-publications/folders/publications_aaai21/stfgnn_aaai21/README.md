@@ -5,7 +5,7 @@
 title = {Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting},
 author = {Li Mengzhang and Zhu Zhanxing},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-year = {2021},
+year = {2021}
 }
 ```
 
