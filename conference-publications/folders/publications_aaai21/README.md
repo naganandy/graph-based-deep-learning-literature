@@ -167,7 +167,7 @@
 
 # 3D Objects
 - [PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/pcrgnn_aaai21/README.md)
-- Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation 
+- [Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/tgnn_aaai21/README.md)
 
 
 
