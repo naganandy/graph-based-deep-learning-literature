@@ -180,7 +180,7 @@
 
 # Target Re-identification
  - [Context-Aware Graph Convolution Network for Target Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cagcn_aaai21/README.md)
-- Unsupervised Domain Adaptation for Person Re-Identification via Heterogeneous Graph 
+- [Unsupervised Domain Adaptation for Person Re-Identification via Heterogeneous Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hga_aaai21/README.md)
 
 
 
