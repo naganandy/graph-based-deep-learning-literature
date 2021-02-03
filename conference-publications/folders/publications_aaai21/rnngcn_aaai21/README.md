@@ -5,7 +5,7 @@
 title = {Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks},
 author = {Yuhang Yao and Carlee Joe-Wong},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-year = {2021},
+year = {2021}
 }
 ```
 
