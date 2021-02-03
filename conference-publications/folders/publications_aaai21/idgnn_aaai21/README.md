@@ -12,3 +12,4 @@ year = {2021},
 links
 - [project](http://snap.stanford.edu/idgnn/)
 - [arXiv](https://arxiv.org/abs/2101.10320)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-9998.YouJ.pdf)
