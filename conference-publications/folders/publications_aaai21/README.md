@@ -193,7 +193,7 @@
 # Neural Architecture Search
 - [Fitting the Search Space of Weight-sharing NAS with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/nasgcn_aaai21/README.md)
 - [NASGEM: Neural Architecture Search via Graph Embedding Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/nasgem_aaai21/README.md)
-- One-Shot Graph Neural Architecture Search with Dynamic Search Space 
+- [One-Shot Graph Neural Architecture Search with Dynamic Search Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dss_aaai21/README.md)
 
 
 
