@@ -153,7 +153,7 @@
 
 # Cross-Modal Retrieval
 - [Deep Graph-Neighbor Coherence Preserving Network for Unsupervised Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dgcpn_aaai21/README.md)
-- Dual Adversarial Graph Neural Networks for Multi-Label Cross-Modal Retrieval 
+- [Dual Adversarial Graph Neural Networks for Multi-Label Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dagnn_aaai21/README.md)
 
 
 
