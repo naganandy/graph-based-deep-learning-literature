@@ -10,4 +10,4 @@ year = {2021}
 ```
 
 links
-- [aaai](https://virtual.2021.aaai.org/paper_AAAI-69.html)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-69.KimJ.pdf)
