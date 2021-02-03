@@ -125,7 +125,7 @@
 - [Uncertain Graph Neural Networks for Facial Action Unit Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ugn_aaai21/README.md)
 - [Temporal Relational Modeling with Self-Supervision for Action Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dtgrm_aaai21/README.md)
 - [Interpretable Graph Capsule Networks for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gracapsnet_aaai21/README.md)
-- Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning 
+- [Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/irw_aaai21/README.md)
 - Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition
 - Disentangled Motif-Aware Graph Learning for Phrase Grounding 
 - Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance 
