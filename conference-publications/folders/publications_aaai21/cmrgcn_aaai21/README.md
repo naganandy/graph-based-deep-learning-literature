@@ -1,7 +1,7 @@
 # Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction
 
 ```
-@inproceedings{moher_webconf21,
+@inproceedings{cmrgcn_aaai21,
 author = {Qiang Zhou and Jingjing Gu and Xinjiang Lu and Fuzhen Zhuang and Yanchao Zhao and Qiuhong Wang and Xiao Zhang},
 title = {Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction},
 year = {2021},
