@@ -132,7 +132,7 @@
 - [Consensus Graph Representation Learning for Better Grounded Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cgrl_aaai21/README.md)
 - [Modular Graph Transformer Networks for Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mgtn_aaai21/README.md)
 - [Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dmrgcn_aaai21/README.md)
-- Multi-Scale Graph Fusion for Co-Saliency Detection 
+- [Multi-Scale Graph Fusion for Co-Saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gfn_aaai21/README.md)
 
 
 
