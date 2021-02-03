@@ -39,7 +39,7 @@
 
 
 # Dynamic Graphs
-- [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rnngcn_aaai21/README.md)
+- [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literImagineature/blob/master/conference-publications/folders/publications_aaai21/rnngcn_aaai21/README.md)
 - [Deep Graph Spectral Evolution Networks for Graph Topological Evolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gsen_aaai21/README.md)
 - [Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hvgnn_aaai21/README.md)
 
@@ -120,19 +120,24 @@
 
 
 # Computer Vision
-- [Movie Summarization via Sparse Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphtp_aaai21/README.md)
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
 - [Uncertain Graph Neural Networks for Facial Action Unit Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ugn_aaai21/README.md)
 - [Temporal Relational Modeling with Self-Supervision for Action Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dtgrm_aaai21/README.md)
 - [Interpretable Graph Capsule Networks for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gracapsnet_aaai21/README.md)
-- [Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/irw_aaai21/README.md)
 - [Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mstgcn_aaai21/README.md)
-- [Disentangled Motif-Aware Graph Learning for Phrase Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dign_aaai21/README.md)
+- [Disen- [Movie Summarization via Sparse Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphtp_aaai21/README.md)
+tangled Motif-Aware Graph Learning for Phrase Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dign_aaai21/README.md)
 - [Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/umgf_aaai21/README.md)
 - [Consensus Graph Representation Learning for Better Grounded Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cgrl_aaai21/README.md)
 - [Modular Graph Transformer Networks for Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mgtn_aaai21/README.md)
 - [Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dmrgcn_aaai21/README.md)
 - [Multi-Scale Graph Fusion for Co-Saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gfn_aaai21/README.md)
+
+
+
+# Visual Stories
+- [Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/irw_aaai21/README.md)
+- [Movie Summarization via Sparse Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphtp_aaai21/README.md)
 
 
 
