@@ -120,12 +120,16 @@
 
 
 # Computer Vision
-- [Modular Graph Transformer Networks for Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mgtn_aaai21/README.md)
 - [Spatiotemporal Graph Neural Network based Mask Reconstruction for Video Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/stgnet_aaai21/README.md)
-- [Interpretable Graph Capsule Networks for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gracapsnet_aaai21/README.md)
 - [Multi-Modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/umgf_aaai21/README.md)
 - [Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dmrgcn_aaai21/README.md)
 - [Multi-Scale Graph Fusion for Co-Saliency Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gfn_aaai21/README.md)
+
+
+
+# Image Classification
+- [Modular Graph Transformer Networks for Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mgtn_aaai21/README.md)
+- [Interpretable Graph Capsule Networks for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gracapsnet_aaai21/README.md)
 
 
 
