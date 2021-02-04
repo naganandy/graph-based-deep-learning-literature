@@ -33,14 +33,29 @@
 
 
 # Heterogeneous Graphs
+- [GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmse_aaai21/README.md)
 - [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
 - [Heterogeneous Graph Structure Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgsl_aaai21/README.md)
+- [Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/relgnn_aaai21/README.md)
 
 
 
 # Inductive Relation Prediction
 - [Communicative Message Passing for Inductive Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/compile_aaai21/README.md)
 - [Topology-Aware Correlations between Relations for Inductive Link Prediction in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/tact_aaai21/README.md)
+
+
+
+# Multi-Relational Recommendation
+- [Graph Heterogeneous Multi-Relational Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ghcf_aaai21/README.md)
+- [Knowledge-Aware Coupled Graph Neural Network for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/kcgn_aaai21/README.md)
+- [Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/khgt_aaai21/README.md)
+
+
+
+# Session-based Recommendation
+- [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dhcn_aaai21/README.md)
+- [Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-Based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mtd_aaai21/README.md)
 
 
 
@@ -61,16 +76,16 @@
 
 
 
-# Session-based Recommendation
-- [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/dhcn_aaai21/README.md)
-- [Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-Based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/mtd_aaai21/README.md)
-
-
-
 # Graph Classification
 - [Hierarchical Graph Capsule Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgcn_aaai21/README.md)
 - [Contrastive Self-supervised Learning for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cssl_aaai21/README.md)
 - [Deep Wasserstein Graph Discriminant Learning for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/wgdl_aaai21/README.md)
+
+
+
+# Molecules
+- [MolGrow: A Graph Normalizing Flow for Hierarchical Molecular Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/molgrow_aaai21/README.md)
+- [GTA: Graph Truncated Attention for Retrosynthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gta_aaai21/README.md)
 
 
 
@@ -217,26 +232,14 @@
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gdn_aaai21/README.md)
 - [Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/rigrl_aaai21/README.md)
 - [Graph Neural Network to Dilute Outliers for Refactoring Monolith Application](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cogcn_aaai21/README.md)
-- Neural Relational Inference with Efficient Message Passing Mechanisms 
-- Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training 
-- Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field 
-- Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank 
-- Knowledge-Aware Coupled Graph Neural Network for Social Recommendation 
-- Learning to Pre-Train Graph Neural Networks 
-- Graph Heterogeneous Multi-Relational Recommendation 
-- Deep Metric Learning with Graph Consistency 
-- Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs 
-- Enhancing Scientific Papers Summarization with Citation Graph 
-- Isolation Graph Kernel 
-- Tri-Level Robust Clustering Ensemble with Multiple Graph Learning 
-- Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation 
-- Graph Game Embedding 
-- Graph-to-Graph: Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition  
-- MolGrow: A Graph Normalizing Flow for Hierarchical Molecular Generation 
-- ChronoR: Rotation Based Temporal Knowledge Graph Embedding 
-- Cost-Aware Graph Generation: A Deep Bayesian Optimization Approach 
-- GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks 
-- Randomized Generation of Adversary-Aware Fake Knowledge Graphs to Combat Intellectual Property Theft 
-- Scalable and Explainable 1-Bit Matrix Completion via Graph Signal Learning 
-- GTA: Graph Truncated Attention for Retrosynthesis 
-- Estimating the Number of Induced Subgraphs from Incomplete Data and Neighborhood 
+- [Neural Relational Inference with Efficient Message Passing Mechanisms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/nrimpn_aaai21/README.md)
+- [Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grc_aaai21/README.md)
+- [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/sthan_aaai21/README.md)
+- [Learning to Pre-Train Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/l2pgnn_aaai21/README.md)
+- [Deep Metric Learning with Graph Consistency](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cgml_aaai21/README.md)
+- [Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ccag_aaai21/README.md)
+- [Enhancing Scientific Papers Summarization with Citation Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/ssn_aaai21/README.md)
+- [Isolation Graph Kernel](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/igk_aaai21/README.md)
+- [Graph Game Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/gge_aaai21/README.md)
+- [Graph-to-Graph: Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/g2ghmer_aaai21/README.md)
+- [Cost-Aware Graph Generation: A Deep Bayesian Optimization Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cagg_aaai21/README.md)
