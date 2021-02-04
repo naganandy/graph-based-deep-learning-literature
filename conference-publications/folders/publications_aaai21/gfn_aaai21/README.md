@@ -10,4 +10,4 @@
 ```
 
 links
-- [aaai](aaai.org/AAAI21Papers/AAAI-6941.HuR.pdf)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-6941.HuR.pdf)
