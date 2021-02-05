@@ -40,9 +40,9 @@
 
 # Heterogeneous Graphs
 - [GraphMSE: Efficient Meta-path Selection in Semantically Aligned Feature Space for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmse_aaai21/README.md)
-- [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
 - [Heterogeneous Graph Structure Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/hgsl_aaai21/README.md)
 - [Relation-Aware Graph Attention Model with Adaptive Self-Adversarial Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/relgnn_aaai21/README.md)
+- [Generalized Relation Learning with Semantic Correlation Awareness for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grl_aaai21/README.md)
 
 
 
