@@ -99,9 +99,9 @@
 
 
 # Natural Language Processing
+- [A Graph-Based Relevance Matching Model for Ad-Hoc Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grmm_aaai21/README.md)
 - [Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/cwt_aaai21/README.md)
 - [Neural Sentence Ordering Based on Constraint Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/nsocg_aaai21/README.md)
-- [A Graph-Based Relevance Matching Model for Ad-Hoc Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/grmm_aaai21/README.md)
 - [LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/let_aaai21/README.md)
 - [EQG-RACE: Examination-Type Question Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/eqgrace_aaai21/README.md)
 
