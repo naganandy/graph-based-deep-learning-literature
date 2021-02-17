@@ -80,19 +80,20 @@
 # [The WebConf 2021 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/README.md)
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pdn_webconf21/README.md)
 - [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pta_webconf21/README.md)
+- [HDMI: High-order Deep Multiplex Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/hdmi_webconf21/README.md)
+- [Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dualhgcn_webconf21/README.md)
 - [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
 - [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kpgnn_webconf21/README.md)
 - [TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tedic_webconf21/README.md)
 - [TextGNN: Improving Text Encoder via Graph Neural Network in Sponsored Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/textgnn_webconf21/README.md)
 - [Mask-GVAE: Blind Denoising Graphs via Partition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/maskgvae_webconf21/README.md)
-- [Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dualhgcn_webconf21/README.md)
 - [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mhcn_webconf21/README.md)
-- [ComQA:Compositional Question Answering via Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/comqa_webconf21/README.md)
 
 
 <details> 
 <summary> more </summary> 
  
+- [ComQA:Compositional Question Answering via Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/comqa_webconf21/README.md)
 - [SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/sugar_webconf21/README.md)
 - [RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/retagnn_webconf21/README.md)
 - [OntoZSL: Ontology-enhanced Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ontozsl_webconf21/README.md)
