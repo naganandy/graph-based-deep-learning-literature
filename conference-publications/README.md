@@ -91,6 +91,7 @@
 - [SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/sugar_webconf21/README.md)
 - [RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/retagnn_webconf21/README.md)
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/grafrank_webconf21/README.md)
+- [Learning Intents behind Interactions with Knowledge Graph for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kgin_webconf21/README.md)
 - Knowledge Embedding Based Graph Convolutional Network
 
 
