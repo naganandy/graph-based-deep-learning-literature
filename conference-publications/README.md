@@ -77,7 +77,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# The WebConf 2021 (Apr)
+# [The WebConf 2021 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/README.md)
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pdn_webconf21/README.md)
 - [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pta_webconf21/README.md)
 - [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
