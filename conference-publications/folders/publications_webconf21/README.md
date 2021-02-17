@@ -4,7 +4,7 @@
 # Temporal Structures
 - [TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tedic_webconf21/README.md)
 - [RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/retagnn_webconf21/README.md)
-
+- [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/radflow_webconf21/README.md)
 
 
 # Higher-order Structures
