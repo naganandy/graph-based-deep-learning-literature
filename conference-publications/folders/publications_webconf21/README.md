@@ -1,10 +1,9 @@
 # Publications in The Web Conference 2021
 
-# Knowledge Graphs
-- [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kpgnn_webconf21/README.md)
-- [Learning Intents behind Interactions with Knowledge Graph for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kgin_webconf21/README.md)
-- [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
-- Knowledge Embedding Based Graph Convolutional Network
+
+# Temporal Structures
+- [TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tedic_webconf21/README.md)
+- [RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/retagnn_webconf21/README.md)
 
 
 
@@ -14,15 +13,17 @@
 
 
 
-# Temporal Structures
-- [TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tedic_webconf21/README.md)
-- [RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/retagnn_webconf21/README.md)
+# Knowledge Graphs
+- [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kpgnn_webconf21/README.md)
+- [Learning Intents behind Interactions with Knowledge Graph for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kgin_webconf21/README.md)
+- [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
+- Knowledge Embedding Based Graph Convolutional Network
 
 
 
 # Computer Vision
-- [ComQA:Compositional Question Answering via Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/comqa_webconf21/README.md)
 - [OntoZSL: Ontology-enhanced Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ontozsl_webconf21/README.md)
+- [ComQA:Compositional Question Answering via Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/comqa_webconf21/README.md)
 
 
 
