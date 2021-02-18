@@ -93,6 +93,7 @@
 <details> 
 <summary> more </summary> 
  
+- [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/slice_webconf21/README.md)
 - [ComQA:Compositional Question Answering via Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/comqa_webconf21/README.md)
 - [SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/sugar_webconf21/README.md)
 - [RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/retagnn_webconf21/README.md)
