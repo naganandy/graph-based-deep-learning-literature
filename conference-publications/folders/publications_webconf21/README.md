@@ -8,9 +8,9 @@
 
 
 # Higher-order Structures
-- [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mhcn_webconf21/README.md)
 - [HDMI: High-order Deep Multiplex Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/hdmi_webconf21/README.md)
 - [Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dualhgcn_webconf21/README.md)
+- [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mhcn_webconf21/README.md)
 
 
 
