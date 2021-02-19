@@ -4,7 +4,7 @@
 @article{dygnn_arxiv20,
 author    = {Joakim Skarding and Bogdan Gabrys and Katarzyna Musial},
 title     = {Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey},
-journal   = {CoRR},
+journal   = {Computing Research Repository (CoRR)},
 volume    = {abs/2005.07496},
 year      = {2020}
 }
