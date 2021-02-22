@@ -2,9 +2,10 @@
 
 ```
 @inproceedings{cat_icdm20,
-  author    = {Zhongjing Yu and Han Wang and Yang Liu and Christian Bohm and Junming Shao},
+  author    = {Zhongjing Yu and Han Wang and Yang Liu and Christian B{\"{o}}hm and Junming Shao},
   title     = {Community Attention Network for Semi-Supervised Node Classification},
-  booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
+  booktitle = {20th {IEEE} International Conference on Data Mining (ICDM)},
+  pages     = {1382--1387},
   year      = {2020}
 }
 ```
