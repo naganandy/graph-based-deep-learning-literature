@@ -4,7 +4,7 @@
 
 # Graph-based Semi-Supervised Learning
 - GraphEBM: Energy-based Graph Construction for Semi-Supervised Learning
-- Community Attention Network for Semi-supervised Node Classification
+- [Community Attention Network for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/cat_icdm20/README.md)
 
 
 
