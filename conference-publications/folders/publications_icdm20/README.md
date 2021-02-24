@@ -43,7 +43,7 @@
 # Hierarchical Structures
 - [Meta-path Hierarchical Heterogeneous Graph Convolution Network for High Potential Scholar Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mhhgcn_icdm20/README.md)
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/taxogan_icdm20/README.md)
-- Global Context Enhanced Social Recommendation with Hierarchical Graph Neural Networks
+- [Global Context Enhanced Social Recommendation with Hierarchical Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/srhgnn_icdm20/README.md)
 
 
 
