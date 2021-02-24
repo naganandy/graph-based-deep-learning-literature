@@ -2,15 +2,15 @@
 
 
 
-# Self-Supervision
-- [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
-- [Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/otgnn_icdm20/README.md)
-
-
-
 # Graph-based Semi-Supervised Learning
 - [Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/infomotif_icdm20/README.md)
 - [Community Attention Network for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/cat_icdm20/README.md)
+
+
+
+# Self-Supervision
+- [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
+- [Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/otgnn_icdm20/README.md)
 
 
 
