@@ -11,7 +11,12 @@
 # Heterogeneous Graphs
 - [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/slice_webconf21/README.md)
 - [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kpgnn_webconf21/README.md)
+
+
+
+# Bipartite Graphs
 - [Learning Fair Representations for Bipartite Graph based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/fairgo_webconf21/README.md)
+- [Interest-aware Message-Passing GCN for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/impgcn_webconf21/README.md)
 
 
 
@@ -45,7 +50,6 @@
 - [OntoZSL: Ontology-enhanced Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ontozsl_webconf21/README.md)
 - [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pta_webconf21/README.md)
 - [Few-Shot Graph Learning for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/metamgnn_webconf21/README.md)
-- [Interest-aware Message-Passing GCN for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/impgcn_webconf21/README.md)
 - [Mask-GVAE: Blind Denoising Graphs via Partition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/maskgvae_webconf21/README.md)
 - [SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/sugar_webconf21/README.md)
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/grafrank_webconf21/README.md)
