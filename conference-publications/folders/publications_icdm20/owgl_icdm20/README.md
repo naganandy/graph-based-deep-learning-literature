@@ -4,7 +4,7 @@
 @inproceedings{owgl_icdm20,
   author    = {Man Wu and Shirui Pan and Xingquan Zhu},
   title     = {OWGL: Open-World Graph Learning},
-  booktitle = {20TH {IEEE} International Conference on Data Mining (ICDM)},
+  booktitle = {20th {IEEE} International Conference on Data Mining (ICDM)},
   pages     = {681--690},
   year      = {2020}
 }
