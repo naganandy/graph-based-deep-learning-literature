@@ -27,7 +27,7 @@
 - [STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/stgcn_icdm20/README.md)
 - [TSSRGCN: Temporal Spectral Spatial Retrieval Graph Convolutional Network for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/tssrgcn_icdm20/README.md)
 - [AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/agstn_icdm20/README.md)
-- Spatiotemporal Hypergraph Convolution Networks for Stock Movement Forecasting
+- [Spatiotemporal Hypergraph Convolution Networks for Stock Movement Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/sthgcn_icdm20/README.md)
 
 
 
