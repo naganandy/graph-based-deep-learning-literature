@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{agstn_icdm20,
-author = {Yi-Ju Lu and Cheng-Te Li},
+author = {Yi{-}Ju Lu and Cheng{-}Te Li},
 title = {AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting},
 booktitle = {{IEEE} International Conference on Data Mining (ICDM)},
 pages = {1148--1153},
