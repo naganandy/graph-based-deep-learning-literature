@@ -35,7 +35,7 @@
 - [Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmg_icdm20/README.md)
 - [Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmgnn_icdm20/README.md)
 - [Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mapairrnn_icdm20/README.md)
-- A Heterogeneous Spatiotemporal Network for Lightning Prediction
+- [A Heterogeneous Spatiotemporal Network for Lightning Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hstn_icdm20/README.md)
 - Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market
 
 
