@@ -2,6 +2,12 @@
 
 
 
+# Self-Supervision
+- [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
+- [Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/otgnn_icdm20/README.md)
+
+
+
 # Graph-based Semi-Supervised Learning
 - GraphEBM: Energy-based Graph Construction for Semi-Supervised Learning
 - [Community Attention Network for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/cat_icdm20/README.md)
@@ -54,8 +60,6 @@
 
 
 # Miscellaneous
-- [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
-- [Toward Unsupervised Graph Neural Network: Interactive Clustering and Embedding via Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/otgnn_icdm20/README.md)
 - [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
 - [OWGL: Open-World Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/owgl_icdm20/README.md)
 - [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/ewsgcn_icdm20/README.md)
