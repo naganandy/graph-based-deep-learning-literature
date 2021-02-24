@@ -32,24 +32,24 @@
 
 
 # Heterogeneous Networks
+- [A Heterogeneous Spatiotemporal Network for Lightning Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hstn_icdm20/README.md)
 - [Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmg_icdm20/README.md)
 - [Heterogeneous Mini-Graph Neural Network and Its Application to Fraud Invitation Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hmgnn_icdm20/README.md)
-- [Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mapairrnn_icdm20/README.md)
-- [A Heterogeneous Spatiotemporal Network for Lightning Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/hstn_icdm20/README.md)
 - [Metagraph Aggregated Heterogeneous Graph Neural Network for Illicit Traded Product Identification in Underground Market](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mhgnn_icdm20/README.md)
+- [Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mapairrnn_icdm20/README.md)
+
+
+
+# Hierarchical Structures
+- Meta-path Hierarchical Heterogeneous Graph Convolution Network for High Potential Scholar Recognition
+- [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/taxogan_icdm20/README.md)
+- Global Context Enhanced Social Recommendation with Hierarchical Graph Neural Networks
 
 
 
 # Collaborative Filtering
 - [Dynamic Graph Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/dgcf_icdm20/README.md)
 - [Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/metacf_icdm20/README.md)
-
-
-
-# Hierarchical Structures
-- [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/taxogan_icdm20/README.md)
-- Meta-path Hierarchical Heterogeneous Graph Convolution Network for High Potential Scholar Recognition
-- Global Context Enhanced Social Recommendation with Hierarchical Graph Neural Networks
 
 
 
