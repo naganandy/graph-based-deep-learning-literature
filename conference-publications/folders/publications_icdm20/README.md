@@ -11,6 +11,7 @@
 
 # Graph Pooling
 - [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
+- [Graph Pooling with Representativeness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/reppool_icdm20/README.md)
 
 
 
@@ -73,7 +74,6 @@
 - [NF-VGA: Incorporating Normalizing Flows into Graph Variational Autoencoder for Embedding Attribute Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/nfvga_icdm20/README.md)
 - Rethinking Local Community Detection: Query Nodes Replacement
 - NAG: Neural feature aggregation framework for credit card fraud detection
-- Graph Pooling with Representativeness
 - Multi-Granular Active Learning with Networked Data: A Model-Free Approach
 - AtNE-Trust: Attributed Trust Network Embedding for Trust Prediction in Online Social Networks
 - Data-Agnostic Local Neighborhood Generation
