@@ -73,5 +73,4 @@
 - [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/ewsgcn_icdm20/README.md)
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mtadgat_icdm20/README.md)
 - [NF-VGA: Incorporating Normalizing Flows into Graph Variational Autoencoder for Embedding Attribute Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/nfvga_icdm20/README.md)
-- PERFECT: A Hyperbolic Embedding for Joint Social Network Alignment
 - Deep Semantic Network Representation
