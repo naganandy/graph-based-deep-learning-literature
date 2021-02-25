@@ -69,10 +69,10 @@
 
 # Miscellaneous
 - [OWGL: Open-World Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/owgl_icdm20/README.md)
+- [Active Learning with Multi-granular Graph Auto-Encoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/taca_icdm20/README.md)
 - [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/ewsgcn_icdm20/README.md)
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mtadgat_icdm20/README.md)
 - [NF-VGA: Incorporating Normalizing Flows into Graph Variational Autoencoder for Embedding Attribute Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/nfvga_icdm20/README.md)
-- Multi-Granular Active Learning with Networked Data: A Model-Free Approach
 - AtNE-Trust: Attributed Trust Network Embedding for Trust Prediction in Online Social Networks
 - Data-Agnostic Local Neighborhood Generation
 - A Weighted Overlook Graph Representation of EEG Data for Absence Epilepsy Detection
