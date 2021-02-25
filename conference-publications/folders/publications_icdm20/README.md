@@ -5,6 +5,12 @@
 # Graph-based Semi-Supervised Learning
 - [Beyond Localized Graph Neural Networks: An Attributed Motif Regularization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/infomotif_icdm20/README.md)
 - [Community Attention Network for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/cat_icdm20/README.md)
+- [LFGCN: Levitating over Graphs with Levy Flights](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/lfgcn_icdm20/README.md)
+
+
+
+# Graph Pooling
+- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
 
 
 
@@ -61,11 +67,9 @@
 
 
 # Miscellaneous
-- [The Necessity of Geometrical Representation for Deep Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/gnnesr_icdm20/README.md)
 - [OWGL: Open-World Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/owgl_icdm20/README.md)
 - [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/ewsgcn_icdm20/README.md)
 - [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/mtadgat_icdm20/README.md)
-- [LFGCN: Levitating over Graphs with Levy Flights](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/lfgcn_icdm20/README.md)
 - [NF-VGA: Incorporating Normalizing Flows into Graph Variational Autoencoder for Embedding Attribute Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/nfvga_icdm20/README.md)
 - Rethinking Local Community Detection: Query Nodes Replacement
 - NAG: Neural feature aggregation framework for credit card fraud detection
