@@ -8,14 +8,6 @@
 
 
 
-# Heterogeneous Graphs
-- [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/slice_webconf21/README.md)
-- [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kpgnn_webconf21/README.md)
-- [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/grafrank_webconf21/README.md)
-- [Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ltrn_webconf21/README.md)
-
-
-
 # Bipartite Graphs
 - [Learning Fair Representations for Bipartite Graph based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/fairgo_webconf21/README.md)
 - [Interest-aware Message-Passing GCN for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/impgcn_webconf21/README.md)
@@ -31,6 +23,14 @@
 # Multiplex Networks
 - [HDMI: High-order Deep Multiplex Infomax](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/hdmi_webconf21/README.md)
 - [Pathfinder Discovery Networks for Neural Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pdn_webconf21/README.md)
+
+
+
+# Heterogeneous Graphs
+- [Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/slice_webconf21/README.md)
+- [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kpgnn_webconf21/README.md)
+- [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/grafrank_webconf21/README.md)
+- [Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ltrn_webconf21/README.md)
 
 
 
