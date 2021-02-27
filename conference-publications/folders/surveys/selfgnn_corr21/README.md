@@ -5,7 +5,7 @@
 author    = {Yaochen Xie and Zhao Xu and Zhengyang Wang and Shuiwang Ji},
 title     = {Self-Supervised Learning of Graph Neural Networks: A Unified Review},
 journal   = {Computing Research Repository (CoRR)},
-volume    = {abs/2102.09544},
+volume    = {abs/2102.10757},
 year      = {2020}
 }
 ```
