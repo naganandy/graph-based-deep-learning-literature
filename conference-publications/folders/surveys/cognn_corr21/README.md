@@ -6,7 +6,7 @@ author    = {Quentin Cappart and Didier Chetelat and Elias Khalil and Andrea Lod
 title     = {Combinatorial optimization and reasoning with graph neural networks},
 journal   = {Computing Research Repository (CoRR)},
 volume    = {abs/2102.09544},
-year      = {2020}
+year      = {2021}
 }
 ```
 
