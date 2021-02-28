@@ -6,7 +6,7 @@ author    = {Wei Peng and Tuomas Varanka and Abdelrahman Mostafa and Henglin Shi
 title     = {Hyperbolic Deep Neural Networks: A Survey},
 journal   = {Computing Research Repository (CoRR)},
 volume    = {abs/2101.04562},
-year      = {2020}
+year      = {2021}
 }
 ```
 
