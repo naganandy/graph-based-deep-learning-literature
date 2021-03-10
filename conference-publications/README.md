@@ -12,6 +12,8 @@
 ## -----------------------------------------------------------------------------
 # CVPR 2021
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/assign_cvpr21/README.md)
+- [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/edgegcn_cvpr21/README.md)
+- [Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/rescagcn_cvpr21/README.md)
 - [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/grm_cvpr21/README.md)
 
 
