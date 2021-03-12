@@ -5,6 +5,7 @@
 author = {Haibo Wang and Chuan Zhou and Xin Chen and Jia Wu and Shirui Pan and Jilong Wang},
 title = {Graph Stochastic Neural Networks for Semi-supervised Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {19839--19848},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
