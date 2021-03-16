@@ -3,8 +3,9 @@
 ```
 @incollection{pna_neurips20,
 title = {Principal Neighbourhood Aggregation for Graph Nets},
-author = {Gabriele Corso and Luca Cavalleri and Dominique Beaini and Pietro Lio and Petar Velickovic},
+author = {Corso, Gabriele and Cavalleri, Luca and Beaini, Dominique and Li\`{o}, Pietro and Veli\v{c}kovi\'{c}, Petar},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {13260--13271},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
@@ -12,4 +13,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2004.05718)
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17979)
+- [neurips](https://papers.nips.cc//paper/2020/hash/99cad265a1768cc2dd013f0e740300ae-Abstract.html)

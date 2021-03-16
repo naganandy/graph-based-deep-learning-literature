@@ -2,9 +2,10 @@
 
 ```
 @incollection{ignn_neurips20,
-author = {Shangchen Zhou and Jiawei Zhang and Wangmeng Zuo and Chen Change Loy},
+author = {Zhou, Shangchen and Zhang, Jiawei and Zuo, Wangmeng and Loy, Chen Change},
 title = {Cross-Scale Internal Graph Neural Network for Image Super-Resolution},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {3499--3509},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
@@ -13,4 +14,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [arXiv](https://arxiv.org/abs/2006.16673)
 - [code](https://github.com/sczhou/IGNN)
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17015)
+- [neurips](https://papers.nips.cc//paper/2020/hash/23ad3e314e2a2b43b4c720507cec0723-Abstract.html)

@@ -2,9 +2,10 @@
 
 ```
 @incollection{hdril_neurips20,
-author = {Fan Xie and Alexander Chowdhury and Clara De Paolis Kaluza and Linfeng Zhao and Lawson Wong and Rose Yu},
+author = {Xie, Fan and Chowdhury, Alexander and De Paolis Kaluza, M. Clara and Zhao, Linfeng and Wong, Lawson and Yu, Rose},
 title = {Deep Imitation Learning for Bimanual Robotic Manipulation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {2327--2337},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
@@ -12,4 +13,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.05134)
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17533)
+- [neurips](https://papers.nips.cc//paper/2020/hash/18a010d2a9813e91907ce88cd9143fdf-Abstract.html)

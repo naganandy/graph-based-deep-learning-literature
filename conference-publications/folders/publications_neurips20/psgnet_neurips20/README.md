@@ -2,9 +2,10 @@
 
 ```
 @incollection{psgnet_neurips20,
-author = {Daniel M. Bear and Chaofei Fan and Damian Mrowca and Yunzhu Li and Seth Alter and Aran Nayebi and Jeremy Schwartz and Li Fei-Fei and Jiajun Wu and Joshua B. Tenenbaum and Daniel L.K. Yamins},
+author = {Bear, Daniel and Fan, Chaofei and Mrowca, Damian and Li, Yunzhu and Alter, Seth and Nayebi, Aran and Schwartz, Jeremy and Fei-Fei, Li F and Wu, Jiajun and Tenenbaum, Josh and Yamins, Daniel L},
 title = {Learning Physical Graph Representations from Visual Scenes},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {6027--6039},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
@@ -12,4 +13,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2006.12373)
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18087)
+- [neurips](https://papers.nips.cc//paper/2020/hash/4324e8d0d37b110ee1a4f1633ac52df5-Abstract.html)

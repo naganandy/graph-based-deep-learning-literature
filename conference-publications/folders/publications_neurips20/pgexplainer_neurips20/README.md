@@ -2,13 +2,14 @@
 
 ```
 @incollection{pgexplainer_neurips20,
-author = {Dongsheng Luo and Wei Cheng and Dongkuan Xu and Wenchao Yu and Bo Zong and Haifeng Chen and Xiang Zhang},
+author = {Luo, Dongsheng and Cheng, Wei and Xu, Dongkuan and Yu, Wenchao and Zong, Bo and Chen, Haifeng and Zhang, Xiang},
 title = {Parameterized Explainer for Graph Neural Network},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {19620--19631},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17299)
+- [neurips](https://papers.nips.cc//paper/2020/hash/e37b08dd3015330dcbb5d6663667b8b8-Abstract.html)

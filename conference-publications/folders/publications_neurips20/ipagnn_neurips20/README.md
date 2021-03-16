@@ -2,13 +2,14 @@
 
 ```
 @incollection{ipagnn_neurips20,
-author = {David Bieber and Charles Sutton and Hugo Larochelle and Daniel Tarlow},
+author = {Bieber, David and Sutton, Charles and Larochelle, Hugo and Tarlow, Daniel},
 title = {Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {8626--8637},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18239)
+- [neurips](https://papers.nips.cc//paper/2020/hash/62326dc7c4f7b849d6f013ba46489d6c-Abstract.html)

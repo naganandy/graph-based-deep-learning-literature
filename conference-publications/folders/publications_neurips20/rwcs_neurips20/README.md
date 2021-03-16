@@ -3,8 +3,9 @@
 ```
 @incollection{rwcs_neurips20,
 title = {Towards More Practical Adversarial Attacks on Graph Neural Networks},
-author = {Jiaqi Ma and Shuangrui Ding and Qiaozhu Mei},
+author = {Ma, Jiaqi and Ding, Shuangrui and Mei, Qiaozhu},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {4756--4766},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
@@ -12,4 +13,4 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2006.05057)
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16819)
+- [neurips](https://papers.nips.cc//paper/2020/hash/32bb90e8976aab5298d5da10fe66f21d-Abstract.html)

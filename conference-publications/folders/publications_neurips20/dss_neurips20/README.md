@@ -2,13 +2,14 @@
 
 ```
 @incollection{dss_neurips20,
-author = {Balthazar Donon and Zhengying Liu and Wenzhuo Liu and Isabelle Guyon and Antoine Marot and Marc Schoenauer},
+author = {Donon, Balthazar and Liu, Zhengying and LIU, Wenzhuo and Guyon, Isabelle and Marot, Antoine and Schoenauer, Marc},
 title = {Deep Statistical Solvers},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {7910--7921},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18648)
+- [neurips](https://papers.nips.cc//paper/2020/hash/5a16bce575f3ddce9c819de125ba0029-Abstract.html)

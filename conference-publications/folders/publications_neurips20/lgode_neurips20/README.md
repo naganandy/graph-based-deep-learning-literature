@@ -3,12 +3,13 @@
 ```
 @incollection{lgode_neurips20,
 title = {Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations},
-author = {Zijie Huang and Yizhou Sun and Wei Wang},
+author = {Huang, Zijie and Sun, Yizhou and Wang, Wei},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {16177--16187},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18930)
+- [neurips](https://papers.nips.cc//paper/2020/hash/ba4849411c8bbdd386150e5e32204198-Abstract.html)

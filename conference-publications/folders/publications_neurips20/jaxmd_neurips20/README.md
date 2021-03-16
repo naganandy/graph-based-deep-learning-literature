@@ -2,13 +2,14 @@
 
 ```
 @incollection{jaxmd_neurips20,
-author = {Dogus Cubuk and Sam Schoenholz},
+author = {Schoenholz, Samuel and Cubuk, Ekin Dogus},
 title = {JAX MD: A Framework for Differentiable Physics},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {11428--11441},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18896)
+- [neurips](https://papers.nips.cc//paper/2020/hash/83d3d4b6c9579515e1679aca8cbc8033-Abstract.html)

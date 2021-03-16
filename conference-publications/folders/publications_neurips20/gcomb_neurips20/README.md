@@ -2,13 +2,14 @@
 
 ```
 @incollection{gcomb_neurips20,
-author = {Sahil Manchanda and Akash Mittal and Anuj Dhawan and souravmedya Medya and Sayan Ranu and Ambuj K Singh},
+author = {Manchanda, Sahil and MITTAL, AKASH and Dhawan, Anuj and Medya, Sourav and Ranu, Sayan and Singh, Ambuj},
 title = {GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {20000--20011},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18371)
+- [neurips](https://papers.nips.cc//paper/2020/hash/e7532dbeff7ef901f2e70daacb3f452d-Abstract.html)

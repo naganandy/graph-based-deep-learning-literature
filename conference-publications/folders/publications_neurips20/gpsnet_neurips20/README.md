@@ -2,13 +2,14 @@
 
 ```
 @incollection{gpsnet_neurips20,
-author = {Zhuokun Yao and Kun Li and Ying Fu and Haofeng Hu and Boxin Shi },
+author = {Yao, Zhuokun and Li, Kun and Fu, Ying and Hu, Haofeng and Shi, Boxin},
 title = {GPS-Net: Graph-based Photometric Stereo Network},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {10306--10316},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=17086)
+- [neurips](https://papers.nips.cc//paper/2020/hash/7503cfacd12053d309b6bed5c89de212-Abstract.html)

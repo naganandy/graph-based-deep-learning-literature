@@ -3,8 +3,9 @@
 ```
 @incollection{flathgn_neurips20,
 title = {Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs},
-author = {Miles Cranmer and Alvaro Sanchez Gonzalez and Peter Battaglia and Rui Xu and Kyle Cranmer and David Spergel and Shirley Ho},
+author = {Cranmer, Miles and Sanchez Gonzalez, Alvaro and Battaglia, Peter and Xu, Rui and Cranmer, Kyle and Spergel, David and Ho, Shirley},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 33},
+pages = {17429--17442},
 year = {2020},
 publisher = {Curran Associates, Inc.}
 }
@@ -12,5 +13,5 @@ publisher = {Curran Associates, Inc.}
 
 links
 - [arXiv](https://arxiv.org/abs/2006.11287)
-- [neurips](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=18671)
+- [neurips](https://papers.nips.cc//paper/2020/hash/c9f2f917078bd2db12f23c3b413d9cba-Abstract.html)
 - [code](https://github.com/MilesCranmer/symbolic_deep_learning)
