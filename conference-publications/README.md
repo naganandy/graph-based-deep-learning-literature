@@ -118,6 +118,7 @@
 - [Graph Neural Networks for Friend Ranking in Large-scale Social Platforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/grafrank_webconf21/README.md)
 - [Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ghrm_webconf21/README.md)
 - [Learning Intents behind Interactions with Knowledge Graph for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kgin_webconf21/README.md)
+- [Dual Side Deep Context-aware Modulation for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dicer_webconf21/README.md)
 
 </details>
 
