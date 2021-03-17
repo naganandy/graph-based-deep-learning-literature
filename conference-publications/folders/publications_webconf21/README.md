@@ -42,7 +42,7 @@
 
 # Multi-Relational Graphs
 - [Learning Intents behind Interactions with Knowledge Graph for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kgin_webconf21/README.md)
-= [Dual Side Deep Context-aware Modulation for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dicer_webconf21/README.md)
+- [Dual Side Deep Context-aware Modulation for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dicer_webconf21/README.md)
 - [RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/recon_webconf21/README.md)
 - [OntoZSL: Ontology-enhanced Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ontozsl_webconf21/README.md)
 - [Knowledge Embedding Based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/kegcn_webconf21/README.md)
