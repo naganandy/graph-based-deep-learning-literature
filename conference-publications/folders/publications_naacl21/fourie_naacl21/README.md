@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{fourie_naacl21,
-    title = {Question Answering by Reasoning Across Documents with Graph Convolutional Networks},
+    title = {Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks},
     author = {Minh Van Nguyen and Viet Dac Lai and Thien Huu Nguyen},
     booktitle = {Proceedings of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
     year = {2021}
