@@ -5,7 +5,6 @@
 - IJCAI 2021 (Aug, decisions early May)
 - UAI 2021 (Jul, decisions mid May)
 - ICML 2021 (Jul, decisions early May)
-- NAACL 2021 (Jun, decisions mid Mar)
 
 
 
