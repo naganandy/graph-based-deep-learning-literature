@@ -3,7 +3,6 @@
 - KDD 2021 (Aug, decisions mid May)
 - ACL 2021 (Aug, decisions early May)
 - IJCAI 2021 (Aug, decisions early May)
-- UAI 2021 (Jul, decisions mid May)
 - ICML 2021 (Jul, decisions early May)
 
 
@@ -133,7 +132,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [WSDM 2021 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/README.md)
+# [WSDM 2021 (Mar)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/README.md)
 - [Node Similarity Preserving Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/simpgcn_wsdm21/README.md)
 - [GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/graphsmote_wsdm21/README.md)
 - [Heterogeneous Hypergraph Embedding for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/hwnn_wsdm21/README.md)
