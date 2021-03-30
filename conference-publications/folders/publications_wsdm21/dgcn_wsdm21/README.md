@@ -1,5 +1,4 @@
-# Decomposed Collaborative Filtering: Modeling Explicit and Implicit Factors For Recommender
-        				Systems
+# Decomposed Collaborative Filtering: Modeling Explicit and Implicit Factors For Recommender Systems
 
 ```
 @inproceedings{dgcn_wsdm21,
@@ -8,7 +7,7 @@ title = {Decomposed Collaborative Filtering: Modeling Explicit and Implicit Fact
         				Systems},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {958--966},
-year = {2020}
+year = {2021}
 }
 ```
 

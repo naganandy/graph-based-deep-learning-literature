@@ -1,14 +1,12 @@
-# Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network
-        				for Air Quality Prediction
+# Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction
 
 ```
 @inproceedings{atgcn_wsdm21,
 author = {Wang, Chunyang and Zhu, Yanmin and Zang, Tianzi and Liu, Haobing and Yu, Jiadi},
-title = {Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network
-        				for Air Quality Prediction},
+title = {Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {616--634},
-year = {2020}
+year = {2021}
 }
 ```
 

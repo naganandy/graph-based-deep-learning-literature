@@ -6,7 +6,7 @@ author = {Chen, Tianwen and Chi-Wing, Raymond},
 title = {An Efficient and Effective Framework for Session-based Social Recommendation},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {400--408},
-year = {2020}
+year = {2021}
 }
 ```
 

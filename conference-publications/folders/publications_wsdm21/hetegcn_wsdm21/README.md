@@ -6,7 +6,7 @@ author = {Ragesh, Rahul and Sellamanickam, Sundararajan and Iyer, Arun and Bairi
 title = {HeteGCN: Heterogeneous Graph Convolutional Networks for Text Classification},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {860--868},
-year = {2020}
+year = {2021}
 }
 ```
 

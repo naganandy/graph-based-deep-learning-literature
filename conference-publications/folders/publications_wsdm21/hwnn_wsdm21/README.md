@@ -6,7 +6,7 @@ author = {Sun, Xiangguo and Yin, Hongzhi and Liu, Bo and Chen, Hongxu and Cao, J
 title = {Heterogeneous Hypergraph Embedding for Graph Classification},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {725--733},
-year = {2020}
+year = {2021}
 }
 ```
 

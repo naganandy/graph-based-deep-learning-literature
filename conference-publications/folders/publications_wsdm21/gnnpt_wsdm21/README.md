@@ -6,7 +6,7 @@ author = {Hao, Bowen and Zhang, Jing and Yin, Hongzhi and Li, Cuiping and Chen, 
 title = {Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {265--273},
-year = {2020}
+year = {2021}
 }
 ```
 

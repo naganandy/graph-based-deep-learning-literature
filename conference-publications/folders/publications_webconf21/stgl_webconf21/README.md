@@ -1,0 +1,8 @@
+# Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching
+
+```
+@inproceedings{stgl_webconf21,
+author = {Zixuan Yuan and Hao Liu and Junming Liu and Yanchi Liu and Yang Yang and Renjun Hu and Hui Xiong},
+title = {Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching},
+booktitle = {Proceedings of The Web Conference (WebConf)},
+year = {2021}

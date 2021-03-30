@@ -6,7 +6,7 @@ author = {Luo, Dongsheng and Cheng, Wei and Yu, Wenchao and Zong, Bo and Ni, Jin
 title = {Learning to Drop: Robust Graph Neural Network via Topological Denoising},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {779--787},
-year = {2020}
+year = {2021}
 }
 ```
 

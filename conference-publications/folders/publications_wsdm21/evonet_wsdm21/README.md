@@ -6,7 +6,7 @@ author = {Hu, Wenjie and Yang, Yang and Cheng, Ziqiang and Yang, Carl and Ren, X
 title = {Time-Series Event Prediction with Evolutionary State Graph},
 booktitle = {Proceedings of the 14th International Conference on Web Search and Data Mining (WSDM)},
 pages = {580--588},
-year = {2020}
+year = {2021}
 }
 ```
 
