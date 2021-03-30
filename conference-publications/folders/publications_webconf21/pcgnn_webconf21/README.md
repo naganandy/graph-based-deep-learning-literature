@@ -6,3 +6,5 @@ author = {Yang Liu and Xiang Ao and Zidi Qin and Jianfeng Chi and Jinghua Feng a
 title = {Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```

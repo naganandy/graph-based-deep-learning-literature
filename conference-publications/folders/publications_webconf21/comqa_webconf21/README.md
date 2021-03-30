@@ -6,3 +6,9 @@ author = {Bingning Wang and Ting Yao and Weipeng Chen and Jingfang Xu and Xiaoch
 title = {Compositional Question Answering via Hierarchical Graph Neural Networks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2101.06400)
+- [code](https://github.com/benywon/ComQA)

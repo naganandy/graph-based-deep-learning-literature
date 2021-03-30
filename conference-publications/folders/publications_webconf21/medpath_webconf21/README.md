@@ -6,3 +6,5 @@ author = {Muchao Ye and Suhan Cui and Yaqing Wang and Junyu Luo and Cao Xiao and
 title = {MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```

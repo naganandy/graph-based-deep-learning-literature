@@ -6,3 +6,8 @@ author = {Yusi Zhang and Chuanjie Liu and Angen Luo and Hui Xue and Xuan Shan an
 title = {MIRA:Leveraging Multi-Intention Co-click Information in Web-scale Document Retrieval using Deep Neural Networks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2007.01510)

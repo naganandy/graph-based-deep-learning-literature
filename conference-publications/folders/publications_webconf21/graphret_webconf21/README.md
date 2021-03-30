@@ -6,3 +6,8 @@ author = {Zifeng Wang and Rui Wen and Xi Chen and Shilei Cao and Shao-Lun Huang 
 title = {Online Disease Self-diagnosis with Inductive Heterogeneous Graph Convolutional Networks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2009.02625)

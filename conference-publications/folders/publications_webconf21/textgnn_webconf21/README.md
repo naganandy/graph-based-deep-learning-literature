@@ -6,3 +6,8 @@ author = {Jason Zhu and Yanling Cui and Yuming Liu and Huasha Zhao and Hao Sun a
 title = {Improving Text Encoder via Graph Neural Network in Sponsored Search},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2101.06323)

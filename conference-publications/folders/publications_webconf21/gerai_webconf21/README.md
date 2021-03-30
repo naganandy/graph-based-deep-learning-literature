@@ -6,3 +6,8 @@ author = {Shijie Zhang and Hongzhi Yin and Tong Chen and Zi Huang and Lizhen Cui
 title = {Graph Embedding for Recommendation against Attribute Inference Attacks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2101.12549)

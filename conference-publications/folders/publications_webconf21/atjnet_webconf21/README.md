@@ -6,3 +6,5 @@ author = {Jinze Bai and Jialin Wang and Zhao Li and Donghui Ding and Ji Zhang an
 title = {ATJ-Net: Auto-Table-Join Network for Automatic Learning on Relational Databases},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```

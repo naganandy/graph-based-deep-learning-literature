@@ -6,3 +6,8 @@ author = {Baoyu Jing and Hanghang Tong and Yada Zhu},
 title = {Network of Tensor Time Series},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2102.07736)

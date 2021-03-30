@@ -6,3 +6,9 @@ author = {Zhichun Guo and Chuxu Zhang and Wenhao Yu and John Herr and Olaf Wiest
 title = {Few-Shot Molecular Property Prediction},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2102.07916)
+- [code](https://github.com/zhichunguo/Meta-MGNN)

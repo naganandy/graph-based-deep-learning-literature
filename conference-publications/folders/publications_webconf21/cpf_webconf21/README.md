@@ -1,8 +1,13 @@
-# Distillation FrameworkExtract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge
+# Distillation Framework Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge
 
 ```
 @inproceedings{cpf_webconf21,
 author = {Cheng Yang and Jiawei Liu and Chuan Shi},
-title = {Distillation FrameworkExtract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge},
+title = {Distillation Framework Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2103.02885)

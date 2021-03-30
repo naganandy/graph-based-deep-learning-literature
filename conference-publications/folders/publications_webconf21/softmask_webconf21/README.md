@@ -6,3 +6,5 @@ author = {Mingqi Yang and Yanming Shen and Heng Qi and Baocai Yin},
 title = {Soft-mask: Adaptive Substructure Extractions for Graph Neural Networks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```

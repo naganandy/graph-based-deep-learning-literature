@@ -6,3 +6,5 @@ author = {Xiangguo Sun and Bo Liu and Hongxu Chen and Wang Han and Qing Meng and
 title = {Multi-level Hyperedge Distillation for Social Linking Prediction on Sparsely Observed Networks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```

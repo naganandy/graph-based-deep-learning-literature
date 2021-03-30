@@ -6,3 +6,5 @@ author = {Guozhen Zhang and Yong Li and Yuan Yuan and Fengli Xu and Hancheng Cao
 title = {Community Value Prediction in Social E-commerce},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```

@@ -6,3 +6,5 @@ author = {Ruijia Wang and Shuai Mou and Xiao Wang and Wanpeng Xiao and Qi Ju and
 title = {Graph Structure Estimation Neural Networks},
 booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
+}
+```
