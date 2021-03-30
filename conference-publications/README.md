@@ -134,7 +134,6 @@
 
 ## -----------------------------------------------------------------------------
 # [WSDM 2021 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/README.md)
-# Graph-based Semi-Supervised Learning
 - [Node Similarity Preserving Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/simpgcn_wsdm21/README.md)
 - [GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/graphsmote_wsdm21/README.md)
 - [Heterogeneous Hypergraph Embedding for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/hwnn_wsdm21/README.md)
