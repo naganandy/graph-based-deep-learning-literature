@@ -5,7 +5,7 @@
 title = {Graph Stacked Hourglass Networks for 3D Human Pose Estimation},
 author = {Tianhan Xu and Wataru Takano},
 booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2021},
+year = {2021}
 }
 ```
 
