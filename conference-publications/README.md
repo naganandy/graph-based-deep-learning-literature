@@ -8,7 +8,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# [CVPR 2021 (Jun)](http://cvpr2021.thecvf.com/) - [2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/README.md)
+# [CVPR 2021 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/README.md)
 - [Structure-Aware Face Clustering on a Large-Scale Graph with 10^7 Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/starfc_cvpr21/README.md)
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/assign_cvpr21/README.md)
 - [Binary Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/binarygnn_cvpr21/README.md)
