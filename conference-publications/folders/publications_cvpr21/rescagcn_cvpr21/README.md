@@ -5,7 +5,7 @@
 title = {Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation},
 author = {Gengcong Yang and Jingyi Zhang and Yong Zhang and Baoyuan Wu and Yujiu Yang},
 booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2021},
+year = {2021}
 }
 ```
 

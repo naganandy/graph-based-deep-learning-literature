@@ -5,7 +5,7 @@
 title = {Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis},
 author = {Chaoyi Zhang and Jianhui Yu and Yang Song and Weidong Cai},
 booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2021},
+year = {2021}
 }
 ```
 
