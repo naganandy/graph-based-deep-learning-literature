@@ -17,8 +17,14 @@
 
 # Scene Graphs
 - [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/edgegcn_cvpr21/README.md)
-- [Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/rescagcn_cvpr21/README.md)
 - [SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/scenegraphfusion_cvpr21/README.md)
+
+
+
+# Scene Graph Generation
+- [Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/bgnn_cvpr21/README.md)
+- [Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/rescagcn_cvpr21/README.md)
+
 
 
 
