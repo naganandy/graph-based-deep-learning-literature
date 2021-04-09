@@ -65,6 +65,8 @@ in graph-based deep learning. [The links to conference publications](https://git
 
 # Related Workshops
 - ## 2021
+   * ### [GNNSys'21 -- Workshop on Graph Neural Networks and Systems
+](https://gnnsys.github.io/)
    * ### [Geometrical and Topological Representation Learning (ICLR)](https://gt-rl.github.io/)
    * ### [Graph Learning Benchmarks (WebConf)](https://graph-learning-benchmarks.github.io/)
    * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/)
