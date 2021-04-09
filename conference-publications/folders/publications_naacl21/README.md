@@ -1,4 +1,4 @@
-# Publications in [NAACL 2021](https://2021.naacl.org/program/accepted/)
+# [Publications in NAACL 2021](https://2021.naacl.org/program/accepted/)
 
 
 
