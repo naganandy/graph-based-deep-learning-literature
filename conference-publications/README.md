@@ -37,9 +37,14 @@
 ## -----------------------------------------------------------------------------
 # [NAACL 2021 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/README.md)
 - [Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/fourie_naacl21/README.md)
+- [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/qagnn/README.md)
 - [Enhancing Factual Consistency of Abstractive Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/asum_naacl21/README.md)
 - [Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/graphmerge_naacl21/README.md)
+- [RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/rtfe_naacl21/README.md)
 - [DAGN: Discourse-Aware Graph Network for Logical Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/dagn_naacl21/README.md)
+- [Modeling Human Mental States with an Entity-based Narrative Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/lpg/README.md)
+- [MTGAT: Multimodal Temporal Graph Attention Networks for Unaligned Human Multimodal Language Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/mtgat_naacl21/README.md)
+- [ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/shadowgnn/README.md)
 
 
 
