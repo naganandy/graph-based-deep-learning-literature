@@ -8,3 +8,8 @@ booktitle = {Proceedings of the North {A}merican Chapter of the Association for 
 year = {2021}
 }
 ```
+
+links
+- [arXiv](https://arxiv.org/abs/2104.06378)
+- [code](https://github.com/michiyasunaga/qagnn)
+- [project](https://snap.stanford.edu/qagnn/)
