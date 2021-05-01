@@ -24,10 +24,15 @@
 <details> 
 <summary> more </summary> 
 
+- [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/b2a_cvpr21/README.md)
 - [Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/bgnn_cvpr21/README.md)
 - [Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/cgct_cvpr21/README.md)
 - [Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/gmtracker_cvpr21/README.md)
 - [SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/scenegraphfusion_cvpr21/README.md)
+- [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/uafusion_cvpr21/README.md)
+- [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mdif_cvpr21/README.md)
+- [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hgcnn_cvpr21/README.md)
+- [Inferring CAD Modeling Sequences Using Zone Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/zonegraph_cvpr21/README.md)
 - [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/vcgcn_cvpr21/README.md)
 
 </details>

@@ -1,6 +1,7 @@
 
 # Surveys / Literature Reviews / Books
 - ### 2021
+   * ### [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gdl_corr21/README.md)
    * ### [Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/biomed_corr21/README.md)
   * ### [Self-Supervised Learning of Graph Neural Networks: A Unified Review](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/selfgnn_corr21/README.md)
    * ### [Combinatorial optimization and reasoning with graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/cognn_corr21/README.md)
