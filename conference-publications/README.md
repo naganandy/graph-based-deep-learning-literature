@@ -2,14 +2,13 @@
 
 - ICCV 2021 (Oct, decisions late Jul)
 - KDD 2021 (Aug, decisions mid May)
+- ICML 2021 (Jul, decisions mid May)
 - ACL 2021 (Aug, decisions early May)
-- IJCAI 2021 (Aug, decisions early May)
-- ICML 2021 (Jul, decisions early May)
 
 
 
 ## -----------------------------------------------------------------------------
-# IJCAI 2021
+# IJCAI 2021 (Aug)
 - [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/unignn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
 - [SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/safedrug_ijcai21/README.md)
