@@ -28,14 +28,18 @@
 
 
 
-# Miscellaneous
+# Videos
 - [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/b2a_cvpr21/README.md)
+- [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/assign_cvpr21/README.md)
+
+
+
+# Miscellaneous
 - [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hgcnn_cvpr21/README.md)
 - [Inferring CAD Modeling Sequences Using Zone Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/zonegraph_cvpr21/README.md)
 - [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/uafusion_cvpr21/README.md)
 - [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mdif_cvpr21/README.md)
 - [Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/cgct_cvpr21/README.md)
-- [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/assign_cvpr21/README.md)
 - [Quantifying Explainers of Graph Neural Networks in Computational Pathology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/qegnn_cvpr21/README.md)
 - [Graph Stacked Hourglass Networks for 3D Human Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/graphsh_cvpr21/README.md)
 - [Learning Graph Embeddings for Compositional Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/cge_cvpr21/README.md)
