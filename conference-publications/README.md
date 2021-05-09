@@ -1,10 +1,17 @@
 # [Conferences](https://aideadlin.es/)
 
 - ICCV 2021 (Oct, decisions late Jul)
-- KDD 2021 (Aug, decisions mid May)
-- ICML 2021 (Jul, decisions mid May)
-- ACL 2021 (Aug, decisions early May)
+- KDD 2021 (Aug, decisions late May)
+- ACL 2021 (Aug, decisions mid May)
 
+
+
+## -----------------------------------------------------------------------------
+# ICML 2021 (Jul)
+- [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
+- [On Explainability of Graph Neural Networks via Subgraph Explorations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/subgraphx_icml21/README.md)
+- [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sepgcn_icml21/README.md)
+- [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphdf_icml21/README.md)
 
 
 ## -----------------------------------------------------------------------------
