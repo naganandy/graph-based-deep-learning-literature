@@ -12,6 +12,8 @@
 - [On Explainability of Graph Neural Networks via Subgraph Explorations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/subgraphx_icml21/README.md)
 - [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sepgcn_icml21/README.md)
 - [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphdf_icml21/README.md)
+- [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpsn_icml21/README.md)
+
 
 
 ## -----------------------------------------------------------------------------
@@ -19,6 +21,7 @@
 - [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/unignn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
 - [SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/safedrug_ijcai21/README.md)
+- [Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/minge_ijcai21/README.md)
 
 
 
@@ -90,6 +93,13 @@
 - [Modeling Human Mental States with an Entity-based Narrative Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/lpg_naacl21/README.md)
 - [MTGAT: Multimodal Temporal Graph Attention Networks for Unaligned Human Multimodal Language Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/mtgat_naacl21/README.md)
 - [ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/shadowgnn_naacl21/README.md)
+
+<details> 
+<summary> more </summary> 
+
+- [Edge: Enriching Knowledge Graph Embeddings with External Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/edge_naacl21/README.md)
+
+</details>
 
 
 

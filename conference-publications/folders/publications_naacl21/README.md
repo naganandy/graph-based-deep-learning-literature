@@ -14,10 +14,9 @@
 
 # Knowledge Graphs
 - [RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/rtfe_naacl21/README.md)
+- [Edge: Enriching Knowledge Graph Embeddings with External Text](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/edge_naacl21/README.md)
 - Knowledge Router: Learning Disentangled Representations for Knowledge Graphs
-- Edge: Enriching Knowledge Graph Embeddings with External Text
 - Generating An Optimal Interview Question Plan Using A Knowledge Graph And Integer Linear Programming
-- Highly Efficient Knowledge Graph Embeddings Learning via Closed-form Orthogonal Procrustes Analysis
 - Integrating Lexical Information into Entity Neighbourhood Representations for Relation Prediction
 
 
@@ -53,6 +52,5 @@
 - Incorporating Syntax and Semantics in Coreference Resolution with Heterogeneous Graph Attention Network
 - Graph Convolutional Networks for Event Causality Identification with Rich Document-level Structures
 - Inductive Topic Variational Graph Auto-Encoder
-- SGL: Speaking the Graph Languages of Semantic Parsing via Multilingual Translation
 - Fusing Structured Information into LSTM for Named Entity Recognition
 - A Non-Linear Structural Probe
