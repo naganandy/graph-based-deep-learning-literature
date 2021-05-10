@@ -8,3 +8,7 @@ booktitle = {Proceedings of The Web Conference (WebConf)},
 year = {2021}
 }
 ```
+
+links
+- [preprint](http://shichuan.org/doc/106.pdf)
+- [video](https://www.youtube.com/watch?v=_pSQVWZsyEQ)

@@ -12,3 +12,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.07339)
+- [video](https://www.youtube.com/watch?v=Tu3UpK3FdFc)
+- [code](https://github.com/genggengcss/OntoZSL)

@@ -11,3 +11,5 @@ year = {2021}
 
 links
 - [preprint](http://urban-computing.com/pdf/WWW2021AutoSTG.pdf)
+- [video](https://www.youtube.com/watch?v=SZ57RZ3HrZQ)
+- [code](https://github.com/panzheyi/AutoSTG)

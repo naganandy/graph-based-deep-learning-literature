@@ -11,3 +11,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.12878)
+- [video](https://www.youtube.com/watch?v=SauPkJNQHmo)
+- [code](https://github.com/benedekrozemberczki/PDN)

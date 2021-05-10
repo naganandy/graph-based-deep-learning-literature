@@ -11,3 +11,4 @@ year = {2021}
 
 links
 - [arXiv](https://arxiv.org/abs/2007.01510)
+- [video](https://www.youtube.com/watch?v=DEjWbuYAhyo)

@@ -11,4 +11,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.07057)
+- [video](https://www.youtube.com/watch?v=ohqWQRc2Yqw)
 - [code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)

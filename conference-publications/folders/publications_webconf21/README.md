@@ -21,7 +21,7 @@
 
 # Node and Graph Classification
 - [Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/gskn_webconf21/README.md)
--  Mixup for Node and Graph Classification
+- [Mixup for Node and Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mixup_webconf21/README.md)
 
 
 
@@ -103,6 +103,7 @@
 - [Graph Topic Neural Network for Document Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/gtnn_webconf21/README.md)
 - [Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/ghrm_webconf21/README.md)
 - [MIRA:Leveraging Multi-Intention Co-click Information in Web-scale Document Retrieval using Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mira_webconf21/README.md)
+- [Multi-level Connection Enhanced Representation Learning for Script Event Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mcer_webconf21/README.md)
 
 
 
@@ -121,11 +122,10 @@
 # Miscellaneous
 - [Mask-GVAE: Blind Denoising Graphs via Partition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/maskgvae_webconf21/README.md)
 - [Large-scale Comb-K Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/combk_webconf21/README.md)
+- [Diversified Recommendation Through Similarity-Guided Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/dgcn_webconf21/README.md)
 - [Few-shot Network Anomaly Detection via Cross-network Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/gdn_webconf21/README.md)
 - [Graph Embedding for Recommendation against Attribute Inference Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/gerai_webconf21/README.md)
 - [Community Value Prediction in Social E-commerce](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/melgcn_webconf21/README.md)
 - [GNEM: A Generic One-to-Set Neural Entity Matching Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/gnem_webconf21/README.md)
 - [Target-adaptive Graph for Cross-target Stance Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/tpdg_webconf21/README.md)
--  Multi-level Connection Enhanced Representation Learning for Script Event Prediction
--  Diversified Recommendation Through Similarity-Guided Graph Neural Networks
--  Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks
+- [Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/mag_webconf21/README.md)

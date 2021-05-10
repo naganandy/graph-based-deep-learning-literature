@@ -11,3 +11,4 @@ year = {2021}
 
 links
 - [preprint](http://wrap.warwick.ac.uk/149336/1/WRAP-Target-adaptive-graph-cross-target-stance-detection-2021.pdf)
+- [video](https://www.youtube.com/watch?v=2jgJu3ufja8)

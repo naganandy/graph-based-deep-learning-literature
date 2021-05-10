@@ -11,4 +11,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2010.12408)
+- [video](https://www.youtube.com/watch?v=sPNpC-D4nBM)
 - [code](https://github.com/DongHande/PT_propagation_then_training)

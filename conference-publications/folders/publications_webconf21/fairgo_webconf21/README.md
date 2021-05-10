@@ -11,4 +11,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.09140)
+- [video](https://www.youtube.com/watch?v=yDGq1uOxHv8)
 - [code](https://github.com/newlei/FairGo)

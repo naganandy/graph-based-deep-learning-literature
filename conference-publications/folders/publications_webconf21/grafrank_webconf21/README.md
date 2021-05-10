@@ -11,3 +11,4 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [preprint](http://nshah.net/publications/GrafRank.WWW.21.pdf)
+- [video](https://www.youtube.com/watch?v=XWynKyF0Hp8)

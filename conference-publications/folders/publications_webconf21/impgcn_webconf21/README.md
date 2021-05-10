@@ -11,3 +11,4 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.10044)
+- [video](https://www.youtube.com/watch?v=BPsOplwsKTI)

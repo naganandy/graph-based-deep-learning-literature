@@ -12,3 +12,4 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 links
 - [preprint](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)
 - [project](http://snap.stanford.edu/tedic/)
+- [video](https://www.youtube.com/watch?v=n-A5GLBir2g)

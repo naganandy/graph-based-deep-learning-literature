@@ -11,4 +11,5 @@ year = {2021}
 
 links
 - [arXiv](https://arxiv.org/abs/2101.06400)
+- [video](https://www.youtube.com/watch?v=071-iQR3Pf0)
 - [code](https://github.com/benywon/ComQA)

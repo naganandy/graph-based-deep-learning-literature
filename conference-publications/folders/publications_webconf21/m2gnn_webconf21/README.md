@@ -11,3 +11,4 @@ year = {2021}
 
 links
 - [preprint](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf)
+- [video](https://www.youtube.com/watch?v=nzh540hbYiY)

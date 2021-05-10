@@ -11,3 +11,4 @@ year = {2021}
 
 links
 - [preprint](https://www.researchgate.net/publication/349180375_Incremental_Spatio-Temporal_Graph_Learning_for_Online_Query-POI_Matching)
+- [video](https://www.youtube.com/watch?v=hI0dMlTRzQ0)

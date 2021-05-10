@@ -11,4 +11,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.07289)
+- [video](https://www.youtube.com/watch?v=UAzqfs5_Xqs)
 - [code](https://github.com/alasdairtran/radflow)

@@ -11,4 +11,5 @@ year = {2021}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.07916)
+- [video](https://www.youtube.com/watch?v=U5KjhbqG5rU)
 - [code](https://github.com/zhichunguo/Meta-MGNN)

@@ -11,4 +11,5 @@ booktitle = {Proceedings of The Web Conference (WebConf)}
 
 links
 - [arXiv](https://arxiv.org/abs/2102.11127)
+- [video](https://www.youtube.com/watch?v=iDo7_4xlat4)
 - [code](https://github.com/CRIPAC-DIG/GHRM)
