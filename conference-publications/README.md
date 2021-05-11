@@ -7,7 +7,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# ICML 2021 (Jul)
+# [ICML 2021 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/README.md)
 - [Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/optgnn_icml21/README.md)
 - [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sepgcn_icml21/README.md)
 - [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
@@ -22,7 +22,7 @@
 
 
 ## -----------------------------------------------------------------------------
-# IJCAI 2021 (Aug)
+# [IJCAI 2021 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/README.md)
 - [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/unignn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
 - [SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/safedrug_ijcai21/README.md)
