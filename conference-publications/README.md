@@ -6,7 +6,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ICML 2021 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/README.md)
 - [Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/optgnn_icml21/README.md)
 - [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sepgcn_icml21/README.md)
@@ -21,7 +21,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [IJCAI 2021 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/README.md)
 - [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/unignn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
@@ -31,7 +31,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [CVPR 2021 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/README.md)
 - [Structure-Aware Face Clustering on a Large-Scale Graph with 10^7 Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/starfc_cvpr21/README.md)
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/assign_cvpr21/README.md)
@@ -87,7 +87,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [NAACL 2021 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/README.md)
 - [Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/fourie_naacl21/README.md)
 - [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/qagnn_naacl21/README.md)
@@ -108,7 +108,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ICLR 2021 (May)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/README.md)
 - [How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/gnnextrapolate_iclr21/README.md)
 - [Combining Label Propagation and Simple Models out-performs Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr21/cs_iclr21/README.md)
@@ -175,7 +175,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [The WebConf 2021 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/README.md)
 - [Interpreting and Unifying Graph Neural Networks with An Optimization Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/gnnhf_webconf21/README.md)
 - [On the Equivalence of Decoupled Graph Convolution Network and Label Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf21/pta_webconf21/README.md)
@@ -248,7 +248,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [WSDM 2021 (Mar)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/README.md)
 - [Node Similarity Preserving Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/simpgcn_wsdm21/README.md)
 - [GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm21/graphsmote_wsdm21/README.md)
@@ -276,7 +276,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [AAAI 2021 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/README.md)
 - [Identity-Aware Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/idgnn_aaai21/README.md)
 - [GraphMix: Improved Training of GNNs for Semi-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai21/graphmix_aaai21/README.md)
@@ -404,7 +404,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [NeurIPS 2020 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/README.md)
 - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/ogb_neurips20/README.md)
 - [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/pgn_neurips20/README.md)
@@ -524,7 +524,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [EMNLP 2020 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/README.md)
 - [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/mhgrn_emnlp20/README.md)
 - [Disentangle-based Continual Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/dicgrl_emnlp20/README.md)
@@ -585,7 +585,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ICDM 2020 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/README.md)
 
 - [Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm20/subgcon_icdm20/README.md)
@@ -633,7 +633,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ECCV 2020 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/README.md)
 - [On Dropping Clusters to Regularize Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/dropcluster_eccv20/README.md)
 - [Graph convolutional networks for learning with few clean and many noisy labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv20/fcmnl_eccv20/README.md)
@@ -693,7 +693,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [KDD 2020 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/README.md)
 - [XGNN: Towards Model-Level Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/xgnn_kdd20/README.md)
 - [Understanding Negative Sampling in Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mcns_kdd20/README.md)
@@ -758,13 +758,13 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [UAI 2020 (Aug)](http://www.auai.org/uai2020/accepted.php)
 - [Non-Parametric Graph Learning for Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/bgcn_uai20/README.md)
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [SIGIR 2020 (Jul)](https://dl.acm.org/doi/proceedings/10.1145/3397271)
 - [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/ackrec_sigir20/README.md)
 - [MVIN: Learning Multiview Items for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mvin_sigir20/README.md)
@@ -800,7 +800,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ICML 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/README.md)
 - [Simple and Deep Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gcnii_icml20/README.md)
 - [Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml20/gnnagd_icml20/README.md)
@@ -856,7 +856,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ACL 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/README.md)
 
 - [Heterogeneous Graph Transformer for Graph-to-Sequence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/hetgt_acl20/README.md)
@@ -927,7 +927,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [IJCAI 2020 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/README.md)
 - [When Do GNNs Work: Understanding and Improving Neighborhood Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/alagnn_ijcai20/README.md)
 - [Bilinear Graph Neural Network with Neighbor Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/bgnn_ijcai20/README.md)
@@ -1002,7 +1002,7 @@
  
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [CVPR 2020 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/README.md)
 - [L^2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/l2gcn_cvpr20/README.md)
 - [Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr20/dbgan_cvpr20/README.md)
@@ -1104,7 +1104,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [ICLR 2020 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/README.md)
 - [Composition-based Multi-Relational Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/compgcn_iclr20/README.md)
 - [Graph Neural Networks Exponentially Lose Expressive Power for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/expgnn_iclr20/README.md)
@@ -1159,7 +1159,7 @@
 </details>
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [WWW 2020 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/README.md)
 - [Graph Representation Learning via Graphical Mutual Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/gmi_www20/README.md)
 - [MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_www20/magnn_www20/README.md)
@@ -1197,7 +1197,7 @@
 </details>
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [AAAI 2020 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/README.md)
 - [ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/asap_aaai20/README.md)
 - [Independence Promoted Graph Disentangled Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai20/ipgdn_aaai20/README.md)
@@ -1309,7 +1309,7 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # [WSDM 2020 (Feb)](https://www.wsdm-conference.org/2020/acm-proceedings.php)
 - [Recurrent Attention Walk for Semi-supervised Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/raw_wsdm20/README.md)
 - [Popularity Prediction on Social Platforms with Coupled Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/coupledgnn_wsdm20/README.md)
@@ -1323,5 +1323,5 @@
 
 
 
-## -----------------------------------------------------------------------------
+## -------------------------------------------------------------------
 # Years: [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2019.MD) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2018.MD) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2017.MD)
