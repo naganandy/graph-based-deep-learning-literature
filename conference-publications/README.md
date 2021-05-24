@@ -18,6 +18,10 @@
 - [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpsn_icml21/README.md)
 - [Compositional Video Synthesis with Action Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ag2vid_icml21/README.md)
 - [Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/lipschitznorm_icml21/README.md)
+- [Graph Mixture Density Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gmdn_icml21/README.md)
+- [Size-Invariant Graph Representations for Graph Classification Extrapolations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/signn_icml21/README.md)
+- [A Collective Learning Framework to Boost GNN Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/clgnn_icml21/README.md)
+- [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/brogini_icml21/README.md)
 
 
 
