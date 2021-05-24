@@ -1,8 +1,23 @@
 # [Conferences](https://aideadlin.es/)
 
+
+
+- NeurIPS 2021 (Dec, decisions late Sep)
+- ICDM 2021 (Dec, decisions early Sep)
+- EMNLP 2021 (Nov, decisions late Aug)
 - ICCV 2021 (Oct, decisions late Jul)
-- KDD 2021 (Aug, decisions late May)
-- ACL 2021 (Aug, decisions mid May)
+
+
+
+## -------------------------------------------------------------------
+# [KDD 2021 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/README.md)
+- [Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/heco_kdd21/README.md)
+
+
+
+## -------------------------------------------------------------------
+# [ACL 2021 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/README.md)
+- [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
 
 
 
