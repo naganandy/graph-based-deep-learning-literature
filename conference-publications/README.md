@@ -38,12 +38,36 @@
 <details> 
 <summary> more </summary> 
 
+- [GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gnnautoscale_icml21/README.md)
+- [A Unified Lottery Ticket Hypothesis for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/glt_icml21/README.md)
+- [Interpretable Stability Bounds for Spectral Graph Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sgf_icml21/README.md)
+- [Graph Neural Networks Inspired by Classical Iterative Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/twirls_icml21/README.md)
+- [A Collective Learning Framework to Boost GNN Expressiveness for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/clgnn_icml21/README.md)
+- [Elastic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/elasticgnn_icml21/README.md)
+- [From Local Structures to Size Generalization in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/pattern_icml21/README.md)
+- [Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ernn_icml21/README.md)
+- [Persistence Homology for Link Prediction: An Interactive View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/tlcgnn_icml21/README.md)
+- [GRAND: Graph Neural Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/grand_icml21/README.md)
+- [How Framelets Enhance Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ufgpool_icml21/README.md)
+- [Graph Contrastive Learning Automated](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/joao_icml21/README.md)
+- [Self-supervised Graph-level Representation Learning with Local and Global Structure](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphlog_icml21/README.md)
+- [Scalable Optimal Transport in High Dimensions for Graph Distances, Embedding Alignment, and More](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gtn_icml21/README.md)
+- [Breaking the Limits of Message Passing Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gnnml_icml21/README.md)
+- [Let's Agree to Degree: Comparing Graph Convolutional Networks in the Message-Passing Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/adgcn_icml21/README.md)
+- [Generative Causal Explanations for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gem_icml21/README.md)
+- [Learning Intra-Batch Connections for Deep Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpndml_icml21/README.md)
 - [Compositional Video Synthesis with Action Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ag2vid_icml21/README.md)
+- [Towards Open Ad Hoc Teamwork Using Graph-based Policy Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gpl_icml21/README.md)
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/zgcnet_icml21/README.md)
 - [Graph Mixture Density Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gmdn_icml21/README.md)
+- [GLSearch: Maximum Common Subgraph Detection via Learning to Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/glsearch_icml21/README.md)
+- [Stochastic Iterative Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sigma_icml21/README.md)
+- [Deep Latent Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dlgm_icml21/README.md)
 - [Size-Invariant Graph Representations for Graph Classification Extrapolations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/signn_icml21/README.md)
-- [A Collective Learning Framework to Boost GNN Expressiveness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/clgnn_icml21/README.md)
 - [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/brogini_icml21/README.md)
+- [Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpart_icml21/README.md)
+- [Automated Graph Representation Learning with Hyperparameter Importance Explanation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/autogr_icml21/README.md)
+- [Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/rlgn_icml21/README.md)
 
 </details>
 
