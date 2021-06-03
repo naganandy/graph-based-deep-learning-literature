@@ -20,6 +20,7 @@
 - [On Explainability of Graph Neural Networks via Subgraph Explorations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/subgraphx_icml21/README.md)
 - [Generative Causal Explanations for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gem_icml21/README.md)
 - [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/brogini_icml21/README.md)
+- [Automated Graph Representation Learning with Hyperparameter Importance Explanation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/autogr_icml21/README.md)
 
 
 
@@ -61,8 +62,8 @@
 
 
 # Graph Pooling
-- [How Framelets Enhance Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ufgpool_icml21/README.md)
 - [Size-Invariant Graph Representations for Graph Classification Extrapolations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/signn_icml21/README.md)
+- [How Framelets Enhance Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ufgpool_icml21/README.md)
 
 
 
@@ -99,7 +100,6 @@
 - [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphdf_icml21/README.md)
 - [Graph Mixture Density Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gmdn_icml21/README.md)
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/zgcnet_icml21/README.md)
-- [Automated Graph Representation Learning with Hyperparameter Importance Explanation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/autogr_icml21/README.md)
 - Recovering AES Keys with a Deep Cold Boot Attack
 - Symmetric Spaces for Graph Embeddings: A Finsler-Riemannian Approach
 - Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation
