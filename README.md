@@ -52,12 +52,12 @@ in graph-based deep learning. [The links to conference publications](https://git
 - [Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_conf18/gan_iclr18/README.md)
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
 - [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/chebnet_nips16/README.md)
-- [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_iclr14/README.md)
 - [The Graph Neural Network Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gnn_tnn09/README.md)
+- [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_iclr14/README.md)
 - [Neural Message Passing for Quantum Chemistry](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/mpnn_icml17/README.md)
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_nips15/README.md)
 - [Gated Graph Sequence Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/ggnn_iclr16/README.md)
-- [Learning Convolutional Neural Networks for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_icml16/README.md)
+- [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/gin_iclr19/README.md)
 
 <br> </br>
 <br> </br>
