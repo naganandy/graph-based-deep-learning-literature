@@ -1,7 +1,7 @@
 # Graph-based Deep Learning Literature
 
 The repository contains links to
-- [Conference Publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md) and [the Top 10 Most Cited Publications (on Graph Neural Networks)](https://github.com/naganandy/graph-based-deep-learning-literature#top-10-most-cited-publications)
+- [Conference Publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md) and [the Top 10 Most Cited Publications (on Graph Neural Networks)](https://github.com/naganandy/graph-based-deep-learning-literature#top-10-most-cited-publications-on-graph-neural-networks)
 - [Related Workshops](https://github.com/naganandy/graph-based-deep-learning-literature#related-workshops)
 - [Surveys / Literature Reviews / Books](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/README.md) 
 
@@ -47,7 +47,7 @@ in graph-based deep learning. [The links to conference publications](https://git
 <br> </br>
 <br> </br>
 
-# Top 10 Most Cited Publications (Graph Neural Networks)
+# Top 10 Most Cited Publications (on Graph Neural Networks)
 - [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/gcn_iclr17/README.md)
 - [Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_conf18/gan_iclr18/README.md)
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphsage_nips17/README.md)
