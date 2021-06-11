@@ -109,9 +109,15 @@
 <details> 
 <summary> more </summary> 
 
+- [Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/merit_ijcai21/README.md)
+- [Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gua_ijcai21/README.md)
+- [GM-MLIC: Graph Matching based Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gmmlic_ijcai21/README.md)
 - [DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dagcn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
 - [GraphMI: Extracting Private Graph Data from Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/graphmi_ijcai21/README.md)
+- [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mgscr_ijcai21/README.md)
+- [Secure Deep Graph Generation with Link Differential Privacy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dpggan_ijcai21/README.md)
+- [Collaborative Graph Learning with Auxiliary Text for Temporal Event Prediction in Healthcare](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cgl_ijcai21/README.md)
 
 
 </details>
