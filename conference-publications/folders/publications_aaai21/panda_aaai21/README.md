@@ -5,7 +5,7 @@
 title = {Gene Regulatory Network Inference as Relaxed Graph Matching},
 author = {Deborah Weighill and Marouen Ben Guebila and Camila Lopes-Ramos and Kimberly Glass and John Quackenbush and John H Platig and Rebekka Burkholz},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {10263--10272},
+pages = {10263--10272},
 year = {2021}
 }
 ```
