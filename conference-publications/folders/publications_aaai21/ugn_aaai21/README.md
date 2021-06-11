@@ -5,7 +5,7 @@
 title = {Uncertain Graph Neural Networks for Facial Action Unit Detection},
 author = {Tengfei Song and Lisha Chen and Wenming Zheng and Qiang Ji},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {5993--6001},
+pages = {5993--6001},
 year = {2021}
 }
 ```
