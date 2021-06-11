@@ -5,7 +5,7 @@
 title = {FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting},
 author = {Boris N. Oreshkin and Arezou Amini and Lucy Coyle and Mark J. Coates},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {9233--9241},
+pages = {9233--9241},
 year = {2021}
 }
 ```
