@@ -5,7 +5,7 @@
 title = {Uncertainty-Matching Graph Neural Networks to Defend Against Poisoning Attacks},
 author = {Uday Shankar Shanthamallu and Jayaraman J. Thiagarajan and Andreas Spanias},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {9524--9532},
+pages = {9524--9532},
 year = {2021}
 }
 ```
