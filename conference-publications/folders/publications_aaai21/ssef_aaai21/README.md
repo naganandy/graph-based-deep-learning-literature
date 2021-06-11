@@ -5,7 +5,7 @@
 title = {Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-supervised Edge Features and Graph Neural Networks},
 author = {Arijit Sehanobish and Neal G. Ravindra and David van Dijk},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {4864--4873},
+pages = {4864--4873},
 year = {2021}
 }
 ```
