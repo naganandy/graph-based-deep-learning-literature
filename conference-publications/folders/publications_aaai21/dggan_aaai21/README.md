@@ -5,7 +5,7 @@
 title = {Adversarial Directed Graph Embedding},
 author = {Shijie Zhu and Hao Peng and Jianxin Li and Senzhang Wang and Lifang He},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {4741--4748},
+pages = {4741--4748},
 year = {2021}
 }
 ```
