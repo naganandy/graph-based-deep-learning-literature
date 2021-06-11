@@ -5,7 +5,7 @@
 title = {Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks},
 author = {Boyuan Feng and Yuke Wang and Zheng Wang and Yufei Ding},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {7404--7412},
+pages = {7404--7412},
 year = {2021}
 }
 ```
