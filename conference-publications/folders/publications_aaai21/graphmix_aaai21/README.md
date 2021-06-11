@@ -5,7 +5,7 @@
 title = {GraphMix: Improved Training of GNNs for Semi-Supervised Learning},
 author = {Vikas Verma and Meng Qu and Kenji Kawaguchi and Alex Lamb and Yoshua Bengio and Juho Kannala and Jian Tang},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {10024--10032},
+pages = {10024--10032},
 year = {2021}
 }
 ```
