@@ -5,7 +5,7 @@
 title = {Relative and Absolute Location Embedding for Few-Shot Node Classification on Graph},
 author = {Zemin Liu and Yuan Fang and Chenghao Liu and Steven Hoi},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {4267--4275},
+pages = {4267--4275},
 year = {2021}
 }
 ```
