@@ -5,7 +5,7 @@
 title = {Unsupervised Learning of Graph Hierarchical Abstractions with Differentiable Coarsening and Optimal Transport},
 author = {Tengfei Ma and Jie Chen},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {8856--8864},
+pages = {8856--8864},
 year = {2021},
 }
 ```
