@@ -5,7 +5,7 @@
 title = {Graph Heterogeneous Multi-Relational Recommendation},
 author = {Chong Chen and Weizhi Ma and Min Zhang and Zhaowei Wang and Xiuqiang He and Chenyang Wang and Yiqun Liu and Shaoping Ma},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {3958--3966},
+pages = {3958--3966},
 year = {2021}
 }
 ```
