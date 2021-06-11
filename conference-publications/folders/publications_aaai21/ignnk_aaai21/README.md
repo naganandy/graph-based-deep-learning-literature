@@ -5,7 +5,7 @@
 title = {Inductive Graph Neural Networks for Spatiotemporal Kriging},
 author = {Yuankai Wu and Dingyi Zhuang and Aurelie Labbe and Lijun Sun},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {4478--4485},
+pages = {4478--4485},
 year = {2021},
 }
 ```
