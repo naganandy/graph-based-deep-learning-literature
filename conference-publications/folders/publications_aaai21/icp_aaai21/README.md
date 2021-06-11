@@ -5,7 +5,7 @@
 title = {Classification by Attention: Scene Graph Classification with Prior Knowledge},
 author = {Sahand Sharifzadeh and Sina Moayed Baharlou and Volker Tresp},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {5025--5033},
+pages = {5025--5033},
 year = {2021},
 }
 ```
