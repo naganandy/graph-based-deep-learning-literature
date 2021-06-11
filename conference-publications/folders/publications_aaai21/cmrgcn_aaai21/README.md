@@ -4,7 +4,7 @@
 @inproceedings{cmrgcn_aaai21,
 author = {Qiang Zhou and Jingjing Gu and Xinjiang Lu and Fuzhen Zhuang and Yanchao Zhao and Qiuhong Wang and Xiao Zhang},
 title = {Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction},
-  pages	    = {4723--4731},
+pages = {4723--4731},
 year = {2021},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)}
 }
