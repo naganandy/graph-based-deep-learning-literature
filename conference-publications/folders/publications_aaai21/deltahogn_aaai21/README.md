@@ -5,7 +5,7 @@
 title = {Scalable Graph Networks for Particle Simulations},
 author = {Karolis Martinkus and Aurelien Lucchi and Nathanaël Perraudin},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {8912--8920},
+pages = {8912--8920},
 year = {2021},
 }
 ```
