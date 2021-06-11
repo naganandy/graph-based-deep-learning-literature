@@ -5,7 +5,7 @@
 title = {Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs},
 author = {Yanlin Wang and Hui Li},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {14015--14023},
+pages = {14015--14023},
 year = {2021}
 }
 ```
