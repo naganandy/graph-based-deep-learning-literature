@@ -5,7 +5,7 @@
 title = {Planning with Learned Object Importance in Large Problem Instances using Graph Neural Networks},
 author = {Tom Silver and Rohan Chitnis and Aidan Curtis and Joshua Tenenbaum and Tomas Lozano-Perez and Leslie Pack Kaelbling},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {11962--11971},
+pages = {11962--11971},
 year = {2021}
 }
 ```
