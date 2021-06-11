@@ -5,7 +5,7 @@
 title = {Identity-aware Graph Neural Networks},
 author = {Jiaxuan You and Jonathan Gomes-Selman and Rex Ying and Jure Leskovec},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {10737--10745},
+pages = {10737--10745},
 year = {2021}
 }
 ```
