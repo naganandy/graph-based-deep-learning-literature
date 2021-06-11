@@ -5,7 +5,7 @@
 title = {Contrastive and Generative Graph Convolutional Networks for Graph-based Semi-Supervised Learning},
 author = {Sheng Wan and Shirui Pan and Jian Yang and Chen Gong},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-pages	= {10049--10057},
+pages = {10049--10057},
 year = {2021}
 }
 ```
