@@ -5,7 +5,7 @@
 title = {Neural Sentence Ordering Based on Constraint Graphs},
 author = {Yutao Zhu and Kun Zhou and Jian-Yun Nie and Shengchao Liu and Zhicheng Dou},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {14656--14664},
+pages = {14656--14664},
 year = {2021}
 }
 ```
