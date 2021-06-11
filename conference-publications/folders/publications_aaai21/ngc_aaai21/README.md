@@ -5,7 +5,7 @@
 title = {Semi-Supervised Learning for Multi-Task Scene Understanding by Neural Graph Consensus},
 author = {Marius Leordeanu and Mihai Pirvu and Dragos Costea and Alina Marcu and Emil Slusanschi and Rahul Sukthankar},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
-  pages	    = {1882--1892},
+pages = {1882--1892},
 year = {2021},
 }
 ```
