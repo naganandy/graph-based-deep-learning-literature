@@ -11,4 +11,4 @@ year={2021}
 
 links
 - [openreview](https://openreview.net/forum?id=tiqI7w64JG2)
-- [iclr]((https://iclr.cc/virtual/2021/poster/3074)
+- [iclr](https://iclr.cc/virtual/2021/poster/3074)
