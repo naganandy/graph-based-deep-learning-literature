@@ -5,9 +5,11 @@
   title     = {Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs},
   author    = {Li Sun and Zhongbao Zhang and Jiawei Zhang and Feiyang Wang and Hao Peng and Sen Su and Philip S. Yu},
   booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {4375--4383},
   year      = {2021}
 }
 ```
 
 links
 - [aaai](https://www.aaai.org/AAAI21Papers/AAAI-2858.SunL.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16563)

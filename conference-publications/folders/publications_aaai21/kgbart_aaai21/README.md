@@ -5,6 +5,7 @@
 title = {KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning},
 author = {Ye Liu and Yao Wan and Lifang He and Hao Peng and Philip S. Yu},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {6418--6425},
 year = {2021}
 }
 ```
@@ -12,3 +13,4 @@ year = {2021}
 links
 - [arXiv](https://arxiv.org/abs/2009.12677)
 - [aaai](https://www.aaai.org/AAAI21Papers/AAAI-4301.LiuY.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16796)

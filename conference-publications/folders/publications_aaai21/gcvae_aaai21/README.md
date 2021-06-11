@@ -5,9 +5,11 @@
 title = {Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling},
 author = {Meng Hsuan Yu and Juntao Li and Zhangming Chan and Dongyan Zhao and Rui Yan},
 booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {6021--6029},
 year = {2021}
 }
 ```
 
 links
 - [aaai](https://www.aaai.org/AAAI21Papers/AAAI-10130.YuMH.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16751)

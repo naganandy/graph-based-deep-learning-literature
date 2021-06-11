@@ -5,6 +5,7 @@
   title     = {Graph Neural Network-Based Anomaly Detection in Multivariate Time Series},
   author    = {Ailin Deng and Bryan Hooi},
   booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {4027--4035},
   year      = {2021}
 }
 ```
@@ -12,3 +13,4 @@
 links
 - [preprint](https://bhooi.github.io/papers/gdn_aaai2021.pdf)
 - [aaai](https://www.aaai.org/AAAI21Papers/AAAI-5076.DengA.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16523)

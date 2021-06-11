@@ -5,6 +5,7 @@
   title     = {A Graph-based Relevance Matching Model for Ad-hoc Retrieval},
   author    = {Yufeng Zhang and Jinghao Zhang and Zeyu Cui and Shu Wu and Liang Wang},
   booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages     = {4688--4696},
   year      = {2021}
 }
 ```
@@ -12,3 +13,4 @@
 links
 - [arXiv](https://arxiv.org/abs/2101.11873)
 - [aaai](https://www.aaai.org/AAAI21Papers/AAAI-7194.ZhangY.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16599)

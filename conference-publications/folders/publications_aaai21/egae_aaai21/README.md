@@ -5,9 +5,11 @@
   title     = {Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph Auto-Encoder},
   author    = {Yajing Sun and Yong Shan and Chengguang Tang and Yue Hu and Yinpei Dai and Jing Yu and Jian Sun and Fei Huang and Luo Si},
   booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+  pages	    = {13869--13877},
   year      = {2021}
 }
 ```
 
 links
 - [aaai](https://www.aaai.org/AAAI21Papers/AAAI-4678.SunY.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/17634)
