@@ -14,5 +14,4 @@ links
 - [arXiv](https://arxiv.org/abs/2102.09140)
 - [video](https://www.youtube.com/watch?v=yDGq1uOxHv8)
 - [code](https://github.com/newlei/FairGo)
-
 - [acm](https://dl.acm.org/doi/10.1145/3442381.3450015)
