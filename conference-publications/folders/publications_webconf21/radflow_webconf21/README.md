@@ -14,5 +14,4 @@ links
 - [arXiv](https://arxiv.org/abs/2102.07289)
 - [video](https://www.youtube.com/watch?v=UAzqfs5_Xqs)
 - [code](https://github.com/alasdairtran/radflow)
-
 - [acm](https://dl.acm.org/doi/10.1145/3442381.3449945)
