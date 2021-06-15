@@ -10,6 +10,6 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Qian_Roof-GAN_Learning_To_Generate_Roof_Geometry_and_Relations_for_Residential_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Qian_Roof-GAN_Learning_To_Generate_Roof_Geometry_and_Relations_for_Residential_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2012.09340)
 - [code](https://github.com/yi-ming-qian/roofgan)

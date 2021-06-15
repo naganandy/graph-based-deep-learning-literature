@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Li_Bipartite_Graph_Network_With_Adaptive_Message_Passing_for_Unbiased_Scene_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Li_Bipartite_Graph_Network_With_Adaptive_Message_Passing_for_Unbiased_Scene_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2104.00308)

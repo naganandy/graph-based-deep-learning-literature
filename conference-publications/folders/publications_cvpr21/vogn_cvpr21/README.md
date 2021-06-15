@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Liu_Relation-aware_Instance_Refinement_for_Weakly_Supervised_Visual_Grounding_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Liu_Relation-aware_Instance_Refinement_for_Weakly_Supervised_Visual_Grounding_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.12989)

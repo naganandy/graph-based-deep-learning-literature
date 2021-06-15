@@ -10,6 +10,6 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Roy_Curriculum_Graph_Co-Teaching_for_Multi-Target_Domain_Adaptation_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Roy_Curriculum_Graph_Co-Teaching_for_Multi-Target_Domain_Adaptation_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2104.00808)
 - [project](https://roysubhankar.github.io/graph-coteaching-adaptation/)

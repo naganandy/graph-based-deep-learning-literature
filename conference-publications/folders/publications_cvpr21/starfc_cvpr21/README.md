@@ -10,6 +10,6 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Shen_Structure-Aware_Face_Clustering_on_a_Large-Scale_Graph_With_107_Nodes_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Shen_Structure-Aware_Face_Clustering_on_a_Large-Scale_Graph_With_107_Nodes_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.13225)
 - [project](https://sstzal.github.io/STAR-FC/)

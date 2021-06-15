@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Wang_Bi-GCN_Binary_Graph_Convolutional_Network_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Wang_Bi-GCN_Binary_Graph_Convolutional_Network_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2010.07565)

@@ -10,6 +10,6 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Bozic_Neural_Deformation_Graphs_for_Globally-Consistent_Non-Rigid_Reconstruction_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Bozic_Neural_Deformation_Graphs_for_Globally-Consistent_Non-Rigid_Reconstruction_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2012.01451)
 - [video](https://www.youtube.com/watch?v=vyq36eFkdWo)

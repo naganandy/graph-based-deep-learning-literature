@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Fu_Robust_Point_Cloud_Registration_Framework_Based_on_Deep_Graph_Matching_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Fu_Robust_Point_Cloud_Registration_Framework_Based_on_Deep_Graph_Matching_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.04256)

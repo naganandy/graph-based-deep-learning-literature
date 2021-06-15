@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Qiu_3DCaricShop_A_Dataset_and_a_Baseline_Method_for_Single-View_3D_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Qiu_3DCaricShop_A_Dataset_and_a_Baseline_Method_for_Single-View_3D_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.08204)

@@ -10,6 +10,6 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Park_Unsupervised_Hyperbolic_Representation_Learning_via_Message_Passing_Auto-Encoders_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Park_Unsupervised_Hyperbolic_Representation_Learning_via_Message_Passing_Auto-Encoders_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.16046)
 - [code](https://github.com/junhocho/HGCAE)

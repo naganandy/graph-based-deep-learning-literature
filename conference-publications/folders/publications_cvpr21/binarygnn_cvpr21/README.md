@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2012.15823)

@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Morais_Learning_Asynchronous_and_Sparse_Human-Object_Interaction_in_Videos_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Morais_Learning_Asynchronous_and_Sparse_Human-Object_Interaction_in_Videos_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.02758)

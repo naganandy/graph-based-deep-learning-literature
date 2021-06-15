@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Zhao_3D_Graph_Anatomy_Geometry-Integrated_Network_for_Pancreatic_Mass_Segmentation_Diagnosis_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Zhao_3D_Graph_Anatomy_Geometry-Integrated_Network_for_Pancreatic_Mass_Segmentation_Diagnosis_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2012.04701)

@@ -10,5 +10,5 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Yang_Probabilistic_Modeling_of_Semantic_Ambiguity_for_Scene_Graph_Generation_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Yang_Probabilistic_Modeling_of_Semantic_Ambiguity_for_Scene_Graph_Generation_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.05271)

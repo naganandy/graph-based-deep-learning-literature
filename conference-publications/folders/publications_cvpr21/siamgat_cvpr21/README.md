@@ -10,6 +10,6 @@ year = {2021}
 }
 ```
 links
--[openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Guo_Graph_Attention_Tracking_CVPR_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/CVPR2021/html/Guo_Graph_Attention_Tracking_CVPR_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2011.11204)
 - [code](https://github.com/ohhhyeahhh/SiamGAT)
