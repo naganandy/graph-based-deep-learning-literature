@@ -127,14 +127,6 @@
 
 
 
-# Miscellaneous
-- [Exploiting Mutual Information for Substructure-aware Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mistructrl_ijcai20/README.md)
-- [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
-- [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
-- [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)
-
-
-
 # Urban / Traffic Data
 - [Multi-View Joint Graph Representation Learning for Urban Region Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/grlure_ijcai20/README.md)
 - [MaCAR: Urban Traffic Light Control via Active Multi-agent Communication and Action Rectification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/macar_ijcai20/README.md)
@@ -148,3 +140,11 @@
 - [Smart Contract Vulnerability Detection using Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/tmp_ijcai20/README.md)
 - [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/stgnn_ijcai20/README.md)
 - [Deep Semantic Compliance Advisor for  Unstructured Document  Compliance Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/dsca_ijcai20/README.md)
+
+
+
+# Miscellaneous
+- [Exploiting Mutual Information for Substructure-aware Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/mistructrl_ijcai20/README.md)
+- [Communicative Representation Learning on Attributed Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cmpnn_ijcai20/README.md)
+- [Deep Learning for Abstract Argumentation Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/agnn_ijcai20/README.md)
+- [CooBa: Cross-project Bug Localization via Adversarial Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai20/cooba_ijcai20/README.md)

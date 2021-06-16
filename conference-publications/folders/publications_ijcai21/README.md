@@ -1,4 +1,4 @@
-# [Publications in IJCAI 2021](https://ijcai-21.org/accepted-papers/)
+# [Publications in IJCAI 2021](https://ijcai-21.org/program-main-track/)
 
 
 
