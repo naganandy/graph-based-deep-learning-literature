@@ -20,6 +20,7 @@
 - [Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/wrgnn_kdd21/README.md)
 - [Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gns_kdd21/README.md)
 - [TDGIA:Effective Injection Attacks on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tdgia_kdd21/README.md)
+- [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
 
 
 
