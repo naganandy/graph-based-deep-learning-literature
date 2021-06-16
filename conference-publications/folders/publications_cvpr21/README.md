@@ -22,6 +22,7 @@
 
 
 # Weak Supervision
+- [SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/selfsagcn_cvpr21/README.md)
 - [Learning Graphs for Knowledge Transfer With Limited Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/gcnkt_cvpr21/README.md)
 - [Learning Graph Embeddings for Compositional Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/cge_cvpr21/README.md)
 
@@ -44,6 +45,8 @@
 - [3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/smcn_cvpr21/README.md)
 - [TSGCNet: Discriminative Geometric Feature Learning with Two-Stream GraphConvolutional Network for 3D Dental Model Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/tsgcnet_cvpr21/README.md)
 - [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/ppked_cvpr21/README.md)
+- [Quantifying Explainers of Graph Neural Networks in Computational Pathology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/qegnn_cvpr21/README.md)
+- [Mol2Image: Improved Conditional Flow Models for Molecule to Image Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mol2image_cvpr21/README.md)
 
 
 
@@ -111,9 +114,15 @@
 
 
 # Person Re-identification
-- [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mdif_cvpr21/README.md)
 - [Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/ctl_cvpr21/README.md)
 - [Person Re-Identification Using Heterogeneous Local Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hlgat_cvpr21/README.md)
+
+
+
+# Domain Adaptation
+- [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mdif_cvpr21/README.md)
+- [Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/cgct_cvpr21/README.md)
+- [Amalgamating Knowledge From Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/amgnn_cvpr21/README.md)
 
 
 
@@ -144,6 +153,7 @@
 # Object Pose Estimation
 - [FS-Net: Fast Shape-Based Network for Category-Level 6D Object Pose Estimation With Decoupled Rotation Mechanism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/fsnet_cvpr21/README.md)
 - [Keypoint-Graph-Driven Learning Framework for Object Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/dakdn_cvpr21/README.md)
+- [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/uafusion_cvpr21/README.md)
 
 
 
@@ -151,35 +161,41 @@
 - [Deep Active Surface Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/dasm_cvpr21/README.md)
 - [Picasso: A CUDA-Based Library for Deep Learning Over 3D Meshes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/picasso_cvpr21/README.md)
 - [Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/ndf_cvpr21/README.md)
+- [NeuroMorph: Unsupervised Shape Interpolation and Correspondence in One Go](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/neuromorph_cvpr21/README.md)
+
+
+
+# Residential Planning
+- [Plan2Scene: Converting Floorplans to 3D Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/plan2scene_cvpr21/README.md)
+- [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/roofgan_cvpr21/README.md)
 
 
 
 # Computer Aided Design
 - [Inferring CAD Modeling Sequences Using Zone Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/zonegraph_cvpr21/README.md)
 - [BRepNet: A topological message passing system for solid models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/brepnet_cvpr21/README.md)
+- [UV-Net: Learning From Boundary Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/uvnet_cvpr21/README.md)
+
+
+
+# Autonomous Driving System
+- [SOON: Scenario Oriented Object Navigation with Graph-based Exploration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/soon_cvpr21/README.md)
+- [HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hdmapgen_cvpr21/README.md)
+
+
+
+# Face Clustering
+- [Structure-Aware Face Clustering on a Large-Scale Graph with 10^7 Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/starfc_cvpr21/README.md)
+- [Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/clusformer_cvpr21/README.md)
 
 
 
 # Miscellaneous
-- [Structure-Aware Face Clustering on a Large-Scale Graph with 10^7 Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/starfc_cvpr21/README.md)
 - [Sequential Graph Convolutional Network for Active Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/seqgcn_cvpr21/README.md)
 - [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hgcnn_cvpr21/README.md)
-- [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/uafusion_cvpr21/README.md)
-- [Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/cgct_cvpr21/README.md)
-- [Quantifying Explainers of Graph Neural Networks in Computational Pathology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/qegnn_cvpr21/README.md)
-- [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/roofgan_cvpr21/README.md)
-- [SOON: Scenario Oriented Object Navigation with Graph-based Exploration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/soon_cvpr21/README.md)
 - [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/vcgcn_cvpr21/README.md)
 - [Rethinking Graph Neural Network Search from Message-passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/gnas_cvpr21/README.md)
 - [DualGraph: A Graph-Based Method for Reasoning About Label Noise](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/dualgraph_cvpr21/README.md)
-- [SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/selfsagcn_cvpr21/README.md)
-- [Plan2Scene: Converting Floorplans to 3D Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/plan2scene_cvpr21/README.md)
 - [End-to-End Rotation Averaging With Multi-Source Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/msp_cvpr21/README.md)
-- [NeuroMorph: Unsupervised Shape Interpolation and Correspondence in One Go](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/neuromorph_cvpr21/README.md)
-- [UV-Net: Learning From Boundary Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/uvnet_cvpr21/README.md)
-- [HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hdmapgen_cvpr21/README.md)
-- [Clusformer: A Transformer Based Clustering Approach to Unsupervised Large-Scale Face and Visual Landmark Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/clusformer_cvpr21/README.md)
 - [Primitive Representation Learning for Scene Text Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/pren2d_cvpr21/README.md)
-- [Amalgamating Knowledge From Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/amgnn_cvpr21/README.md)
 - [Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hlagcn_cvpr21/README.md)
-- [Mol2Image: Improved Conditional Flow Models for Molecule to Image Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mol2image_cvpr21/README.md)
