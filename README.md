@@ -2,7 +2,7 @@
 
 The repository contains links to
 - [Conference Publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md) and [the Top 10 Most Cited Publications](https://github.com/naganandy/graph-based-deep-learning-literature#top-10-most-cited-publications-on-graph-neural-networks)
-- [Related Workshops](https://github.com/naganandy/graph-based-deep-learning-literature#related-workshops)
+- [Related Workshops](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/workshops/README.md)
 - [Surveys / Literature Reviews / Books](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/README.md) 
 
 in graph-based deep learning. [The links to conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#conferences) are arranged in the reverse chronological order of conference dates from the conferences below. Alternatively, please click on a year below beside a conference name to see publications appeared at the conference in the year.
@@ -58,32 +58,3 @@ in graph-based deep learning. [The links to conference publications](https://git
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/graphcnn_nips15/README.md)
 - [Gated Graph Sequence Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_pre18/ggnn_iclr16/README.md)
 - [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr19/gin_iclr19/README.md)
-
-<br> </br>
-<br> </br>
-<br> </br>
-
-# Related Workshops
-- ## 2021
-   * ### [Deep Learning on Graphs: Method and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/)
-   * ### [GNNSys'21 -- Workshop on Graph Neural Networks and Systems](https://gnnsys.github.io/)
-   * ### [Geometrical and Topological Representation Learning (ICLR)](https://gt-rl.github.io/)
-   * ### [Graph Learning Benchmarks (WebConf)](https://graph-learning-benchmarks.github.io/)
-   * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/)
-   * ### [Graphs and more Complex structures for Learning and Reasoning (AAAI)](https://sites.google.com/view/gclr2021/)
-- ## 2020
-   * ### [Differential Geometry meets Deep Learning (NeurIPS)](https://sites.google.com/view/diffgeo4dl/home)
-   * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/)
-   * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2020/)
-   * ### [Graph Representation Learning and Beyond (GRL+) (ICML)](https://grlplus.github.io/)
-   * ### [Bridge Between Perception and Reasoning: Graph Neural Networks and Beyond (ICML)](https://logicalreasoninggnn.github.io/)
-   * ### [Deep Learning for Graphs (WWW)](https://www.aminer.cn/dl4g_www2020)
-   * ### [Deep Learning on Graphs: Methodologies and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai20/)
-- ## 2019
-   * ### [Graph Representation Learning (NeurIPS)](https://grlearning.github.io/)
-   * ### [Scene Graph Representation and Learning (ICCV)](https://cs.stanford.edu/people/ranjaykrishna/sgrl/index.html)
-   * ### [Deep Learning on Graphs: Methods and Applications (KDD)](https://dlg2019.bitbucket.io/)
-   * ### [Learning and Reasoning with Graph-Structured Representations (ICML)](https://graphreason.github.io/)
-   * ### [Representation Learning on Graphs and Manifolds (ICLR)](https://rlgm.github.io/)
-- ## 2018
-   * ### [Relational Representation Learning (NeurIPS)](https://r2learning.github.io/)
