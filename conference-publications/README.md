@@ -19,8 +19,29 @@
 - [Scaling Up Graph Neural Networks Via Graph Coarsening](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/coarsegcn_kdd21/README.md)
 - [Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/wrgnn_kdd21/README.md)
 - [Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gns_kdd21/README.md)
+- [Approximate Graph Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/agp_kdd21/README.md)
 - [TDGIA:Effective Injection Attacks on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tdgia_kdd21/README.md)
+
+
+
+<details> 
+<summary> more </summary> 
+
 - [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
+- [Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gnnasp_kdd21/README.md)
+- [DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)
+- [DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/diffmg_kdd21/README.md)
+- [Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dsgc_kdd21/README.md)
+- [Dual Graph enhanced Embedding Neural Network for CTR Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgenn_kdd21/README.md)
+- [Graph Deep Factor Model for Cloud Utilization Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/graphdf_kdd21/README.md)
+- [Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gial_kdd21/README.md)
+- [ImGAGN:Imbalanced Network Embedding via Generative Adversarial Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/imgagn_kdd21/README.md)
+- [Relational Message Passing for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pathcon_kdd21/README.md)
+- [T-GAP: Learning to Walk across Time for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tgap_kdd21/README.md)
+- [NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/nrgnn_kdd21/README.md)
+- [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
+
+</details>
 
 
 
