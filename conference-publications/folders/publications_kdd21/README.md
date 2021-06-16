@@ -1,4 +1,4 @@
-# Publications in KDD 2021
+# [Publications in KDD 2021](https://kdd.org/kdd2021/accepted-papers/index)
 
 
 
@@ -18,6 +18,9 @@
 -  Attentive Heterogeneous Graph Embedding for Job Mobility Prediction
 -  Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation
 -  Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach
+-  Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection
+-  HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps
+-  Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection
 
 
 
@@ -36,6 +39,13 @@
 
 
 
+# Network Alignment
+- [Cross-Network Learning with Partially Aligned Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/crossgcn_kdd21/README.md)
+-  Unsupervised Graph Alignment with Wasserstein Distance Discriminator
+-  Joint Graph Embedding and Alignment with Spectral Pivot
+
+
+
 # Adversarial Attacks
 - [Graph Adversarial Attack via Rewiring](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/rewire_kdd21/README.md)
 - [TDGIA:Effective Injection Attacks on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tdgia_kdd21/README.md)
@@ -46,6 +56,7 @@
 # Imbalanced Networks
 - [ImGAGN:Imbalanced Network Embedding via Generative Adversarial Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/imgagn_kdd21/README.md)
 - [Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gial_kdd21/README.md)
+- [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
 
 
 
@@ -56,10 +67,8 @@
 
 
 # Miscellaneous
-- [Cross-Network Learning with Partially Aligned Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/crossgcn_kdd21/README.md)
 - [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cnfgnn_kdd21/README.md)
 - [Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/wrgnn_kdd21/README.md)
-- [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
 - [DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)
 - [DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/diffmg_kdd21/README.md)
 - [Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dsgc_kdd21/README.md)
@@ -81,25 +90,19 @@
 -  Gaussian Process with Graph Convolutional Kernel for Relational Learning
 -  H$^2$MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
 -  Individual Fairness for Graph Neural Networks: A Ranking based Approach
--  Joint Graph Embedding and Alignment with Spectral Pivot
 -  Learning How to Propagate Messages in Graph Neural Networks
 -  Neural-Answering Logical Queries on Knowledge Graphs
 -  Norm Adjusted Proximity Graph for Fast Inner Product Retrieval
 -  Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective
 -  ROD: Reception-aware Online Distillation for Sparse Graphs
 -  Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting
--  Subset Node Representation Learning over Large Dynamic Graphs
 -  Tail-GNN: Tail-Node Graph Neural Networks
 -  Temporal Graph Signal Decomposition
 -  Towards Computing A Near-Maximum Weighted Independent Set on Massive Graphs
--  Unsupervised Graph Alignment with Wasserstein Distance Discriminator
 -  A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem
 -  Counterfactual Graphs for Explainable Classification of Brain Networks
--  Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection
--  HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps
--  Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection
 -  MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks
--  MugRep: A Multi-Task Hierarchical Graph RepresentationLearning Framework for Real Estate Appraisal
+-  MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal
 -  Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
 -  Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference
 -  VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
