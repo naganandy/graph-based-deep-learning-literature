@@ -47,7 +47,7 @@
 
 
 
-# Efficient Training
+# Scalability
 - [Bandit Samplers for Training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gcnbs_neurips20/README.md)
 - [Scalable Graph Neural Networks via Bidirectional Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/gbp_neurips20/README.md)
 - [GCN meets GPU: Decoupling When to Sample from How to Sample](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips20/lazygcn_neurips20/README.md)

@@ -17,7 +17,7 @@
 
 
 
-# Efficient Training
+# Scalability
 - [Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/mvsgcn_kdd20/README.md)
 - [Scaling Graph Neural Networks with Approximate PageRank](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/pprgo_kdd20/README.md)
 - [Personalized PageRank to a Target Node, Revisited](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd20/rbs_kdd20/README.md)

@@ -9,8 +9,9 @@
 
 
 
-# Efficient Training
+# Scalability
 - [A Unified Lottery Ticket Hypothesis for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/glt_icml21/README.md)
+- [Training Graph Neural Networks with 1000 Layers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/revgnn_icml21/README.md)
 - Memory-Efficient Graph Neural Networks
 - [GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gnnautoscale_icml21/README.md)
 

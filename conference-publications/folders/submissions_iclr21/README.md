@@ -20,7 +20,7 @@
 
 
 
-# Efficient Training
+# Scalability
 - [On the Importance of Sampling in Training GCNs: Convergence Analysis and Variance Reduction](https://openreview.net/forum?id=Oq79NOiZB1H)
 - [FAST GRAPH ATTENTION NETWORKS USING EFFECTIVE RESISTANCE BASED GRAPH SPARSIFICATION](https://openreview.net/forum?id=sjGBjudWib)
 - [BDS-GCN: Efficient Full-Graph Training of Graph Convolutional Nets with Partition-Parallelism and Boundary Sampling](https://openreview.net/forum?id=uFA24r7v4wL)

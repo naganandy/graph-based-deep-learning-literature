@@ -2,7 +2,7 @@
 
 
 
-# Efficient Training
+# Scalability
 - [Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gns_kdd21/README.md)
 - [Scaling Up Graph Neural Networks Via Graph Coarsening](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/coarsegcn_kdd21/README.md)
 - [Approximate Graph Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/agp_kdd21/README.md)

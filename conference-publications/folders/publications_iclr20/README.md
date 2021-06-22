@@ -47,7 +47,7 @@
 
 
 
-# Efficient Training
+# Scalability
 - [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphsaint_iclr20/README.md)
 - [GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/graphzoom_iclr20/README.md)
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr20/gnnpretraining_iclr20/README.md)
