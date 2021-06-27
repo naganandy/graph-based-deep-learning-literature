@@ -42,6 +42,12 @@
 
 
 
+# Text Classification
+- [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
+- Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
+
+
+
 # Dialogue
 - [Discovering Dialog Structure Graph for Open-Domain Dialog Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dvaegnn_acl21/README.md)
 - [Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/sece_acl21/README.md)
@@ -55,10 +61,8 @@
 - [Psycholinguistic Tripartite Graph Network for Personality Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/trignet_acl21/README.md)
 - [LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/lgesql_acl21/README.md)
 - [Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cfl_acl21/README.md)
-- [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
 - [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/map2seq_acl21/README.md)
 - [Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bike_acl21/README.md)
-- Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
 - Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection
 - Learning Faithful Representations of Causal Graphs
 - Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge
