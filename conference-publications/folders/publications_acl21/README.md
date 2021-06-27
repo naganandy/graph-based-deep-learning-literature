@@ -28,13 +28,9 @@
 - Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition
 
 
-# Dual Graphs
-- Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
-- [Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dualgcn_acl21/README.md)
-
-
 
 # Sentiment Analysis
+- [Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dualgcn_acl21/README.md)
 - Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks
 
 
@@ -62,6 +58,7 @@
 - [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
 - [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/map2seq_acl21/README.md)
 - [Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bike_acl21/README.md)
+- Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
 - Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection
 - Learning Faithful Representations of Causal Graphs
 - Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge
