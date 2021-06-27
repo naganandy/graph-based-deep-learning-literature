@@ -61,12 +61,18 @@
 <details> 
 <summary> more </summary> 
 
+- [ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/rope_acl21/README.md)
+- [Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/hdgcn_acl21/README.md)
+- [MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/mmgcn_acl21/README.md)
 - [Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/kag_acl21/README.md)
 - [Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dualgcn_acl21/README.md)
+- [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/map2seq_acl21/README.md)
 - [Discovering Dialog Structure Graph for Open-Domain Dialog Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dvaegnn_acl21/README.md)
+- [BASS: Boosting Abstractive Summarization with Unified Semantic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bass_acl21/README.md)
 - [Psycholinguistic Tripartite Graph Network for Personality Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/trignet_acl21/README.md)
 - [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
 - [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
+- [Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bike_acl21/README.md)
 
 
 </details>
