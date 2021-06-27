@@ -77,6 +77,7 @@
 - [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mixgcf_kdd21/README.md)
 - [NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/nrgnn_kdd21/README.md)
 - [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
+- Semi-Supervised Deep Learning for Multiplex Networks
 -  A Broader Picture of Random-walk Based Graph Embedding
 -  A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
 -  Accelerating Set Intersections over Graphs by Reducing-Merging

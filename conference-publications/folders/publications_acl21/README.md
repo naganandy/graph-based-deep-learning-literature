@@ -1,4 +1,4 @@
-# Publications in ACL 2021
+# [Publications in ACL 2021](https://2021.aclweb.org/registration/accept/)
 
 
 
@@ -21,11 +21,27 @@
 
 
 
+# Sentiment Analysis
+- [Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dualgcn_acl21/README.md)
+
+
+
+# Emotion Recognition
+- [Directed Acyclic Graph Network for Conversational Emotion Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dagerc_acl21/README.md)
+- [Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/kag_acl21/README.md)
+
+
+
+# Dialogue
+- [Discovering Dialog Structure Graph for Open-Domain Dialog Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dvaegnn_acl21/README.md)
+
+
+
 # Miscellaneous
 - [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
 - [Psycholinguistic Tripartite Graph Network for Personality Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/trignet_acl21/README.md)
 - [LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/lgesql_acl21/README.md)
 - [Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cfl_acl21/README.md)
-- [Directed Acyclic Graph Network for Conversational Emotion Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dagerc_acl21/README.md)
 - [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
-
+- Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection
+- Learning Faithful Representations of Causal Graphs

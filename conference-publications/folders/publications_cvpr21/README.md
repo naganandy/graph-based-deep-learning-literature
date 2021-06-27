@@ -199,3 +199,4 @@
 - [End-to-End Rotation Averaging With Multi-Source Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/msp_cvpr21/README.md)
 - [Primitive Representation Learning for Scene Text Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/pren2d_cvpr21/README.md)
 - [Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hlagcn_cvpr21/README.md)
+- [Fast End-to-End Learning on Protein Surfaces](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/dmasif_cvpr21/README.md)

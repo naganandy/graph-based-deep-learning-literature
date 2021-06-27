@@ -61,6 +61,9 @@
 <details> 
 <summary> more </summary> 
 
+- [Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/kag_acl21/README.md)
+- [Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dualgcn_acl21/README.md)
+- [Discovering Dialog Structure Graph for Open-Domain Dialog Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dvaegnn_acl21/README.md)
 - [Psycholinguistic Tripartite Graph Network for Personality Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/trignet_acl21/README.md)
 - [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
 - [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
@@ -239,6 +242,7 @@
 - [KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/krisp_cvpr21/README.md)
 - [Amalgamating Knowledge From Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/amgnn_cvpr21/README.md)
 - [TearingNet: Point Cloud Autoencoder To Learn Topology-Friendly Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/tearingnet_cvpr21/README.md)
+- [Fast End-to-End Learning on Protein Surfaces](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/dmasif_cvpr21/README.md)
 - [Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hlagcn_cvpr21/README.md)
 - [Mol2Image: Improved Conditional Flow Models for Molecule to Image Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/mol2image_cvpr21/README.md)
 - [Person Re-Identification Using Heterogeneous Local Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr21/hlgat_cvpr21/README.md)
