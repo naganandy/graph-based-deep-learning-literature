@@ -14,18 +14,19 @@
 
 
 
-# Information Extraction
-- [Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/git_acl21/README.md)
-- [CLEVE: Contrastive Pre-training for Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cleve_acl21/README.md)
-- [ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/rope_acl21/README.md)
-
-
-
 # Relation Extraction
+- [TIMERS: Document-level Temporal Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/timers_acl21/README.md)
 - [Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/keci_acl21/README.md)
 - How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction
 - Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks
 - Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition
+
+
+
+# Information Extraction
+- [Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/git_acl21/README.md)
+- [CLEVE: Contrastive Pre-training for Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cleve_acl21/README.md)
+- [ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/rope_acl21/README.md)
 
 
 
@@ -74,3 +75,4 @@
 - Employing Argumentation Knowledge Graphs for Neural Argument Generation
 - Syntopical Graphs for Computational Argumentation Tasks
 - Learning Event Graph Knowledge for Abductive Reasoning
+- Semantic Relation-aware Difference Representation Learning for Change Captioning
