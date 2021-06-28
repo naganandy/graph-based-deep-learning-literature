@@ -9,6 +9,12 @@
 
 
 
+# Directed Graphs
+- [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
+- Directed Graph Embeddings in Pseudo-Riemannian Manifolds
+
+
+
 # Scalability
 - [A Unified Lottery Ticket Hypothesis for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/glt_icml21/README.md)
 - [Training Graph Neural Networks with 1000 Layers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/revgnn_icml21/README.md)
@@ -71,12 +77,6 @@
 # Normalisation
 - [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphnorm_icml21/README.md)
 - [Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/lipschitznorm_icml21/README.md)
-
-
-
-# Directed Graphs
-- [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
-- Directed Graph Embeddings in Pseudo-Riemannian Manifolds
 
 
 
