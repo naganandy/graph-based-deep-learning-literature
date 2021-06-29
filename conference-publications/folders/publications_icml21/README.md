@@ -2,22 +2,25 @@
 
 
 
+# Directed Graphs
+- Directed Graph Embeddings in Pseudo-Riemannian Manifolds
+- [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
+
+
 # Oversmoothing
 - [GRAND: Graph Neural Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/grand_icml21/README.md)
 - Improving Breadth-Wise Backpropagation in Graph Neural Networks helps Learning Long-Range Dependencies
+
+
+
+# Deep Models
 - [Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/optgnn_icml21/README.md)
-
-
-
-# Directed Graphs
-- [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
-- Directed Graph Embeddings in Pseudo-Riemannian Manifolds
+- [Training Graph Neural Networks with 1000 Layers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/revgnn_icml21/README.md)
 
 
 
 # Scalability
 - [A Unified Lottery Ticket Hypothesis for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/glt_icml21/README.md)
-- [Training Graph Neural Networks with 1000 Layers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/revgnn_icml21/README.md)
 - Memory-Efficient Graph Neural Networks
 - [GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gnnautoscale_icml21/README.md)
 
