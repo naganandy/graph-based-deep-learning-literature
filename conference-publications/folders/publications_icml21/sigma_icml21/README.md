@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{sigma_icml21,
-author = {Linfeng Liu and Michael C. Hughes and Soha Hassoun and Liping Liu},
 title = {Stochastic Iterative Graph Matching},
+author = {Liu, Linfeng and Hughes, Michael C and Hassoun, Soha and Liu, Liping},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {6815--6825},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/liu21i.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9914)

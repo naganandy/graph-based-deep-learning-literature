@@ -3,13 +3,15 @@
 ```
 @inproceedings{signn_icml21,
 title = {Size-Invariant Graph Representations for Graph Classification Extrapolations},
-author = {Beatrice Bevilacqua and Yangze Zhou and Bruno Ribeiro},
+author = {Bevilacqua, Beatrice and Zhou, Yangze and Ribeiro, Bruno},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {837--851},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/bevilacqua21a.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9240)
 - [arXiv](https://arxiv.org/abs/2103.05045)
 - [code](https://github.com/PurdueMINDS/size-invariant-GNNs)

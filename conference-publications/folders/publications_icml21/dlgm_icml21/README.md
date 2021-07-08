@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{dlgm_icml21,
-author = {Tianshu Yu and Runzhong Wang and Junchi Yan and baoxin Li},
 title = {Deep Latent Graph Matching},
+author = {Yu, Tianshu and Wang, Runzhong and Yan, Junchi and Li, Baoxin},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {12187--12197},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/yu21d.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8836)

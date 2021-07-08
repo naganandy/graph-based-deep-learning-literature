@@ -3,12 +3,14 @@
 ```
 @inproceedings{gmdn_icml21,
 title = {Graph Mixture Density Networks},
-author = {Federico Errica and Davide Bacciu and Alessio Micheli},
+author = {Errica, Federico and Bacciu, Davide and Micheli, Alessio},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {3025--3035},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/errica21a.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9632)
 - [arXiv](https://arxiv.org/abs/2012.03085)

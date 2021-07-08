@@ -2,14 +2,16 @@
 
 ```
 @inproceedings{gal_icml21,
-author = {Peiyuan Liao and Han Zhao and Keyulu Xu and Tommi Jaakkola and Geoff Gordon and Stefanie Jegelka and Russ Salakhutdinov},
 title = {Information Obfuscation of Graph Neural Networks},
+author = {Liao, Peiyuan and Zhao, Han and Xu, Keyulu and Jaakkola, Tommi and Gordon, Geoffrey J. and Jegelka, Stefanie and Salakhutdinov, Ruslan},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {6600--6610},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/liao21a.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8414)
 - [arXiv](https://arxiv.org/abs/2009.13504)
 - [code](https://github.com/liaopeiyuan/GAL)

@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{gem_icml21,
-author = {Wanyu LIN and Hao Lan and Baochun Li},
 title = {Generative Causal Explanations for Graph Neural Networks},
+author = {Lin, Wanyu and Lan, Hao and Li, Baochun},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {6666--6679},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/lin21d.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8418)
 - [arXiv](https://arxiv.org/abs/2104.06643)

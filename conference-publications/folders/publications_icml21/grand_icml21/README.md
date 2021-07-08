@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{grand_icml21,
-author = {Ben Chamberlain and Maria Gorinova and Michael Bronstein and Stefan Webb and James Rowbottom and Emanuele Rossi},
 title = {GRAND: Graph Neural Diffusion},
+author = {Chamberlain, Ben and Rowbottom, James and Gorinova, Maria I and Bronstein, Michael and Webb, Stefan and Rossi, Emanuele},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {1407--1418},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/chamberlain21a.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8890)

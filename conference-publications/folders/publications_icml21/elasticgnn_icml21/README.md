@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{elasticgnn_icml21,
-author = {Xiaorui Liu and Wei Jin and Yao Ma and Yaxin Li and Hua Liu and Yiqi Wang and Ming Yan and Jiliang Tang },
 title = {Elastic Graph Neural Networks},
+author = {Liu, Xiaorui and Jin, Wei and Ma, Yao and Li, Yaxin and Liu, Hua and Wang, Yiqi and Yan, Ming and Tang, Jiliang},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {6837--6849},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/liu21k.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9584)

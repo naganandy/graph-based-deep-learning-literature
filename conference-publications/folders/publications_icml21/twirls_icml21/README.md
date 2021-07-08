@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{twirls_icml21,
-author = {Yang Yongyi and Tang Liu and Yangkun Wang and Jinjing Zhou and Quan Gan and Zhewei Wei and Zheng Zhang and Zengfeng Huang and David Wipf},
 title = {Graph Neural Networks Inspired by Classical Iterative Algorithms},
+author = {Yang, Yongyi and Liu, Tang and Wang, Yangkun and Zhou, Jinjing and Gan, Quan and Wei, Zhewei and Zhang, Zheng and Huang, Zengfeng and Wipf, David},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {11773--11783},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/yang21g.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8798)
 - [arXiv](https://arxiv.org/abs/2103.06064)

@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{revgnn_icml21,
-author = {Guohao Li and Matthias Müller and Bernard Ghanem and Vladlen Koltun},
 title = {Training Graph Neural Networks with 1000 Layers},
+author = {Li, Guohao and M{\"u}ller, Matthias and Ghanem, Bernard and Koltun, Vladlen},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {6437--6449},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/li21o.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10455)
 - [arXiv](https://arxiv.org/abs/2106.07476)

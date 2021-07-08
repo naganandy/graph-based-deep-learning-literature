@@ -17,7 +17,6 @@
 
 # Scalability
 - [A Unified Lottery Ticket Hypothesis for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/glt_icml21/README.md)
-- Memory-Efficient Graph Neural Networks
 - [GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gnnautoscale_icml21/README.md)
 
 
@@ -101,8 +100,4 @@
 - [Graph Mixture Density Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gmdn_icml21/README.md)
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/zgcnet_icml21/README.md)
 - Recovering AES Keys with a Deep Cold Boot Attack
-- Symmetric Spaces for Graph Embeddings: A Finsler-Riemannian Approach
 - Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation
-- Towards Better Laplacian Representation in Reinforcement Learning with Generalized Graph Drawing
-- Local Graph Algorithms for Learning Higher-Order Structures
-- Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies

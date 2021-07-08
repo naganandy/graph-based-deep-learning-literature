@@ -1,14 +1,16 @@
-# Let's Agree to Degree: Comparing Graph Convolutional Networks in the Message-Passing Framework
+# Let’s Agree to Degree: Comparing Graph Convolutional Networks in the Message-Passing Framework
 
 ```
 @inproceedings{adgcn_icml21,
-author = {Floris Geerts and Filip Mazowiecki and Guillermo Perez},
-title = {Let's Agree to Degree: Comparing Graph Convolutional Networks in the Message-Passing Framework},
+title = {Let’s Agree to Degree: Comparing Graph Convolutional Networks in the Message-Passing Framework},
+author = {Geerts, Floris and Mazowiecki, Filip and Perez, Guillermo},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {3640--3649},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/geerts21a.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10440)
 - [arXiv](https://arxiv.org/abs/2004.02593)

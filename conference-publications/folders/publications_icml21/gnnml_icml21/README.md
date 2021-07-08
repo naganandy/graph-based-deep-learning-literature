@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{gnnml_icml21,
-author = {Muhammet Balcilar and Pierre Heroux and Benoit Gauzere and Sebastien Adam and Paul Honeine and Pascal Vasseur},
 title = {Breaking the Limits of Message Passing Graph Neural Networks},
+author = {Balcilar, Muhammet and Heroux, Pierre and Gauzere, Benoit and Vasseur, Pascal and Adam, Sebastien and Honeine, Paul},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {599--608},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/balcilar21a.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8578)
 - [preprint](http://honeine.fr/paul/publi/21.icml.gnn.pdf)

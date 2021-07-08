@@ -3,12 +3,14 @@
 ```
 @inproceedings{ag2vid_icml21,
 title = {Compositional Video Synthesis with Action Graphs},
-author = {Amir Bar and Roei Herzig and Xiaolong Wang and Gal Chechik and Trevor Darrell and Amir Globerson},
+author = {Bar, Amir and Herzig, Roei and Wang, Xiaolong and Rohrbach, Anna and Chechik, Gal and Darrell, Trevor and Globerson, Amir},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {662--673},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/bar21a.html)
 - [arXiv](https://arxiv.org/abs/2006.15327)
 - [project](https://roeiherz.github.io/AG2Video/)

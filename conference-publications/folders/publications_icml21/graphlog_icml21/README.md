@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{graphlog_icml21,
-author = {Minghao Xu and Hang Wang and Bingbing Ni and Hongyu Guo and Jian Tang},
 title = {Self-supervised Graph-level Representation Learning with Local and Global Structure},
+author = {Xu, Minghao and Wang, Hang and Ni, Bingbing and Guo, Hongyu and Tang, Jian},
 booktitle = {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+pages = {11548--11558},
 year = {2021}
 }
 ```
 
 links
+- [pmlr](http://proceedings.mlr.press/v139/xu21g.html)
 - [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10692)
