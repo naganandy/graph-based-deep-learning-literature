@@ -5,7 +5,7 @@
 # Oversmoothing
 - [GRAND: Graph Neural Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/grand_icml21/README.md)
 - [Directional Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/dgn_icml21/README.md)
-- Improving Breadth-Wise Backpropagation in Graph Neural Networks helps Learning Long-Range Dependencies
+- [Improving Breadth-Wise Backpropagation in Graph Neural Networks helps Learning Long-Range Dependencies](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/resrgat_icml21/README.md)
 
 
 
