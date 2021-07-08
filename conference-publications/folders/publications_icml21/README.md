@@ -87,7 +87,7 @@
 # Computer Vision
 - [Learning Intra-Batch Connections for Deep Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpndml_icml21/README.md)
 - [Compositional Video Synthesis with Action Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/ag2vid_icml21/README.md)
-- Two Heads are Better Than One: Hypergraph-Enhanced Graph Reasoning for Visual Event Ratiocination
+- [Two Heads are Better Than One: Hypergraph-Enhanced Graph Reasoning for Visual Event Ratiocination](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gsae_icml21/README.md)
 
 
 
