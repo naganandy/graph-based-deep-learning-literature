@@ -1,4 +1,4 @@
-# [Publications in ICML 2021](https://icml.cc/Conferences/2021/AcceptedPapersInitial)
+# [Publications in ICML 2021](http://proceedings.mlr.press/v139/)
 
 
 
