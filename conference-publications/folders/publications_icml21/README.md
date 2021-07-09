@@ -72,6 +72,13 @@
 
 
 
+
+# Graph Generation
+- [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphdf_icml21/README.md)
+- [Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/nodeseqgen_icml21/README.md)
+
+
+
 # Normalisation
 - [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphnorm_icml21/README.md)
 - [Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/lipschitznorm_icml21/README.md)
@@ -96,8 +103,6 @@
 - [Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpart_icml21/README.md)
 - [Persistence Homology for Link Prediction: An Interactive View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/tlcgnn_icml21/README.md)
 - [E(n) Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/egnn_icml21/README.md)
-- [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphdf_icml21/README.md)
 - [Graph Mixture Density Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gmdn_icml21/README.md)
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/zgcnet_icml21/README.md)
 - [Recovering AES Keys with a Deep Cold Boot Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/obpnn_icml21/README.md)
-- [Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/nodeseqgen_icml21/README.md)
