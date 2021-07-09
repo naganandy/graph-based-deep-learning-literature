@@ -99,5 +99,5 @@
 - [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/graphdf_icml21/README.md)
 - [Graph Mixture Density Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/gmdn_icml21/README.md)
 - [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/zgcnet_icml21/README.md)
-- Recovering AES Keys with a Deep Cold Boot Attack
-- Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation
+- [Recovering AES Keys with a Deep Cold Boot Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/obpnn_icml21/README.md)
+- [Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/nodeseqgen_icml21/README.md)

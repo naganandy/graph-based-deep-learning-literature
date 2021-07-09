@@ -158,6 +158,8 @@
 - [Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/mpart_icml21/README.md)
 - [Automated Graph Representation Learning with Hyperparameter Importance Explanation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/autogr_icml21/README.md)
 - [Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/rlgn_icml21/README.md)
+- [Recovering AES Keys with a Deep Cold Boot Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/obpnn_icml21/README.md)
+- [Order Matters: Probabilistic Modeling of Node Sequence for Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/nodeseqgen_icml21/README.md)
 
 </details>
 
