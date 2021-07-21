@@ -5,7 +5,7 @@
       title={Graph Neural Networks in TensorFlow and Keras with Spektral}, 
       author={Daniele Grattarola and Cesare Alippi},
       journal={arXiv preprint arXiv:2006.12138},
-      year={2021},
+      year={2020},
 }
 ```
 
