@@ -1,6 +1,7 @@
 # Software / Libraries
 
 - ## 2021
+    * ### [Dive Into Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/software/dig21/README.md)
 
 - ## 2020
 
