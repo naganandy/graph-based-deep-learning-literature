@@ -11,4 +11,5 @@
 
 links
 - [git](https://github.com/rusty1s/pytorch_geometric)
+- [doc](https://pytorch-geometric.readthedocs.io/en/latest/)
 - [arXiv](https://arxiv.org/abs/1903.02428)
