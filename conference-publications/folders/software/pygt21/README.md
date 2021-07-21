@@ -1,4 +1,4 @@
-# PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models
+# PyTorch Geometric Temporal
 
 ```
 @article{pygt21,
