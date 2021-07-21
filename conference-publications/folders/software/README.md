@@ -2,7 +2,7 @@
 
 - ## 2021
     * ### [Dive Into Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/software/dig21/README.md)
-
+    * ### [PyTorch Geometric Temporal](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/software/pygt21/README.md)
 - ## 2020
 
 - ## 2019
