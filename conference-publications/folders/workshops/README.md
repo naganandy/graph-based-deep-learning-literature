@@ -1,5 +1,6 @@
 # Related Workshops
 - ## 2021
+   * ### [When Graph Signal Processing meets Computer Vision (ICCV)](https://gsp-cv.univ-lr.fr/gspcv-21/accueil/)
    * ### [Deep Learning on Graphs: Method and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/)
    * ### [GNNSys'21 -- Workshop on Graph Neural Networks and Systems](https://gnnsys.github.io/)
    * ### [Geometrical and Topological Representation Learning (ICLR)](https://gt-rl.github.io/)
