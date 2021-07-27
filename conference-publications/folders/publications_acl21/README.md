@@ -35,12 +35,17 @@
 
 
 
-# Multi-Relational / Heterogeneous Graph
+# Multi-Relational Graphs
 - [Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bike_acl21/README.md)
-- [Align Voting Behavior with Public Statements for Legislator Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/votergcn_acl21/README.md)
 - [Syntopical Graphs for Computational Argumentation Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/synrgcn_acl21/README.md)
 - [Learning Latent Structures for Cross Action Phrase Relations in Wet Lab Protocols](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/mstgnn_acl21/README.md)
 - [SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/smedbert_acl21/README.md)
+
+
+# Heterogeneous Graphs
+- [LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/lgesql_acl21/README.md)
+- [Align Voting Behavior with Public Statements for Legislator Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/votergcn_acl21/README.md)
+
 
 
 
@@ -90,7 +95,6 @@
 - [Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/hdgcn_acl21/README.md)
 - [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
 - [Psycholinguistic Tripartite Graph Network for Personality Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/trignet_acl21/README.md)
-- [LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/lgesql_acl21/README.md)
 - [Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cfl_acl21/README.md)
 - [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/map2seq_acl21/README.md)
 - [ABCD: A Graph Framework to Convert Complex Sentences to a Covering Set of Simple Sentences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/abcd_acl21/README.md)
