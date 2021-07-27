@@ -7,25 +7,41 @@
 
 
 
+# Question Answering
+- [Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/etgnn_acl21/README.md)
+- [Multi-Scale Progressive Attention Network for Video Question Answering](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/mspan_acl21/README.md)
+
+
+
 # Relation Extraction
 - [TIMERS: Document-level Temporal Relation Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/timers_acl21/README.md)
 - [Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/keci_acl21/README.md)
-- How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction
-- Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks
-- Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition
+- [Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/agcn_acl21/README.md)
+- [Explicitly Capturing Relations between Entity Mentions via Graph Neural Networks for Domain-specific Named Entity Recognition](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/enrelg_acl21/README.md)
 
 
 
 # Information Extraction
+- [Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/kamr_acl21/README.md)
+- [ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/rope_acl21/README.md)
+
+
+
+# Event Extraction
 - [Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/git_acl21/README.md)
 - [CLEVE: Contrastive Pre-training for Event Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cleve_acl21/README.md)
-- [ROPE: Reading Order Equivariant Positional Encoding for Graph-based Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/rope_acl21/README.md)
+
+
+
+# Event Knowledge
+- [Learning Event Graph Knowledge for Abductive Reasoning](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/ege_acl21/README.md)
+- [Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/lsin_acl21/README.md)
 
 
 
 # Sentiment Analysis
 - [Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dualgcn_acl21/README.md)
-- Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks
+- [Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/mgnns_acl21/README.md)
 
 
 
@@ -38,13 +54,22 @@
 
 # Text Classification
 - [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/clhg_acl21/README.md)
-- Label-Specific Dual Graph Neural Network for Multi-Label Text Classification
+- [Label-Specific Dual Graph Neural Network for Multi-Label Text Classification](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/ldgn_acl21/README.md)
 
 
 
 # Dialogue
 - [Discovering Dialog Structure Graph for Open-Domain Dialog Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dvaegnn_acl21/README.md)
 - [Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/sece_acl21/README.md)
+- [Semantic Representation for Dialogue Modeling](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/amrdialgat_acl21/README.md)
+- [DynaEval: Unifying Turn and Dialogue Level Evaluation](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/dynaeval_acl21/README.md)
+
+
+
+# Fake News / Rumour Detection 
+- [InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/infosurgeon_acl21/README.md)
+- [Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/comparenet_acl21/README.md)
+- [Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/ebgcn_acl21/README.md)
 
 
 
@@ -57,15 +82,14 @@
 - [Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cfl_acl21/README.md)
 - [Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/map2seq_acl21/README.md)
 - [Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bike_acl21/README.md)
-- Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection
-- Learning Faithful Representations of Causal Graphs
-- Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge
-- Reasoning over Entity-Action-Location Graph for Procedural Text Understanding
-- Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion
-- Learning Syntactic Dense Embedding with Correlation Graph for Automatic Readability Assessment
-- Poisoning Knowledge Graph Embeddings via Relation Inference Patterns
-- ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning
-- Employing Argumentation Knowledge Graphs for Neural Argument Generation
-- Syntopical Graphs for Computational Argumentation Tasks
-- Learning Event Graph Knowledge for Abductive Reasoning
-- Semantic Relation-aware Difference Representation Learning for Change Captioning
+- [Align Voting Behavior with Public Statements for Legislator Representation Learning](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/votergcn_acl21/README.md)
+- [Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/rrg_acl21/README.md)
+- [ABCD: A Graph Framework to Convert Complex Sentences to a Covering Set of Simple Sentences](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/abcd_acl21/README.md)
+- [Syntopical Graphs for Computational Argumentation Tasks](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/synrgcn_acl21/README.md)
+- [Reasoning over Entity-Action-Location Graph for Procedural Text Understanding](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/real_acl21/README.md)
+- [Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/tab2text_acl21/README.md)
+- [Learning Latent Structures for Cross Action Phrase Relations in Wet Lab Protocols](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/mstgnn_acl21/README.md)
+- [SMedBERT: A Knowledge-Enhanced Pre-trained Language Model with Structured Semantics for Medical Text Mining](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/smedbert_acl21/README.md)
+- [Learning Faithful Representations of Causal Graphs](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/faithfulbert_acl21/README.md)
+- [GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/glgin_acl21/README.md)
+- [Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition](/home/ynaganand/gbdll/graph-based-deep-learning-literature/conference-publications/folders/publications_acl21/stargat_acl21/README.md)
