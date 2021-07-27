@@ -36,6 +36,7 @@
 
 
 # Multi-Relational Graphs
+- [Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cluster_acl21/README.md)
 - [Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bike_acl21/README.md)
 - [Syntopical Graphs for Computational Argumentation Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/synrgcn_acl21/README.md)
 - [Learning Latent Structures for Cross Action Phrase Relations in Wet Lab Protocols](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/mstgnn_acl21/README.md)
@@ -91,7 +92,6 @@
 
 
 # Miscellaneous
-- [Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cluster_acl21/README.md)
 - [Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/hdgcn_acl21/README.md)
 - [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
 - [Psycholinguistic Tripartite Graph Network for Personality Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/trignet_acl21/README.md)
