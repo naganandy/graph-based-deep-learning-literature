@@ -2,11 +2,6 @@
 
 
 
-# Knowledge Graphs
-- [Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cluster_acl21/README.md)
-
-
-
 # Question Answering
 - [Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/etgnn_acl21/README.md)
 - [Multi-Scale Progressive Attention Network for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/mspan_acl21/README.md)
@@ -74,6 +69,7 @@
 
 
 # Miscellaneous
+- [Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cluster_acl21/README.md)
 - [Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/hdgcn_acl21/README.md)
 - [BASS: Boosting Abstractive Summarization with Unified Semantic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/bass_acl21/README.md)
 - [Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/cdvgae_acl21/README.md)
