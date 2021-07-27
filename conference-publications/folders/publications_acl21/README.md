@@ -58,6 +58,7 @@
 - [Space Efficient Context Encoding for Non-Task-Oriented Dialogue Generation with Graph Attention Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/sece_acl21/README.md)
 - [Semantic Representation for Dialogue Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/amrdialgat_acl21/README.md)
 - [DynaEval: Unifying Turn and Dialogue Level Evaluation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/dynaeval_acl21/README.md)
+- [A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in Chinese Conversational Speech](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/discproreco_acl21/README.md)
 
 
 
@@ -89,3 +90,4 @@
 - [Learning Faithful Representations of Causal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/faithfulbert_acl21/README.md)
 - [GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/glgin_acl21/README.md)
 - [Enhancing Entity Boundary Detection for Better Chinese Named Entity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/stargat_acl21/README.md)
+- [Controllable Open-ended Question Generation with A New Question Type Ontology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/tplgen_acl21/README.md)
