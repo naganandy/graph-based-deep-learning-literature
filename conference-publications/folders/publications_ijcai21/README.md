@@ -20,7 +20,7 @@
 # Adversarial Attacks
 - [Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gua_ijcai21/README.md)
 - [GraphMI: Extracting Private Graph Data from Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/graphmi_ijcai21/README.md)
-- Understanding Structural Vulnerability in Graph Convolutional Networks 
+- [Understanding Structural Vulnerability in Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/rpgcn_ijcai21/README.md)
 
 
 
@@ -81,19 +81,20 @@
 
 
 # Miscellaneous 
+- [Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/bns_ijcai21/README.md)
 - [Secure Deep Graph Generation with Link Differential Privacy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dpggan_ijcai21/README.md)
 - [The Surprising Power of Graph Neural Networks with Random Node Initialization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gnnrni_ijcai21/README.md)
 - [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
 - [MG-DVD: A Real-time Framework for Malware Variant Detection Based on Dynamic Heterogeneous Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mgdvd_ijcai21/README.md)
 - [Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gcsnn_ijcai21/README.md)
 - [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ame_ijcai21/README.md)
+- [Graph Deformer Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gdn_ijcai21/README.md)
 - Neural Relation Inference for Multi-dimensional Temporal Point Processes via Message Passing Graph 
 - Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks 
 - Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks 
 - Convexified Graph Neural Networks for Distributed Control in Robotic Swarms 
 - Node-wise Localization of Graph Neural Networks 
 - GAEN: Graph Attention Evolving Networks
-- Graph Deformer Network
 - Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering
 - Enhancing Label Representations with Relational Inductive Bias Constraint for Fine-Grained Entity Typing
 - Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction
