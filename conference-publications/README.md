@@ -13,6 +13,7 @@
 - [Human Trajectory Prediction via Counterfactual Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/causalhtp_iccv21/README.md)
 - [Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ctrgc_iccv21/README.md)
 - [Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/unin_iccv21/README.md)
+- [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphfpn_iccv21/README.md)
 
 
 
