@@ -35,6 +35,9 @@
 <details> 
 <summary> more </summary> 
 
+- [Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pass_kdd21/README.md)
+- [Pre-training on Large-Scale Heterogeneous Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pthgnn_kdd21/README.md)
+- [Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/simplehgn_kdd21/README.md)
 - [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
 - [Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gnnasp_kdd21/README.md)
 - [DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)
@@ -52,9 +55,13 @@
 - [NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/nrgnn_kdd21/README.md)
 - [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
 - [Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pgal_kdd21/README.md)
+- [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
 - [Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ppgrl_kdd21/README.md)
 - [Adaptive Transfer Learning on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/auxts_kdd21/README.md)
 - [ROD: Reception-aware Online Distillation for Sparse Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/rod_kdd21/README.md)
+- [Coupled Graph ODE for Learning Interacting System Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cgode_kdd21/README.md)
+- [Filtration Curves for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/fcv_kdd21/README.md)
+- [Individual Fairness for Graph Neural Networks: A Ranking based Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/redress_kdd21/README.md)
 
 </details>
 

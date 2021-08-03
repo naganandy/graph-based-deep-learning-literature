@@ -6,15 +6,15 @@
 - [Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gns_kdd21/README.md)
 - [Scaling Up Graph Neural Networks Via Graph Coarsening](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/coarsegcn_kdd21/README.md)
 - [Approximate Graph Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/agp_kdd21/README.md)
-- Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks
+- [Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pass_kdd21/README.md)
 
 
 
 # Heterogeneous Graphs
-- Pre-training on Large-Scale Heterogeneous Graph
+- [Pre-training on Large-Scale Heterogeneous Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pthgnn_kdd21/README.md)
+- [Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/simplehgn_kdd21/README.md)
 - Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
 - HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks
-- Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks
 - Attentive Heterogeneous Graph Embedding for Job Mobility Prediction
 - Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation
 - Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach
@@ -49,7 +49,7 @@
 
 # Network Alignment
 - [Cross-Network Learning with Partially Aligned Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/crossgcn_kdd21/README.md)
-- Unsupervised Graph Alignment with Wasserstein Distance Discriminator
+- [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
 - Joint Graph Embedding and Alignment with Spectral Pivot
 
 
@@ -88,6 +88,10 @@
 - [Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ppgrl_kdd21/README.md)
 - [Adaptive Transfer Learning on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/auxts_kdd21/README.md)
 - [ROD: Reception-aware Online Distillation for Sparse Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/rod_kdd21/README.md)
+- [MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/medto_kdd21/README.md)
+- [Coupled Graph ODE for Learning Interacting System Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cgode_kdd21/README.md)
+- [Filtration Curves for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/fcv_kdd21/README.md)
+- [Individual Fairness for Graph Neural Networks: A Ranking based Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/redress_kdd21/README.md)
 - Semi-Supervised Deep Learning for Multiplex Networks
 - A Broader Picture of Random-walk Based Graph Embedding
 - A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
@@ -95,18 +99,13 @@
 - An Efficient and Scalable Algorithm for Estimating Kemeny's Constant of a Markov Chain on Large Graphs
 - Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods
 - Context-aware Outstanding Fact Mining from Knowledge Graphs
-- Coupled Graph ODE for Learning Interacting System Dynamics
-- Filtration Curves for Graph Classification
 - Gaussian Process with Graph Convolutional Kernel for Relational Learning
 - H$^2$MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
-- Individual Fairness for Graph Neural Networks: A Ranking based Approach
 - Learning How to Propagate Messages in Graph Neural Networks
-- Neural-Answering Logical Queries on Knowledge Graphs
 - Norm Adjusted Proximity Graph for Fast Inner Product Retrieval
 - Tail-GNN: Tail-Node Graph Neural Networks
 - Towards Computing A Near-Maximum Weighted Independent Set on Massive Graphs
 - A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem
-- MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks
 - Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
 - Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference
 - VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
