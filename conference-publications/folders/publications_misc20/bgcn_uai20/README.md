@@ -5,6 +5,7 @@
 author = {Soumyasundar Pal and Saber Malekmohammadi and Florence Regol and Yingxue Zhang and Yishi Xu and Mark Coates},
 title = {Non-Parametric Graph Learning for Bayesian Graph Neural Networks},
 booktitle = {Proceedings of the Thirty-Sixth Conference on Uncertainty in Artificial Intelligence (UAI)},
+pages = {1318--1327},
 year = {2020}
 }
 ```

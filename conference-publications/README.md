@@ -170,6 +170,16 @@
 
 
 ## -------------------------------------------------------------------
+# [UAI 2021 (Jul)](https://www.auai.org/uai2021/accepted_papers)
+- [Towards a Unified Framework for Fair and Stable Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/nifty_uai21/README.md)
+- [Generating Adversarial Examples with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/advgnn_uai21/README.md)
+- [Explicit Pairwise Factorized Graph Neural Network for Semi-Supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/epfgnn_uai21/README.md)
+- [Unsupervised Constrained Community Detection via Self-Expressive Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/secomm_uai21/README.md)
+
+
+
+
+## -------------------------------------------------------------------
 # [ICML 2021 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/README.md)
 - [Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/optgnn_icml21/README.md)
 - [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/sepgcn_icml21/README.md)
