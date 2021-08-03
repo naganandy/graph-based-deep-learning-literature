@@ -26,7 +26,7 @@
 
 # Recommendation
 - [DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dagcn_ijcai21/README.md)
-- Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation
+- [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/sgrec_ijcai21/README.md)
 
 
 
@@ -39,8 +39,8 @@
 - [SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/safedrug_ijcai21/README.md)
 - [Learning Unknown from Correlations: Graph Neural Network for Inter-novel-protein Interaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gnnppi_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
+- [AMA-GCN: Adaptive Multi-layer Aggregation Graph Convolutional Network for Disease Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/amagcn_ijcai21/README.md)
 - CSGNN: Contrastive Self-Supervised Graph Neural Network for Molecular Interaction Prediction 
-- AMA-GCN: Adaptive Multi-layer Aggregation Graph Convolutional Network for Disease Prediction 
 
 
 
@@ -75,17 +75,20 @@
 
 
 # Urban Data
+- [TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/trafficstream_ijcai21/README.md)
 - Residential Electric Load Forecasting via Attentive Transfer of Graph Neural Networks 
-- TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning 
 
 
 
 # Miscellaneous 
 - [Secure Deep Graph Generation with Link Differential Privacy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dpggan_ijcai21/README.md)
 - [The Surprising Power of Graph Neural Networks with Random Node Initialization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gnnrni_ijcai21/README.md)
+- [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
+- [MG-DVD: A Real-time Framework for Malware Variant Detection Based on Dynamic Heterogeneous Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mgdvd_ijcai21/README.md)
+- [Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gcsnn_ijcai21/README.md)
+- [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ame_ijcai21/README.md)
 - Neural Relation Inference for Multi-dimensional Temporal Point Processes via Message Passing Graph 
 - Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks 
-- Learning Attributed Graph Representation with Communicative Message Passing Transformer 
 - Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks 
 - Convexified Graph Neural Networks for Distributed Control in Robotic Swarms 
 - Node-wise Localization of Graph Neural Networks 
@@ -97,12 +100,9 @@
 - HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph
 - Graph Debiased Contrastive Learning with Joint Representation Clustering
 - Discourse-Level Event Temporal Ordering with Uncertainty-Guided Graph Completion
-- MG-DVD: A Real-time Framework for Malware Variant Detection Based on Dynamic Heterogeneous Graph Learning
 - Heterogeneous Graph Information Bottleneck
 - Graph Filter-based Multi-view Attributed Graph Clustering
 - Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling
-- Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning
-- Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion
 - CuCo: Graph Representation with Curriculum Contrastive Learning
 - Focus on Interaction: A Novel Dynamic Graph Model for Joint Multiple Intent Detection and Slot Filling
 - Graph Edit Distance Learning via Modeling Optimum Matchings with Constraints

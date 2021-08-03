@@ -70,15 +70,21 @@
 <summary> more </summary> 
 
 - [Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/merit_ijcai21/README.md)
+- [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
 - [Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gua_ijcai21/README.md)
 - [GM-MLIC: Graph Matching based Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gmmlic_ijcai21/README.md)
 - [DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dagcn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
 - [GraphMI: Extracting Private Graph Data from Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/graphmi_ijcai21/README.md)
 - [Multi-Level Graph Encoding with Structural-Collaborative Relation Learning for Skeleton-Based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mgscr_ijcai21/README.md)
+- [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/sgrec_ijcai21/README.md)
 - [Secure Deep Graph Generation with Link Differential Privacy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dpggan_ijcai21/README.md)
 - [Collaborative Graph Learning with Auxiliary Text for Temporal Event Prediction in Healthcare](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cgl_ijcai21/README.md)
-
+- [AMA-GCN: Adaptive Multi-layer Aggregation Graph Convolutional Network for Disease Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/amagcn_ijcai21/README.md)
+- [TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/trafficstream_ijcai21/README.md)
+- [MG-DVD: A Real-time Framework for Malware Variant Detection Based on Dynamic Heterogeneous Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mgdvd_ijcai21/README.md)
+- [Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gcsnn_ijcai21/README.md)
+- [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ame_ijcai21/README.md)
 
 </details>
 
