@@ -6,21 +6,21 @@
 - [Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gns_kdd21/README.md)
 - [Scaling Up Graph Neural Networks Via Graph Coarsening](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/coarsegcn_kdd21/README.md)
 - [Approximate Graph Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/agp_kdd21/README.md)
--  Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks
+- Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks
 
 
 
 # Heterogeneous Graphs
--  Pre-training on Large-Scale Heterogeneous Graph
--  Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
--  HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks
--  Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks
--  Attentive Heterogeneous Graph Embedding for Job Mobility Prediction
--  Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation
--  Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach
--  Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection
--  HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps
--  Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection
+- Pre-training on Large-Scale Heterogeneous Graph
+- Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups
+- HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks
+- Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks
+- Attentive Heterogeneous Graph Embedding for Job Mobility Prediction
+- Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation
+- Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach
+- Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection
+- HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps
+- Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection
 
 
 
@@ -33,16 +33,24 @@
 # Multi-Relational Graphs
 - [Relational Message Passing for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pathcon_kdd21/README.md)
 - [T-GAP: Learning to Walk across Time for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tgap_kdd21/README.md)
--  Representation Learning on Knowledge Graphs for Node Importance Estimation
--  Spectral Clustering of Attributed Multi-relational Graphs
--  Signed Graph Neural Network with Latent Groups
+- Representation Learning on Knowledge Graphs for Node Importance Estimation
+- Spectral Clustering of Attributed Multi-relational Graphs
+- Signed Graph Neural Network with Latent Groups
+
+
+
+# Temporal Data
+- [Temporal Graph Signal Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tgsd_kdd21/README.md)
+- [Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/stgode_kdd21/README.md)
+- [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cnfgnn_kdd21/README.md)
+- Forecasting Interaction Order on Temporal Graphs
 
 
 
 # Network Alignment
 - [Cross-Network Learning with Partially Aligned Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/crossgcn_kdd21/README.md)
--  Unsupervised Graph Alignment with Wasserstein Distance Discriminator
--  Joint Graph Embedding and Alignment with Spectral Pivot
+- Unsupervised Graph Alignment with Wasserstein Distance Discriminator
+- Joint Graph Embedding and Alignment with Spectral Pivot
 
 
 
@@ -61,13 +69,12 @@
 
 
 # Proteins
--  Geometric Graph Representation Learning on Protein Structure Prediction
--  Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity
+- [Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pgal_kdd21/README.md)
+- Geometric Graph Representation Learning on Protein Structure Prediction
 
 
 
 # Miscellaneous
-- [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cnfgnn_kdd21/README.md)
 - [Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/wrgnn_kdd21/README.md)
 - [DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)
 - [DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/diffmg_kdd21/README.md)
@@ -77,33 +84,29 @@
 - [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mixgcf_kdd21/README.md)
 - [NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/nrgnn_kdd21/README.md)
 - [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
+- [MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mugrep_kdd21/README.md)
+- [Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ppgrl_kdd21/README.md)
+- [Adaptive Transfer Learning on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/auxts_kdd21/README.md)
+- [ROD: Reception-aware Online Distillation for Sparse Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/rod_kdd21/README.md)
 - Semi-Supervised Deep Learning for Multiplex Networks
--  A Broader Picture of Random-walk Based Graph Embedding
--  A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
--  Accelerating Set Intersections over Graphs by Reducing-Merging
--  Adaptive Transfer Learning on Graph Neural Networks
--  An Efficient and Scalable Algorithm for Estimating Kemeny's Constant of a Markov Chain on Large Graphs
--  Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods
--  Context-aware Outstanding Fact Mining from Knowledge Graphs
--  Coupled Graph ODE for Learning Interacting System Dynamics
--  Filtration Curves for Graph Classification
--  Forecasting Interaction Order on Temporal Graphs
--  Gaussian Process with Graph Convolutional Kernel for Relational Learning
--  H$^2$MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
--  Individual Fairness for Graph Neural Networks: A Ranking based Approach
--  Learning How to Propagate Messages in Graph Neural Networks
--  Neural-Answering Logical Queries on Knowledge Graphs
--  Norm Adjusted Proximity Graph for Fast Inner Product Retrieval
--  Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective
--  ROD: Reception-aware Online Distillation for Sparse Graphs
--  Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting
--  Tail-GNN: Tail-Node Graph Neural Networks
--  Temporal Graph Signal Decomposition
--  Towards Computing A Near-Maximum Weighted Independent Set on Massive Graphs
--  A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem
--  Counterfactual Graphs for Explainable Classification of Brain Networks
--  MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks
--  MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal
--  Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
--  Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference
--  VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
+- A Broader Picture of Random-walk Based Graph Embedding
+- A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks
+- Accelerating Set Intersections over Graphs by Reducing-Merging
+- An Efficient and Scalable Algorithm for Estimating Kemeny's Constant of a Markov Chain on Large Graphs
+- Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods
+- Context-aware Outstanding Fact Mining from Knowledge Graphs
+- Coupled Graph ODE for Learning Interacting System Dynamics
+- Filtration Curves for Graph Classification
+- Gaussian Process with Graph Convolutional Kernel for Relational Learning
+- H$^2$MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks
+- Individual Fairness for Graph Neural Networks: A Ranking based Approach
+- Learning How to Propagate Messages in Graph Neural Networks
+- Neural-Answering Logical Queries on Knowledge Graphs
+- Norm Adjusted Proximity Graph for Fast Inner Product Retrieval
+- Tail-GNN: Tail-Node Graph Neural Networks
+- Towards Computing A Near-Maximum Weighted Independent Set on Massive Graphs
+- A Multi-Graph Attributed Reinforcement Learning Based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem
+- MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks
+- Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
+- Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference
+- VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search

@@ -40,7 +40,10 @@
 - [DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)
 - [DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/diffmg_kdd21/README.md)
 - [Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dsgc_kdd21/README.md)
+- [MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mugrep_kdd21/README.md)
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgenn_kdd21/README.md)
+- [Temporal Graph Signal Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tgsd_kdd21/README.md)
+- [Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/stgode_kdd21/README.md)
 - [Graph Deep Factor Model for Cloud Utilization Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/graphdf_kdd21/README.md)
 - [Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gial_kdd21/README.md)
 - [ImGAGN:Imbalanced Network Embedding via Generative Adversarial Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/imgagn_kdd21/README.md)
@@ -48,6 +51,10 @@
 - [T-GAP: Learning to Walk across Time for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tgap_kdd21/README.md)
 - [NRGNN: Learning a Label Noise-Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/nrgnn_kdd21/README.md)
 - [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
+- [Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pgal_kdd21/README.md)
+- [Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ppgrl_kdd21/README.md)
+- [Adaptive Transfer Learning on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/auxts_kdd21/README.md)
+- [ROD: Reception-aware Online Distillation for Sparse Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/rod_kdd21/README.md)
 
 </details>
 
