@@ -9,7 +9,7 @@
 
 
 
-# Deep Models
+# Depth
 - [Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/optgnn_icml21/README.md)
 - [Training Graph Neural Networks with 1000 Layers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/revgnn_icml21/README.md)
 
