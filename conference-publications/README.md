@@ -174,7 +174,7 @@
 - [Towards a Unified Framework for Fair and Stable Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/nifty_uai21/README.md)
 - [Generating Adversarial Examples with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/advgnn_uai21/README.md)
 - [Explicit Pairwise Factorized Graph Neural Network for Semi-Supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/epfgnn_uai21/README.md)
-- [Unsupervised Constrained Community Detection via Self-Expressive Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml21/secomm_misc21/README.md)
+- [Unsupervised Constrained Community Detection via Self-Expressive Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/secomm_uai21/README.md)
 
 
 
