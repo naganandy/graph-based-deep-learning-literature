@@ -4,10 +4,18 @@
 
 # Node Classification and/or Link Prediction
 - [Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/unimp_ijcai21/README.md)
+- [Node-wise Localization of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/lgnn_ijcai21/README.md)
 - [Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/merit_ijcai21/README.md)
 - [Multi-hop Attention Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/magna_ijcai21/README.md)
 - [Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/minge_ijcai21/README.md)
 - [GraphReach: Position-Aware Graph Neural Network using Reachability Estimations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/graphreach_ijcai21/README.md)
+
+
+
+# Graph-level Representations
+- [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
+- [Graph Deformer Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gdn_ijcai21/README.md)
+- [CuCo: Graph Representation with Curriculum Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cuco_ijcai21/README.md)
 
 
 
@@ -70,15 +78,19 @@
 
 
 # Natural Language Processing
-- [Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/hitagraph_ijcai21/README.md)
 - [Asynchronous Multi-grained Graph Network For Interpretable Multi-hop Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/amgn_ijcai21/README.md)
 - [TextGTL: Graph-based Transductive Learning for Semi-supervised Text Classification via Structure-Sensitive Interpolation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/textgtl_ijcai21/README.md)
-- [A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ssagnn_ijcai21/README.md)
 - [Multi-Hop Fact Checking of Political Claims](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mhfc_ijcai21/README.md)
 - [HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/hip_ijcai21/README.md)
 - [Modelling General Properties of Nouns by Selectively Averaging Contextualised Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/nounavg_ijcai21/README.md)
 - [Learn from Syntax: Improving Pair-wise Aspect and Opinion Terms Extraction with Rich Syntactic Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/lagcn_ijcai21/README.md)
 - [Layer-Assisted Neural Topic Modeling over Document Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/lantm_ijcai21/README.md)
+
+
+
+# Dialogue
+- [Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/hitagraph_ijcai21/README.md)
+- [A Structure Self-Aware Model for Discourse Parsing on Multi-Party Dialogues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ssagnn_ijcai21/README.md)
 
 
 
@@ -111,12 +123,9 @@
 # Miscellaneous 
 - [Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/bns_ijcai21/README.md)
 - [The Surprising Power of Graph Neural Networks with Random Node Initialization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gnnrni_ijcai21/README.md)
-- [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
 - [MG-DVD: A Real-time Framework for Malware Variant Detection Based on Dynamic Heterogeneous Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mgdvd_ijcai21/README.md)
 - [Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gcsnn_ijcai21/README.md)
 - [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ame_ijcai21/README.md)
-- [Graph Deformer Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gdn_ijcai21/README.md)
-- [CuCo: Graph Representation with Curriculum Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cuco_ijcai21/README.md)
 - [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/pimetal_ijcai21/README.md)
 - [GAEN: Graph Attention Evolving Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gaen_ijcai21/README.md)
 - [Neural Relation Inference for Multi-dimensional Temporal Point Processes via Message Passing Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/tppnri_ijcai21/README.md)
@@ -140,4 +149,3 @@
 - [Focus on Interaction: A Novel Dynamic Graph Model for Joint Multiple Intent Detection and Slot Filling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dgm_ijcai21/README.md)
 - [Fine-Grained Air Quality Inference via Multi-Channel Attention Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mcam_ijcai21/README.md)
 - [Adapting Meta Knowledge with Heterogeneous Information Network for COVID-19 Themed Malicious Repository Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/agcn_ijcai21/README.md)
-- [Node-wise Localization of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/lgnn_ijcai21/README.md)
