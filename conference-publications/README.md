@@ -87,9 +87,11 @@
 <details> 
 <summary> more </summary> 
 
+- [User-as-Graph: User Modeling with Heterogeneous Graph Pooling for News Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/hgpool_ijcai21/README.md)
 - [Layer-Assisted Neural Topic Modeling over Document Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/lantm_ijcai21/README.md)
 - [Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gcsnn_ijcai21/README.md)
 - [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/retcl_ijcai21/README.md)
+- [Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/hitagraph_ijcai21/README.md)
 - [CuCo: Graph Representation with Curriculum Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cuco_ijcai21/README.md)
 - [DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dagcn_ijcai21/README.md)
 - [CSGNN: Contrastive Self-Supervised Graph Neural Network for Molecular Interaction Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/csgnn_ijcai21/README.md)
@@ -131,6 +133,7 @@
 - [Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/phd_ijcai21/README.md)
 - [Convexified Graph Neural Networks for Distributed Control in Robotic Swarms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cxgnn_ijcai21/README.md)
 - [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ame_ijcai21/README.md)
+- [Adaptive Edge Attention for Graph Matching with Outliers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/eagm_ijcai21/README.md)
 - [Learning Aggregation Functions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/laf_ijcai21/README.md)
 - [Blocking-based Neighbor Sampling for Large-scale Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/bns_ijcai21/README.md)
 - [Learning Attributed Graph Representation with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
