@@ -141,6 +141,7 @@
 # Graph Matching
 - [GM-MLIC: Graph Matching based Multi-Label Image Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gmmlic_ijcai21/README.md)
 - [Adaptive Edge Attention for Graph Matching with Outliers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/eagm_ijcai21/README.md)
+- [Graph Edit Distance Learning via Modeling Optimum Matchings with Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ged_ijcai21/README.md)
 
 
 
@@ -150,11 +151,18 @@
 
 
 
-# Temporal Networks
+# Temporal Structures
 - [GAEN: Graph Attention Evolving Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gaen_ijcai21/README.md)
 - [TEC: A Time Evolving Contextual Graph Model for Speaker State Analysis in Political Debates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/tec_ijcai21/README.md)
 - [Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gcsnn_ijcai21/README.md)
+- [Neural Relation Inference for Multi-dimensional Temporal Point Processes via Message Passing Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/tppnri_ijcai21/README.md)
 
+
+
+
+# Robotics
+- [Convexified Graph Neural Networks for Distributed Control in Robotic Swarms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cxgnn_ijcai21/README.md)
+- [TANGO: Commonsense Generalization in Predicting Tool Interactions for Mobile Manipulators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/tango_ijcai21/README.md)
 
 
 
@@ -163,13 +171,9 @@
 - [The Surprising Power of Graph Neural Networks with Random Node Initialization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gnnrni_ijcai21/README.md)
 - [Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ame_ijcai21/README.md)
 - [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/pimetal_ijcai21/README.md)
-- [Neural Relation Inference for Multi-dimensional Temporal Point Processes via Message Passing Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/tppnri_ijcai21/README.md)
-- [Graph Edit Distance Learning via Modeling Optimum Matchings with Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ged_ijcai21/README.md)
 - [Generative Adversarial Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ganas_ijcai21/README.md)
 - [Solving Math Word Problems with Teacher Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mwpg2t_ijcai21/README.md)
-- [TANGO: Commonsense Generalization in Predicting Tool Interactions for Mobile Manipulators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/tango_ijcai21/README.md)
 - [Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cgm_ijcai21/README.md)
 - [Unsupervised Path Representation Learning with Curriculum Negative Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/pim_ijcai21/README.md)
-- [Convexified Graph Neural Networks for Distributed Control in Robotic Swarms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cxgnn_ijcai21/README.md)
 - [Learning Aggregation Functions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/laf_ijcai21/README.md)
 - [Fine-Grained Air Quality Inference via Multi-Channel Attention Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mcam_ijcai21/README.md)
