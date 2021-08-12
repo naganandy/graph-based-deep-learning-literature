@@ -103,6 +103,7 @@
 - [Focus on Interaction: A Novel Dynamic Graph Model for Joint Multiple Intent Detection and Slot Filling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dgm_ijcai21/README.md)
 - [Discourse-Level Event Temporal Ordering with Uncertainty-Guided Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ucgraph_ijcai21/README.md)
 - [Enhancing Label Representations with Relational Inductive Bias Constraint for Fine-Grained Entity Typing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/fgetgnn_ijcai21/README.md)
+- [Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cgm_ijcai21/README.md)
 
 
 
@@ -173,7 +174,6 @@
 - [Physics-aware Spatiotemporal Modules with Auxiliary Tasks for Meta-Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/pimetal_ijcai21/README.md)
 - [Generative Adversarial Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/ganas_ijcai21/README.md)
 - [Solving Math Word Problems with Teacher Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mwpg2t_ijcai21/README.md)
-- [Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cgm_ijcai21/README.md)
 - [Unsupervised Path Representation Learning with Curriculum Negative Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/pim_ijcai21/README.md)
 - [Learning Aggregation Functions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/laf_ijcai21/README.md)
 - [Fine-Grained Air Quality Inference via Multi-Channel Attention Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/mcam_ijcai21/README.md)
