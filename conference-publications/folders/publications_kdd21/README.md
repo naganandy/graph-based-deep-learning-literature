@@ -35,16 +35,20 @@
 
 
 # Heterogeneous Graphs
-- [Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/shgmnn_kdd21/README.md)
-- [Pre-training on Large-Scale Heterogeneous Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pthgnn_kdd21/README.md)
 - [Are we really making much progress?: Revisiting, benchmarking and refining heterogeneous graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/simplehgnn_kdd21/README.md)
+- [Pre-training on Large-Scale Heterogeneous Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pthgnn_kdd21/README.md)
+- [DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/diffmg_kdd21/README.md)
+- [Scalable Heterogeneous Graph Neural Networks for Predicting High-potential Early-stage Startups](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/shgmnn_kdd21/README.md)
 - [HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/hgkgnn_kdd21/README.md)
 - [Attentive Heterogeneous Graph Embedding for Job Mobility Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ahead_kdd21/README.md)
-- [Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/life_kdd21/README.md)
 - [Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/htgt_kdd21/README.md)
 - [HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/hgamn_kdd21/README.md)
+
+
+
+# Fraud Detection
+- [Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/life_kdd21/README.md)
 - [Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ihgat_kdd21/README.md)
-- [DiffMG: Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/diffmg_kdd21/README.md)
 
 
 
