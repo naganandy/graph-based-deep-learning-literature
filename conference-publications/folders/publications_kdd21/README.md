@@ -17,9 +17,10 @@
 
 
 
-# Adaptive Aggregation
-- [Learning How to Propagate Messages in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/vemgnn_kdd21/README.md)
-- [DeGNN: Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)
+# Imbalanced Networks
+- [Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gial_kdd21/README.md)
+- [ImGAGN: Imbalanced Network Embedding via Generative Adversarial Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/imgagn_kdd21/README.md)
+- [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
 - [Tail-GNN: Tail-Node Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tailgnn_kdd21/README.md)
 
 
@@ -99,13 +100,6 @@
 
 
 
-# Imbalanced Networks
-- [Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gial_kdd21/README.md)
-- [ImGAGN: Imbalanced Network Embedding via Generative Adversarial Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/imgagn_kdd21/README.md)
-- [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
-
-
-
 # Proteins
 - [Structure-aware Interactive Graph Neural Networks for the Prediction of Protein-Ligand Binding Affinity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pgal_kdd21/README.md)
 - [Geometric Graph Representation Learning on Protein Structure Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pggnn_kdd21/README.md)
@@ -125,7 +119,8 @@
 
 
 # Miscellaneous
-- [Graph Deep Factors for Forecasting with Applications to Cloud Resource Allocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/graphdf_kdd21/README.md)
+- [Learning How to Propagate Messages in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/vemgnn_kdd21/README.md)
+- [DeGNN: Improving Graph Neural Networks with Graph Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/degnn_kdd21/README.md)- [Graph Deep Factors for Forecasting with Applications to Cloud Resource Allocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/graphdf_kdd21/README.md)
 - [MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mugrep_kdd21/README.md)
 - [Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ppgrl_kdd21/README.md)
 - [Coupled Graph ODE for Learning Interacting System Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cgode_kdd21/README.md)
