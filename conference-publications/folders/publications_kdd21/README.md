@@ -57,12 +57,14 @@
 # Traffic
 - [Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/stgode_kdd21/README.md)
 - [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgcm_kdd21/README.md)
+- [A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gts_kdd21/README.md)
 
 
 
-# Network Alignment
+# Graph Alignment/Matching
 - [Cross-Network Learning with Partially Aligned Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/crossgcn_kdd21/README.md)
 - [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
+- [H2MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/h2mn_kdd21/README.md)
 
 
 
@@ -118,9 +120,7 @@
 - [Filtration Curves for Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/fcv_kdd21/README.md)
 - [Individual Fairness for Graph Neural Networks: A Ranking based Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/redress_kdd21/README.md)
 - [Semi-Supervised Deep Learning for Multiplex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ssdcm_kdd21/README.md)
-- [A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gts_kdd21/README.md)
 - [Gaussian Process with Graph Convolutional Kernel for Relational Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gpgc_kdd21/README.md)
-- [H2MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/h2mn_kdd21/README.md)
 - [Learning How to Propagate Messages in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/vemgnn_kdd21/README.md)
 - [Tail-GNN: Tail-Node Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tailgnn_kdd21/README.md)
 - [A Multi-Graph Attributed Reinforcement Learning based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mgro_kdd21/README.md)
