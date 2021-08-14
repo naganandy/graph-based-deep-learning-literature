@@ -51,6 +51,7 @@
 - [Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mvdgae_kdd21/README.md)
 - [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mixgcf_kdd21/README.md)
 - [Socially-Aware Self-Supervised Tri-Training for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/sept_kdd21/README.md)
+- [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
 
 
 
@@ -125,7 +126,6 @@
 
 # Miscellaneous
 - [Graph Deep Factors for Forecasting with Applications to Cloud Resource Allocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/graphdf_kdd21/README.md)
-- [DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dmbgn_kdd21/README.md)
 - [MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mugrep_kdd21/README.md)
 - [Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/ppgrl_kdd21/README.md)
 - [Coupled Graph ODE for Learning Interacting System Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cgode_kdd21/README.md)
