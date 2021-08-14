@@ -32,6 +32,7 @@
 - [Learning How to Propagate Messages in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/vemgnn_kdd21/README.md)
 - [Relational Message Passing for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pathcon_kdd21/README.md)
 - [Tail-GNN: Tail-Node Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tailgnn_kdd21/README.md)
+- [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mixgcf_kdd21/README.md)
 
 
 
@@ -50,7 +51,6 @@
 - [Dual Graph enhanced Embedding Neural Network for CTR Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgenn_kdd21/README.md)
 - [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgcm_kdd21/README.md)
 - [A Graph-based Approach for Trajectory Similarity Computation in Spatial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gts_kdd21/README.md)
-- [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/mixgcf_kdd21/README.md)
 - [Coupled Graph ODE for Learning Interacting System Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cgode_kdd21/README.md)
 - [Cross-Network Learning with Partially Aligned Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/crossgcn_kdd21/README.md)
 - [Pre-training on Large-Scale Heterogeneous Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pthgnn_kdd21/README.md)
