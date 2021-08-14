@@ -109,8 +109,6 @@
 - Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors
 - Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference
 - VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search
-
-
 - [Graph Deep Factors for Forecasting with Applications to Cloud Resource Allocation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/graphdf_kdd21/README.md)
 - [Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gial_kdd21/README.md)
 - [NRGNN: Learning a Label Noise Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/nrgnn_kdd21/README.md)
