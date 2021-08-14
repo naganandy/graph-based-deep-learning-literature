@@ -1,13 +1,15 @@
-# Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks
+# Are we really making much progress?: Revisiting, benchmarking and refining heterogeneous graph neural networks
 
 ```
 @inproceedings{simplehgnn_kdd21,
-title = {Are we really making much progress? Revisiting, benchmarking and refining the Heterogeneous Graph Neural Networks},
-author = {Qingsong Lv and Ming Ding and Qiang Liu and Yuxiang Chen and Wenzheng Feng and Siming He and Chang Zhou and Jian-guo Jiang and Yuxiao Dong and Jie Tang},
-booktitle = {Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+title = {Are we really making much progress?: Revisiting, benchmarking and refining heterogeneous graph neural networks},
+author = {Lv, Qingsong and Ding, Ming and Liu, Qiang and Chen, Yuxiang and Feng, Wenzheng and He, Siming and Zhou, Chang and Jiang, Jianguo and Dong, Yuxiao and Tang, Jie},
+booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining (KDD)},
+pages = {1150--1160},
 year = {2021}
 }
 ```
 
 links
+- [acm](https://dl.acm.org/doi/10.1145/3447548.3467350)
 - [preprint](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Lv-et-al-HeterGNN.pdf)
