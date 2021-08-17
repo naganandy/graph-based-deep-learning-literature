@@ -10,6 +10,7 @@
 
 ## -------------------------------------------------------------------
 # ICCV 2021 (Oct)
+- [Distilling Holistic Knowledge with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hkd_iccv21/README.md)
 - [Human Trajectory Prediction via Counterfactual Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/causalhtp_iccv21/README.md)
 - [Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ctrgc_iccv21/README.md)
 - [Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/tsssps_iccv21/README.md)
