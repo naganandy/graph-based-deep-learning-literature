@@ -19,6 +19,7 @@
 - [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/rain_iccv21/README.md)
 - [Unifying Nonlocal Blocks for Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/snl_iccv21/README.md)
 - [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
+- [Adaptive Graph Convolution for Point Cloud Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/adaptconv_iccv21/README.md)
 
 
 
