@@ -25,7 +25,8 @@
 <summary> more </summary> 
  
 - [Exploiting Scene Graphs for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
-
+- [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphto3d_iccv21/README.md)
+ 
 </details>
 
 
