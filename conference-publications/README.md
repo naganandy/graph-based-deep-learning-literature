@@ -21,6 +21,12 @@
 - [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
 - [Adaptive Graph Convolution for Point Cloud Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/adaptconv_iccv21/README.md)
 
+<details> 
+<summary> more </summary> 
+ 
+- [Exploiting Scene Graphs for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
+
+</details>
 
 
 ## -------------------------------------------------------------------
