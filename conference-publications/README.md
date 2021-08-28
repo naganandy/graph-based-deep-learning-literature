@@ -24,11 +24,16 @@
 <details> 
 <summary> more </summary> 
  
+- [Deep Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/drml_iccv21/README.md)
 - [Exploiting Scene Graphs for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
 - [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphto3d_iccv21/README.md)
 - [Learning to Match Features with Seeded Graph Matching Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sgmnet_iccv21/README.md)
 - [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dingar_iccv21/README.md)
- 
+- [SketchLattice: Latticed Representation for Sketch Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sketchlattice_iccv21/README.md)
+- [Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ud2enet_iccv21/README.md)
+- [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/deeppanocontext_iccv21/README.md)
+- [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/odam_iccv21/README.md)
+
 </details>
 
 
