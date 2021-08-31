@@ -2,9 +2,16 @@
 
 
 
+- AAAI 2022 (Feb, decisions early Dec)
+- WSDM 2022 (Feb, decisions mid Oct)
 - NeurIPS 2021 (Dec, decisions late Sep)
 - ICDM 2021 (Dec, decisions early Sep)
-- EMNLP 2021 (Nov, decisions late Aug)
+
+
+
+## -------------------------------------------------------------------
+# EMNLP 2021 (Nov)
+- [Multiplex Graph Neural Network for Extractive Text Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/multigcn_emnlp21/README.md)
 
 
 
