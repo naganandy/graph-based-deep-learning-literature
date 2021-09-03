@@ -11,6 +11,7 @@
 
 ## -------------------------------------------------------------------
 # EMNLP 2021 (Nov)
+- [Interactive Machine Comprehension with Dynamic Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/imrcgraph_emnlp21/README.md)
 - [Multiplex Graph Neural Network for Extractive Text Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/multigcn_emnlp21/README.md)
 
 
