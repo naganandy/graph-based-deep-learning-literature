@@ -41,6 +41,10 @@
 - [Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ud2enet_iccv21/README.md)
 - [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/deeppanocontext_iccv21/README.md)
 - [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/odam_iccv21/README.md)
+- [Dynamic Attentive Graph Learning for Image Restoration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
+- [Shape-Biased Domain Generalization via Shock Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/shockgraph_iccv21/README.md)
+- [Hierarchical Object-to-Zone Graph for Object Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hoz_iccv21/README.md)
+- [Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mmgprg_iccv21/README.md)
 
 </details>
 

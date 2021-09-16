@@ -3,7 +3,7 @@
 
 
 # Scene Graphs
-- [Exploiting Scene Graphs for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
+- [Exploiting Scene Graphs for Human-	 Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
 - [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphto3d_iccv21/README.md)
 - [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/deeppanocontext_iccv21/README.md)
 
@@ -28,6 +28,7 @@
 
 
 # Miscellaneous
+- [Dynamic Attentive Graph Learning for Image Restoration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
 - [Distilling Holistic Knowledge with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hkd_iccv21/README.md)
 - [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/rain_iccv21/README.md)
 - [Unifying Nonlocal Blocks for Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/snl_iccv21/README.md)
@@ -38,3 +39,6 @@
 - [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dingar_iccv21/README.md)
 - [SketchLattice: Latticed Representation for Sketch Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sketchlattice_iccv21/README.md)
 - [Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ud2enet_iccv21/README.md)
+- [Shape-Biased Domain Generalization via Shock Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/shockgraph_iccv21/README.md)
+- [Hierarchical Object-to-Zone Graph for Object Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hoz_iccv21/README.md)
+- [Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mmgprg_iccv21/README.md)
