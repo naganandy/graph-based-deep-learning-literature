@@ -40,7 +40,7 @@
 
 # Hierarchical Graphs
 - ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network
-Technological Knowledge Flow Forecasting through A Hierarchical Interactive Graph Neural Network
+- Technological Knowledge Flow Forecasting through A Hierarchical Interactive Graph Neural Network
 
 
 
