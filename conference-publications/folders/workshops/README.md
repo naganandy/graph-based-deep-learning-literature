@@ -1,8 +1,6 @@
 # Related Workshops
 - ## 2021
-   * ### [Graph Machine Learning in Industry
-](https://sites.google.com/view/graph-ml-in-industry/home)
-   * ### [Stanford Graph Learning Workshop](https://snap.stanford.edu/graphlearning-workshop/)
+   * ### [Graph Machine Learning in Industry](https://sites.google.com/view/graph-ml-in-industry/home)
    * ### [Stanford Graph Learning Workshop](https://snap.stanford.edu/graphlearning-workshop/)
    * ### [When Graph Signal Processing meets Computer Vision (ICCV)](https://gsp-cv.univ-lr.fr/gspcv-21/accueil/)
    * ### [Deep Learning on Graphs: Method and Applications (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/)
