@@ -13,6 +13,23 @@
 - [Interactive Machine Comprehension with Dynamic Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/imrcgraph_emnlp21/README.md)
 - [Multiplex Graph Neural Network for Extractive Text Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/multigcn_emnlp21/README.md)
 - [An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/towegcn_emnlp21/README.md)
+- [STaCK: Sentence Ordering with Temporal Commonsense Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/stack_emnlp21/README.md)
+- [Learning grounded word meaning representations on similarity graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/hmsge_emnlp21/README.md)
+- [Graph Based Network with Contextualized Representations of Turns in Dialogue](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/tucoregcn_emnlp21/README.md)
+- [Graphine: A Dataset for Graph-aware Terminology Definition Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/graphine_emnlp21/README.md)
+- [Thinking Clearly, Talking Fast: Concept-Guided Non-Autoregressive Generation for Open-Domain Dialogue Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/cgnar_emnlp21/README.md)
+- [Heterogeneous Graph Neural Networks for Keyphrase Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/gater_emnlp21/README.md)
+- [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/kgml_emnlp21/README.md)
+
+
+<details> 
+<summary> more </summary> 
+
+
+- [Document Graph for Neural Machine Translation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/dgnmt_emnlp21/README.md)
+- [Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/lergv_emnlp21/README.md)
+
+</details>
 
 
 
