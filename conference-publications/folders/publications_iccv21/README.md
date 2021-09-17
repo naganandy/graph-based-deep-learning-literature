@@ -42,3 +42,4 @@
 - [Shape-Biased Domain Generalization via Shock Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/shockgraph_iccv21/README.md)
 - [Hierarchical Object-to-Zone Graph for Object Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hoz_iccv21/README.md)
 - [Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mmgprg_iccv21/README.md)
+- [Heterogeneous Relational Complement for Vehicle Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hrcn_iccv21/README.md)
