@@ -84,7 +84,7 @@
 - [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/tgrnet_iccv21/README.md)
 - [Learning Hierarchical Graph Neural Networks for Image Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hilander_iccv21/README.md)
 - [Cascade Image Matting with Deformable Graph Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/casdgr_iccv21/README.md)
-- [PoGO-Net: Pose Graph Optimization With Graph Neural Networks]((https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/pogonet_iccv21/README.md))
+- [PoGO-Net: Pose Graph Optimization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/pogonet_iccv21/README.md)
 - [Mesh Graphormer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/meshgraphormer_iccv21/README.md)
 - [GP-S3Net: Graph-based Panoptic Sparse Semantic Segmentation Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/gps3net_iccv21/README.md)
 - [Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/buildinggan_iccv21/README.md)
