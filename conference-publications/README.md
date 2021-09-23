@@ -63,6 +63,10 @@
 - [Hierarchical Object-to-Zone Graph for Object Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hoz_iccv21/README.md)
 - [Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mmgprg_iccv21/README.md)
 - [Heterogeneous Relational Complement for Vehicle Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hrcn_iccv21/README.md)
+- [Visual Scene Graphs for Audio Source Separation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
+- [Generative Compositional Augmentations for Scene Graph Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sgg_iccv21/README.md)
+- [OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/oscarnet_iccv21/README.md)
+- [In Defense of Scene Graphs for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2caps_iccv21/README.md)
 
 </details>
 

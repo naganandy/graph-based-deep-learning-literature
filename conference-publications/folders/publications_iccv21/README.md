@@ -5,23 +5,20 @@
 # Scene Graphs
 - [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphto3d_iccv21/README.md)
 - [DeepPanoContext: Panoramic 3D Scene Understanding with Holistic Scene Context Graph and Relation-based Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/deeppanocontext_iccv21/README.md)
-- Visual Scene Graphs for Audio Source Separation
-- Generative Compositional Augmentations for Scene Graph Prediction
-- OSCAR-Net: Object-Centric Scene Graph Attention for Image Attribution
+- [Visual Scene Graphs for Audio Source Separation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
+- [OSCAR-Net: Object-centric Scene Graph Attention for Image Attribution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/oscarnet_iccv21/README.md)
 - Holistic Pose Graph: Modeling Geometric Structure Among Objects in a Scene Using Graph Inference for 3D Object Prediction
 
 
 
 # Scene Graphs and Image Captioning
-- In Defense of Scene Graphs for Image Captioning
+- [In Defense of Scene Graphs for Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2caps_iccv21/README.md)
 - Topic Scene Graph Generation by Attention Distillation From Caption
 
 
 
 # Scene Graph Generation
-- Learning To Generate Scene Graph From Natural Language Supervision
-- Target Adaptive Context Aggregation for Video Scene Graph Generation
-- Visual Distant Supervision for Scene Graph Generation
+- [Generative Compositional Augmentations for Scene Graph Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sgg_iccv21/README.md)
 - Segmentation-Grounded Scene Graph Generation
 - Context-Aware Scene Graph Generation With Seq2Seq Transformers
 - Unconditional Scene Graph Generation
