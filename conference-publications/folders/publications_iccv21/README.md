@@ -106,12 +106,6 @@
 
 
 
-# Optimal Transport
-- [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
-- Wasserstein Coupled Graph Learning for Cross-Modal Retrieval
-
-
-
 # Navigation
 - [Hierarchical Object-to-Zone Graph for Object Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hoz_iccv21/README.md)
 - [Visual Graph Memory With Unsupervised Representation for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vgm_iccv21/README.md)
@@ -136,6 +130,7 @@
 - [Mesh Graphormer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/meshgraphormer_iccv21/README.md)
 - [GP-S3Net: Graph-based Panoptic Sparse Semantic Segmentation Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/gps3net_iccv21/README.md)
 - [Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/buildinggan_iccv21/README.md)
+- Wasserstein Coupled Graph Learning for Cross-Modal Retrieval
 - Cross-Patch Graph Convolutional Network for Image Denoising
 - Light Field Saliency Detection With Dual Local Graph Learning and Reciprocative Guidance
 - BlockPlanner: City Block Generation With Vectorized Graph Representation

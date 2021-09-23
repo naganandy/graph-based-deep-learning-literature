@@ -43,7 +43,6 @@
 - [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphfpn_iccv21/README.md)
 - [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/rain_iccv21/README.md)
 - [Unifying Nonlocal Blocks for Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/snl_iccv21/README.md)
-- [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
 - [Adaptive Graph Convolution for Point Cloud Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/adaptconv_iccv21/README.md)
 
 <details> 
@@ -141,6 +140,7 @@
 - [Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/wrgnn_kdd21/README.md)
 - [Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/gnnasp_kdd21/README.md)
 - [Approximate Graph Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/agp_kdd21/README.md)
+- [Unsupervised Graph Alignment with Wasserstein Distance Discriminator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/walign_kdd21/README.md)
 - [Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/heco_kdd21/README.md)
 - [Zero-shot Node Classification with Decomposed Graph Prototype Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/dgpn_kdd21/README.md)
 - [Geometric Graph Representation Learning on Protein Structure Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/pggnn_kdd21/README.md)
