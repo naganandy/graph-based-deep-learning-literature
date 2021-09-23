@@ -24,6 +24,39 @@
 
 
 
+# Human Interaction Understanding
+- [Exploiting Scene Graphs for Human Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
+- [Consistency-Aware Graph Network for Human Interaction Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/cagnet_iccv21/README.md)
+- [Spatially Conditioned Graphs for Detecting Human-Object Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/scghoi_iccv21/README.md)
+
+
+
+# Object Detection
+- [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/odam_iccv21/README.md)
+- [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphfpn_iccv21/README.md)
+- [Deep Structured Instance Graph for Distilling Object Detectors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dsig_iccv21/README.md)
+- Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
+
+
+
+# Few-Shot Learning
+- Query Adaptive Few-Shot Object Detection With Heterogeneous Graph Convolutional Networks
+- Hierarchical Graph Attention Network for Few-Shot Visual-Semantic Learning
+
+
+
+# Semi-Supervised Learning
+- Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels
+- Graph-BAS3Net: Boundary-Aware Semi-Supervised Segmentation Network With Bilateral Graph Convolution
+
+
+
+# Image Recognition
+- Transformer-Based Dual Relation Graph for Multi-Label Image Recognition
+- Graph-Based Asynchronous Event Processing for Rapid Object Recognition
+
+
+
 # Spatial-Temporal Structures
 - [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dingar_iccv21/README.md)
 - End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks
@@ -57,39 +90,6 @@
 - [Unified Graph Structured Models for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vumpnn_iccv21/README.md)
 - [Video Self-Stitching Graph Network for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vsgn_iccv21/README.md)
 - Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning
-
-
-
-# Human Interaction Understanding
-- [Exploiting Scene Graphs for Human Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
-- [Consistency-Aware Graph Network for Human Interaction Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/cagnet_iccv21/README.md)
-- [Spatially Conditioned Graphs for Detecting Human-Object Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/scghoi_iccv21/README.md)
-
-
-
-# Object Detection
-- [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/odam_iccv21/README.md)
-- [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphfpn_iccv21/README.md)
-- [Deep Structured Instance Graph for Distilling Object Detectors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dsig_iccv21/README.md)
-- Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
-
-
-
-# Few-Shot Learning
-- Query Adaptive Few-Shot Object Detection With Heterogeneous Graph Convolutional Networks
-- Hierarchical Graph Attention Network for Few-Shot Visual-Semantic Learning
-
-
-
-# Semi-Supervised Learning
-- Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels
-- Graph-BAS3Net: Boundary-Aware Semi-Supervised Segmentation Network With Bilateral Graph Convolution
-
-
-
-# Image Recognition
-- Transformer-Based Dual Relation Graph for Multi-Label Image Recognition
-- Graph-Based Asynchronous Event Processing for Rapid Object Recognition
 
 
 
