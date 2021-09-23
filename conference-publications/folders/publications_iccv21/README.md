@@ -19,79 +19,23 @@
 
 # Scene Graph Generation
 - [Generative Compositional Augmentations for Scene Graph Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sgg_iccv21/README.md)
-- Segmentation-Grounded Scene Graph Generation
-- Context-Aware Scene Graph Generation With Seq2Seq Transformers
-- Unconditional Scene Graph Generation
-- From General to Specific: Informative Scene Graph Generation via Balance Adjustment
+- [Unconditional Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/scenegraphgen_iccv21/README.md)
 - A Simple Baseline for Weakly-Supervised Scene Graph Generation
 
 
 
 # Spatial-Temporal Structures
-- Spatial-Temporal Transformer for Dynamic Scene Graph Generation
 - [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dingar_iccv21/README.md)
 - End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks
 
 
 
-# Videos
-- Adaptive Hierarchical Graph Reasoning With Semantic Coherence for Video-and-Language Inference
-- Video Matting via Consistency-Regularized Graph Neural Networks
-- Unified Graph Structured Models for Video Understanding
-- Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning
-- Video Self-Stitching Graph Network for Temporal Action Localization
-
-
-
-# Human Interaction Understanding
-- [Exploiting Scene Graphs for Human Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
-- Consistency-Aware Graph Network for Human Interaction Understanding
-- Spatially Conditioned Graphs for Detecting Human-Object Interactions
-
-
-
-# Object Detection
-- [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/odam_iccv21/README.md)
-- [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphfpn_iccv21/README.md)
-- Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
-- Deep Structured Instance Graph for Distilling Object Detectors
-
-
-
-# Few-Shot Learning
-- Query Adaptive Few-Shot Object Detection With Heterogeneous Graph Convolutional Networks
-- Hierarchical Graph Attention Network for Few-Shot Visual-Semantic Learning
-
-
-
-# Semi-Supervised Learning
-- Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels
-- Graph-BAS3Net: Boundary-Aware Semi-Supervised Segmentation Network With Bilateral Graph Convolution
-
-
-
-# Contrastive Learning
-- CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization
-- Graph Contrastive Clustering
-
-
-
-# Image Recognition
-- Transformer-Based Dual Relation Graph for Multi-Label Image Recognition
-- Graph-Based Asynchronous Event Processing for Rapid Object Recognition
-
-
-
-# Graph Matching
-- [Learning to Match Features with Seeded Graph Matching Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sgmnet_iccv21/README.md)
-- Fusion Moves for Graph Matching
-- Hypergraph Neural Networks for Hypergraph Matching
-
-
-
-# Human Motion Prediction
-- Graph Constrained Data Representation Learning for Human Motion Segmentation
-- MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction
+# Pose Estimation
+- [Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mmgprg_iccv21/README.md)
+- [PR-GCN: A Deep Graph Convolutional Network with Point Refinement for 6D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/prgcn_iccv21/README.md)
+- [Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/skeletalgnn_iccv21/README.md)
+- Modulated Graph Convolutional Network for 3D Human Pose Estimation
+- Space-Time-Separable Graph Convolutional Network for Pose Forecasting
 
 
 
@@ -107,19 +51,58 @@
 
 
 
-# Pose Estimation
-- [Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mmgprg_iccv21/README.md)
-- PR-GCN: A Deep Graph Convolutional Network With Point Refinement for 6D Pose Estimation
-- Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation
-- Modulated Graph Convolutional Network for 3D Human Pose Estimation
-- Space-Time-Separable Graph Convolutional Network for Pose Forecasting
+# Videos
+- [Adaptive Hierarchical Graph Reasoning with Semantic Coherence for Video-and-Language Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ahgn_iccv21/README.md)
+- [Video Matting via Consistency-Regularized Graph Neural Networks]((https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/crgnn_iccv21/README.md))
+- [Unified Graph Structured Models for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vumpnn_iccv21/README.md)
+- [Video Self-Stitching Graph Network for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vsgn_iccv21/README.md)
+- Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning
+
+
+
+# Human Interaction Understanding
+- [Exploiting Scene Graphs for Human Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
+- [Consistency-Aware Graph Network for Human Interaction Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/cagnet_iccv21/README.md)
+- [Spatially Conditioned Graphs for Detecting Human-Object Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/scghoi_iccv21/README.md)
+
+
+
+# Object Detection
+- [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/odam_iccv21/README.md)
+- [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphfpn_iccv21/README.md)
+- [Deep Structured Instance Graph for Distilling Object Detectors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dsig_iccv21/README.md)
+- Dual Bipartite Graph Learning: A General Approach for Domain Adaptive Object Detection
+
+
+
+# Few-Shot Learning
+- Query Adaptive Few-Shot Object Detection With Heterogeneous Graph Convolutional Networks
+- Hierarchical Graph Attention Network for Few-Shot Visual-Semantic Learning
+
+
+
+# Semi-Supervised Learning
+- Semi-Supervised Active Learning for Semi-Supervised Models: Exploit Adversarial Examples With Graph-Based Virtual Labels
+- Graph-BAS3Net: Boundary-Aware Semi-Supervised Segmentation Network With Bilateral Graph Convolution
+
+
+
+# Image Recognition
+- Transformer-Based Dual Relation Graph for Multi-Label Image Recognition
+- Graph-Based Asynchronous Event Processing for Rapid Object Recognition
+
+
+
+# Graph Matching
+- [Learning to Match Features with Seeded Graph Matching Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sgmnet_iccv21/README.md)
+- [Hypergraph Neural Networks for Hypergraph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hnnhm_iccv21/README.md)
 
 
 
 # Point Clouds
 - [Adaptive Graph Convolution for Point Cloud Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/adaptconv_iccv21/README.md)
-- Free-Form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud
-- Towards Efficient Graph Convolutional Networks for Point Cloud Handling
+- [Free-form Description Guided 3D Visual Graph Network for Object Grounding in Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/3dog_iccv21/README.md)
+- [Towards Efficient Graph Convolutional Networks for Point Cloud Handling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/efficientgcn_iccv21/README.md)
 
 
 
@@ -131,11 +114,12 @@
 
 # Navigation
 - [Hierarchical Object-to-Zone Graph for Object Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hoz_iccv21/README.md)
-- Visual Graph Memory With Unsupervised Representation for Visual Navigation
+- [Visual Graph Memory With Unsupervised Representation for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vgm_iccv21/README.md)
 
 
 
 # Miscellaneous
+- [MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/msrgcn_iccv21/README.md)
 - [Dynamic Attentive Graph Learning for Image Restoration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
 - [Distilling Holistic Knowledge with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hkd_iccv21/README.md)
 - [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/rain_iccv21/README.md)
@@ -145,24 +129,21 @@
 - [Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ud2enet_iccv21/README.md)
 - [Shape-Biased Domain Generalization via Shock Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/shockgraph_iccv21/README.md)
 - [Heterogeneous Relational Complement for Vehicle Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hrcn_iccv21/README.md)
-- TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition
-- Learning Hierarchical Graph Neural Networks for Image Clustering
+- [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/tgrnet_iccv21/README.md)
+- [Learning Hierarchical Graph Neural Networks for Image Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hilander_iccv21/README.md)
+- [PoGO-Net: Pose Graph Optimization With Graph Neural Networks]((https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/pogonet_iccv21/README.md))
+- [Cascade Image Matting with Deformable Graph Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/casdgr_iccv21/README.md)
+- [Mesh Graphormer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/meshgraphormer_iccv21/README.md)
+- [GP-S3Net: Graph-based Panoptic Sparse Semantic Segmentation Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/gps3net_iccv21/README.md)
+- [Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/buildinggan_iccv21/README.md)
 - Cross-Patch Graph Convolutional Network for Image Denoising
 - Light Field Saliency Detection With Dual Local Graph Learning and Reciprocative Guidance
 - BlockPlanner: City Block Generation With Vectorized Graph Representation
 - Meta-Aggregator: Learning To Aggregate for 1-Bit Graph Neural Networks
-- Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs
-- CanvasVAE: Learning To Generate Vector Graphic Documents
 - Viewing Graph Solvability via Cycle Consistency
-- PoGO-Net: Pose Graph Optimization With Graph Neural Networks
 - Learning To Bundle-Adjust: A Graph Network Approach to Faster Optimization of Bundle Adjustment for Vehicular SLAM
 - Auto Graph Encoder-Decoder for Neural Network Pruning
 - Synchronization of Group-Labelled Multi-Graphs
-- Generative Layout Modeling Using Constraint Graphs
 - Persistent Homology Based Graph Convolution Network for Fine-Grained 3D Shape Segmentation
-- Cascade Image Matting With Deformable Graph Refinement
 - Adversarial Example Detection Using Latent Neighborhood Graph
-- Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation
-- Mesh Graphormer
 - Interaction via Bi-Directional Graph of Semantic Region Affinity for Scene Parsing
-- GP-S3Net: Graph-Based Panoptic Sparse Semantic Segmentation Network
