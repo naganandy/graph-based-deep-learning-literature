@@ -53,7 +53,7 @@
 
 # Videos
 - [Adaptive Hierarchical Graph Reasoning with Semantic Coherence for Video-and-Language Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ahgn_iccv21/README.md)
-- [Video Matting via Consistency-Regularized Graph Neural Networks]((https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/crgnn_iccv21/README.md))
+- [Video Matting via Consistency-Regularized Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/crgnn_iccv21/README.md)
 - [Unified Graph Structured Models for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vumpnn_iccv21/README.md)
 - [Video Self-Stitching Graph Network for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vsgn_iccv21/README.md)
 - Modelling Neighbor Relation in Joint Space-Time Graph for Video Correspondence Learning
