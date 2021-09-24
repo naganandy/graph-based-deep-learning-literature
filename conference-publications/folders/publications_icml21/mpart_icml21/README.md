@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/kim21e.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9090)
+- [icml](https://icml.cc/virtual/2021/poster/9089)
 - [arXiv](https://arxiv.org/abs/2012.01227)

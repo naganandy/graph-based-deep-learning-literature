@@ -12,6 +12,6 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/yuan21c.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8874)
+- [icml](https://icml.cc/virtual/2021/poster/8873)
 - [arXiv](https://arxiv.org/abs/2102.05152)
 - [code](https://github.com/divelab/DIG)

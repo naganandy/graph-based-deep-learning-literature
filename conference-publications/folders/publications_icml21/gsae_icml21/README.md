@@ -12,4 +12,4 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/zheng21b.html)
-- [icml](https://icml.cc/Conferences/2021/Schedule?showEvent=9032)
+- [icml](https://icml.cc/virtual/2021/poster/9031)

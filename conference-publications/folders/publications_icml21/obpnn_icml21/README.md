@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/zimerman21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9772)
+- [icml](https://icml.cc/virtual/2021/poster/9771)
 - [arXiv](https://arxiv.org/abs/2106.04876)

@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/dasoulas21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8538)
+- [icml](https://icml.cc/virtual/2021/poster/8537)
 - [arXiv](https://arxiv.org/abs/2103.04886)

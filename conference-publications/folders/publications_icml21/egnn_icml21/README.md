@@ -12,6 +12,6 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/satorras21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9280)
+- [icml](https://icml.cc/virtual/2021/poster/9279)
 - [arXiv](https://arxiv.org/abs/2102.09844)
 - [code](https://github.com/vgsatorras/egnn)

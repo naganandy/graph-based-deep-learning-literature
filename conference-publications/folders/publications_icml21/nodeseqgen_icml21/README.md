@@ -12,4 +12,4 @@
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/chen21j.html)
-- [icml](https://icml.cc/Conferences/2021/Schedule?showEvent=8964)
+- [icml](https://icml.cc/virtual/2021/poster/8963)

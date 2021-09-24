@@ -12,6 +12,6 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/liao21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8414)
+- [icml](https://icml.cc/virtual/2021/poster/8413)
 - [arXiv](https://arxiv.org/abs/2009.13504)
 - [code](https://github.com/liaopeiyuan/GAL)

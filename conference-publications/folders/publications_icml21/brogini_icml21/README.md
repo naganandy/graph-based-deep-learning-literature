@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/henderson21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10324)
+- [icml](https://icml.cc/virtual/2021/poster/10323)
 - [arXiv](https://arxiv.org/abs/2105.04854)

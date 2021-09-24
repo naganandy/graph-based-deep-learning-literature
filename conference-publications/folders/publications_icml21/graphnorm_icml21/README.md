@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/cai21e.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10656)
+- [icml](https://icml.cc/virtual/2021/poster/10655)
 - [arXiv](https://arxiv.org/abs/2009.03294)

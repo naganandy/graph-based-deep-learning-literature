@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/zheng21c.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8466)
+- [icml](https://icml.cc/virtual/2021/poster/8465)
 - [arXiv](https://arxiv.org/abs/2102.06986)

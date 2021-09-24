@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/fey21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10758)
+- [icml](https://icml.cc/virtual/2021/poster/10757)
 - [arXiv](https://arxiv.org/abs/2106.05609)

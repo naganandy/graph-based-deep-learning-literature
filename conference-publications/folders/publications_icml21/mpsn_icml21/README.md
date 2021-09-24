@@ -12,5 +12,5 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/bodnar21a.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10198)
+- [icml](https://icml.cc/virtual/2021/poster/10197)
 - [arXiv](https://arxiv.org/abs/2103.03212)

@@ -12,4 +12,4 @@ year = {2021}
 
 links
 - [pmlr](http://proceedings.mlr.press/v139/liu21k.html)
-- [icml](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=9584)
+- [icml](https://icml.cc/virtual/2021/poster/9583)
