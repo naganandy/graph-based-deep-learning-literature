@@ -9,7 +9,7 @@
 
 
 ## -------------------------------------------------------------------
-# EMNLP 2021 (Nov)
+# [EMNLP 2021 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/README.md)
 - [Interactive Machine Comprehension with Dynamic Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/imrcgraph_emnlp21/README.md)
 - [Multiplex Graph Neural Network for Extractive Text Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/multigcn_emnlp21/README.md)
 - [An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/towegcn_emnlp21/README.md)
@@ -26,15 +26,22 @@
 <summary> more </summary> 
 
 
+- [Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/gegpt_emnlp21/README.md)
 - [Document Graph for Neural Machine Translation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/dgnmt_emnlp21/README.md)
 - [Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/lergv_emnlp21/README.md)
+- [Future is not One-dimensional: Graph Modeling based Complex Event Schema Induction for Event Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/egm_emnlp21/README.md)
+- [Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/make_emnlp21/README.md)
+- [Temporal Knowledge Graph Forecasting with Neural ODE](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/nodemgcn_emnlp21/README.md)
+- [A Differentiable Relaxation of Graph Segmentation and Alignment for AMR Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/drgsa_emnlp21/README.md)
+- [CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/crwalker_emnlp21/README.md)
+- [Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/aagcn_emnlp21/README.md)
 
 </details>
 
 
 
 ## -------------------------------------------------------------------
-# ICCV 2021 (Oct)
+# [ICCV 2021 (Oct)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/README.md)
 - [Distilling Holistic Knowledge with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hkd_iccv21/README.md)
 - [Human Trajectory Prediction via Counterfactual Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/causalhtp_iccv21/README.md)
 - [Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ctrgc_iccv21/README.md)
