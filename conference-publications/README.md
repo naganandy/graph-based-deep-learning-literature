@@ -9,6 +9,15 @@
 
 
 ## -------------------------------------------------------------------
+# NeurIPS 2021 (Dec)
+- [Neural Trees for Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/ntgcn_neurips21/README.md)
+- [Permutation-Invariant Variational Autoencoder for Graph-Level Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/pigae_neurips21/README.md)
+- [Autobahn: Automorphism-based Graph Neural Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/autobahn_neurips21/README.md)
+- [GemNet: Universal Directional Graph Neural Networks for Molecules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gemnet_neurips21/README.md)
+
+
+
+## -------------------------------------------------------------------
 # [EMNLP 2021 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/README.md)
 - [Interactive Machine Comprehension with Dynamic Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/imrcgraph_emnlp21/README.md)
 - [Multiplex Graph Neural Network for Extractive Text Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/multigcn_emnlp21/README.md)
