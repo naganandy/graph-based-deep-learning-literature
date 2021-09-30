@@ -5,7 +5,7 @@
 title = {Weisfeiler and Lehman Go Cellular: CW Networks},
 author = {Cristian Bodnar and Fabrizio Frasca and Nina Otter and Yu Guang Wang and Pietro Liò and Guido Montúfar and Michael Bronstein},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
-year = {2021}
+year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Neural Trees for Learning on Graphs},
 author = {Rajat Talak and Siyi Hu and Lisa Peng and Luca Carlone},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
-year = {2021}
+year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Autobahn: Automorphism-based Graph Neural Nets},
 author = {Erik Henning Thiede and Wenda Zhou and Risi Kondor},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
-year = {2021}
+year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```

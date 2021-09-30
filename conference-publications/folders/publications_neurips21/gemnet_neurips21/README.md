@@ -5,7 +5,7 @@
 title = {GemNet: Universal Directional Graph Neural Networks for Molecules},
 author = {Johannes Klicpera and Florian Becker and Stephan Günnemann},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
-year = {2021}
+year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```

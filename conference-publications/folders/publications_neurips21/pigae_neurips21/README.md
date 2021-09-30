@@ -5,7 +5,7 @@
 title = {Permutation-Invariant Variational Autoencoder for Graph-Level Representation Learning},
 author = {Robin Winter and Frank Noé and Djork-Arné Clevert},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
-year = {2021}
+year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
