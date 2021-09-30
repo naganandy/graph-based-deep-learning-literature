@@ -1,10 +1,9 @@
 # [Conferences](https://aideadlin.es/)
 
 
-
+- ICLR 2022 (Apr, decisions late Jan)
 - AAAI 2022 (Feb, decisions early Dec)
 - WSDM 2022 (Feb, decisions mid Oct)
-- NeurIPS 2021 (Dec, decisions late Sep)
 
 
 
@@ -14,6 +13,8 @@
 - [Permutation-Invariant Variational Autoencoder for Graph-Level Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/pigae_neurips21/README.md)
 - [Autobahn: Automorphism-based Graph Neural Nets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/autobahn_neurips21/README.md)
 - [GemNet: Universal Directional Graph Neural Networks for Molecules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gemnet_neurips21/README.md)
+- [On the Universality of Graph Neural Networks on Large Random Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/sgnn_neurips21/README.md)
+- [Weisfeiler and Lehman Go Cellular: CW Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/cin_neurips21/README.md)
 
 
 
