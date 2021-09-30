@@ -130,11 +130,11 @@
 - [Mesh Graphormer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/meshgraphormer_iccv21/README.md)
 - [GP-S3Net: Graph-based Panoptic Sparse Semantic Segmentation Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/gps3net_iccv21/README.md)
 - [Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/buildinggan_iccv21/README.md)
+- [Meta-Aggregator: Learning to Aggregate for 1-bit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/metaagg_iccv21/README.md)
 - Wasserstein Coupled Graph Learning for Cross-Modal Retrieval
 - Cross-Patch Graph Convolutional Network for Image Denoising
 - Light Field Saliency Detection With Dual Local Graph Learning and Reciprocative Guidance
 - BlockPlanner: City Block Generation With Vectorized Graph Representation
-- Meta-Aggregator: Learning To Aggregate for 1-Bit Graph Neural Networks
 - Viewing Graph Solvability via Cycle Consistency
 - Learning To Bundle-Adjust: A Graph Network Approach to Faster Optimization of Bundle Adjustment for Vehicular SLAM
 - Auto Graph Encoder-Decoder for Neural Network Pruning

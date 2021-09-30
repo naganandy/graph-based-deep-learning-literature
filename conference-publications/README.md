@@ -65,6 +65,7 @@
 <details> 
 <summary> more </summary> 
  
+- [Meta-Aggregator: Learning to Aggregate for 1-bit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/metaagg_iccv21/README.md)
 - [Deep Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/drml_iccv21/README.md)
 - [Exploiting Scene Graphs for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
 - [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/graphto3d_iccv21/README.md)
