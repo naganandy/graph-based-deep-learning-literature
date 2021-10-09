@@ -23,7 +23,6 @@
 
 
 # Hypergraphs
-- THyMe+: Temporal Hypergraph Motifs and Fast Algorithms for Exact Counting
 - Hypergraph Ego-networks and Their Temporal Evolution
 - MC-RGCN: A Multi-Channel Recurrent Graph Convolutional Network to Learn High-Order Social Relations for Diffusion Prediction
 - HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation

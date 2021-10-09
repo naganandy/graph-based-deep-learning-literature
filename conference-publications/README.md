@@ -15,6 +15,10 @@
 - [GemNet: Universal Directional Graph Neural Networks for Molecules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gemnet_neurips21/README.md)
 - [On the Universality of Graph Neural Networks on Large Random Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/sgnn_neurips21/README.md)
 - [Weisfeiler and Lehman Go Cellular: CW Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/cin_neurips21/README.md)
+- [Be Confident! Towards Trustworthy Graph Neural Networks via Confidence Calibration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/cagcn_neurips21/README.md)
+- [Reconstruction for Powerful Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/krecgnn_neurips21/README.md)
+- [Learning Compact Representations of Neural Networks using DiscriminAtive Masking (DAM)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/dam_neurips21/README.md)
+- [Motif-based Graph Self-Supervised Learning forMolecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/mgssl_neurips21/README.md)
 
 
 
