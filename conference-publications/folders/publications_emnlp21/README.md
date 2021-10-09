@@ -37,8 +37,8 @@
 
 # Text Classification
 - [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/kgml_emnlp21/README.md)
+- [Weakly-supervised Text Classification Based on Keyword Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/classkg_emnlp21/README.md)
 - Deep Attention Diffusion Graph Neural Networks for Text Classification
-- Weakly-supervised Text Classification Based on Keyword Graph
 
 
 
@@ -57,6 +57,12 @@
 
 
 
+# Semantic Role Labelling
+- [A Graph-Based Neural Model for End-to-End Frame Semantic Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/framenetparser_emnlp21/README.md)
+- [CSAGN: Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/csagn_emnlp21/README.md)
+
+
+
 # Miscellaneous
 - [An Empirical Study on Leveraging Position Embeddings for Target-oriented Opinion Words Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/towegcn_emnlp21/README.md)
 - [Learning grounded word meaning representations on similarity graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/hmsge_emnlp21/README.md)
@@ -71,8 +77,6 @@
 - Event Graph based Sentence Fusion
 - Aligning Actions Across Recipe Graphs
 - Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph
-- A Graph-Based Neural Model for End-to-End Frame Semantic Parsing
 - Extend, don’t rebuild: Phrasing conditional graph modification as autoregressive sequence labelling
 - Building the Directed Semantic Graph for Coherent Long Text Generation
-- CSAGN: Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling
 - Relation Extraction with Word Graphs from N-grams

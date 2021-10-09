@@ -31,10 +31,8 @@
 - [Heterogeneous Graph Neural Networks for Keyphrase Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/gater_emnlp21/README.md)
 - [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/kgml_emnlp21/README.md)
 
-
 <details> 
 <summary> more </summary> 
-
 
 - [Knowledge-Aware Graph-Enhanced GPT-2 for Dialogue State Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/gegpt_emnlp21/README.md)
 - [Document Graph for Neural Machine Translation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/dgnmt_emnlp21/README.md)
@@ -45,6 +43,9 @@
 - [A Differentiable Relaxation of Graph Segmentation and Alignment for AMR Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/drgsa_emnlp21/README.md)
 - [CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/crwalker_emnlp21/README.md)
 - [Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/aagcn_emnlp21/README.md)
+- [A Graph-Based Neural Model for End-to-End Frame Semantic Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/framenetparser_emnlp21/README.md)
+- [CSAGN: Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/csagn_emnlp21/README.md)
+- [Weakly-supervised Text Classification Based on Keyword Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/classkg_emnlp21/README.md)
 
 </details>
 
