@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{rain_iccv21,
-author = {Jiachen Li and Fan Yang and Hengbo Ma and Srikanth Malla and Masayoshi Tomizuka and Chiho Choi},
 title = {RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+author = {Li, Jiachen and Yang, Fan and Ma, Hengbo and Malla, Srikanth and Tomizuka, Masayoshi and Choi, Chiho},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+pages = {16096--16106},
 year = {2021}
 }
 ```
 
 links
+-[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.01316)
 - [project](https://jiachenli94.github.io/publications/RAIN/)

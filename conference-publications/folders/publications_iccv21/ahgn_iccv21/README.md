@@ -1,13 +1,15 @@
-# Adaptive Hierarchical Graph Reasoning with Semantic Coherence for Video-and-Language Inference
+# Adaptive Hierarchical Graph Reasoning With Semantic Coherence for Video-and-Language Inference
 
 ```
 @inproceedings{ahgn_iccv21,
-title = {Adaptive Hierarchical Graph Reasoning with Semantic Coherence for Video-and-Language Inference},
-author = {Juncheng Li and Siliang Tang and Linchao Zhu and Haochen Shi and Xuanwen Huang and Fei Wu and Yi Yang and Yueting Zhuang},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+title = {Adaptive Hierarchical Graph Reasoning With Semantic Coherence for Video-and-Language Inference},
+author = {Li, Juncheng and Tang, Siliang and Zhu, Linchao and Shi, Haochen and Huang, Xuanwen and Wu, Fei and Yang, Yi and Zhuang, Yueting},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+pages = {1867--1877},
 year = {2021}
 }
 ```
 
 links
+-[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_Adaptive_Hierarchical_Graph_Reasoning_With_Semantic_Coherence_for_Video-and-Language_Inference_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2107.12270)
