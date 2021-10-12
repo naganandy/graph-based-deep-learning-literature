@@ -20,7 +20,18 @@
 - [Learning Compact Representations of Neural Networks using DiscriminAtive Masking (DAM)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/dam_neurips21/README.md)
 - [Motif-based Graph Self-Supervised Learning forMolecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/mgssl_neurips21/README.md)
 
+<details> 
+<summary> more </summary> 
 
+- [Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/fate_neurips21/README.md)
+- [Topology-Imbalance Learning for Semi-Supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/renode_neurips21/README.md)
+- [Neural Algorithmic Reasoners are Implicit Planners](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/xlvin_neurips21/README.md)
+- [Adversarial Graph Augmentation to Improve Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/adgcl_neurips21/README.md)
+- [Revisiting Graph Neural Networks for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/seal_neurips21/README.md)
+- [Deep Graph Neural Networks with Shallow Subgraph Samplers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/shadow_neurips21/README.md)
+- [Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/nbfnet_neurips21/README.md)
+
+</details>
 
 ## -------------------------------------------------------------------
 # [EMNLP 2021 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/README.md)
