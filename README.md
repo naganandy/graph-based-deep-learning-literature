@@ -6,7 +6,7 @@ The repository contains links primarily to [conference publications](https://git
 - [Surveys / Literature Reviews / Books](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/README.md) 
 - [Software/Libraries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/software/README.md).
  
-[The links to conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#conferences) are arranged in the reverse chronological order of conference dates from the conferences below (and also arranged year-wise).
+[The links to conference publications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/README.md#conferences) are arranged in the reverse chronological order of conference dates from the conferences below (and also arranged year-wise for each conference).
 
 - ## Machine Learning Conferences
  
@@ -39,7 +39,7 @@ The repository contains links primarily to [conference publications](https://git
 
 <br> </br>
 
-- ## Natural Language Processing Conferences
+- ## Computalional Linguistics Conferences
    * ### [ACL](https://www.2022.aclweb.org/) - [2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl21/README.md) | [2020](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl20/README.md) | [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl19/README.md) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2018.MD#acl-2018-jul)
     * ### [EMNLP](https://2021.emnlp.org/) - [2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp21/README.md) | [2020](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp20/README.md) | [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_emnlp19/README.md) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2018.MD#emnlp-2018-nov) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2017.MD#emnlp-2017)
   * ### [NAACL](https://naacl.org/) - [2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_naacl21/README.md) | [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2019.MD#naacl-2019-jun) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_years/2018.MD#naacl-2018-jun)
