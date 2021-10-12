@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Arnab_Unified_Graph_Structured_Models_for_Video_Understanding_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Arnab_Unified_Graph_Structured_Models_for_Video_Understanding_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2103.15662)

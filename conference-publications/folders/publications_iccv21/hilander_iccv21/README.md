@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Xing_Learning_Hierarchical_Graph_Neural_Networks_for_Image_Clustering_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Xing_Learning_Hierarchical_Graph_Neural_Networks_for_Image_Clustering_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2107.01319)
 - [code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander)

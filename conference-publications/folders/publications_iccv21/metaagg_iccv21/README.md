@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Jing_Meta-Aggregator_Learning_To_Aggregate_for_1-Bit_Graph_Neural_Networks_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Jing_Meta-Aggregator_Learning_To_Aggregate_for_1-Bit_Graph_Neural_Networks_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2109.12872)

@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Chen_Channel-Wise_Topology_Refinement_Graph_Convolution_for_Skeleton-Based_Action_Recognition_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Chen_Channel-Wise_Topology_Refinement_Graph_Convolution_for_Skeleton-Based_Action_Recognition_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2107.12213)
 - [code](https://github.com/Uason-Chen/CTR-GCN)

@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.01316)
 - [project](https://jiachenli94.github.io/publications/RAIN/)

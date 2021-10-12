@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_ODAM_Object_Detection_Association_and_Mapping_Using_Posed_RGB_Video_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_ODAM_Object_Detection_Association_and_Mapping_Using_Posed_RGB_Video_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.10165)

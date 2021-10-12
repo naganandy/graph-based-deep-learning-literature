@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zhou_Adaptive_Graph_Convolution_for_Point_Cloud_Analysis_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zhou_Adaptive_Graph_Convolution_for_Point_Cloud_Analysis_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.08035)
 - [code](https://github.com/hrzhou2/AdaptConv-master)

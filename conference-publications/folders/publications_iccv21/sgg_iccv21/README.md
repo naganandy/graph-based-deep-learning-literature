@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Knyazev_Generative_Compositional_Augmentations_for_Scene_Graph_Prediction_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Knyazev_Generative_Compositional_Augmentations_for_Scene_Graph_Prediction_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2007.05756)
 - [code](https://github.com/bknyaz/sgg)

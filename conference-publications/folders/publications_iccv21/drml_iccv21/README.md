@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zheng_Deep_Relational_Metric_Learning_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zheng_Deep_Relational_Metric_Learning_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.10026)

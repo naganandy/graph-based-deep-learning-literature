@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Liao_Hypergraph_Neural_Networks_for_Hypergraph_Matching_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Liao_Hypergraph_Neural_Networks_for_Hypergraph_Matching_ICCV_2021_paper.html)
 - [preprint](https://www3.cs.stonybrook.edu/~hling/publication/HNN-HM-21.pdf)

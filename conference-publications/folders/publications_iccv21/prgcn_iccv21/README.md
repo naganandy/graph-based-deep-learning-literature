@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zhou_PR-GCN_A_Deep_Graph_Convolutional_Network_With_Point_Refinement_for_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zhou_PR-GCN_A_Deep_Graph_Convolutional_Network_With_Point_Refinement_for_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.09916)

@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2108.05507)
 - [code](https://github.com/wyc-ruiker/HKD)

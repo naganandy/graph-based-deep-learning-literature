@@ -11,6 +11,6 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Mou_Dynamic_Attentive_Graph_Learning_for_Image_Restoration_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Mou_Dynamic_Attentive_Graph_Learning_for_Image_Restoration_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2109.06620)
 - [code](https://github.com/jianzhangcs/DAGL)

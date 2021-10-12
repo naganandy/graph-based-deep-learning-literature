@@ -11,5 +11,5 @@ year = {2021}
 ```
 
 links
--[openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_Adaptive_Hierarchical_Graph_Reasoning_With_Semantic_Coherence_for_Video-and-Language_Inference_ICCV_2021_paper.html)
+- [openaccess](http://openaccess.thecvf.com//content/ICCV2021/html/Li_Adaptive_Hierarchical_Graph_Reasoning_With_Semantic_Coherence_for_Video-and-Language_Inference_ICCV_2021_paper.html)
 - [arXiv](https://arxiv.org/abs/2107.12270)
