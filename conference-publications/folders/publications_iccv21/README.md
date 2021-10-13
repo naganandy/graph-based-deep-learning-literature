@@ -23,6 +23,7 @@
 - [Exploiting Scene Graphs for Human Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sg2hoi_iccv21/README.md)
 - [Consistency-Aware Graph Network for Human Interaction Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/cagnet_iccv21/README.md)
 - [Spatially Conditioned Graphs for Detecting Human-Object Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/scghoi_iccv21/README.md)
+- [H2O: Two Hands Manipulating Objects for First Person Interaction Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/h2o_iccv21/README.md)
 
 
 
@@ -63,6 +64,7 @@
 # Spatial-Temporal Structures
 - [Spatio-Temporal Dynamic Inference Network for Group Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dingar_iccv21/README.md)
 - [End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/visstg_iccv21/README.md)
+- [Unifying Nonlocal Blocks for Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/snl_iccv21/README.md)
 - [Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/stcnet_iccv21/README.md)
 
 
@@ -74,6 +76,7 @@
 - [Modulated Graph Convolutional Network for 3D Human Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/modulatedgcn_iccv21/README.md)
 - [PoGO-Net: Pose Graph Optimization With Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/pogonet_iccv21/README.md)
 - [Space-Time-Separable Graph Convolutional Network for Pose Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/stsgcn_iccv21/README.md)
+- [Mesh Graphormer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/meshgraphormer_iccv21/README.md)
 
 
 
@@ -86,19 +89,26 @@
 # Trajectory Prediction
 - [Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/unin_iccv21/README.md)
 - [Human Trajectory Prediction via Counterfactual Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/causalhtp_iccv21/README.md)
+- [TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/tripod_iccv21/README.md)
 
 
 
 # Videos
 - [Adaptive Hierarchical Graph Reasoning with Semantic Coherence for Video-and-Language Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ahgn_iccv21/README.md)
 - [HAIR: Hierarchical Visual-Semantic Relational Reasoning for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hair_iccv21/README.md)
- [Video Matting via Consistency-Regularized Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/crgnn_iccv21/README.md)
+- [MAAS: Multi-Modal Assignation for Active Speaker Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/maas_iccv21/README.md)
 - [Unified Graph Structured Models for Video Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vumpnn_iccv21/README.md)
 - [Video Self-Stitching Graph Network for Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vsgn_iccv21/README.md)
 - [Multi-Modal Multi-Action Video Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mavgnn_iccv21/README.md)
 - [Motion Guided Region Message Passing for Video Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mgrmp_iccv21/README.md)
 - [Click To Move: Controlling Video Generation With Sparse Motion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/c2m_iccv21/README.md)
 - [HighlightMe: Detecting Highlights From Human-Centric Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/highlightme_iccv21/README.md)
+
+
+
+# Matting
+- [Video Matting via Consistency-Regularized Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/crgnn_iccv21/README.md)
+- [Cascade Image Matting with Deformable Graph Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/casdgr_iccv21/README.md)
 
 
 
@@ -130,6 +140,12 @@
 
 
 
+# Image Restoration
+- [Dynamic Attentive Graph Learning for Image Restoration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
+- [Cross-Patch Graph Convolutional Network for Image Denoising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/cpnet_iccv21/README.md)
+
+
+
 # Motion Prediction
 - [MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/msrgcn_iccv21/README.md)
 - [Motion Prediction Using Trajectory Cues](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/mptc_iccv21/README.md)
@@ -148,35 +164,43 @@
 
 
 
+# Vehicles
+- [Heterogeneous Relational Complement for Vehicle Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hrcn_iccv21/README.md)
+- [Track Without Appearance: Learn Box and Tracklet Embedding With Local and Global Motion Patterns for Vehicle Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/lgmtracker_iccv21/README.md)
+
+
+
+# Deep Metric Learning
+- [Deep Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/drml_iccv21/README.md)
+- [Learning Better Visual Data Similarities via New Grouplet Non-Euclidean Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vdsnem_iccv21/README.md)
+
+
+
+# Domain Adaptation
+- [Towards Novel Target Discovery Through Open-Set Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/srosda_iccv21/README.md)
+- [Shape-Biased Domain Generalization via Shock Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/shockgraph_iccv21/README.md)
+
+
+
+# Architecture Search
+- [Not All Operations Contribute Equally: Hierarchical Operation-Adaptive Predictor for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hopcgm_iccv21/README.md)
+- [Auto Graph Encoder-Decoder for Neural Network Pruning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/agmc_iccv21/README.md)
+
+
+
 # Miscellaneous
-- [Dynamic Attentive Graph Learning for Image Restoration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/dagl_iccv21/README.md)
 - [Distilling Holistic Knowledge with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hkd_iccv21/README.md)
 - [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/rain_iccv21/README.md)
-- [Unifying Nonlocal Blocks for Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/snl_iccv21/README.md)
-- [Deep Relational Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/drml_iccv21/README.md)
 - [SketchLattice: Latticed Representation for Sketch Manipulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/sketchlattice_iccv21/README.md)
 - [Unsupervised Dense Deformation Embedding Network for Template-Free Shape Correspondence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/ud2enet_iccv21/README.md)
-- [Shape-Biased Domain Generalization via Shock Graph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/shockgraph_iccv21/README.md)
-- [Heterogeneous Relational Complement for Vehicle Re-identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hrcn_iccv21/README.md)
 - [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/tgrnet_iccv21/README.md)
-- [Cascade Image Matting with Deformable Graph Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/casdgr_iccv21/README.md)
-- [Mesh Graphormer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/meshgraphormer_iccv21/README.md)
 - [GP-S3Net: Graph-based Panoptic Sparse Semantic Segmentation Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/gps3net_iccv21/README.md)
 - [Meta-Aggregator: Learning to Aggregate for 1-bit Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/metaagg_iccv21/README.md)
 - [RDI-Net: Relational Dynamic Inference Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/rdinet_iccv21/README.md)
-- [TRiPOD: Human Trajectory and Pose Dynamics Forecasting in the Wild](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/tripod_iccv21/README.md)
 - [Adversarial Example Detection Using Latent Neighborhood Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/lngnn_iccv21/README.md)
-- [MAAS: Multi-Modal Assignation for Active Speaker Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/maas_iccv21/README.md)
-- [Not All Operations Contribute Equally: Hierarchical Operation-Adaptive Predictor for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/hopcgm_iccv21/README.md)
 - [FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/floorplancad_iccv21/README.md)
-- [Learning Better Visual Data Similarities via New Grouplet Non-Euclidean Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/vdsnem_iccv21/README.md)
-- [Track Without Appearance: Learn Box and Tracklet Embedding With Local and Global Motion Patterns for Vehicle Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/lgmtracker_iccv21/README.md)
 - [Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/abpn_iccv21/README.md)
 - [Enhanced Boundary Learning for Glass-Like Object Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/eblnet_iccv21/README.md)
 - [BlockPlanner: City Block Generation With Vectorized Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/blockplanner_iccv21/README.md)
-- [H2O: Two Hands Manipulating Objects for First Person Interaction Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/h2o_iccv21/README.md)
 - [Wasserstein Coupled Graph Learning for Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/wcgl_iccv21/README.md)
 - [Pose Invariant Topological Memory for Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/point_iccv21/README.md)
-- [Towards Novel Target Discovery Through Open-Set Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/srosda_iccv21/README.md)
-- [Auto Graph Encoder-Decoder for Neural Network Pruning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/agmc_iccv21/README.md)
-- [Cross-Patch Graph Convolutional Network for Image Denoising](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iccv21/cpnet_iccv21/README.md)
