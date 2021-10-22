@@ -24,7 +24,6 @@
 <details> 
 <summary> more </summary> 
 
-# Scalability
 - [Node Dependent Local Smoothing for Scalable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/ndls_neurips21/README.md)
 - [A Biased Graph Neural Network Sampler with Near-Optimal Regret](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/banditgnn_neurips21/README.md)
 - [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/vqgnn_neurips21/README.md)
