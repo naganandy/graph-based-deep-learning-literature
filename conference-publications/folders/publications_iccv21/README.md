@@ -1,4 +1,4 @@
-# [Publications in ICCV 2021](https://iccv2021.thecvf.com/presentation-schedule)
+# [Publications in ICCV 2021](https://openaccess.thecvf.com/ICCV2021?day=all)
 
 
 
