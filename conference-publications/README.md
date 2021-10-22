@@ -8,7 +8,7 @@
 
 
 ## -------------------------------------------------------------------
-# NeurIPS 2021 (Dec)
+# [NeurIPS 2021 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/README.md)
 
 - [Decoupling the Depth and Scope of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/shadow_neurips21/README.md)
 - [Representing Long-Range Context for Graph Neural Networks with Global Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/graphtrans_neurips21/README.md)
