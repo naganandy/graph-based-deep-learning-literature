@@ -245,4 +245,3 @@
 - [Scaling Gaussian Processes with Derivative Information Using Variational Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gpvi_neurips21/README.md)
 - [Solving Graph-based Public Goods Games with Tree Search and Imitation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/misgnn_neurips21/README.md)
 - [Learning Graph Cellular Automata](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gca_neurips21/README.md)
-- [Permutation-Invariant Variational Autoencoder for Graph-Level Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/pivgae_neurips21/README.md)

@@ -134,7 +134,6 @@
 - [From Canonical Correlation Analysis to Self-supervised Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/ccassg_neurips21/README.md)
 - [Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/kgae_neurips21/README.md)
 - [Multi-Scale Representation Learning on Proteins](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/holoprot_neurips21/README.md)
-- [Permutation-Invariant Variational Autoencoder for Graph-Level Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/pivgae_neurips21/README.md)
 - [Knowledge-inspired 3D Scene Graph Prediction in Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/sgppc_neurips21/README.md)
 - [Multi-view Contrastive Graph Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/mcgc_neurips21/README.md)
 
