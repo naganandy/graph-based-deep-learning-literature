@@ -123,6 +123,20 @@
 - [Scaling Gaussian Processes with Derivative Information Using Variational Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gpvi_neurips21/README.md)
 - [Solving Graph-based Public Goods Games with Tree Search and Imitation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/misgnn_neurips21/README.md)
 - [Learning Graph Cellular Automata](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/gca_neurips21/README.md)
+- [SADGA: Structure-Aware Dual Graph Aggregation Network for Text-to-SQL](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/sadga_neurips21/README.md)
+- [Learning Graph Models for Retrosynthesis Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/graphretro_neurips21/README.md)
+- [Property-aware Adaptive Relation Networks for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/par_neurips21/README.md)
+- [Subgraph Federated Learning with Missing Neighbor Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/fedsage_neurips21/README.md)
+- [InfoGCL: Information-Aware Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/infogcl_neurips21/README.md)
+- [Predicting Molecular Conformation via Dynamic Graph Score Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/dgsm_neurips21/README.md)
+- [Learning to Learn Graph Topologies](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/l2g_neurips21/README.md)
+- [MOMA: Multi-Object Multi-Actor Activity Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/hgap_neurips21/README.md)
+- [From Canonical Correlation Analysis to Self-supervised Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/ccassg_neurips21/README.md)
+- [Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/kgae_neurips21/README.md)
+- [Multi-Scale Representation Learning on Proteins](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/holoprot_neurips21/README.md)
+- [Permutation-Invariant Variational Autoencoder for Graph-Level Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/pivgae_neurips21/README.md)
+- [Knowledge-inspired 3D Scene Graph Prediction in Point Cloud](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/sgppc_neurips21/README.md)
+- [Multi-view Contrastive Graph Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/mcgc_neurips21/README.md)
 
 
 </details>
