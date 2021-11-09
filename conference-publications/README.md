@@ -1,9 +1,17 @@
 # [Conferences](https://aideadlin.es/)
 
 
+- CVPR 2022 (Jun, decisions early Mar)
+- ACL 2022 (May, decisions late Feb)
 - ICLR 2022 (Apr, decisions late Jan)
+- WebConf 2022 (Apr, decisions mid Jan)
 - AAAI 2022 (Feb, decisions early Dec)
-- WSDM 2022 (Feb, decisions mid Oct)
+
+
+
+## -------------------------------------------------------------------
+# WSDM 2022 (Feb)
+- [Graph Embedding with Hierarchical Attentive Membership](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/graphham_wsdm22/README.md)
 
 
 
