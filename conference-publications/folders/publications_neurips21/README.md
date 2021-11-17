@@ -16,7 +16,12 @@
 - [Dirichlet Energy Constrained Learning for Deep Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/egnn_neurips21/README.md)
 - [EIGNN: Efficient Infinite-Depth Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/eignn_neurips21/README.md)
 - [Representing Long-Range Context for Graph Neural Networks with Global Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/graphtrans_neurips21/README.md)
+
+
+
+# Linearised Models
 - [Dissecting the Diffusion Process in Linear Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/dgc_neurips21/README.md)
+- [Implicit SVD for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/isvd_neurips21/README.md)
 
 
 

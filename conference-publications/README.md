@@ -11,6 +11,7 @@
 
 ## -------------------------------------------------------------------
 # WSDM 2022 (Feb)
+- [Linear, or Non-Linear, That is the Question!](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hmlet_wsdm22/README.md)
 - [Graph Embedding with Hierarchical Attentive Membership](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/graphham_wsdm22/README.md)
 
 
@@ -32,6 +33,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Implicit SVD for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/isvd_neurips21/README.md)
 - [Node Dependent Local Smoothing for Scalable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/ndls_neurips21/README.md)
 - [A Biased Graph Neural Network Sampler with Near-Optimal Regret](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/banditgnn_neurips21/README.md)
 - [VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips21/vqgnn_neurips21/README.md)
