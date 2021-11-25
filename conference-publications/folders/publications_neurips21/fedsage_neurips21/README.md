@@ -11,4 +11,5 @@ publisher = {Curran Associates, Inc.}
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26948)
+- [neurips](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=26947)
+- [openreview](https://openreview.net/forum?id=SJHRf5nW93)

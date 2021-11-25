@@ -14,3 +14,4 @@ links
 - [neurips](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27523)
 - [arXiv](https://arxiv.org/abs/2111.06312)
 - [code](https://github.com/samihaija/isvd)
+- [openreview](https://openreview.net/forum?id=9Jsop0faZtU)
