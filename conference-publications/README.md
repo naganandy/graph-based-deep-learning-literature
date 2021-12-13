@@ -5,7 +5,19 @@
 - ACL 2022 (May, decisions late Feb)
 - ICLR 2022 (Apr, decisions late Jan)
 - WebConf 2022 (Apr, decisions mid Jan)
-- AAAI 2022 (Feb, decisions early Dec)
+
+
+
+## -------------------------------------------------------------------
+# AAAI 2022 (Feb)
+- [ProtGNN: Towards Self-Explaining Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/protgnn_aaai22/README.md)- [Molecular Contrastive Learning with Chemical Element Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/kmpnn_aaai22/README.md)- [Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isdg_aaai22/README.md)
+- [Stationary Diffusion State Neural Estimation for Multiview Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sdsne_aaai22/README.md)
+- [Augmentation-Free Self-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/afgrl_aaai22/README.md)
+- [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgncde_aaai22/README.md)
+- [Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tacnn_aaai22/README.md)
+- [A Self-supervised Mixed-curvature Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/selfmgnn_aaai22/README.md)
+- [Adaptive Kernel Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/akgnn_aaai22/README.md)
+- [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 
 
 
