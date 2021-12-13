@@ -3,9 +3,9 @@
 
 
 # Explainability
-- Multi-objective Explanations of GNN Predictions
+- [Multi-objective Explanations of GNN Predictions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnnmoexp_icdm21/README.md)
 - GNES: Learning to Explain Graph Neural Networks
-- GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs
+- [GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gcnse_icdm21/README.md)
 
 
 
@@ -23,9 +23,8 @@
 
 
 # Hypergraphs
-- Hypergraph Ego-networks and Their Temporal Evolution
+- [HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/hypertenet_icdm21/README.md)
 - MC-RGCN: A Multi-Channel Recurrent Graph Convolutional Network to Learn High-Order Social Relations for Diffusion Prediction
-- HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation
 - Hypergraph Convolutional Network for Group Recommendation
 
 
@@ -38,16 +37,16 @@
 
 
 # Hierarchical Graphs
-- ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network
+- [ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/acehgnn_icdm21/README.md)
 - Technological Knowledge Flow Forecasting through A Hierarchical Interactive Graph Neural Network
 
 
 
 # Heterogeneous Graphs
+- [Heterogeneous Stream-reservoir Graph Networks with Data Assimilation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/hrgn_icdm21/README.md)
 - StarGAT: Star-Shaped Hierarchical Graph Attentional Network for Heterogeneous Network Representation Learning
 - Heterogeneous Graph Neural Network with Distance Encoding
 - HGEN: Deep Heterogeneous Graph Generation
-- Heterogeneous Stream-reservoir Graph Networks with Data Assimilation
 
 
 
@@ -64,21 +63,20 @@
 
 
 # Graph Classification
-- Learnable Structural Semantic Readout for Graph Classification
-- Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications
+- [Learnable Structural Semantic Readout for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/ssread_icdm21/README.md)
+- [Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/miagnn_icdm21/README.md)
 
 
 
 # Miscellaneous
+- [Fast Attributed Graph Embedding via Density of States](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/adoge_icdm21/README.md)
 - Accurate Graph-Based PU Learning without Class Prior
 - Graph Transfer Learning
 - Adversarial Online Kernel Learning with Application on Graphs
 - AS-GCN: Adaptive Semantic Architecture of Graph Convolutional Networks for Text-Rich Networks
 - GraphANGEL: Adaptive and Structure-Aware Sampling on Graph Neural Networks
-- A Regularized Wasserstein Framework for Graph Kernels
 - Predictive Modeling of Clinical Events with Mutual Enhancement Between Longitudinal Patient Records and Medical Knowledge Graph
 - FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance
-- Fast Attributed Graph Embedding via Density of States
 - Bi-Level Attention Graph Neural Networks
 - Semi-Supervised Graph Attention Networks for Event Representation Learning
 - AdaBoosting Clusters on Graph Neural Networks
