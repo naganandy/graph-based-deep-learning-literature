@@ -24,7 +24,7 @@
 
 
 ## -------------------------------------------------------------------
-# WSDM 2022 (Feb)
+# [WSDM 2022 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/README.md)
 - [Linear, or Non-Linear, That is the Question!](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hmlet_wsdm22/README.md)
 - [Graph Embedding with Hierarchical Attentive Membership](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/graphham_wsdm22/README.md)
 - [Modeling Scale-free Graphs for Knowledge-aware Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lkgr_wsdm22/README.md)
