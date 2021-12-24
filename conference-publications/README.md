@@ -27,6 +27,10 @@
 # WSDM 2022 (Feb)
 - [Linear, or Non-Linear, That is the Question!](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hmlet_wsdm22/README.md)
 - [Graph Embedding with Hierarchical Attentive Membership](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/graphham_wsdm22/README.md)
+- [Modeling Scale-free Graphs for Knowledge-aware Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lkgr_wsdm22/README.md)
+- [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/glocalkd_wsdm22/README.md)
+- [Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srlim_wsdm22/README.md)
+- [Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hggnn_wsdm22/README.md)
 
 
 
