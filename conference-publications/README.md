@@ -9,7 +9,7 @@
 
 
 ## -------------------------------------------------------------------
-# AAAI 2022 (Feb)
+# [AAAI 2022 (Feb)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/README.md)
 - [ProtGNN: Towards Self-Explaining Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/protgnn_aaai22/README.md)
 - [Molecular Contrastive Learning with Chemical Element Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/kmpnn_aaai22/README.md)
 - [Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isdg_aaai22/README.md)
@@ -21,6 +21,49 @@
 - [Adaptive Kernel Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/akgnn_aaai22/README.md)
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 
+<details> 
+<summary> more </summary> 
+
+- [SVGA-Net: Sparse Voxel-Graph Attention Network for 3D Object Detection from Point Clouds](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/svganet_aaai22/README.md)
+- [Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dntumpnn_aaai22/README.md)
+- [EqGNN: Equalized Node Opportunity in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/eqgnn_aaai22/README.md)
+- [Keypoint Message Passing for Video-based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/kmpnet_aaai22/README.md)
+- [SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
+- [Hybrid Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hybridgnn_aaai22/README.md)
+- [Generalized Equivariance and Preferential Labeling for GNN Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/plgnn_aaai22/README.md)
+- [Fast Graph Neural Tangent Kernel via Kronecker Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/fastgntk_aaai22/README.md)
+- [Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmpnn_aaai22/README.md)
+- [Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gebt_aaai22/README.md)
+- [Orthogonal Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/orthogconv_aaai22/README.md)
+- [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/acgnet_aaai22/README.md)
+- [Sparse Structure Learning via Graph Neural Networks for Inductive Document Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnndc_aaai22/README.md)
+- [Qubit Routing using Graph Neural Network aided Monte Carlo Tree Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/qrgnn_aaai22/README.md)
+- [HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hagen_aaai22/README.md)
+- [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hgqa_aaai22/README.md)
+- [Graph Structure Learning with Variational Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/vibgsl_aaai22/README.md)
+- [Meta Propagation Networks for Graph Few-shot Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/metapn_aaai22/README.md)
+- [JAKET: Joint Pre-training of Knowledge Graph and Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/jaket_aaai22/README.md)
+- [Augmentation-Free Self-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/afgrl_aaai22/README.md)
+- [RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/repbin_aaai22/README.md)
+- [SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgeitl_aaai22/README.md)
+- [Joint Deep Multi-Graph Matching and 3D Geometry Learning from Inhomogeneous 2D Image Collections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmgm_aaai22/README.md)
+- [Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/chet_aaai22/README.md)
+- [GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/geomgcl_aaai22/README.md)
+- [How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/segnn_aaai22/README.md)
+- [Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tbdrgt_aaai22/README.md)
+- [SAIL: Self-Augmented Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sail_aaai22/README.md)
+- [Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gcfx_aaai22/README.md)
+- [Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isdg_aaai22/README.md)
+- [Graph Pointer Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gpnn_aaai22/README.md)
+- [Blindfolded Attackers Still Threatening: Strict Black-Box Adversarial Attacks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stack_aaai22/README.md)
+- [AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/autogcl_aaai22/README.md)
+- [Graph Filtration Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gfk_aaai22/README.md)
+- [VACA: Design of Variational Graph Autoencoders for Interventional and Counterfactual Queries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/vaca_aaai22/README.md)
+- [Improving Scene Graph Classification by Exploiting Knowledge from Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgkt_aaai22/README.md)
+- [Unsupervised Adversarially-Robust Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/grv_aaai22/README.md)
+- [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphtransplant_aaai22/README.md)
+
+</details>
 
 
 ## -------------------------------------------------------------------
