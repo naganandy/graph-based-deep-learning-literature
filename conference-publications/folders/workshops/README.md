@@ -1,4 +1,11 @@
 # Related Workshops
+
+- ## 2022
+   * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai22/index.html)
+   * ### [Graphs and more Complex structures for Learning and Reasoning (AAAI)](https://sites.google.com/view/gclr2022/home)
+
+
+
 - ## 2021
    * ### [Graph Machine Learning in Industry](https://sites.google.com/view/graph-ml-in-industry/home)
    * ### [Stanford Graph Learning Workshop](https://snap.stanford.edu/graphlearning-workshop/)
