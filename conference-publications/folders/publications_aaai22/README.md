@@ -61,15 +61,17 @@
 - [Unsupervised Adversarially-Robust Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/grv_aaai22/README.md)
 - [Blindfolded Attackers Still Threatening: Strict Black-Box Adversarial Attacks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stack_aaai22/README.md)
 - [Graph Structure Learning with Variational Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/vibgsl_aaai22/README.md)
+- [Practical Fixed-Parameter Algorithms for Defending Active Directory Style Attack Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/pada_aaai22/README.md)
 - Defending Graph Convolutional Networks against Dynamic Graph Perturbations via Bayesian Self-supervision
 - Robust Heterogeneous Graph Neural Networks against Adversarial Attacks
 
 
 
-# Multi-Relational Graphs
+# Heterogeneous / Multi-Relational Graphs
 - [How Does Knowledge Graph Embedding Extrapolate to Unseen Data: a Semantic Evidence View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/segnn_aaai22/README.md)
 - [JAKET: Joint Pre-training of Knowledge Graph and Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/jaket_aaai22/README.md)
 - [Heterogeneity-aware Twitter Bot Detection with Relational Graph Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tbdrgt_aaai22/README.md)
+- [LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lesicin_aaai22/README.md)
 - Multi-Relational Graph Representation Learning with Bayesian Gaussian Process Network
 - Exploring Relational Semantics for Inductive Knowledge Graph Completion
 - Geometry Interaction Knowledge Graph Embeddings
@@ -170,16 +172,10 @@
 - Directed Graph Auto-Encoders
 - GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks
 - TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs
-- Practical Fixed-Parameter Algorithms for Defending Active Directory Style Attack Graphs
 - Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question
-- The Complexity of Temporal Vertex Cover in Small-Degree Graphs
 - DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation
-- A Little Charity Guarantees Fair Connected Graph Partitioning
-- Differentially Describing Groups of Graphs
-- LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian
 - Interpretable Neural Subgraph Matching for Graph Retrieval
 - Hypergraph Modeling via Spectral Embedding Connection: Hypergraph Cut, Weighted Kernel $k$-means,
-- Robustification of Online Graph Exploration Methods
 - Why Fair Labels Can Yield Unfair Predictions: Graphical Conditions for Introduced Unfairness
 - Calibrated Nonparametric Scan Statistics for Anomalous Pattern Detection in Graphs
 - Recursive Reasoning Graph for Multi-Agent Reinforcement Learning
