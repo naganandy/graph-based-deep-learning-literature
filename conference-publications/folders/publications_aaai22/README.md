@@ -5,18 +5,21 @@
 # Oversmoothing
 - [Orthogonal Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/orthogconv_aaai22/README.md)
 - [Adaptive Kernel Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/akgnn_aaai22/README.md)
+- [Deep Graph Clustering via Dual Correlation Reduction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dcrn_aaai22/README.md)
+
 
 
 
 # Heterophily
 - [Graph Pointer Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gpnn_aaai22/README.md)
-- Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily
-
+- [Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hoggcn_aaai22/README.md)
+- [Deformable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/deformablegcn_aaai22/README.md)
+- [Block Modeling-Guided Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bmgcn_aaai22/README.md)
 
 
 # Explainability
 - [ProtGNN: Towards Self-Explaining Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/protgnn_aaai22/README.md)
-- KerGNNs: Interpretable Graph Neural Networks with Graph Kernels
+- [KerGNNs: Interpretable Graph Neural Networks with Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/kergnn_aaai22/README.md)
 
 
 
@@ -102,7 +105,6 @@
 # Videos
 - [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hgqa_aaai22/README.md)
 - [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/acgnet_aaai22/README.md)
-- Adaptive Image-to-video Scene Graph Generation via Knowledge Reasoning and Adversarial Learning
 - (2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering
 
 
@@ -148,13 +150,11 @@
 - Learning from the Dark: Boosting Graph Convolutional Neural Networks with Diverse Negative Samples
 - Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning
 - Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae
-- Block Modeling-Guided Graph Convolutional Neural Networks
 - Hierarchical Multi-Supervision Multi-interaction Graph Attention Network for Multi-Camera Pedestrian
 - GNN-Retro: Retrosynthetic planning with Graph Neural Networks
 - Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks
 - Multi-Scale Distillation from Multiple Graph Neural Networks
 - Regularizing Graph Neural Networks via Consistency-Diversity Graph Augmentations
-- Deformable Graph Convolutional Networks
 - Beyond GNNs: An Efficient Architecture for Graph Problems
 - MIP-GNN: A data-driven framework for guiding combinatorial solvers
 - Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm
@@ -166,9 +166,7 @@
 - Robust Graph-based Multi-view Clustering
 - Structural Landmarking and Interaction Modelling: A SLIM Network for Graph Classification
 - CoCoS: Enhancing Semi-Supervised Learning on Graphs with Unlabeled Data via Contrastive Context Sharing
-- Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 - ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations
-- Deep Graph Clustering via Dual Correlation Reduction
 - Directed Graph Auto-Encoders
 - GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks
 - TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs

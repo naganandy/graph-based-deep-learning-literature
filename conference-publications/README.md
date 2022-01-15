@@ -30,7 +30,11 @@
 - [Keypoint Message Passing for Video-based Person Re-Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/kmpnet_aaai22/README.md)
 - [SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
 - [Hybrid Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hybridgnn_aaai22/README.md)
+- [KerGNNs: Interpretable Graph Neural Networks with Graph Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/kergnn_aaai22/README.md)
 - [Generalized Equivariance and Preferential Labeling for GNN Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/plgnn_aaai22/README.md)
+- [Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hoggcn_aaai22/README.md)
+- [Deformable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/deformablegcn_aaai22/README.md)
+- [Block Modeling-Guided Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bmgcn_aaai22/README.md)
 - [Fast Graph Neural Tangent Kernel via Kronecker Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/fastgntk_aaai22/README.md)
 - [Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmpnn_aaai22/README.md)
 - [Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gebt_aaai22/README.md)
@@ -62,6 +66,7 @@
 - [Improving Scene Graph Classification by Exploiting Knowledge from Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgkt_aaai22/README.md)
 - [Unsupervised Adversarially-Robust Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/grv_aaai22/README.md)
 - [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphtransplant_aaai22/README.md)
+
 
 </details>
 
