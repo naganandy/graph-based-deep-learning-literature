@@ -81,6 +81,11 @@
 - [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/glocalkd_wsdm22/README.md)
 - [Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srlim_wsdm22/README.md)
 - [Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hggnn_wsdm22/README.md)
+- [Graph Few-shot Class-incremental Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/graphfcl_wsdm22/README.md)
+- [Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lpinfo_wsdm22/README.md)
+- [Learning Fair Node Representations with Graph Counterfactual Fairness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gear_wsdm22/README.md)
+- [HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/heteroqa_wsdm22/README.md)
+- [Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/rsgnn_wsdm22/README.md)
 
 
 
