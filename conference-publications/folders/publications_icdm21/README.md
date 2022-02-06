@@ -72,7 +72,6 @@
 - [Fast Attributed Graph Embedding via Density of States](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/adoge_icdm21/README.md)
 - Accurate Graph-Based PU Learning without Class Prior
 - Graph Transfer Learning
-- Adversarial Online Kernel Learning with Application on Graphs
 - AS-GCN: Adaptive Semantic Architecture of Graph Convolutional Networks for Text-Rich Networks
 - GraphANGEL: Adaptive and Structure-Aware Sampling on Graph Neural Networks
 - Predictive Modeling of Clinical Events with Mutual Enhancement Between Longitudinal Patient Records and Medical Knowledge Graph
