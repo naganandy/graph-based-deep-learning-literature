@@ -4,7 +4,8 @@
 
 # Explainability
 - [Multi-objective Explanations of GNN Predictions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnnmoexp_icdm21/README.md)
-- [GNES: Learning to Explain Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnes_icdm21/README.md)- [GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gcnse_icdm21/README.md)
+- [GNES: Learning to Explain Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnes_icdm21/README.md)
+- [GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gcnse_icdm21/README.md)
 
 
 
