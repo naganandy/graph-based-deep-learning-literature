@@ -46,19 +46,19 @@
 
 
 
-# Self-Supervision
-- [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/distdcrnn_iclr22/README.md)
-- [Automated Self-Supervised Learning for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/autossl_iclr22/README.md)
-- [Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/giant_iclr22/README.md)
-
-
-
 # Multi-Relational Graphs
 - [Relational Multi-Task Learning: Modeling Relations between Data and Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/metalink_iclr22/README.md)
 - [Inductive Relation Prediction Using Analogy Subgraph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/grapangel_iclr22/README.md)
 - [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/nodepiece_iclr22/README.md)
 - [Neural Methods for Logical Reasoning over Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/mlpmixkg_iclr22/README.md)
 - [Query Embedding on Hyper-Relational Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/starqe_iclr22/README.md)
+
+
+
+# Self-Supervision
+- [Automated Self-Supervised Learning for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/autossl_iclr22/README.md)
+- [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/distdcrnn_iclr22/README.md)
+- [Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/giant_iclr22/README.md)
 
 
 
