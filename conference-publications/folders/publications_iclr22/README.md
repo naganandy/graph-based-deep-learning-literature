@@ -5,10 +5,16 @@
 # Node Classification
 - [Neural Structured Prediction for Inductive Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/smn_iclr22/README.md)
 - [GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/graphnes_iclr22/README.md)
-- [Is Homophily a Necessity for Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/homnecgcn_iclr22/README.md)
 - [Information Gain Propagation: a New Way to Graph Active Learning with Soft Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/igp_iclr22/README.md)
 - [Why Propagate Alone? Parallel Use of Labels and Features on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/traincs_iclr22/README.md)
 - [You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/allset_iclr22/README.md)
+- [Understanding and Improving Graph Injection Attack by Promoting Unnoticeability](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/hao_iclr22/README.md)
+
+
+
+# Heterophily
+- [Is Homophily a Necessity for Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/homnecgcn_iclr22/README.md)
+- [Neural Link Prediction with Walk Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/walkpool_iclr22/README.md)
 
 
 
@@ -21,6 +27,7 @@
 - [Graph Condensation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gcond_iclr22/README.md)
 - [Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/llcg_iclr22/README.md)
 - [EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/exact_iclr22/README.md)
+- [Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/egn_iclr22/README.md)
 
 
 
@@ -46,22 +53,12 @@
 
 
 
-# Adversarial Attacks / Robustness
-- [Understanding and Improving Graph Injection Attack by Promoting Unnoticeability](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/hao_iclr22/README.md)
-
-
-
 # Multi-Relational Graphs
 - [Relational Multi-Task Learning: Modeling Relations between Data and Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/metalink_iclr22/README.md)
 - [Inductive Relation Prediction Using Analogy Subgraph Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/grapangel_iclr22/README.md)
 - [NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/nodepiece_iclr22/README.md)
 - [Neural Methods for Logical Reasoning over Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/mlpmixkg_iclr22/README.md)
 - [Query Embedding on Hyper-Relational Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/starqe_iclr22/README.md)
-
-
-
-# Link Prediction
-- [Neural Link Prediction with Walk Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/walkpool_iclr22/README.md)
 
 
 
@@ -202,6 +199,5 @@
 - [Neural Relational Inference with Node-Specific Information ](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/nrinsi_iclr22/README.md)
 - [Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/nwrgae_iclr22/README.md)
 - [Triangle and Four Cycle Counting with Predictions in Graph Streams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/tfccg_iclr22/README.md)
-- [Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/egn_iclr22/README.md)
 - [Learning to Schedule Learning rate with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gns_iclr22/README.md)
 - [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/cvaesipa_iclr22/README.md)
