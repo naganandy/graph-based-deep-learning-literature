@@ -7,6 +7,7 @@
 - [GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/graphnes_iclr22/README.md)
 - [Is Homophily a Necessity for Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/homnecgcn_iclr22/README.md)
 - [Information Gain Propagation: a New Way to Graph Active Learning with Soft Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/igp_iclr22/README.md)
+- [Why Propagate Alone? Parallel Use of Labels and Features on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/traincs_iclr22/README.md)
 - [You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/allset_iclr22/README.md)
 
 
@@ -17,6 +18,7 @@
 - [PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/pipegcn_iclr22/README.md)
 - [IGLU: Efficient GCN Training via Lazy Updates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/iglu_iclr22/README.md)
 - [Adaptive Filters for Low-Latency and Memory-Efficient Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/egc_iclr22/README.md)
+- [Graph Condensation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gcond_iclr22/README.md)
 - [Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/llcg_iclr22/README.md)
 - [EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/exact_iclr22/README.md)
 
@@ -25,6 +27,7 @@
 # Depth
 - [Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/deepgntk_iclr22/README.md)
 - [Revisiting Over-smoothing in BERT from the Perspective of Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/osbertgraph_iclr22/README.md)
+- [GRAND++: Graph Neural Diffusion with A Source Term](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/grandpp_iclr22/README.md)
 - [Understanding over-squashing and bottlenecks on graphs via curvature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/curvsquash_iclr22/README.md)
 
 
@@ -68,6 +71,7 @@
 - [How Attentive are Graph Attention Networks? ](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gatv2_iclr22/README.md)
 - [Graph Neural Networks with Learnable Structural and Positional Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/lspe_iclr22/README.md)
 - [PF-GNN: Differentiable particle filtering based approximation of universal graph representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/pfgnn_iclr22/README.md)
+- [Topological Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/togl_iclr22/README.md)
 - [Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/peg_iclr22/README.md)
 
 
@@ -87,6 +91,7 @@
 
 # Generalisability
 - [Towards Distribution Shift of Node-Level Prediction on Graphs: An Invariance Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/geerm_iclr22/README.md)
+- [Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/coldbrew_iclr22/README.md)
 
 
 
@@ -176,6 +181,12 @@
 
 
 
+# Reinforcement Learning
+- [Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/swat_iclr22/README.md)
+- [Know Your Action Set: Learning Action Relations for Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/agile_iclr22/README.md)
+
+
+
 # Healthcare
 - [A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease ](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/guide_iclr22/README.md)
 - [Using Graph Representation Learning with Schema Encoders to Measure the Severity of Depressive Symptoms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/grlseds_iclr22/README.md)
@@ -192,12 +203,5 @@
 - [Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/nwrgae_iclr22/README.md)
 - [Triangle and Four Cycle Counting with Predictions in Graph Streams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/tfccg_iclr22/README.md)
 - [Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/egn_iclr22/README.md)
-- [Topological Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/togl_iclr22/README.md)
 - [Learning to Schedule Learning rate with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gns_iclr22/README.md)
-- [Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/swat_iclr22/README.md)
-- [GRAND++: Graph Neural Diffusion with A Source Term](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/grandpp_iclr22/README.md)
-- [Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/coldbrew_iclr22/README.md)
-- [Know Your Action Set: Learning Action Relations for Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/agile_iclr22/README.md)
-- [Why Propagate Alone? Parallel Use of Labels and Features on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/traincs_iclr22/README.md)
-- [Graph Condensation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gcond_iclr22/README.md)
 - [Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/cvaesipa_iclr22/README.md)
