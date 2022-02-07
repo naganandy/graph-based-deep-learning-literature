@@ -213,6 +213,7 @@
 - [Heterogeneous Graph Neural Network with Distance Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/dhn_icdm21/README.md)
 - [Fair Graph Auto-Encoder for Unbiased Graph Representations with Wasserstein Distance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/fairgae_icdm21/README.md)
 - [A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/mccnifty_icdm21/README.md)
+- [Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/miagnn_icdm21/README.md)
 
 <details> 
 <summary> more </summary> 
@@ -234,7 +235,6 @@
 - [Heterogeneous Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/hgnas_icdm21/README.md)
 - [GQNAS: Graph Q Network for Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gqnas_icdm21/README.md)
 - [Learnable Structural Semantic Readout for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/ssread_icdm21/README.md)
-- [Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/miagnn_icdm21/README.md)
 - [Fast Attributed Graph Embedding via Density of States](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/adoge_icdm21/README.md)
 - [Accurate Graph-Based PU Learning without Class Prior](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/grab_icdm21/README.md)
 - [Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gtl_icdm21/README.md)

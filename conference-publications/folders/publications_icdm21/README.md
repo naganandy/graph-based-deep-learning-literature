@@ -2,6 +2,12 @@
 
 
 
+# Scalability
+- [GraphANGEL: Adaptive aNd Structure-Aware Sampling on Graph NEuraL Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/graphangel_icdm21/README.md)
+- [AdaBoosting Clusters on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/adclustergcn_icdm21/README.md)
+
+
+
 # Explainability
 - [Multi-objective Explanations of GNN Predictions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnnmoexp_icdm21/README.md)
 - [GNES: Learning to Explain Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnes_icdm21/README.md)
@@ -73,9 +79,7 @@
 - [Accurate Graph-Based PU Learning without Class Prior](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/grab_icdm21/README.md)
 - [Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gtl_icdm21/README.md)
 - [AS-GCN: Adaptive Semantic Architecture of Graph Convolutional Networks for Text-Rich Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/asgcn_icdm21/README.md)
-- [GraphANGEL: Adaptive aNd Structure-Aware Sampling on Graph NEuraL Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/graphangel_icdm21/README.md)
 - [Predictive Modeling of Clinical Events with Mutual Enhancement Between Longitudinal Patient Records and Medical Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/mendmkg_icdm21/README.md)
 - [FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/fraudre_icdm21/README.md)
 - [Bi-Level Attention Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/bagnn_icdm21/README.md)
 - [Semi-Supervised Graph Attention Networks for Event Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/gnee_icdm21/README.md)
-- [AdaBoosting Clusters on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icdm21/adclustergcn_icdm21/README.md)
