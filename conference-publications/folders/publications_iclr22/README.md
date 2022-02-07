@@ -22,9 +22,10 @@
 
 
 
-# Oversmoothing/Depth
-- [Revisiting Over-smoothing in BERT from the Perspective of Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/osbertgraph_iclr22/README.md)
+# Depth
 - [Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/deepgntk_iclr22/README.md)
+- [Revisiting Over-smoothing in BERT from the Perspective of Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/osbertgraph_iclr22/README.md)
+- [Understanding over-squashing and bottlenecks on graphs via curvature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/curvsquash_iclr22/README.md)
 
 
 
@@ -185,7 +186,6 @@
 - [LEARNING GUARANTEES FOR GRAPH CONVOLUTIONAL NETWORKS ON THE STOCHASTIC BLOCK MODEL](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/lggcnsbm_iclr22/README.md)
 - [Generalized Demographic Parity for Group Fairness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/gdp_iclr22/README.md)
 - [Message Passing Neural PDE Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/mppde_iclr22/README.md)
-- [Understanding over-squashing and bottlenecks on graphs via curvature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/curvsquash_iclr22/README.md)
 - [Convergent Boosted Smoothing for Modeling GraphData with Tabular Node Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/ebbs_iclr22/README.md)
 - [Convergent Graph Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/cgs_iclr22/README.md)
 - [Neural Relational Inference with Node-Specific Information ](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_iclr22/nrinsi_iclr22/README.md)
