@@ -1,6 +1,9 @@
 # [Conferences](https://aideadlin.es/)
 
-
+- KDD 2022 (Aug, decisions mid May)
+- ICML 2022 (Jul, decisions early May)
+- IJCAI 2022 (Jul, decisions late Apr)
+- NAACL 2022 (Jul, decisions early Apr)
 - CVPR 2022 (Jun, decisions early Mar)
 - ACL 2022 (May, decisions late Feb)
 - WebConf 2022 (Apr, decisions mid Jan)
