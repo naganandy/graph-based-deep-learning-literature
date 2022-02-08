@@ -100,7 +100,6 @@
 - [SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgeitl_aaai22/README.md)
 - [Improving Scene Graph Classification by Exploiting Knowledge from Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgkt_aaai22/README.md)
 - LogicDef: An Interpretable Defense Framework Against Adversarial Examples via Inductive Scene Graph
-- Resistance Training using Prior Bias: toward Unbiased Scene Graph Generation
 
 
 
@@ -136,6 +135,7 @@
 
 
 # Miscellaneous
+- [Cross-Domain Few-Shot Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cdfsgc_aaai22/README.md)
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 - [Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dntumpnn_aaai22/README.md)
 - [SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
@@ -161,7 +161,6 @@
 - MIP-GNN: A data-driven framework for guiding combinatorial solvers
 - Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm
 - Self-Supervised Object Localization with Joint Graph Partition
-- Cross-Domain Few-Shot Graph Classification
 - Learning Optical Flow with Adaptive Graph Reasoning
 - Disentangled Spatiotemporal Graph Generative Model
 - Planning with Explanations for Finding Desired Meeting Points on Graphs

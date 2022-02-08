@@ -174,6 +174,7 @@
 - [Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isdg_aaai22/README.md)
 - [Graph Pointer Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gpnn_aaai22/README.md)
 - [Blindfolded Attackers Still Threatening: Strict Black-Box Adversarial Attacks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stack_aaai22/README.md)
+- [Cross-Domain Few-Shot Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cdfsgc_aaai22/README.md)
 - [Practical Fixed-Parameter Algorithms for Defending Active Directory Style Attack Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/pada_aaai22/README.md)
 - [AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/autogcl_aaai22/README.md)
 - [Graph Filtration Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gfk_aaai22/README.md)
