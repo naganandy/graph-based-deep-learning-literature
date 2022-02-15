@@ -4,7 +4,7 @@
 @inproceedings{cpf_webconf21,
 author = {Cheng Yang and Jiawei Liu and Chuan Shi},
 title = {Distillation Framework Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {1227--1237},
 year = {2021}
 }

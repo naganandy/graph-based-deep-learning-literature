@@ -6,7 +6,7 @@ author = {Aravind Sankar and Yozen Liu and Jun Yu and Neil Shah},
 title = {Graph Neural Networks for Friend Ranking in Large-scale Social Platforms},
 pages = {2535--2546},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

@@ -6,7 +6,7 @@ author = {Donghan Yu and Yiming Yang and Ruohong Zhang and Yuexin Wu},
 title = {Knowledge Embedding Based Graph Convolutional Network},
 pages = {1619--1628},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

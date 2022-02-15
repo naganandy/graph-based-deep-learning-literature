@@ -4,7 +4,7 @@
 @inproceedings{hgnnac_webconf21,
 author = {Di Jin and Cuiying Huo and Chundong Liang and Liang Yang},
 title = {Heterogeneous Graph Neural Network via Attribute Completion},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {391--400},
 year = {2021}
 }

@@ -4,7 +4,7 @@
 @inproceedings{tgbully_webconf21,
 author = {Suyu Ge and Lu Cheng and Huan Liu},
 title = {Improving Cyberbully Detection with User Interaction},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {496--506},
 year = {2021}
 }

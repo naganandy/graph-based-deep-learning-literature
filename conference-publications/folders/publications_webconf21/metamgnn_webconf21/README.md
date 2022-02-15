@@ -4,7 +4,7 @@
 @inproceedings{metamgnn_webconf21,
 author = {Zhichun Guo and Chuxu Zhang and Wenhao Yu and John Herr and Olaf Wiest and Meng Jiang and Nitesh Chawla},
 title = {Few-Shot Molecular Property Prediction},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {2559--2567},
 year = {2021}
 }

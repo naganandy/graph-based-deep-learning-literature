@@ -4,7 +4,7 @@
 @inproceedings{gen_webconf21,
 author = {Ruijia Wang and Shuai Mou and Xiao Wang and Wanpeng Xiao and Qi Ju and Chuan Shi and Xing Xie},
 title = {Graph Structure Estimation Neural Networks},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {342--353},
 year = {2021}
 }

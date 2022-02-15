@@ -6,7 +6,7 @@ author = {Xueli Yu and Weizhi Xu and Zeyu Cui and Shu Wu and Liang Wang},
 title = {Graph-based Hierarchical Relevance Matching Signals for Ad-hoc Retrieval},
 pages = {778--787},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

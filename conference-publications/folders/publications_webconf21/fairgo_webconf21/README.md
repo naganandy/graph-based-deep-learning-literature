@@ -6,7 +6,7 @@ author = {Le Wu and Lei Chen and Pengyang Shao and Richang Hong and Xiting Wang 
 title = {Learning Fair Representations for Bipartite Graph based Recommendation},
 pages = {2198--2208},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

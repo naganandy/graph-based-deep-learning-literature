@@ -6,7 +6,7 @@ author = {Cheng Hsu and Cheng-Te Li},
 title = {RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation},
 pages = {2968--2979},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

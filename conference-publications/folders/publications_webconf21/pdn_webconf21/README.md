@@ -6,7 +6,7 @@ author = {Benedek Rozemberczki and Peter Englert and Amol Kapoor and Martin Blai
 title = {Pathfinder Discovery Networks for Neural Message Passing},
 pages = {2547--2558},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

@@ -6,7 +6,7 @@ author = {Hansheng Xue and Luwei Yang and Vaibhav Rajan and Wen Jiang and Yi Wei
 title = {Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks},
 pages = {1649--1660},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

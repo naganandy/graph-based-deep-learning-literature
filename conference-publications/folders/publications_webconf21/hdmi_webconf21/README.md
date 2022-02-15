@@ -6,7 +6,7 @@ author = {Baoyu Jing and Chanyoung Park and Hanghang Tong},
 title = {HDMI: High-order Deep Multiplex Infomax},
 pages = {2414--2424},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

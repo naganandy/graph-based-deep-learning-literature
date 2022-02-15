@@ -7,7 +7,7 @@ author = {Yuxia Geng and Jiaoyan Chen and Zhuo Chen and Jeff Z. Pan and Zhiquan 
 title = {OntoZSL: Ontology-enhanced Zero-shot Learning},
 pages = {3325--3336},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

@@ -6,7 +6,7 @@ author = {Jia Li and Mengzhou Liu and Honglei Zhang and Pengyun Wang and Yong We
 title = {Mask-GVAE: Blind Denoising Graphs via Partition},
 pages = {3688--3698},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

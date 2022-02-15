@@ -4,7 +4,7 @@
 @inproceedings{lgcn_webconf21,
 author = {Yiding Zhang and Xiao Wang and Chuan Shi and Nian Liu and Guojie Song},
 title = {Lorentzian Graph Convolutional Neural Networks},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {1249--1261},
 year = {2021}
 }

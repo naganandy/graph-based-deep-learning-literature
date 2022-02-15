@@ -4,7 +4,7 @@
 @inproceedings{gskn_webconf21,
 author = {Qingqing Long and Yilun Jin and Yi Wu and Guojie Song},
 title = {Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {1204--1214},
 year = {2021}
 }

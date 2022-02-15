@@ -6,7 +6,7 @@ author = {Xiang Wang and Tinglin Huang and Dingxian Wang and Yancheng Yuan and Z
 title = {Learning Intents behind Interactions with Knowledge Graph for Recommendation},
 pages = {878--887},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

@@ -4,7 +4,7 @@
 @inproceedings{curgraph_webconf21,
 author = {Yiwei Wang and Wei Wang and Yuxuan Liang and Yujun Cai and Bryan Hooi},
 title = {CurGraph: Curriculum Learning for Graph Classification},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {1238--1248},
 year = {2021}
 }

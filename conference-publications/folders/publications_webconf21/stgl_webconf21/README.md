@@ -4,7 +4,7 @@
 @inproceedings{stgl_webconf21,
 author = {Zixuan Yuan and Hao Liu and Junming Liu and Yanchi Liu and Yang Yang and Renjun Hu and Hui Xiong},
 title = {Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {1586--1597},
 year = {2021}
 }

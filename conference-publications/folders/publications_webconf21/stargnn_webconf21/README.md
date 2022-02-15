@@ -4,7 +4,7 @@
 @inproceedings{stargnn_webconf21,
 author = {Xiaojun Ma and Junshan Wang and Hanyue Chen and Guojie Song},
 title = {Improving Graph Neural Networks with Structural Adaptive Receptive Fields},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {2438--2447},
 year = {2021}
 }

@@ -4,7 +4,7 @@
 @inproceedings{rest_webconf21,
 author = {Haozhe Lin and Yushun Fan and Jia Zhang and Bing Bai},
 title = {REST: Reciprocal Framework for Spatiotemporal coupled predictions},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {3136--3145},
 year = {2021}
 }

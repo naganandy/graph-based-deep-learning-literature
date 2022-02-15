@@ -17,14 +17,6 @@
 
 
 
-# Graph-level Representations
-- [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
-- [Graph Deformer Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gdn_ijcai21/README.md)
-- [CuCo: Graph Representation with Curriculum Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cuco_ijcai21/README.md)
-- [Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/phd_ijcai21/README.md)
-
-
-
 # Hypergraphs
 - [UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/unignn_ijcai21/README.md)
 - [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/stshn_ijcai21/README.md)
@@ -58,6 +50,14 @@
 # Recommendation
 - [DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/dagcn_ijcai21/README.md)
 - [Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/sgrec_ijcai21/README.md)
+
+
+
+# Graph-level Representations
+- [Learning Attributed Graph Representations with Communicative Message Passing Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/compt_ijcai21/README.md)
+- [Graph Deformer Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/gdn_ijcai21/README.md)
+- [CuCo: Graph Representation with Curriculum Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/cuco_ijcai21/README.md)
+- [Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_ijcai21/phd_ijcai21/README.md)
 
 
 

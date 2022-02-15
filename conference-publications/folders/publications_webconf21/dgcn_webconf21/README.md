@@ -4,7 +4,7 @@
 @inproceedings{dgcn_webconf21,
 author = {Yu Zheng and Chen Gao and Liang Chen and Depeng Jin and Yong Li},
 title = {DGCN: Diversified Recommendation with Graph Convolutional Networks},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {401--412},
 year = {2021}
 }

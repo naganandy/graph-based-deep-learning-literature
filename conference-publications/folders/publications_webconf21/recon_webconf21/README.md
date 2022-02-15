@@ -6,7 +6,7 @@ author = {Anson Bastos and Abhishek Nadgeri and Kuldeep Singh and Isaiah Onando 
 title = {RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network},
 pages = {1673--1685},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

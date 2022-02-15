@@ -6,7 +6,7 @@ author = {Yuwei Cao and Hao Peng and Jia Wu and Yingtong Dou and Jianxin Li and 
 title = {Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs},
 pages = {3383--3395},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

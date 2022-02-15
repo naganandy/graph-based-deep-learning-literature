@@ -6,7 +6,7 @@ author = {Hande Dong and Jiawei Chen and Fuli Feng and Xiangnan He and Shuxian B
 title = {On the Equivalence of Decoupled Graph Convolution Network and Label Propagation},
 pages = {3651--3662},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

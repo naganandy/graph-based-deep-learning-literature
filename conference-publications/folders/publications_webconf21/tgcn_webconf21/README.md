@@ -4,7 +4,7 @@
 @inproceedings{tgcn_webconf21,
 author = {Baoyu Jing and Hanghang Tong and Yada Zhu},
 title = {Network of Tensor Time Series},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {2425--2437},
 year = {2021}
 }

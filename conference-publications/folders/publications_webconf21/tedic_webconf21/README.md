@@ -6,7 +6,7 @@ author = {Yanbang Wang and Pan Li and Chongyang Bai and Jure Leskovec},
 title = {TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks},
 pages = {693--705},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

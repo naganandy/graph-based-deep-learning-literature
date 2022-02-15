@@ -6,7 +6,7 @@ author = {Ping Wang and Khushbu Agarwal and Colby Ham and Sutanay Choudhury and 
 title = {Self-Supervised Learning of Contextual Embeddings for Link Prediction in Heterogeneous Networks},
 pages = {2946--2957},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

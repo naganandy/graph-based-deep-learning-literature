@@ -6,7 +6,7 @@ author = {Junliang Yu and Hongzhi Yin and Jundong Li and Qinyong Wang and Nguyen
 title = {Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation},
 pages = {413--424},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

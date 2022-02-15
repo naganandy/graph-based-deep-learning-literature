@@ -6,7 +6,7 @@ author = {Jinghua Piao and Guozhen Zhang and Fengli Xu and Zhilong Chen and Yong
 title = {Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks},
 pages = {3146--3157},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

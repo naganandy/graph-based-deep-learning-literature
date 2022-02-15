@@ -4,7 +4,7 @@
 @inproceedings{mcer_webconf21,
 author = {Lihong Wang and Juwei Yue and Shu Guo and Jiawei Sheng and Qianren Mao and Zhenyu Chen and Shenghai Zhong and Chen Li},
 title = {Multi-level Connection Enhanced Representation Learning for Script Event Prediction},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {3524--3533},
 year = {2021}
 }

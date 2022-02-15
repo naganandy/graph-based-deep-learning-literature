@@ -6,7 +6,7 @@ author = {Fan Liu and Zhiyong Cheng and Lei Zhu and Zan Gao and Liqiang Nie},
 title = {Interest-aware Message-Passing GCN for Recommendation},
 pages = {1296--1305},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

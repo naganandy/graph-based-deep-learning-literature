@@ -6,7 +6,7 @@ author = {Alasdair Tran and Alexander Mathews and Cheng Soon Ong and Lexing Xie}
 title = {Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series},
 pages = {730--742},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

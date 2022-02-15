@@ -6,7 +6,7 @@ author = {Qingyun Sun and Hao Peng and Jianxin Li and Jia Wu and Yuanxing Ning a
 title = {SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism},
 pages = {2081--2091},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

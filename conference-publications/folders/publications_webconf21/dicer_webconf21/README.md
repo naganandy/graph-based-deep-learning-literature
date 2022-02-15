@@ -6,7 +6,7 @@ author = {Bairan Fu and Wenming Zhang and Guangneng Hu and Xinyu Dai and Shujian
 title = {Dual Side Deep Context-aware Modulation for Social Recommendation},
 pages = {2524--2534},
 year = {2021},
-booktitle = {Proceedings of The Web Conference (WebConf)}
+booktitle = {Proceedings of The Web Conference (TheWebConf)}
 }
 ```
 

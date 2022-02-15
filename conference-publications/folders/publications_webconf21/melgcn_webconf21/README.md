@@ -4,7 +4,7 @@
 @inproceedings{melgcn_webconf21,
 author = {Guozhen Zhang and Yong Li and Yuan Yuan and Fengli Xu and Hancheng Cao and Depeng Jin and Yujian Xu},
 title = {Community Value Prediction in Social E-commerce},
-booktitle = {Proceedings of The Web Conference (WebConf)},
+booktitle = {Proceedings of The Web Conference (TheWebConf)},
 pages = {2958--2967},
 year = {2021}
 }
