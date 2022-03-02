@@ -5,7 +5,7 @@
 title = {Discrete-Time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space},
 author = {Yang, Menglin and Zhou, Min and Kalander, Marcus and Huang, Zengfeng and King, Irwin},
 booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining (KDD)},
-pages = {1975–1985},
+pages = {1975--1985},
 year = {2021}
 }
 ```
