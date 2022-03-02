@@ -1,7 +1,7 @@
 # Graph Data Augmentation for Graph Machine Learning: A Survey
 
-```bibtex
-@article{zhao2022graph,
+```
+@article{gdagml_arxiv22,
   title={Graph Data Augmentation for Graph Machine Learning: A Survey},
   author={Zhao, Tong and Liu, Gang and Günneman, Stephan and Jiang, Meng},
   journal={arXiv preprint arXiv:2202.08871},
@@ -10,4 +10,4 @@
 ```
 
 links
-- [arxiv](https://arxiv.org/pdf/2202.08871.pdf)
+- [arxiv](https://arxiv.org/abs/2202.08871)

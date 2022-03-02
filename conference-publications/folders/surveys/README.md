@@ -2,6 +2,8 @@
 # Surveys / Literature Reviews / Books
 
 - ## 2022
+   * ### [Hyperbolic Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/hgnns_corr22/README.md)
+   * ### [Graph Neural Networks for Graphs with Heterophily: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/heterognns_corr22/README.md)
    * ### [Graph Data Augmentation for Graph Machine Learning: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gda_arxiv22/README.md)
 
 - ## 2021
