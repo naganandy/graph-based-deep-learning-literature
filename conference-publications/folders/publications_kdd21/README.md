@@ -77,6 +77,7 @@
 
 
 # Temporal Data
+- [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/htgn_kdd21/README.md)
 - [Temporal Graph Signal Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tgsd_kdd21/README.md)
 - [Forecasting Interaction Order on Temporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/tat_kdd21/README.md)
 - [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd21/cnfgnn_kdd21/README.md)

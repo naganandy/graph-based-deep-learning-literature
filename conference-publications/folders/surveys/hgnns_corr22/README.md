@@ -12,3 +12,4 @@ year      = {2022}
 
 links
 - [arXiv](https://arxiv.org/abs/2202.13852)
+- [git](https://github.com/marlin-codes/HGNNs)
