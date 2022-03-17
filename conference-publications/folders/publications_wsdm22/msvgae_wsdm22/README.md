@@ -1,0 +1,14 @@
+# Multi-Scale Variational Graph AutoEncoder for Link Prediction
+
+```
+@inproceedings{msvgae_wsdm22,
+title = {Multi-Scale Variational Graph AutoEncoder for Link Prediction},
+author = {Wang, Zhihao Guo,Feng Wang,Kaixuan Yao,Jiye Liang,Zhiqiang},
+booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+pages = {334--342},
+year = {2022}
+}
+```
+
+links
+- [acm](https://dl.acm.org/doi/10.1145/3488560.3498531)
