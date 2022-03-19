@@ -4,8 +4,24 @@
 - ICML 2022 (Jul, decisions early May)
 - IJCAI 2022 (Jul, decisions late Apr)
 - NAACL 2022 (Jul, decisions early Apr)
-- CVPR 2022 (Jun, decisions early Mar)
-- ACL 2022 (May, decisions late Feb)
+
+
+
+## -------------------------------------------------------------------
+# [CVPR 2022 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/README.md)
+- [Spatial Commonsense Graph for Object Localisation in Partial Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ppn_cvpr22/README.md)
+- [OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/occlusionfusion_cvpr22/README.md)
+- [Interacting Attention Graph for Single Image Two-Hand Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/intaghand_cvpr22/README.md)
+- [Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vox2cortex_cvpr22/README.md)
+
+
+
+## -------------------------------------------------------------------
+# [ACL 2022 (May)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/README.md)
+- [Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/cen_acl22/README.md)
+- [FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/formnet_acl22/README.md)
+- [HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/hetermpc_acl22/README.md)
+- [AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/adalogn_acl22/README.md)
 
 
 

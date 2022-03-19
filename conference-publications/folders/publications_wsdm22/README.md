@@ -1,4 +1,4 @@
-# [Publications in WSDM 2022](https://www.wsdm-conference.org/2022/accepted-papers/)
+# [Publications in WSDM 2022](https://dl.acm.org/doi/proceedings/10.1145/3488560)
 
 
 
