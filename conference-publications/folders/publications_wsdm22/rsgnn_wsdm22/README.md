@@ -3,7 +3,7 @@
 ```
 @inproceedings{rsgnn_wsdm22,
 title = {Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels},
-author = {Wang, Enyan Dai,Wei Jin,Hui Liu,Suhang},
+author = {Dai, Enyan and Jin, Wei and Liu, Hui and Wang, Suhang},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {181--191},
 year = {2022}

@@ -3,7 +3,7 @@
 ```
 @inproceedings{glocalkd_wsdm22,
 title = {Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation},
-author = {Hengel, Rongrong Ma,Guansong Pang,Ling Chen,Anton van den},
+author = {Ma, Rongrong and Pang, Guansong and Chen, Ling and Hengel, Anton van den},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {704--714},
 year = {2022}

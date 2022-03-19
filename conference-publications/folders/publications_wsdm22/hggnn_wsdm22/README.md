@@ -3,7 +3,7 @@
 ```
 @inproceedings{hggnn_wsdm22,
 title = {Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation},
-author = {3, Yitong Pang,Lingfei Wu,Qi Shen,Yiming Zhang,Zhihua Wei,Fangli Xu, +},
+author = {Pang, Yitong and Wu, Lingfei and Shen, Qi and Zhang, Yiming and Wei, Zhihua and Xu, Fangli},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {775--783},
 year = {2022}

@@ -3,7 +3,7 @@
 ```
 @inproceedings{msvgae_wsdm22,
 title = {Multi-Scale Variational Graph AutoEncoder for Link Prediction},
-author = {Wang, Zhihao Guo,Feng Wang,Kaixuan Yao,Jiye Liang,Zhiqiang},
+author = {Guo, Zhihao and Wang, Feng and Yao, Kaixuan and Liang, Jiye and Wang, Zhiqiang},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {334--342},
 year = {2022}

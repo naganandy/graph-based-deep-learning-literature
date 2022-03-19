@@ -3,7 +3,7 @@
 ```
 @inproceedings{attet_wsdm22,
 title = {A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion},
-author = {Han, Jianhuan Zhuo,Qiannan Zhu,Yinliang Yue,Yuhong Zhao,Weisi},
+author = {Zhuo, Jianhuan and Zhu, Qiannan and Yue, Yinliang and Zhao, Yuhong and Han, Weisi},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {1525--1533},
 year = {2022}

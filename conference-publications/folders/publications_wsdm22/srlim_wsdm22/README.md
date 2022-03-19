@@ -3,7 +3,7 @@
 ```
 @inproceedings{srlim_wsdm22,
 title = {Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks},
-author = {Li, Zihan Liu,Yun Luo,Zelin Zang,Stan Z.},
+author = {Liu, Zihan and Luo, Yun and Zang, Zelin and Li, Stan Z.},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {591--598},
 year = {2022}

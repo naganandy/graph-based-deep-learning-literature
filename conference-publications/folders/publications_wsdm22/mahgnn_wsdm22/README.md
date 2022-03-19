@@ -3,7 +3,7 @@
 ```
 @inproceedings{mahgnn_wsdm22,
 title = {Outside In: Market-aware Heterogeneous Graph Neural Network for Employee Turnover Prediction},
-author = {Zhu, Jinquan Hang,Zheng Dong,Hongke Zhao,Xin Song,Peng Wang,Hengshu},
+author = {Hang, Jinquan and Dong, Zheng and Zhao, Hongke and Song, Xin and Wang, Peng and Zhu, Hengshu},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {353--362},
 year = {2022}

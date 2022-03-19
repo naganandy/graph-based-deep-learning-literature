@@ -3,7 +3,7 @@
 ```
 @inproceedings{imea_wsdm22,
 title = {Informed Multi-context Entity Alignment},
-author = {Zhou, Kexuan Xin,Zequn Sun,Wen Hua,Wei Hu,Xiaofang},
+author = {Xin, Kexuan and Sun, Zequn and Hua, Wen and Hu, Wei and Zhou, Xiaofang},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {1197--1205},
 year = {2022}

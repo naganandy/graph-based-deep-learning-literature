@@ -3,7 +3,7 @@
 ```
 @inproceedings{infmax_wsdm22,
 title = {Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem},
-author = {Mei, Jiaqi Ma,Junwei Deng,Qiaozhu},
+author = {Ma, Jiaqi and Deng, Junwei and Mei, Qiaozhu},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {675--685},
 year = {2022}

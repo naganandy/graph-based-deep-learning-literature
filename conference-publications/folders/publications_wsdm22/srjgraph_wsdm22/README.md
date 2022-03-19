@@ -3,7 +3,7 @@
 ```
 @inproceedings{srjgraph_wsdm22,
 title = {Joint Learning of E-commerce Search and Recommendation with a Unified Graph Neural Network},
-author = {Zeng, Kai Zhao,Yukun Zheng,Tao Zhuang,Xiang Li,Xiaoyi},
+author = {Zhao, Kai and Zheng, Yukun and Zhuang, Tao and Li, Xiang and Zeng, Xiaoyi},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {1461--1469},
 year = {2022}

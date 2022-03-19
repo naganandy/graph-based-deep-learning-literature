@@ -3,7 +3,7 @@
 ```
 @inproceedings{gcdan_wsdm22,
 title = {Predicting Human Mobility via Graph Convolutional Dual-attentive Networks},
-author = {2, Weizhen Dang,Haibo Wang,Shirui Pan,Pei Zhang,Chuan Zhou, +},
+author = {Dang, Weizhen and Wang, Haibo and Pan, Shirui and Zhang, Pei and Zhou, Chuan},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {192--200},
 year = {2022}

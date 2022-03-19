@@ -3,7 +3,7 @@
 ```
 @inproceedings{graphham_wsdm22,
 title = {Graph Embedding with Hierarchical Attentive Membership},
-author = {Wang, Lu Lin,Ethan Blaser,Hongning},
+author = {Lin, Lu and Blaser, Ethan and Wang, Hongning},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {582--590},
 year = {2022}

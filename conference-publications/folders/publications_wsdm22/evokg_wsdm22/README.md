@@ -3,7 +3,7 @@
 ```
 @inproceedings{evokg_wsdm22,
 title = {EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs},
-author = {2, Namyong Park,Fuchen Liu,Purvanshi Mehta,Dana Cristofor, +},
+author = {Park, Namyong and Liu, Fuchen and Mehta, Purvanshi and Cristofor, Dana},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {794--803},
 year = {2022}

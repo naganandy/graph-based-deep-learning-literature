@@ -3,7 +3,7 @@
 ```
 @inproceedings{gimc_wsdm22,
 title = {Geometric Inductive Matrix Completion: A Hyperbolic Approach with Unified Message Passing},
-author = {Gao, Chengkun Zhang,Hongxu Chen,Sixiao Zhang,Guandong Xu,Junbin},
+author = {Zhang, Chengkun and Chen, Hongxu and Zhang, Sixiao and Xu, Guandong and Gao, Junbin},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {1337--1346},
 year = {2022}

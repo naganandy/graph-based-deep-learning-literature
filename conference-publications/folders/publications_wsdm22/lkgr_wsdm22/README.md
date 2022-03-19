@@ -3,7 +3,7 @@
 ```
 @inproceedings{lkgr_wsdm22,
 title = {Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation},
-author = {2, Yankai Chen,Menglin Yang,Yingxue Zhang,Mengchen Zhao,Ziqiao Meng, +},
+author = {Chen, Yankai and Yang, Menglin and Zhang, Yingxue and Zhao, Mengchen and Meng, Ziqiao},
 booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
 pages = {94--102},
 year = {2022}
