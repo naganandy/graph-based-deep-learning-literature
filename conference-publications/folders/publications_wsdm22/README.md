@@ -8,9 +8,10 @@
 
 
 
-# Recommendation
-- [Modeling Scale-free Graphs for Knowledge-aware Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lkgr_wsdm22/README.md)
-- [Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hggnn_wsdm22/README.md)
+# Adversarial Attacks/Robustness
+- [Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srlim_wsdm22/README.md)
+- [Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/infmax_wsdm22/README.md)
+- [Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/rsgnn_wsdm22/README.md)
 
 
 
@@ -21,9 +22,21 @@
 
 
 
+# Hyperbolic Geometry
+- [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lkgr_wsdm22/README.md)
+- [Geometric Inductive Matrix Completion: A Hyperbolic Approach with Unified Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gimc_wsdm22/README.md)
+
+
+
 # Session-based Recommendation
 - [Learning Multi-granularity Consecutive User Intent Unit for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/msgifsr_wsdm22/README.md)
 - [Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hggnn_wsdm22/README.md)
+
+
+
+# Multi-task Learning
+- [A GNN-based Multi-task Learning Framework for Personalized Video Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/mgnnpvs_wsdm22/README.md)
+- [Joint Learning of E-commerce Search and Recommendation with a Unified Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srjgraph_wsdm22/README.md)
 
 
 
@@ -40,19 +53,6 @@
 - [Diversified Query Generation Guided by Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/kedy_wsdm22/README.md)
 - [A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/attet_wsdm22/README.md)
 - [Informed Multi-context Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/imea_wsdm22/README.md)
-
-
-
-# Hyperbolic Geometry
-- [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lkgr_wsdm22/README.md)
-- [Geometric Inductive Matrix Completion: A Hyperbolic Approach with Unified Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gimc_wsdm22/README.md)
-
-
-
-# Adversarial Attacks/Robustness
-- [Surrogate Representation Learning with Isometric Mapping for Gray-box Graph Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srlim_wsdm22/README.md)
-- [Adversarial Attack on Graph Neural Networks as An Influence Maximization Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/infmax_wsdm22/README.md)
-- [Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/rsgnn_wsdm22/README.md)
 
 
 
@@ -74,5 +74,3 @@
 - [Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/adagnn_wsdm22/README.md)
 - [ComGA: Community-Aware Attributed Graph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/comga_wsdm22/README.md)
 - [Friend Story Ranking with Edge-Contextual Local Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/elr_wsdm22/README.md)
-- [A GNN-based Multi-task Learning Framework for Personalized Video Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/mgnnpvs_wsdm22/README.md)
-- [Joint Learning of E-commerce Search and Recommendation with a Unified Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srjgraph_wsdm22/README.md)
