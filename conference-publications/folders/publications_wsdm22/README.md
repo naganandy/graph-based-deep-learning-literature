@@ -15,6 +15,12 @@
 
 
 
+# Anomaly Detection
+- [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/glocalkd_wsdm22/README.md)
+- [ComGA: Community-Aware Attributed Graph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/comga_wsdm22/README.md)
+
+
+
 # Collaborative Filtering
 - [Linear, or Non-Linear, That is the Question!](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hmlet_wsdm22/README.md)
 - [Profiling the Design Space for Graph Neural Networks based Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gnncf_wsdm22/README.md)
@@ -31,12 +37,6 @@
 # Session-based Recommendation
 - [Learning Multi-granularity Consecutive User Intent Unit for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/msgifsr_wsdm22/README.md)
 - [Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/hggnn_wsdm22/README.md)
-
-
-
-# Multi-task Learning
-- [A GNN-based Multi-task Learning Framework for Personalized Video Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/mgnnpvs_wsdm22/README.md)
-- [Joint Learning of E-commerce Search and Recommendation with a Unified Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srjgraph_wsdm22/README.md)
 
 
 
@@ -62,15 +62,19 @@
 
 
 
+# User Clicks
+- [A GNN-based Multi-task Learning Framework for Personalized Video Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/mgnnpvs_wsdm22/README.md)
+- [Joint Learning of E-commerce Search and Recommendation with a Unified Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/srjgraph_wsdm22/README.md)
+- [Triangle Graph Interest Network for Click-through Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/tgin_wsdm22/README.md)
+
+
+
 # Miscellaneous
-- [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/glocalkd_wsdm22/README.md)
+- [Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/adagnn_wsdm22/README.md)
+- [Efficient Graph Convolution for Joint Node Representation Learning and Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gcc_wsdm22/README.md)
+- [KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/kgnn_wsdm22/README.md)
 - [Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/lpinfo_wsdm22/README.md)
 - [Learning Fair Node Representations with Graph Counterfactual Fairness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gear_wsdm22/README.md)
 - [Harvesting More Answer Spans from Paragraph beyond Annotation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/scope_wsdm22/README.md)
 - [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gcdan_wsdm22/README.md)
-- [Efficient Graph Convolution for Joint Node Representation Learning and Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/gcc_wsdm22/README.md)
-- [Triangle Graph Interest Network for Click-through Rate Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/tgin_wsdm22/README.md)
-- [KGNN: Harnessing Kernel-based Networks for Semi-supervised Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/kgnn_wsdm22/README.md)
-- [Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/adagnn_wsdm22/README.md)
-- [ComGA: Community-Aware Attributed Graph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/comga_wsdm22/README.md)
 - [Friend Story Ranking with Edge-Contextual Local Graph Convolutions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_wsdm22/elr_wsdm22/README.md)
