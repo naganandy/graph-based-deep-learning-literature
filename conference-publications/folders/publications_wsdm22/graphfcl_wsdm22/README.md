@@ -4,7 +4,7 @@
 @inproceedings{graphfcl_wsdm22,
 title = {Graph Few-shot Class-incremental Learning},
 author = {Tan, Zhen and Ding, Kaize and Guo, Ruocheng and Liu, Huan},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {987--996},
 year = {2022}
 }

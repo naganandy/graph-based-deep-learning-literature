@@ -4,7 +4,7 @@
 @inproceedings{heteroqa_wsdm22,
 title = {HeteroQA: Learning towards Question-and-Answering through Multiple Information Sources via Heterogeneous Graph Modeling},
 author = {Gao, Shen and Zhang, Yuchi and Wang, Yongliang and Dong, Yang and Chen, Xiuying},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {307--315},
 year = {2022}
 }

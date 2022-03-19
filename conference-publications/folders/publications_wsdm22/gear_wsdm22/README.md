@@ -4,7 +4,7 @@
 @inproceedings{gear_wsdm22,
 title = {Learning Fair Node Representations with Graph Counterfactual Fairness},
 author = {Ma, Jing and Guo, Ruocheng and Wan, Mengting and Yang, Longqi and Zhang, Aidong and Li, Jundong},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {695--703},
 year = {2022}
 }

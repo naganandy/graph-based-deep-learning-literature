@@ -4,7 +4,7 @@
 @inproceedings{gcr_wsdm22,
 title = {Graph Collaborative Reasoning},
 author = {Chen, Hanxiong and Li, Yunqi and Shi, Shaoyun and Liu, Shuchang and Zhu, He and Zhang, Yongfeng},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {75--84},
 year = {2022}
 }

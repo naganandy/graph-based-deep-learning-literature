@@ -4,7 +4,7 @@
 @inproceedings{scope_wsdm22,
 title = {Harvesting More Answer Spans from Paragraph beyond Annotation},
 author = {Bao, Qiaoben and Chen, Jiangjie and Liu, Linfang and Liu, Jingping and Liang, Jiaqing},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {27--36},
 year = {2022}
 }

@@ -4,7 +4,7 @@
 @inproceedings{lpinfo_wsdm22,
 title = {Bringing Your Own View: Graph Contrastive Learning without Prefabricated Data Augmentations},
 author = {You, Yuning and Chen, Tianlong and Wang, Zhangyang and Shen, Yang},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {1300--1309},
 year = {2022}
 }

@@ -4,7 +4,7 @@
 @inproceedings{mhavgae_wsdm22,
 title = {Learning Concept Prerequisite Relations from Educational Data via Multi-Head Attention Variational Graph Auto-Encoders},
 author = {Zhang, Juntao and Lin, Nanzhou and Zhang, Xuelong and Song, Wei and Yang, Xiandi},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {1377--1385},
 year = {2022}
 }

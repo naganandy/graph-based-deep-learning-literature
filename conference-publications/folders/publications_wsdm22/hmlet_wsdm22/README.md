@@ -4,7 +4,7 @@
 @inproceedings{hmlet_wsdm22,
 title = {Linear, or Non-Linear, That is the Question!},
 author = {Kong, Taeyong and Kim, Taeri and Jeon, Jinsung and Choi, Jeongwhan and Lee, Yeon-Chang},
-booktitle = {Proceedings of the 15th International Conference on Web Search and Data Mining (WSDM)},
+booktitle = {Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)},
 pages = {517--525},
 year = {2022}
 }
