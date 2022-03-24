@@ -4,28 +4,51 @@
 
 # Heterophily
 - [GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gbkgnn_webconf22/README.md)
-- Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective
+- [Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/f2gnn_webconf22/README.md)
+- [Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/mwgnn_webconf22/README.md)
 - Graph Neural Networks Beyond Compromise Between Attribute and Topology
 - H2 -FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Interactions
-- Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily
+
+
+
+# Scalability
+- [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
+- Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling
+- ALLIE: Active Learning on Large-scale Imbalanced Graphs
 
 
 
 # Contrastive Learning
-- [Adversarial Graph Contrastive Learning with Information Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ariel_webconf22/README.md)
 - [SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/simgrace_webconf22/README.md)
+- [Dual Space Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/dsgc_webconf22/README.md)
+- [Graph Communal Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gcool_webconf22/README.md)
+- [The Role Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/auggcl_webconf22/README.md)
 - CGC: Contrastive Graph Clustering for Community Detection and Tracking
 - ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs
-- Dual Space Graph Contrastive Learning
-- Graph Communal Contrastive Learning
-- The Role of Augmentations in Graph Contrastive Learning: Current Methodological Flaws \& Improved Practices
-- Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation
+
+
+
+# Adversarial Attacks
+- [Graph Sanitation with Application to Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gasoline_webconf22/README.md)
+- [Adversarial Graph Contrastive Learning with Information Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ariel_webconf22/README.md)
+- [Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/clga_webconf22/README.md)
+
+
+
+# Graph Structure Learning
+- [Towards Unsupervised Deep Graph Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/sublime_webconf22/README.md)
+- [Compact Graph Structure Learning via Mutual Information Compression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cogsl_webconf22/README.md)
+- Prohibited Item Detection via Risk Graph Structure Learning
+- Multimodal Continual Graph Learning with Neural Architecture Search
 
 
 
 # Temporal Data
 - [Neural Predicting Higher-order Patterns in Temporal Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hit_webconf22/README.md)
+- [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rete_webconf22/README.md)
 - TREND: TempoRal Event and Node Dynamics for Graph Representation Learning
+- TTAGN:Temporal Transaction Aggregation Graph Network For Ethereum Phishing Scams Detection
+- Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction
 
 
 
@@ -36,16 +59,8 @@
 
 
 
-# Graph Structure Learning
-- Towards Unsupervised Deep Graph Structure Learning
-- Compact Graph Structure Learning via Mutual Information Compression
-- Prohibited Item Detection via Risk Graph Structure Learning
-- Multimodal Continual Graph Learning with Neural Architecture Search
-
-
-
 # Graph Classification
-- Model-Agnostic Augmentation for Accurate Graph Classification
+- [Model-Agnostic Augmentation for Accurate Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/nodesam_webconf22/README.md)
 - On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks
 
 
@@ -57,23 +72,33 @@
 
 
 
+# Product Search
+- [Modeling User Behavior with Graph Convolution for Personalized Product Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/sbg_webconf22/README.md)
+- [IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ihgnn_webconf22/README.md)
+
+
+
 # Miscellaneous
+- [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cf2gnn_webconf22/README.md)
 - [Graph-adaptive Rectified Linear Unit for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/grelu_webconf22/README.md)
 - [Geometric Graph Representation Learning via Maximizing Rate Reduction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/g2r_webconf22/README.md)
-- [IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ihgnn_webconf22/README.md)
 - [Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/drgst_webconf22/README.md)
 - [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/webformer_webconf22/README.md)
+- [Curvature Graph Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/curvgan_webconf22/README.md)
+- [EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/edits_webconf22/README.md)
+- [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rawlsgcn_webconf22/README.md)
+- [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
 - AUC-oriented Graph Neural Network for Fraud Detection
-- Curvature Graph Generative Adversarial Networks
 - Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media
 - Dual-branch Density Ratio Estimation for Signed Network Embedding
-- EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks
 - Generating simple directed social network graphs for information spreading
 - Graph Alignment with Noisy Supervision
 - Graph Neural Network for Higher-Order Dependency Tasks
-- Graph Sanitation with Application to Node Classification
 - Inflation Improves Graph Learning
 - Polarized Graph Neural Networks
-- RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Networ
-- Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling
 - SATMargin: Practical Maximal Frequent Subgraph Mining via Margin Space Sampling
+- HiddenCPG: Large-Scale Vulnerable Clone Detection Using Subgraph Isomorphism of Code Property Graphs
+- Path Language Modeling over Knowledge Graphs for Explainable Recommendation
+- SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs
+- What’s in an index: extracting domain-specific knowledge graphs from textbooks
+- Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing

@@ -8,7 +8,7 @@
 
 
 ## -------------------------------------------------------------------
-# [CVPR 2022 (Jun)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/README.md)
+# CVPR 2022 (Jun)
 - [Spatial Commonsense Graph for Object Localisation in Partial Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ppn_cvpr22/README.md)
 - [OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/occlusionfusion_cvpr22/README.md)
 - [Interacting Attention Graph for Single Image Two-Hand Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/intaghand_cvpr22/README.md)
@@ -17,7 +17,7 @@
 
 
 ## -------------------------------------------------------------------
-# [ACL 2022 (May)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/README.md)
+# ACL 2022 (May)
 - [Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/cen_acl22/README.md)
 - [FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/formnet_acl22/README.md)
 - [HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/hetermpc_acl22/README.md)
@@ -36,7 +36,31 @@
 - [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/webformer_webconf22/README.md)
 - [GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gbkgnn_webconf22/README.md)
 - [Neural Predicting Higher-order Patterns in Temporal Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hit_webconf22/README.md)
+- [Dual Space Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/dsgc_webconf22/README.md)
 
+
+<details> 
+<summary> more </summary> 
+
+- [Designing the Topology of Graph Neural Networks: A Novel Feature Fusion Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/f2gnn_webconf22/README.md)
+- [Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/mwgnn_webconf22/README.md)
+- [Graph Communal Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gcool_webconf22/README.md)
+- [The Role Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/auggcl_webconf22/README.md)
+- [Towards Unsupervised Deep Graph Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/sublime_webconf22/README.md)
+- [Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/clga_webconf22/README.md)
+- [Compact Graph Structure Learning via Mutual Information Compression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cogsl_webconf22/README.md)
+- [Model-Agnostic Augmentation for Accurate Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/nodesam_webconf22/README.md)
+- [Curvature Graph Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/curvgan_webconf22/README.md)
+- [Graph Sanitation with Application to Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gasoline_webconf22/README.md)
+- [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rawlsgcn_webconf22/README.md)
+- [Modeling User Behavior with Graph Convolution for Personalized Product Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/sbg_webconf22/README.md)
+- [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rete_webconf22/README.md)
+- [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
+- [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cf2gnn_webconf22/README.md)
+- [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
+
+
+</details>
 
 
 ## -------------------------------------------------------------------
