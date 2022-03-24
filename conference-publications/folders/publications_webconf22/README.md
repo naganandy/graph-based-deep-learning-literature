@@ -1,4 +1,4 @@
-# Publications in The Web Conference 2022
+# [Publications in The Web Conference 2022](https://www2022.thewebconf.org/accepted-papers/)
 
 
 
