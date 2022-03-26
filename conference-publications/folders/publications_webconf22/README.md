@@ -70,13 +70,17 @@
 
 
 # Recommendation
-- [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ncl_webconf22/README.md)
 - VisGNN: Personalized Visualization Recommendation via Graph Neural Networks
 - STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation
 - Graph Neural Transport Networks with Non-local Attentions for Recommender Systems
-- Hypercomplex Graph Collaborative Filtering
 - Revisiting Graph Neural Network based Social Recommendation
 - GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction
+
+
+
+# Graph Collaborative Filtering
+- [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ncl_webconf22/README.md)
+- Hypercomplex Graph Collaborative Filtering
 
 
 
