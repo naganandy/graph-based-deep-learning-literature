@@ -60,6 +60,8 @@
 - [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
 - [Graph-based Extractive Explainer for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/greener_webconf22/README.md)
 - [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ncl_webconf22/README.md)
+- [GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/graphnli_webconf22/README.md)
+- [Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/get_webconf22/README.md)
 
 
 </details>
