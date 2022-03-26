@@ -59,6 +59,16 @@
 
 
 
+# Explainable Recommendation
+- Path Language Modeling over Knowledge Graphs for Explainable Recommendation
+- Graph Based Extractive Explainer for Recommendations
+
+
+# Recommendation
+
+
+
+
 # Graph Classification
 - [Model-Agnostic Augmentation for Accurate Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/nodesam_webconf22/README.md)
 - On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks
@@ -98,7 +108,6 @@
 - Polarized Graph Neural Networks
 - SATMargin: Practical Maximal Frequent Subgraph Mining via Margin Space Sampling
 - HiddenCPG: Large-Scale Vulnerable Clone Detection Using Subgraph Isomorphism of Code Property Graphs
-- Path Language Modeling over Knowledge Graphs for Explainable Recommendation
 - SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs
 - What’s in an index: extracting domain-specific knowledge graphs from textbooks
 - Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing
