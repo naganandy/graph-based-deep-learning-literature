@@ -58,6 +58,8 @@
 - [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
 - [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cf2gnn_webconf22/README.md)
 - [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
+- [Graph-based Extractive Explainer for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/greener_webconf22/README.md)
+- [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ncl_webconf22/README.md)
 
 
 </details>

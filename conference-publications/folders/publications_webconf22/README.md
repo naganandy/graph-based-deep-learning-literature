@@ -15,6 +15,7 @@
 - [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
 - Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling
 - ALLIE: Active Learning on Large-scale Imbalanced Graphs
+- GRAND+: Scalable Graph-based Semi-Supervised Learning with Better Generalization
 
 
 
@@ -56,16 +57,26 @@
 - [Rethinking Graph Convolutional Networks in Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ltekge_webconf22/README.md)
 - Distilling semantic knowledge for heterogeneous information network embedding
 - KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios
+- Multi-level Recommendation Reasoning over Knowledge Graphs with Reinforcement Learning
+- SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs
+- What’s in an index: extracting domain-specific knowledge graphs from textbooks
 
 
 
 # Explainable Recommendation
+- [Graph-based Extractive Explainer for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/greener_webconf22/README.md)
 - Path Language Modeling over Knowledge Graphs for Explainable Recommendation
-- Graph Based Extractive Explainer for Recommendations
+
 
 
 # Recommendation
-
+- [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ncl_webconf22/README.md)
+- VisGNN: Personalized Visualization Recommendation via Graph Neural Networks
+- STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation
+- Graph Neural Transport Networks with Non-local Attentions for Recommender Systems
+- Hypercomplex Graph Collaborative Filtering
+- Revisiting Graph Neural Network based Social Recommendation
+- GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction
 
 
 
@@ -88,6 +99,13 @@
 
 
 
+# Fake News
+- [Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/get_webconf22/README.md)
+- Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media
+- Rumor Detection on Social Media with Graph Adversarial Contrastive Learning
+
+
+
 # Miscellaneous
 - [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cf2gnn_webconf22/README.md)
 - [Graph-adaptive Rectified Linear Unit for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/grelu_webconf22/README.md)
@@ -98,8 +116,8 @@
 - [EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/edits_webconf22/README.md)
 - [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rawlsgcn_webconf22/README.md)
 - [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
+- [GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/graphnli_webconf22/README.md)
 - AUC-oriented Graph Neural Network for Fraud Detection
-- Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media
 - Dual-branch Density Ratio Estimation for Signed Network Embedding
 - Generating simple directed social network graphs for information spreading
 - Graph Alignment with Noisy Supervision
@@ -108,6 +126,5 @@
 - Polarized Graph Neural Networks
 - SATMargin: Practical Maximal Frequent Subgraph Mining via Margin Space Sampling
 - HiddenCPG: Large-Scale Vulnerable Clone Detection Using Subgraph Isomorphism of Code Property Graphs
-- SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs
-- What’s in an index: extracting domain-specific knowledge graphs from textbooks
 - Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing
+- Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing
