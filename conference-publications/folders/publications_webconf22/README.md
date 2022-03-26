@@ -1,4 +1,4 @@
-# [Publications in The Web Conference 2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/README.md)
+# [Publications in The Web Conference 2022](https://www2022.thewebconf.org/accepted-papers/)
 
 
 
