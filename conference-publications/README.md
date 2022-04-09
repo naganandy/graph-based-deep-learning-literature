@@ -30,6 +30,22 @@
 - [HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/hetermpc_acl22/README.md)
 - [AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/adalogn_acl22/README.md)
 - [Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/tgls_acl22/README.md)
+- [KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/kgfid_acl22/README.md)
+- [Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/tmeg_acl22/README.md)
+- [Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/srgn_acl22/README.md)
+- [Direct parsing to sentiment graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/perin_acl22/README.md)
+
+
+
+<details> 
+<summary> more </summary> 
+
+- [Graph Pre-training for AMR Parsing and Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/amrpretrain_acl22/README.md)
+- [Fully Hyperbolic Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/hybonet_acl22/README.md)
+- [Graph Enhanced Contrastive Learning for Radiology Findings Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/gclrfs_acl22/README.md)
+
+
+</details>
 
 
 
