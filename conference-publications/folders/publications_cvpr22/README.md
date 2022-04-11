@@ -11,10 +11,10 @@
 
 
 # Scene Graph Generation
+- [SGTR: End-to-end Scene Graph Generation with Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sgtr_cvpr22/README.md)
 - HL-Net: Heterophily Learning Network for Scene Graph Generation
 - RU-Net: Regularized Unrolling Network for Scene Graph Generation
 - The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation
-- SGTR: End-to-end Scene Graph Generation with Transformer*
 - PPDL: Predicate Probability Distribution based Loss for Unbiased Scene Graph Generation
 - Dynamic Scene Graph Generation via Anticipatory Pre-training
 
@@ -44,48 +44,49 @@
 - [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/orphicx_cvpr22/README.md)
 - [Long-term Visual Map Sparsification with Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sfmgnn_cvpr22/README.md)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/diyfscil_cvpr22/README.md)
+- [GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gatcadnet_cvpr22/README.md)
+- [Spatial-Temporal Gating-Adjacency GCN for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gagcn_cvpr22/README.md)
+- [Adaptive Trajectory Prediction via Transferable GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/tgnn_cvpr22/README.md)
+- [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/skinningnet_cvpr22/README.md)
+- [PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/polyworld_cvpr22/README.md)
+- [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
+- [Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/visa_cvpr22/README.md)
+- [AEGNN: Asynchronous Event-based Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/aegnn_cvpr22/README.md)
+- [GraFormer: Graph Convolution Transformer for 3D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/graformer_cvpr22/README.md)
+- [Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/duet_cvpr22/README.md)
+- [Neural Collaborative Graph Machines for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ncgm_cvpr22/README.md)
+- ["The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/bevgnn_cvpr22/README.md)
+- [Improving Subgraph Recognition with Variational Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vgib_cvpr22/README.md)
+- [Robust Optimization as Data Augmentation for Large-scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
+- [AirObject: A Temporally Evolving Graph Embedding for Object Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/airobject_cvpr22/README.md)
+- [Lifelong Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lgl_cvpr22/README.md)
+- [RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/reltransformer_cvpr22/README.md)
+- [Local-Adaptive Face Recognition via Graph-based Meta-Clustering and Regularized Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lafr_cvpr22/README.md)
 - GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning
 - Automatic Relation-aware Graph Network Proliferation
 - Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution
-- GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings*
-- Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction*
-- Adaptive Trajectory Prediction via Transferable GNN*
-- SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters*
 - Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees
-- PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images*
 - ClusterGNN: Cluster-based Coarse-to-fine Graph Neural Network for Efficient Feature Matching
 - Node-aligned Graph Convolutional Network for Whole-slide Image Representation and Classification
 - Condensing CNNs with Partial Differential Equations
-- Equivariant Point Set Analysis via Learning Orientations for Message Passing*
-- Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning*
 - Bending Graphs: Hierarchical Shape Matching using Gated Optimal Transport
-- Asynchronous Event-based Graph-Neural Networks*
 - Cross-Image Relational Knowledge Distillation for Semantic Segmentation
-- GraFormer: Graph-oriented Transformer for 3D Pose Estimation*
 - A Voxel Graph CNN for Object Classification with Event Cameras
-- Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation*
-- Neural Collaborative Graph Machines for Table Structure Recognition*
 - Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation
-- The Pedestrian next to the Lamppost Adaptive Object Graphs for Better Instantaneous Mapping*
 - RAGO: Recurrent Graph Optimizer For Multiple Rotation Averaging
 - Audio-driven Neural Gesture Reenactment with Video Motion Graphs
 - VRDFormer: End-to-End Video Visual Relation Detection with Transformers
-- Improving Subgraph Recognition with Variational Graph Information Bottleneck*
 - Unsupervised Homography Estimation with Coplanarity-Aware GAN
 - Image Disentanglement Autoencoder for Steganography without Embedding
 - CellTypeGraph: A New Geometric Computer Vision Benchmark
 - Learning Invisible Markers for Hidden Codes in Offline-to-online Photography
 - Balanced and Hierarchical Relation Learning for One-shot Object Detection
-- Robust Optimization as Data Augmentation for Large-scale Graphs*
-- AirObject: A Temporally Evolving Graph Embedding for Object Identification*
 - Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
 - Weakly Supervised Segmentation on Outdoor 4D point clouds with Temporal Matching and Spatial Graph Propagation
 - Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation
-- Lifelong Graph Learning*
 - Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search
 - A Probabilistic Graphical Model Based on Neural-symbolic Reasoning for Visual Relationship Detection
 - Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph
-- RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition*
 - Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning
 - Semi-supervised Video Paragraph Grounding with Contrastive Encoder
 - MS2DG-Net: Progressive Correspondence Learning via Multi Sparse Semantic Dynamic Graph
@@ -95,7 +96,6 @@
 - Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning
 - Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction
 - Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation
-- Multi-Modal Dynamic Graph Transformer for Visual Grounding*
-- Local-Adaptive Face Recognition via Graph-based Meta-Clustering and Regularized Adaptation*
+- Multi-Modal Dynamic Graph Transformer for Visual Grounding
 - Synthetic Generation of Face Videos with Plethysmograph Physiology
 - Holocurtains: Programming Light Curtains via Binary Holography
