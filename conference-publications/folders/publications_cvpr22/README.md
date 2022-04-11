@@ -6,18 +6,15 @@
 - [Unsupervised Vision-Language Parsing: Seamlessly Bridging Visual Scene Graphs with Language Structures via Dependency Relationships](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vlgae_cvpr22/README.md)
 - [Spatial Commonsense Graph for Object Localisation in Partial Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ppn_cvpr22/README.md)
 - Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs
+- Scene Graph Expansion for Semantics-Guided Image Outpainting
 
 
 
 # Scene Graph Generation
-- Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation
-- Fine-Grained Predicates Learning for Scene Graph Generation
-- Structured Sparse R-CNN for Direct Scene Graph Generation
 - HL-Net: Heterophily Learning Network for Scene Graph Generation
 - RU-Net: Regularized Unrolling Network for Scene Graph Generation
-- Not All Relations are Equal: Mining Informative Labels for Scene Graph Generation
 - The Devil is in the Labels: Noisy Label Correction for Robust Scene Graph Generation
-- SGTR: End-to-end Scene Graph Generation with Transformer
+- SGTR: End-to-end Scene Graph Generation with Transformer*
 - PPDL: Predicate Probability Distribution based Loss for Unbiased Scene Graph Generation
 - Dynamic Scene Graph Generation via Anticipatory Pre-training
 
@@ -25,7 +22,6 @@
 
 # Action Recognition
 - InfoGCN: Representation Learning for Human Skeleton-based Action Recognition
-- Spatio-temporal Relation Modeling for Few-shot Action Recognition
 - Hybrid Relation Guided Set Matching for Few-shot Action Recognition
 - Object-Relation Reasoning Graph for Action Recognition
 
@@ -51,90 +47,55 @@
 - GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning
 - Automatic Relation-aware Graph Network Proliferation
 - Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution
-- GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings
-- Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction
-- Adaptive Trajectory Prediction via Transferable GNN
-- Long-term Visual Map Sparsification with Heterogeneous GNN
-- SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters
+- GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings*
+- Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction*
+- Adaptive Trajectory Prediction via Transferable GNN*
+- SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters*
 - Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees
-- PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images
+- PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images*
 - ClusterGNN: Cluster-based Coarse-to-fine Graph Neural Network for Efficient Feature Matching
 - Node-aligned Graph Convolutional Network for Whole-slide Image Representation and Classification
 - Condensing CNNs with Partial Differential Equations
-- Equivariant Point Set Analysis via Learning Orientations for Message Passing
-- Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning
+- Equivariant Point Set Analysis via Learning Orientations for Message Passing*
+- Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning*
 - Bending Graphs: Hierarchical Shape Matching using Gated Optimal Transport
-- Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification
-- Asynchronous Event-based Graph-Neural Networks
-- Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory
-- PTTR: Relational 3D Point Cloud Object Tracking with Transformer
-- Exploring Dual-task Correlation for Pose Guided Person Image Generation
-- DisARM: Displacement Aware Relation Module for 3D Detection
+- Asynchronous Event-based Graph-Neural Networks*
 - Cross-Image Relational Knowledge Distillation for Semantic Segmentation
-- GraFormer: Graph-oriented Transformer for 3D Pose Estimation
-- GASP, a generalized framework for agglomerative clustering of signed graphs and its application to Instance Segmentation
+- GraFormer: Graph-oriented Transformer for 3D Pose Estimation*
 - A Voxel Graph CNN for Object Classification with Event Cameras
-- Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks
-- Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation
-- Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction
-- Neural Collaborative Graph Machines for Table Structure Recognition
+- Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation*
+- Neural Collaborative Graph Machines for Table Structure Recognition*
 - Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation
-- Correlation-Aware Deep Tracking
-- Iterative Deep Homography Estimation
-- Homography Loss for Monocular 3D Object Detection
-- The Pedestrian next to the Lamppost Adaptive Object Graphs for Better Instantaneous Mapping
+- The Pedestrian next to the Lamppost Adaptive Object Graphs for Better Instantaneous Mapping*
 - RAGO: Recurrent Graph Optimizer For Multiple Rotation Averaging
-- Video Demoireing with Relation-based Temporal Consistency
 - Audio-driven Neural Gesture Reenactment with Video Motion Graphs
-- FedCor: Correlation-Based Active Client Selection Strategy for Heterogeneous Federated Learning
-- Gravitationally Lensed Black Hole Emission Tomography
-- Self-Supervised Bulk Motion Artifact Removal in Optical Coherence Tomography Angiography
 - VRDFormer: End-to-End Video Visual Relation Detection with Transformers
-- AlignQ: Alignment Quantization with ADMM-based Correlation Preservation
-- Improving Subgraph Recognition with Variational Graph Information Bottleneck
-- Scene Graph Expansion for Semantics-Guided Image Outpainting
-- Interacting Attention Graph for Single Image Two-Hand Reconstruction
-- Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video
-- Exploiting Temporal Relations on Radar Perception for Autonomous Driving
-- Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information
+- Improving Subgraph Recognition with Variational Graph Information Bottleneck*
 - Unsupervised Homography Estimation with Coplanarity-Aware GAN
-- Correlation Verification for Image Retrieval
 - Image Disentanglement Autoencoder for Steganography without Embedding
 - CellTypeGraph: A New Geometric Computer Vision Benchmark
-- Self-supervised Correlation Mining Network for Person Image Generation
-- BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning
 - Learning Invisible Markers for Hidden Codes in Offline-to-online Photography
-- Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation
 - Balanced and Hierarchical Relation Learning for One-shot Object Detection
-- Robust Optimization as Data Augmentation for Large-scale Graphs
-- AirObject: A Temporally Evolving Graph Embedding for Object Identification
+- Robust Optimization as Data Augmentation for Large-scale Graphs*
+- AirObject: A Temporally Evolving Graph Embedding for Object Identification*
 - Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism
 - Weakly Supervised Segmentation on Outdoor 4D point clouds with Temporal Matching and Spatial Graph Propagation
 - Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation
-- Lifelong Graph Learning
+- Lifelong Graph Learning*
 - Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search
-- Sequential Voting with Relational Box Fields for Active Object Detection
 - A Probabilistic Graphical Model Based on Neural-symbolic Reasoning for Visual Relationship Detection
 - Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph
-- RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition
+- RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition*
 - Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning
 - Semi-supervised Video Paragraph Grounding with Contrastive Encoder
 - MS2DG-Net: Progressive Correspondence Learning via Multi Sparse Semantic Dynamic Graph
-- Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning
 - Noise Is Also Useful: Negative Correlation-Steered Latent Contrastive Learning
-- Label Relation Graphs Enhanced Hierarchical Residual Network for Hierarchical Multi-Granularity Classification
-- NPBG++: Accelerating Neural Point-Based Graphics
 - Learning Canonical F-Correlation Projection for Compact Multiview Representation
-- Scanline Homographies for Rolling-Shutter Plane Absolute Pose
 - Robust Invertible Image Steganography
 - Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning
 - Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction
 - Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation
-- Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks
-- TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repeated Action Counting
-- Learning Graph Regularisation for Guided Super-Resolution
-- Do learned representations respect causal relationships?
-- Multi-Modal Dynamic Graph Transformer for Visual Grounding
-- Local-Adaptive Face Recognition via Graph-based Meta-Clustering and Regularized Adaptation
+- Multi-Modal Dynamic Graph Transformer for Visual Grounding*
+- Local-Adaptive Face Recognition via Graph-based Meta-Clustering and Regularized Adaptation*
 - Synthetic Generation of Face Videos with Plethysmograph Physiology
 - Holocurtains: Programming Light Curtains via Binary Holography
