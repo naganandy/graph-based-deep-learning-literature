@@ -42,8 +42,8 @@
 
 
 # Fake News
-- [Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/get_webconf22/README.md)
-- Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media
+- [Evidence-aware Fake News Detection with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/get_webconf22/README.md)
+- [Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/psin_webconf22/README.md)
 - [Rumor Detection on Social Media with Graph Adversarial Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gacl_webconf22/README.md)
 
 
@@ -88,6 +88,7 @@
 - [AR-BERT: Aspect-relation enhanced Aspect-level Sentiment Classification with Multi-modal Explanations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/arbert_webconf22/README.md)
 
 
+
 # Recommendation
 - [STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/stam_webconf22/README.md)
 - [VisGNN: Personalized Visualization Recommendationvia Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/visgnn_webconf22/README.md)
@@ -104,6 +105,12 @@
 
 
 
+# Fairness
+- [EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/edits_webconf22/README.md)
+- [Unbiased Graph Embedding with Biased Graph Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/uge_webconf22/README.md)
+
+
+
 # Graph Classification
 - [Model-Agnostic Augmentation for Accurate Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/nodesam_webconf22/README.md)
 - [On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/soltgnn_webconf22/README.md)
@@ -116,23 +123,24 @@
 
 
 
+# Natural Language Processing
+- [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
+- [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/webformer_webconf22/README.md)
+- [GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/graphnli_webconf22/README.md)
+
+
+
 # Miscellaneous
 - [An Invertible Graph Diffusion Neural Network for Source Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ivgd_webconf22/README.md)
 - [Graph-adaptive Rectified Linear Unit for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/grelu_webconf22/README.md)
 - [Geometric Graph Representation Learning via Maximizing Rate Reduction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/g2r_webconf22/README.md)
 - [Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/drgst_webconf22/README.md)
-- [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/webformer_webconf22/README.md)
 - [Curvature Graph Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/curvgan_webconf22/README.md)
-- [EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/edits_webconf22/README.md)
 - [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rawlsgcn_webconf22/README.md)
-- [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
-- [GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/graphnli_webconf22/README.md)
 - [Exploring Edge Disentanglement for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/disgnn_webconf22/README.md)
 - [Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rssgnn_webconf22/README.md)
 - [Polarized Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/polargnn_webconf22/README.md)
-- [Unbiased Graph Embedding with Biased Graph Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/uge_webconf22/README.md)
 - [Inflation Improves Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gnninflation_webconf22/README.md)
 - [Graph Neural Network for Higher-Order Dependency Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hognn_webconf22/README.md)
 - [Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/fograph_webconf22/README.md)
-- [Evidence-aware Fake News Detection with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/get_webconf22/README.md)
 - [Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/eigdes_webconf22/README.md)

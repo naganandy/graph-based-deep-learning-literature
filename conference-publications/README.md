@@ -157,6 +157,7 @@
 - [Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/eigdes_webconf22/README.md)
 - [KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/komen_webconf22/README.md)
 - [Distilling semantic knowledge for heterogeneous information network embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ckd_webconf22/README.md)
+- [Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/psin_webconf22/README.md)
 
 
 </details>
