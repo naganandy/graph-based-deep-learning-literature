@@ -1,6 +1,8 @@
 # Related Workshops
 
 - ## 2022
+   * ### [Deep Learning on Graphs for Natural Language Processing (ICLR)](https://dlg4nlp-workshop.github.io/dlg4nlp-iclr22)
+   * ### [Graph Learning Benchmarks (TheWebConf)](https://graph-learning-benchmarks.github.io/glb2022)
    * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai22/index.html)
    * ### [Graphs and more Complex structures for Learning and Reasoning (AAAI)](https://sites.google.com/view/gclr2022/home)
 
