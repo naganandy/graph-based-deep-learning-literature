@@ -1,13 +1,15 @@
-# Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection
+# Evidence-aware Fake News Detection with Graph Neural Networks
 
 ```
 @inproceedings{get_webconf22,
-title = {Mining Fine-grained Semantics via Graph Neural Networks for Evidence-based Fake News Detection},
-author = {Weizhi Xu and Junfei Wu and Qiang Liu and Shu Wu and Liang Wang},
-booktitle = {Proceedings of The Web Conference (TheWebConf)},
+title = {Evidence-aware Fake News Detection with Graph Neural Networks},
+author = {Xu, Weizhi and Wu, Junfei and Liu, Qiang and Wu, Shu and Wang, Liang},
+booktitle = {Proceedings of the ACM Web Conference 2022 (TheWebConf)},
+pages = {2501--2510},
 year = {2022}
 }
 ```
 
 links
+- [acm](https://dl.acm.org/doi/10.1145/3485447.3512122)
 - [arXiv](https://arxiv.org/abs/2201.06885v1)
