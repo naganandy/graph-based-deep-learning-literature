@@ -5,7 +5,6 @@
 # Scalability
 - [Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/lcs_webconf22/README.md)
 - [GRAND+: Scalable Graph Random Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/grandplus_webconf22/README.md)
-- [PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
 - [ALLIE: Active Learning on Large-scale Imbalanced Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/allie_webconf22/README.md)
 
 
@@ -58,8 +57,13 @@
 # Graph Structure Learning
 - [Towards Unsupervised Deep Graph Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/sublime_webconf22/README.md)
 - [Compact Graph Structure Learning via Mutual Information Compression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cogsl_webconf22/README.md)
-- [Multimodal Continual Graph Learning with Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/adamgnn_webconf22/README.md)
 - [Prohibited Item Detection via Risk Graph Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rgsl_webconf22/README.md)
+
+
+
+# Architecture Search
+- [PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/pasca_webconf22/README.md)
+- [Multimodal Continual Graph Learning with Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/adamgnn_webconf22/README.md)
 
 
 
