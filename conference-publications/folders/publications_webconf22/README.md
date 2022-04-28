@@ -17,6 +17,7 @@
 - [Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/auggcl_webconf22/README.md)
 - [CGC: Contrastive Graph Clustering forCommunity Detection and Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/cgc_webconf22/README.md)
 - [ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/clusterscl_webconf22/README.md)
+- [Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rssgnn_webconf22/README.md)
 
 
 
@@ -24,6 +25,12 @@
 - [Graph Sanitation with Application to Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gasoline_webconf22/README.md)
 - [Adversarial Graph Contrastive Learning with Information Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ariel_webconf22/README.md)
 - [Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/clga_webconf22/README.md)
+
+
+
+# Oversmoothing
+- [Inflation Improves Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gnninflation_webconf22/README.md)
+- [Polarized Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/polargnn_webconf22/README.md)
 
 
 
@@ -138,9 +145,6 @@
 - [Curvature Graph Generative Adversarial Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/curvgan_webconf22/README.md)
 - [RawlsGCN: Towards Rawlsian Difference Principle on Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rawlsgcn_webconf22/README.md)
 - [Exploring Edge Disentanglement for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/disgnn_webconf22/README.md)
-- [Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/rssgnn_webconf22/README.md)
-- [Polarized Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/polargnn_webconf22/README.md)
-- [Inflation Improves Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/gnninflation_webconf22/README.md)
 - [Graph Neural Network for Higher-Order Dependency Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hognn_webconf22/README.md)
 - [Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/fograph_webconf22/README.md)
 - [Socially-Equitable Interactive Graph Information Fusion-based Prediction for Urban Dockless E-Scooter Sharing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/eigdes_webconf22/README.md)
