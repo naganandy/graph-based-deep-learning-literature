@@ -2,14 +2,16 @@
 
 ```
 @incollection{egnn_neurips21,
-author = {Kaixiong Zhou and Xiao Huang and Daochen Zha and Rui Chen and Li Li and Soo-Hyun Choi and Xia Hu},
+author = {Zhou, Kaixiong and Huang, Xiao and Zha, Daochen and Chen, Rui and Li, Li and Choi, Soo-Hyun and Hu, Xia},
 title = {Dirichlet Energy Constrained Learning for Deep Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {21834--21846},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26775)
+- [neurips](https://papers.nips.cc//paper/2021/hash/b6417f112bd27848533e54885b66c288-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/26775)
 - [openreview](https://openreview.net/forum?id=6YL_BntJrz6)

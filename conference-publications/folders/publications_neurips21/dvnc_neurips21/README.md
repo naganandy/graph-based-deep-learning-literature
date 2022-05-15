@@ -2,14 +2,16 @@
 
 ```
 @incollection{dvnc_neurips21,
-author = {Dianbo Liu and Alex Lamb and Kenji Kawaguchi and Anirudh Goyal and Chen Sun and Michael Mozer and Yoshua Bengio},
+author = {Liu, Dianbo and Lamb, Alex M and Kawaguchi, Kenji and ALIAS PARTH GOYAL, Anirudh Goyal and Sun, Chen and Mozer, Michael C and Bengio, Yoshua},
 title = {Discrete-Valued Neural Communication},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {2109--2121},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27005)
+- [neurips](https://papers.nips.cc//paper/2021/hash/10907813b97e249163587e6246612e21-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/27005)
 - [openreview](https://openreview.net/forum?id=YSYXmOzlrou)

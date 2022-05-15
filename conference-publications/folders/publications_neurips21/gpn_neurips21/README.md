@@ -2,14 +2,16 @@
 
 ```
 @incollection{gpn_neurips21,
-author = {Maximilian Stadler and Bertrand Charpentier and Simon Geisler and Daniel Zügner and Stephan Günnemann},
+author = {Stadler, Maximilian and Charpentier, Bertrand and Geisler, Simon and Z\"{u}gner, Daniel and G\"{u}nnemann, Stephan},
 title = {Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {18033--18048},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27016)
+- [neurips](https://papers.nips.cc//paper/2021/hash/95b431e51fc53692913da5263c214162-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/27016)
 - [openreview](https://openreview.net/forum?id=N0Pigj5tpHE)

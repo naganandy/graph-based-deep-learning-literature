@@ -2,14 +2,16 @@
 
 ```
 @incollection{ugcn_neurips21,
-author = {Zhizhi Yu and Di Jin and Cuiying Huo and Rui Wang and Xiao Wang and Dongxiao He and Jiawei Han},
+author = {Jin, Di and Yu, Zhizhi and Huo, Cuiying and Wang, Rui and Wang, Xiao and He, Dongxiao and Han, Jiawei},
 title = {Universal Graph Convolutional Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {10654--10664},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=28623)
+- [neurips](https://papers.nips.cc//paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/28623)
 - [openreview](https://openreview.net/forum?id=MSXDyfli9vy)

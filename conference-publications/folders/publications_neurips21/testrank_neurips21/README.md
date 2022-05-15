@@ -2,14 +2,16 @@
 
 ```
 @incollection{testrank_neurips21,
-author = {YU LI and Min LI and Qiuxia LAI and Yannan Liu and Qiang Xu},
+author = {LI, YU and LI, Min and LAI, Qiuxia and Liu, Yannan and Xu, Qiang},
 title = {TestRank: Bringing Order into Unlabeled Test Instances for Deep Learning Tasks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {20874--20886},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27266)
+- [neurips](https://papers.nips.cc//paper/2021/hash/ae78510109d46b0a6eef9820a4ca95d6-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/27266)
 - [openreview](https://openreview.net/forum?id=W-agFo22-TS)

@@ -2,14 +2,16 @@
 
 ```
 @incollection{geomol_neurips21,
-author = {Octavian Ganea and Lagnajit Pattanaik and Connor Coley and Regina Barzilay and Klavs Jensen and William Green and Tommi Jaakkola},
+author = {Ganea, Octavian and Pattanaik, Lagnajit and Coley, Connor and Barzilay, Regina and Jensen, Klavs and Green, William and Jaakkola, Tommi},
 title = {GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {13757--13769},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26407)
+- [neurips](https://papers.nips.cc//paper/2021/hash/725215ed82ab6306919b485b81ff9615-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/26407)
 - [openreview](https://openreview.net/forum?id=af_hng9tuNj)

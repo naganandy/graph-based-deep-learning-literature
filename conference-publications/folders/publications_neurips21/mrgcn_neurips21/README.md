@@ -2,14 +2,16 @@
 
 ```
 @incollection{mrgcn_neurips21,
-author = {Chen Li and Gim Hee Lee},
+author = {Li, Chen and Lee, Gim Hee},
 title = {Coarse-to-fine Animal Pose and Shape Estimation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 34},
+pages = {11757--11768},
 year = {2021},
 publisher = {Curran Associates, Inc.}
 }
 ```
 
 links
-- [neurips](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=28324)
+- [neurips](https://papers.nips.cc//paper/2021/hash/6195f47dcff14b8f242aa333cdb2703e-Abstract.html)
+- [virtual](https://neurips.cc/virtual/2021/poster/28324)
 - [openreview](https://openreview.net/forum?id=HxuQiq1SnyS)
