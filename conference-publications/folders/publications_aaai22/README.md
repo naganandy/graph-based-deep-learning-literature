@@ -58,7 +58,7 @@
 
 
 # Adversarial Attacks/Robustness
-- [Unsupervised Adversarially-Robust Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/grv_aaai22/README.md)
+- [Unsupervised Adversarially Robust Representation Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/grv_aaai22/README.md)
 - [Blindfolded Attackers Still Threatening: Strict Black-Box Adversarial Attacks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stack_aaai22/README.md)
 - [Graph Structure Learning with Variational Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/vibgsl_aaai22/README.md)
 - [Practical Fixed-Parameter Algorithms for Defending Active Directory Style Attack Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/pada_aaai22/README.md)
@@ -74,8 +74,6 @@
 - [LeSICiN: A Heterogeneous Graph-based Approach for Automatic Legal Statute Identification from Indian Legal Documents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lesicin_aaai22/README.md)
 - Multi-Relational Graph Representation Learning with Bayesian Gaussian Process Network
 - Exploring Relational Semantics for Inductive Knowledge Graph Completion
-- Geometry Interaction Knowledge Graph Embeddings
-- ER: Equivariance Regularizer for Knowledge Graph Completion
 
 
 
@@ -83,7 +81,6 @@
 - [Sparse Structure Learning via Graph Neural Networks for Inductive Document Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnndc_aaai22/README.md)
 - [Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isdg_aaai22/README.md)
 - DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media
-- Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs
 - A Graph Convolutional Network with Adaptive Graph Generation and Channel Selection for Event Detection
 - Hierarchical Heterogeneous Graph Attention Network for Syntax-Aware Summarization
 
@@ -130,7 +127,7 @@
 
 # Fairness
 - [EqGNN: Equalized Node Opportunity in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/eqgnn_aaai22/README.md)
-- [VACA: Design of Variational Graph Autoencoders for Interventional and Counterfactual Queries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/vaca_aaai22/README.md)
+- [VACA: Designing Variational Graph Autoencoders for Causal Queries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/vaca_aaai22/README.md)
 
 
 
@@ -138,7 +135,7 @@
 - [Cross-Domain Few-Shot Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cdfsgc_aaai22/README.md)
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 - [Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dntumpnn_aaai22/README.md)
-- [SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
+- [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
 - [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgncde_aaai22/README.md)
 - [Fast Graph Neural Tangent Kernel via Kronecker Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/fastgntk_aaai22/README.md)
 - [Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gebt_aaai22/README.md)
