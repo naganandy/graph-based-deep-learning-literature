@@ -9,13 +9,25 @@
 ## -------------------------------------------------------------------
 # [ICML 2022 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/README.md)
 
-<details> 
-<summary> more </summary> 
+
 
 - [3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/3dlinker_icml22/README.md)
 - [G-Mixup: Graph Data Augmentation for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gmixup_icml22/README.md)
 - [Generating 3D Molecules for Target Protein Binding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/graphbp_icml22/README.md)
 - [Topology-Aware Network Pruning using Multi-stage Graph Embedding and Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gnnrl_icml22/README.md)
+- [A Theoretical Comparison of Graph Neural Network Extensions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/tcgnne_icml22/README.md)
+- [Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gts_icml22/README.md)
+- [Finding Global Homophily in Graph Neural Networks When Meeting Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/glognn_icml22/README.md)
+- [pathGCN: Learning General Graph Spatial Operators from Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/pathgcn_icml22/README.md)
+- [Structure-Aware Transformer for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/sat_icml22/README.md)
+- [Information Bottleneck-Guided Stochastic Attention Mechanism for Interpretable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gsat_icml22/README.md)
+
+
+
+<details> 
+<summary> more </summary> 
+
+
 - [Semiparametric Subgraph Reasoning for Question Answering over Large Knowledge Bases](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/cbrsubg_icml22/README.md)
 - [Efficient Computation of Higher-Order Subgraph Attribution via Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gnnhsa_icml22/README.md)
 - [Local Augmentation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/lagnn_icml22/README.md)
@@ -40,21 +52,17 @@
 - [A Hierarchical Transitive-Aligned Graph Kernel for Un-attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/htak_icml22/README.md)
 - [LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/lense_icml22/README.md)
 - [Neural-Symbolic Models for Logical Queries on Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gnnqe_icml22/README.md)
-- [A Theoretical Comparison of Graph Neural Network Extensions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/tcgnne_icml22/README.md)
 - [Convergence of Invariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/ignsmall_icml22/README.md)
 - [How Powerful are Spectral Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/jacobiconv_icml22/README.md)
 - [The CLRS Algorithmic Reasoning Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/clrs_icml22/README.md)
 - [Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/hmgnn_icml22/README.md)
 - [Large-Scale Graph Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gauss_icml22/README.md)
-- [Information Bottleneck-Guided Stochastic Attention Mechanism for Interpretable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gsat_icml22/README.md)
-- [Finding Global Homophily in Graph Neural Networks When Meeting Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/glognn_icml22/README.md)
 - [From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gkat_icml22/README.md)
 - [Learning to Solve PDE-constrained Inverse Problems with Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/lipgnn_icml22/README.md)
 - [Self-Supervised Representation Learning via Latent Graph Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/lagraph_icml22/README.md)
 - [GraphFM: Improving Large-Scale GNN Training via Feature Momentum](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/graphfm_icml22/README.md)
 - [A New Perspective on the Effects of Spectrum in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/specgnn_icml22/README.md)
 - [$p$-Laplacian Based Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/pgnn_icml22/README.md)
-- [Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gts_icml22/README.md)
 - [G$^2$CN: Graph Gaussian Convolution Networks with Concentrated Graph Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/g2gcn_icml22/README.md)
 - [GALAXY: Graph-based Active Learning at the Extreme](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/galaxy_icml22/README.md)
 - [Augment with Care: Contrastive Learning for Combinatorial Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/ssllpa_icml22/README.md)
@@ -66,7 +74,6 @@
 - [TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/tam_icml22/README.md)
 - [Retroformer: Pushing the Limits of End-to-end Retrosynthesis Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/retroformer_icml22/README.md)
 - [VarScene: A Deep Generative Model for Realistic Scene Graph Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/varscene_icml22/README.md)
-- [pathGCN: Learning General Graph Spatial Operators from Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/pathgcn_icml22/README.md)
 - [Structural Entropy Guided Graph Hierarchical Pooling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/sep_icml22/README.md)
 - [Graph-Coupled Oscillator Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/graphcon_icml22/README.md)
 - [Nonlinear Feature Diffusion on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/hypernd_icml22/README.md)
@@ -79,7 +86,6 @@
 - [Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/pocket2mol_icml22/README.md)
 - [Rethinking Graph Neural Networks for Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/bwgnn_icml22/README.md)
 - [PACE: A Parallelizable Computation Encoder for Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/pace_icml22/README.md)
-- [Structure-Aware Transformer for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/sat_icml22/README.md)
 - [3D Infomax improves GNNs for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/3dinfomax_icml22/README.md)
 
 </details>

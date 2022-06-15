@@ -63,9 +63,14 @@
 
 # Equivariance
 - [Equivariant graph neural networks with complete local frames](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/se3gnn_icml22/README.md)
-- [On the Equivalence Between Temporal and Static Equivariant Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/grugcn_icml22/README.md)
 - [Equivariant Quantum Graph Circuits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/eqgc_icml22/README.md)
 - [SpeqNets: Sparsity-aware permutation-equivariant graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/speqnet_icml22/README.md)
+
+
+
+# Temporal Data
+- [On the Equivalence Between Temporal and Static Equivariant Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/grugcn_icml22/README.md)
+- [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/dstagnn_icml22/README.md)
 
 
 
@@ -154,12 +159,15 @@
 
 
 
+# Benchmarks
+- [The CLRS Algorithmic Reasoning Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/clrs_icml22/README.md)
+- [Particle Transformer for Jet Tagging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/jetclass_icml22/README.md)
+
+
+
 # Miscellaneous
 - [Information Bottleneck-Guided Stochastic Attention Mechanism for Interpretable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gsat_icml22/README.md)
-- [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/dstagnn_icml22/README.md)
-- [The CLRS Algorithmic Reasoning Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/clrs_icml22/README.md)
 - [GACT: Activation Compressed Training for Generic Network Architectures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gact_icml22/README.md)
-- [Particle Transformer for Jet Tagging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/jetclass_icml22/README.md)
 - Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology
 - Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning
 - Nonparametric Embeddings of Sparse High-Order Interaction Events
