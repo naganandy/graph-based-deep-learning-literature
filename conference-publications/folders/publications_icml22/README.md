@@ -61,6 +61,12 @@
 
 
 
+# Temporal Data
+- [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/dstagnn_icml22/README.md)
+- [On the Equivalence Between Temporal and Static Equivariant Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/grugcn_icml22/README.md)
+
+
+
 # Equivariance
 - [Equivariant graph neural networks with complete local frames](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/se3gnn_icml22/README.md)
 - [Equivariant Quantum Graph Circuits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/eqgc_icml22/README.md)
@@ -68,16 +74,12 @@
 
 
 
-# Temporal Data
-- [On the Equivalence Between Temporal and Static Equivariant Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/grugcn_icml22/README.md)
-- [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/dstagnn_icml22/README.md)
-
-
-
 # Molecules
 - [3DLinker: An E(3) Equivariant Variational Autoencoder for Molecular Linker Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/3dlinker_icml22/README.md)
 - [3D Infomax improves GNNs for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/3dinfomax_icml22/README.md)
 - [Molecular Graph Representation Learning via Heterogeneous Motif Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/hmgnn_icml22/README.md)
+- [Generative Coarse-Graining of Molecular Conformations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/cgvae_icml22/README.md)
+- [Equivariant Diffusion for Molecule Generation in 3D](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/edm_icml22/README.md)
 
 
 
