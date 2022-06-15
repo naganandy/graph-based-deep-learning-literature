@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{spectre_icml22,
-author = {Karolis Martinkus and Andreas Loukas and Nathanaël Perraudin and Roger Wattenhofer},
+author = {Karolis Martinkus and Andreas Loukas and Nathanael Perraudin and Roger Wattenhofer},
 title = {SPECTRE : Spectral Conditioning Overcomes the Expressivity Limits of One-shot Graph Generators},
 booktitle = {Proceedings of the 39th International Conference on Machine Learning (ICML)},
 year = {2022}

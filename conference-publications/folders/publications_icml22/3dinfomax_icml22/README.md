@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{3dinfomax_icml22,
-author = {Hannes Stärk and Dominique Beaini and Gabriele Corso and Prudencio Tossou and Christian Dallago and Stephan Günnemann and Pietro Lió},
+author = {Hannes Stark and Dominique Beaini and Gabriele Corso and Prudencio Tossou and Christian Dallago and Stephan Gunnemann and Pietro Lio},
 title = {3D Infomax improves GNNs for Molecular Property Prediction},
 booktitle = {Proceedings of the 39th International Conference on Machine Learning (ICML)},
 year = {2022}

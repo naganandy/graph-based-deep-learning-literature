@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{se3gnn_icml22,
-author = {weitao du and He Zhang and Yuanqi Du and Qi Meng and Wei Chen and Tie-Yan Liu and Nanning Zheng and Bin Shao},
+author = {Weitao Du and He Zhang and Yuanqi Du and Qi Meng and Wei Chen and Tie-Yan Liu and Nanning Zheng and Bin Shao},
 title = {Equivariant graph neural networks with complete local frames},
 booktitle = {Proceedings of the 39th International Conference on Machine Learning (ICML)},
 year = {2022}

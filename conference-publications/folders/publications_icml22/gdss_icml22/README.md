@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{gdss_icml22,
-author = {and Seul Lee and Sung Ju Hwang},
+author = {Jaehyeong Jo and Seul Lee and Sung Ju Hwang},
 title = {Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations},
 booktitle = {Proceedings of the 39th International Conference on Machine Learning (ICML)},
 year = {2022}
