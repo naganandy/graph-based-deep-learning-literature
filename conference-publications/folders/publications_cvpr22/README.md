@@ -10,16 +10,25 @@
 
 
 # Scene Graph Generation
-- [SGTR: End-to-End Scene Graph Generation With Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sgtr_cvpr22/README.md)
 - [HL-Net: Heterophily Learning Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/hlnet_cvpr22/README.md)
 - [RU-Net: Regularized Unrolling Network for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/runet_cvpr22/README.md)
+- [SGTR: End-to-End Scene Graph Generation With Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sgtr_cvpr22/README.md)
 
 
 
-# Action Recognition
-- [Revisiting Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/poseconv3d_cvpr22/README.md)
-- [InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/infogcn_cvpr22/README.md)
-- [Object-Relation Reasoning Graph for Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/or2g_cvpr22/README.md)
+# Graph Transformers
+- [Cross-Modal Clinical Graph Transformer for Ophthalmic Report Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/cgt_cvpr22/README.md)
+- [RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/reltransformer_cvpr22/README.md)
+- [Graph-Based Spatial Transformer With Memory Replay for Multi-Future Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/stmr_cvpr22/README.md)
+- [GraFormer: Graph-Oriented Transformer for 3D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/graformer_cvpr22/README.md)
+- [TrackFormer: Multi-Object Tracking With Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/trackformer_cvpr22/README.md)
+- [Multi-Modal Dynamic Graph Transformer for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/mdgt_cvpr22/README.md)
+
+
+
+# Vision and Language Navigation
+- [Think Global, Act Local: Dual-Scale Graph Transformer for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/duet_cvpr22/README.md)
+- [Reinforced Structured State-Evolution for Vision-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rlmsem_cvpr22/README.md)
 
 
 
@@ -31,10 +40,15 @@
 
 
 
+# Action Recognition
+- [Revisiting Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/poseconv3d_cvpr22/README.md)
+- [InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/infogcn_cvpr22/README.md)
+- [Object-Relation Reasoning Graph for Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/or2g_cvpr22/README.md)
+
+
+
 # Miscellaneous
-- [Cross-Modal Clinical Graph Transformer for Ophthalmic Report Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/cgt_cvpr22/README.md)
 - [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/orphicx_cvpr22/README.md)
-- [Reinforced Structured State-Evolution for Vision-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rlmsem_cvpr22/README.md)
 - [RAGO: Recurrent Graph Optimizer for Multiple Rotation Averaging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rago_cvpr22/README.md)
 - [Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/archgraph_cvpr22/README.md)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/diyfscil_cvpr22/README.md)
@@ -49,11 +63,9 @@
 - [AEGNN: Asynchronous Event-Based Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/aegnn_cvpr22/README.md)
 - [Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gagcn_cvpr22/README.md)
 - [CellTypeGraph: A New Geometric Computer Vision Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/celltypegraph_cvpr22/README.md)
-- [RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/reltransformer_cvpr22/README.md)
 - [Towards Robust Adaptive Object Detection Under Noisy Annotations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nlte_cvpr22/README.md)
 - [Decoupled Multi-Task Learning With Cyclical Self-Regulation for Face Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/dmlcsr_cvpr22/README.md)
 - [Improving Subgraph Recognition With Variational Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vgib_cvpr22/README.md)
-- [Graph-Based Spatial Transformer With Memory Replay for Multi-Future Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/stmr_cvpr22/README.md)
 - [Bandits for Structure Perturbation-Based Black-Box Attacks To Graph Neural Networks With Theoretical Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/banditattackgnn_cvpr22/README.md)
 - [Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces From 3D MRI Scans With Geometric Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vox2cortex_cvpr22/README.md)
 - [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
@@ -68,7 +80,6 @@
 - [DST: Dynamic Substitute Training for Data-Free Black-Box Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/dst_cvpr22/README.md)
 - [Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ugcn_cvpr22/README.md)
 - [Adaptive Trajectory Prediction via Transferable GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/tgnn_cvpr22/README.md)
-
 - [Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/pgbig_cvpr22/README.md)
 - [OnePose: One-Shot Object Pose Estimation Without CAD Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/onepose_cvpr22/README.md)
 - [MobRecon: Mobile-Friendly Hand Mesh Reconstruction From Monocular Image](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/mobrecon_cvpr22/README.md)
@@ -76,15 +87,11 @@
 - [Lifelong Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lgl_cvpr22/README.md)
 - [Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/hist_cvpr22/README.md)
 - [MS2DG-Net: Progressive Correspondence Learning via Multiple Sparse Semantics Dynamic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ms2dgnet_cvpr22/README.md)
-- [GraFormer: Graph-Oriented Transformer for 3D Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/graformer_cvpr22/README.md)
 - [Neural Collaborative Graph Machines for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ncgm_cvpr22/README.md)
 - [A Voxel Graph CNN for Object Classification With Event Cameras](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/evvgcnn_cvpr22/README.md)
 - ["The Pedestrian Next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/bevgnn_cvpr22/README.md)
-- [TrackFormer: Multi-Object Tracking With Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/trackformer_cvpr22/README.md)
 - [Learning Semantic Associations for Mirror Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/qgcn_cvpr22/README.md)
 - [Interacting Attention Graph for Single Image Two-Hand Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/intaghand_cvpr22/README.md)
-- [Think Global, Act Local: Dual-Scale Graph Transformer for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/duet_cvpr22/README.md)
-- [Multi-Modal Dynamic Graph Transformer for Visual Grounding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/mdgt_cvpr22/README.md)
 - [PolyWorld: Polygonal Building Extraction With Graph Neural Networks in Satellite Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/polyworld_cvpr22/README.md)
 - [GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gatcadnet_cvpr22/README.md)
 - [OcclusionFusion: Occlusion-Aware Motion Estimation for Real-Time Dynamic 3D Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/occlusionfusion_cvpr22/README.md)
