@@ -68,9 +68,15 @@
 
 
 
+# Adversarial Attacks
+- [Bandits for Structure Perturbation-Based Black-Box Attacks To Graph Neural Networks With Theoretical Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/banditattackgnn_cvpr22/README.md)
+- [DST: Dynamic Substitute Training for Data-Free Black-Box Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/dst_cvpr22/README.md)
+
+
+
 # Graph Matching
-- [Multi-Robot Active Mapping via Neural Bipartite Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/neuralcomapping_cvpr22/README.md)
 - [Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/asargm_cvpr22/README.md)
+- [Multi-Robot Active Mapping via Neural Bipartite Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/neuralcomapping_cvpr22/README.md)
 - [Graph-Context Attention Networks for Size-Varied Deep Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gcan_cvpr22/README.md)
 
 
@@ -95,6 +101,12 @@
 
 
 
+# Healthcare
+- [CellTypeGraph: A New Geometric Computer Vision Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/celltypegraph_cvpr22/README.md)
+- [Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces From 3D MRI Scans With Geometric Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vox2cortex_cvpr22/README.md)
+
+
+
 # Miscellaneous
 - [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/orphicx_cvpr22/README.md)
 - [RAGO: Recurrent Graph Optimizer for Multiple Rotation Averaging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rago_cvpr22/README.md)
@@ -103,10 +115,7 @@
 - [Robust Optimization As Data Augmentation for Large-Scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
 - [Convolutions for Spatial Interaction Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/csim_cvpr22/README.md)
 - [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
-- [CellTypeGraph: A New Geometric Computer Vision Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/celltypegraph_cvpr22/README.md)
 - [Improving Subgraph Recognition With Variational Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vgib_cvpr22/README.md)
-- [Bandits for Structure Perturbation-Based Black-Box Attacks To Graph Neural Networks With Theoretical Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/banditattackgnn_cvpr22/README.md)
-- [Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces From 3D MRI Scans With Geometric Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vox2cortex_cvpr22/README.md)
 - [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
 - [Node-Aligned Graph Convolutional Network for Whole-Slide Image Representation and Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nagcn_cvpr22/README.md)
 - [Long-Term Visual Map Sparsification With Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sfmgnn_cvpr22/README.md)
@@ -114,7 +123,6 @@
 - [Collaborative Learning for Hand and Object Reconstruction With Attention-Guided Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/aggc_cvpr22/README.md)
 - [Automatic Relation-Aware Graph Network Proliferation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/argnp_cvpr22/README.md)
 - [IntentVizor: Towards Generic Query Guided Interactive Video Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/intentvizor_cvpr22/README.md)
-- [DST: Dynamic Substitute Training for Data-Free Black-Box Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/dst_cvpr22/README.md)
 - [Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-Based 3D Hand Pose and Mesh Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ugcn_cvpr22/README.md)
 - [Adaptive Trajectory Prediction via Transferable GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/tgnn_cvpr22/README.md)
 - [Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/pgbig_cvpr22/README.md)
