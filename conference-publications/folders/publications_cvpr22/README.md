@@ -83,6 +83,7 @@
 # Videos
 - [IntentVizor: Towards Generic Query Guided Interactive Video Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/intentvizor_cvpr22/README.md)
 - [AirObject: A Temporally Evolving Graph Embedding for Object Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/airobject_cvpr22/README.md)
+- [Compositional Temporal Grounding With Structured Variational Cross-Graph Correspondence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/visa_cvpr22/README.md)
 
 
 
@@ -127,6 +128,7 @@
 
 # Healthcare
 - [CellTypeGraph: A New Geometric Computer Vision Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/celltypegraph_cvpr22/README.md)
+- [Node-Aligned Graph Convolutional Network for Whole-Slide Image Representation and Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nagcn_cvpr22/README.md)
 - [Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces From 3D MRI Scans With Geometric Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vox2cortex_cvpr22/README.md)
 
 
@@ -143,7 +145,6 @@
 - [Robust Optimization As Data Augmentation for Large-Scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
 - [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
 - [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
-- [Node-Aligned Graph Convolutional Network for Whole-Slide Image Representation and Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nagcn_cvpr22/README.md)
 - [Long-Term Visual Map Sparsification With Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sfmgnn_cvpr22/README.md)
 - [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/skinningnet_cvpr22/README.md)
 - [Lifelong Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lgl_cvpr22/README.md)
@@ -154,4 +155,3 @@
 - [PolyWorld: Polygonal Building Extraction With Graph Neural Networks in Satellite Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/polyworld_cvpr22/README.md)
 - [OcclusionFusion: Occlusion-Aware Motion Estimation for Real-Time Dynamic 3D Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/occlusionfusion_cvpr22/README.md)
 - [ClusterGNN: Cluster-Based Coarse-To-Fine Graph Neural Network for Efficient Feature Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/clustergnn_cvpr22/README.md)
-- [Compositional Temporal Grounding With Structured Variational Cross-Graph Correspondence Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/visa_cvpr22/README.md)
