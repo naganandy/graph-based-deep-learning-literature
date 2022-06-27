@@ -115,6 +115,7 @@
 # Object Detection
 - [SIGMA: Semantic-Complete Graph Matching for Domain Adaptive Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sigma_cvpr22/README.md)
 - [Towards Robust Adaptive Object Detection Under Noisy Annotations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nlte_cvpr22/README.md)
+- [Learning Semantic Associations for Mirror Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/qgcn_cvpr22/README.md)
 
 
 
@@ -155,7 +156,6 @@
 - [Lifelong Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lgl_cvpr22/README.md)
 - [Neural Collaborative Graph Machines for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ncgm_cvpr22/README.md)
 - [A Voxel Graph CNN for Object Classification With Event Cameras](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/evvgcnn_cvpr22/README.md)
-- [Learning Semantic Associations for Mirror Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/qgcn_cvpr22/README.md)
 - [PolyWorld: Polygonal Building Extraction With Graph Neural Networks in Satellite Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/polyworld_cvpr22/README.md)
 - [OcclusionFusion: Occlusion-Aware Motion Estimation for Real-Time Dynamic 3D Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/occlusionfusion_cvpr22/README.md)
 - [ClusterGNN: Cluster-Based Coarse-To-Fine Graph Neural Network for Efficient Feature Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/clustergnn_cvpr22/README.md)
