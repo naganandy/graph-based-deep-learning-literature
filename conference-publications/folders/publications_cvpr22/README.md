@@ -60,6 +60,12 @@
 
 
 
+# Equivariance
+- [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
+- [MS2DG-Net: Progressive Correspondence Learning via Multiple Sparse Semantics Dynamic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ms2dgnet_cvpr22/README.md)
+
+
+
 # Computer Aided Drawing
 - [JoinABLe: Learning Bottom-Up Assembly of Parametric CAD Joints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/joinable_cvpr22/README.md)
 - [GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gatcadnet_cvpr22/README.md)
@@ -143,12 +149,10 @@
 - [RAGO: Recurrent Graph Optimizer for Multiple Rotation Averaging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rago_cvpr22/README.md)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/diyfscil_cvpr22/README.md)
 - [Robust Optimization As Data Augmentation for Large-Scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
-- [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
 - [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
 - [Long-Term Visual Map Sparsification With Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sfmgnn_cvpr22/README.md)
 - [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/skinningnet_cvpr22/README.md)
 - [Lifelong Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lgl_cvpr22/README.md)
-- [MS2DG-Net: Progressive Correspondence Learning via Multiple Sparse Semantics Dynamic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ms2dgnet_cvpr22/README.md)
 - [Neural Collaborative Graph Machines for Table Structure Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ncgm_cvpr22/README.md)
 - [A Voxel Graph CNN for Object Classification With Event Cameras](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/evvgcnn_cvpr22/README.md)
 - [Learning Semantic Associations for Mirror Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/qgcn_cvpr22/README.md)
