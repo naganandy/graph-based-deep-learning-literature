@@ -1,4 +1,4 @@
-# [Publications in CVPR 2022](https://cvpr2022.thecvf.com/accepted-papers)
+# [Publications in CVPR 2022](https://openaccess.thecvf.com/CVPR2022?day=all)
 
 
 
