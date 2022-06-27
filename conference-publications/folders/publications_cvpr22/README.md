@@ -47,6 +47,7 @@
 
 # Autonomous Driving
 - [Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/strive_cvpr22/README.md)
+- [Convolutions for Spatial Interaction Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/csim_cvpr22/README.md)
 - [LTP: Lane-Based Trajectory Prediction for Autonomous Driving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ltp_cvpr22/README.md)
 - [Adaptive Trajectory Prediction via Transferable GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/tgnn_cvpr22/README.md)
 - ["The Pedestrian Next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/bevgnn_cvpr22/README.md)
@@ -76,6 +77,12 @@
 - [Spatio-Temporal Gating-Adjacency GCN for Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/gagcn_cvpr22/README.md)
 - [AEGNN: Asynchronous Event-Based Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/aegnn_cvpr22/README.md)
 - [Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/pgbig_cvpr22/README.md)
+
+
+
+# Interpretability
+- [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/orphicx_cvpr22/README.md)
+- [Improving Subgraph Recognition With Variational Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vgib_cvpr22/README.md)
 
 
 
@@ -125,13 +132,10 @@
 
 
 # Miscellaneous
-- [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/orphicx_cvpr22/README.md)
 - [RAGO: Recurrent Graph Optimizer for Multiple Rotation Averaging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rago_cvpr22/README.md)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/diyfscil_cvpr22/README.md)
 - [Robust Optimization As Data Augmentation for Large-Scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
-- [Convolutions for Spatial Interaction Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/csim_cvpr22/README.md)
 - [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
-- [Improving Subgraph Recognition With Variational Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/vgib_cvpr22/README.md)
 - [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
 - [Node-Aligned Graph Convolutional Network for Whole-Slide Image Representation and Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nagcn_cvpr22/README.md)
 - [Long-Term Visual Map Sparsification With Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sfmgnn_cvpr22/README.md)
