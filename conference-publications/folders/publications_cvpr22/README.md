@@ -62,6 +62,7 @@
 
 # Equivariance
 - [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/equimp_cvpr22/README.md)
+- [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
 - [MS2DG-Net: Progressive Correspondence Learning via Multiple Sparse Semantics Dynamic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/ms2dgnet_cvpr22/README.md)
 
 
@@ -102,6 +103,7 @@
 # Adversarial Attacks
 - [Bandits for Structure Perturbation-Based Black-Box Attacks To Graph Neural Networks With Theoretical Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/banditattackgnn_cvpr22/README.md)
 - [DST: Dynamic Substitute Training for Data-Free Black-Box Attack](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/dst_cvpr22/README.md)
+- [Robust Optimization As Data Augmentation for Large-Scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
 
 
 
@@ -149,8 +151,6 @@
 # Miscellaneous
 - [RAGO: Recurrent Graph Optimizer for Multiple Rotation Averaging](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/rago_cvpr22/README.md)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/diyfscil_cvpr22/README.md)
-- [Robust Optimization As Data Augmentation for Large-Scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/flag_cvpr22/README.md)
-- [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/nhgcn_cvpr22/README.md)
 - [Long-Term Visual Map Sparsification With Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/sfmgnn_cvpr22/README.md)
 - [SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/skinningnet_cvpr22/README.md)
 - [Lifelong Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_cvpr22/lgl_cvpr22/README.md)
