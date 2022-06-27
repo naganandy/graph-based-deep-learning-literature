@@ -56,6 +56,7 @@
 # Expressivity
 - [SPECTRE : Spectral Conditioning Overcomes the Expressivity Limits of One-shot Graph Generators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/spectre_icml22/README.md)
 - [A Theoretical Comparison of Graph Neural Network Extensions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/tcgnne_icml22/README.md)
+- [Boosting Graph Structure Learning with Dummy Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/dn4gl_icml22/README.md)
 - [Weisfeiler-Lehman meets Gromov-Wasserstein](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/wlgw_icml22/README.md)
 - [Going Deeper into Permutation-Sensitive Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/pggnn_icml22/README.md)
 
@@ -174,7 +175,6 @@
 - Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning
 - Nonparametric Embeddings of Sparse High-Order Interaction Events
 - Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology
-- Boosting Graph Structure Learning with Dummy Nodes
 - Injecting Logical Constraints into Neural Networks via Straight-Through Estimators
 - Simultaneous Graph Signal Clustering and Graph Learning
 - The Complexity of k-Means Clustering when Little is Known

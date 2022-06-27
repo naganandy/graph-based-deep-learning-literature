@@ -32,6 +32,7 @@
 <summary> more </summary> 
 
 
+- [Boosting Graph Structure Learning with Dummy Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/dn4gl_icml22/README.md)
 - [Structure-Aware Transformer for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/sat_icml22/README.md)
 - [Semiparametric Subgraph Reasoning for Question Answering over Large Knowledge Bases](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/cbrsubg_icml22/README.md)
 - [Efficient Computation of Higher-Order Subgraph Attribution via Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gnnhsa_icml22/README.md)
