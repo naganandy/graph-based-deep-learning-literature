@@ -1,4 +1,4 @@
-# [Publications in ICML 2022](https://icml.cc/Conferences/2022/AcceptedPapersInitial)
+# [Publications in ICML 2022](https://icml.cc/Conferences/2022/Schedule)
 
 
 
@@ -25,9 +25,14 @@
 # Scalability
 - [GraphFM: Improving Large-Scale GNN Training via Feature Momentum](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/graphfm_icml22/README.md)
 - [Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gts_icml22/README.md)
-- [Efficient Computation of Higher-Order Subgraph Attribution via Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gnnhsa_icml22/README.md)
 - [Scalable Deep Gaussian Markov Random Fields for General Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/graphgmrf_icml22/README.md)
 - [LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/lense_icml22/README.md)
+
+
+
+# Explainability
+- [Efficient Computation of Higher-Order Subgraph Attribution via Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gnnhsa_icml22/README.md)
+- [Information Bottleneck-Guided Stochastic Attention Mechanism for Interpretable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gsat_icml22/README.md)
 
 
 
@@ -169,13 +174,7 @@
 
 
 # Miscellaneous
-- [Information Bottleneck-Guided Stochastic Attention Mechanism for Interpretable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gsat_icml22/README.md)
 - [GACT: Activation Compressed Training for Generic Network Architectures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/gact_icml22/README.md)
-- Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology
-- Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning
-- Nonparametric Embeddings of Sparse High-Order Interaction Events
-- Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology
-- Injecting Logical Constraints into Neural Networks via Straight-Through Estimators
-- Simultaneous Graph Signal Clustering and Graph Learning
-- The Complexity of k-Means Clustering when Little is Known
-- Learning Iterative Reasoning through Energy Minimization
+- [Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/unbias_icml22/README.md)
+- [Injecting Logical Constraints into Neural Networks via Straight-Through Estimators](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/clste_icml22/README.md)
+- [Learning Iterative Reasoning through Energy Minimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_icml22/irem_icml22/README.md)
