@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{hetermpc_acl22,
-title = {HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations},
-author = {Jia-Chen Gu and Chao-Hong Tan and Chongyang Tao and Zhen-Hua Ling and Huang Hu and Xiubo Geng and Daxin Jiang},
-booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)},
+title = {{H}eter{MPC}: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations},
+author = {Gu, Jia-Chen and Tan, Chao-Hong and Tao, Chongyang and Ling, Zhen-Hua and Hu, Huang and Geng, Xiubo and Jiang, Daxin},
+booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL)},
+pages = {5086--5097},
 year = {2022}
 }
 ```
 
 links
-- [arXiv](https://arxiv.org/abs/2203.08500)
+- [aclweb](https://www.aclweb.org/anthology/2022.acl-long.349/)
+- [arxiv](https://arxiv.org/abs/2203.08500)
