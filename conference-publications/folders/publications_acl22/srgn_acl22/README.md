@@ -5,6 +5,7 @@
 title = {Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering},
 author = {Zhang, Jing and Zhang, Xiaokang and Yu, Jifan and Tang, Jian and Tang, Jie and Li, Cuiping and Chen, Hong},
 booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (ACL)},
+pages = {5773--5784},
 year = {2022}
 }
 ```
