@@ -3,15 +3,15 @@
 
 
 # Entity Recognition
-- [Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/sgifget_acl22/README.md)
 - [Nested Named Entity Recognition with Span-level Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/gnner_acl22/README.md)
+- [Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/sgifget_acl22/README.md)
 
 
 
 # Knowledge Graphs
+- [An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/datti_acl22/README.md)
 - [Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/cen_acl22/README.md)
 - [Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/ssaga_acl22/README.md)
-- [An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/datti_acl22/README.md)
 - [Enhancing Chinese Pre-trained Language Model via Heterogeneous Linguistics Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/hlg_acl22/README.md)
 
 
@@ -30,8 +30,8 @@
 
 
 # Machine Comprehension
-- [Tracing Origins: Coreference-aware Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/corefgnn_acl22/README.md)
 - [Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/tmeg_acl22/README.md)
+- [Tracing Origins: Coreference-aware Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/corefgnn_acl22/README.md)
 - [AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/adalogn_acl22/README.md)
 
 

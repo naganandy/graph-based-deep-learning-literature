@@ -380,6 +380,7 @@
 - [Discrete Opinion Tree Induction for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/dotgcn_acl22/README.md)
 - [JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/jointcl_acl22/README.md)
 - [An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/datti_acl22/README.md)
+- [Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_acl22/infop_acl22/README.md)
 
 </details>
 
