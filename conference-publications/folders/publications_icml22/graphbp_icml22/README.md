@@ -2,13 +2,15 @@
 
 ```
 @inproceedings{graphbp_icml22,
-author = {Meng Liu and Youzhi Luo and Kanji Uchino and Koji Maruhashi and Shuiwang Ji},
-title = {Generating 3D Molecules for Target Protein Binding},
+author = {Liu, Meng and Luo, Youzhi and Uchino, Kanji and Maruhashi, Koji and Ji, Shuiwang},
+title = {Generating 3{D} Molecules for Target Protein Binding},
 booktitle = {Proceedings of the 39th International Conference on Machine Learning (ICML)},
+pages = {13912--13924},
 year = {2022}
 }
 ```
 
 links
+ - [pmlr](https://proceedings.mlr.press/v162/liu22m.html)
 - [icml](https://icml.cc/Conferences/2022/Schedule?showEvent=16436)
 - [arXiv](https://arxiv.org/abs/2204.09410)

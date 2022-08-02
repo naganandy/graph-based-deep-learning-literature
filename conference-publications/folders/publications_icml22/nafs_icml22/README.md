@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{nafs_icml22,
-author = {Wentao Zhang and Zeang Sheng and Mingyu Yang and Yang Li and Yu Shen and Zhi Yang and Bin Cui},
-title = {NAFS: A Simple yet Tough-to-beat Baseline for Graph Representation Learning},
+author = {Zhang, Wentao and Sheng, Zeang and Yang, Mingyu and Li, Yang and Shen, Yu and Yang, Zhi and Cui, Bin},
+title = {{NAFS}: A Simple yet Tough-to-beat Baseline for Graph Representation Learning},
 booktitle = {Proceedings of the 39th International Conference on Machine Learning (ICML)},
+pages = {26467--26483},
 year = {2022}
 }
 ```
 
 links
+ - [pmlr](https://proceedings.mlr.press/v162/zhang22y.html)
 - [icml](https://icml.cc/Conferences/2022/Schedule?showEvent=17248)
