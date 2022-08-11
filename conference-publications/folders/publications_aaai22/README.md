@@ -95,6 +95,12 @@
 
 
 
+# External Knowledge
+- [GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphmemdialog_aaai22/README.md)
+- [Dynamic Key-Value Memory Enhanced Multi-Step Graph Reasoning for Knowledge-Based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmmgr_aaai22/README.md)
+
+
+
 # Computer Vision
 - [MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-based Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/magic_aaai22/README.md)
 - [Joint Deep Multi-Graph Matching and 3D Geometry Learning from Inhomogeneous 2D Image Collections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmgm_aaai22/README.md)
@@ -168,9 +174,7 @@
 - [Disentangled Spatiotemporal Graph Generative Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgdvae_aaai22/README.md)
 - [ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sctag_aaai22/README.md)
 - [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
-- [GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphmemdialog_aaai22/README.md)
 - [TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tigger_aaai22/README.md)
-- [Dynamic Key-Value Memory Enhanced Multi-Step Graph Reasoning for Knowledge-Based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmmgr_aaai22/README.md)
 - [DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/disencite_aaai22/README.md)
 - [Interpretable Neural Subgraph Matching for Graph Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isonet_aaai22/README.md)
 - [Stationary Diffusion State Neural Estimation for Multiview Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sdsne_aaai22/README.md)
