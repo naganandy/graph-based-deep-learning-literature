@@ -113,6 +113,13 @@
 
 
 
+# Scene Graphs
+- [SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgeitl_aaai22/README.md)
+- [Improving Scene Graph Classification by Exploiting Knowledge from Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgkt_aaai22/README.md)
+- [LOGICDEF: An Interpretable Defense Framework against Adversarial Examples via Inductive Scene Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/logicdef_aaai22/README.md)
+
+
+
 # Videos
 - [(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tpod_aaai22/README.md)
 - [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hgqa_aaai22/README.md)
@@ -127,13 +134,6 @@
 - [Learning to Detect 3D Facial Landmarks via Heatmap Regression with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/3dfagcn_aaai22/README.md)
 - [Hierarchical Multi-Supervision Multi-Interaction Graph Attention Network for Multi-Camera Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hm3gat_aaai22/README.md)
 - [Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tacnn_aaai22/README.md)
-
-
-
-# Scene Graphs
-- [SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgeitl_aaai22/README.md)
-- [Improving Scene Graph Classification by Exploiting Knowledge from Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgkt_aaai22/README.md)
-- [LOGICDEF: An Interpretable Defense Framework against Adversarial Examples via Inductive Scene Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/logicdef_aaai22/README.md)
 
 
 
