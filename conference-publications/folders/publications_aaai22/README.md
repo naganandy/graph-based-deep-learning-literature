@@ -176,6 +176,12 @@
 
 
 
+# Combinatorial Problems
+- [MIP-GNN: A Data-Driven Framework for Guiding Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mipgnn_aaai22/README.md)
+- [Beyond GNNs: An Efficient Architecture for Graph Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnplus_aaai22/README.md)
+
+
+
 # Tree Search
 - [Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dntumpnn_aaai22/README.md)
 - [Qubit Routing using Graph Neural Network aided Monte Carlo Tree Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/qrgnn_aaai22/README.md)
@@ -196,8 +202,6 @@
 - [GNN-Retro: Retrosynthetic Planning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnretro_aaai22/README.md)
 - [Bag Graph: Multiple Instance Learning Using Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/baggraph_aaai22/README.md)
 - [Multi-Scale Distillation from Multiple Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mskd_aaai22/README.md)
-- [Beyond GNNs: An Efficient Architecture for Graph Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnplus_aaai22/README.md)
-- [MIP-GNN: A Data-Driven Framework for Guiding Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mipgnn_aaai22/README.md)
 - [Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mvg_aaai22/README.md)
 - [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
 - [DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/disencite_aaai22/README.md)
