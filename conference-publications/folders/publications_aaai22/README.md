@@ -46,6 +46,7 @@
 - [A Self-supervised Mixed-curvature Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/selfmgnn_aaai22/README.md)
 - [Augmentation-Free Self-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/afgrl_aaai22/README.md)
 - [Self-Supervised Graph Neural Networks via Diverse and Interactive Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dimp_aaai22/README.md)
+- [CoCoS: Enhancing Semi-supervised Learning on Graphs with Unlabeled Data via Contrastive Context Sharing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cocos_aaai22/README.md)
 
 
 
@@ -164,7 +165,6 @@
 - [Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mvg_aaai22/README.md)
 - [Learning Optical Flow with Adaptive Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/agflow_aaai22/README.md)
 - [Disentangled Spatiotemporal Graph Generative Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgdvae_aaai22/README.md)
-- [CoCoS: Enhancing Semi-supervised Learning on Graphs with Unlabeled Data via Contrastive Context Sharing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cocos_aaai22/README.md)
 - [ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sctag_aaai22/README.md)
 - [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
 - [GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphmemdialog_aaai22/README.md)
