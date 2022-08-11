@@ -194,6 +194,12 @@
 
 
 
+# Citation Networks
+- [DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/disencite_aaai22/README.md)
+- [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
+
+
+
 # Miscellaneous
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 - [Fast Graph Neural Tangent Kernel via Kronecker Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/fastgntk_aaai22/README.md)
@@ -203,6 +209,4 @@
 - [Bag Graph: Multiple Instance Learning Using Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/baggraph_aaai22/README.md)
 - [Multi-Scale Distillation from Multiple Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mskd_aaai22/README.md)
 - [Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mvg_aaai22/README.md)
-- [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
-- [DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/disencite_aaai22/README.md)
 - [Interpretable Neural Subgraph Matching for Graph Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isonet_aaai22/README.md)
