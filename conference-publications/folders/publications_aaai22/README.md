@@ -112,6 +112,7 @@
 # Videos
 - [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hgqa_aaai22/README.md)
 - [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/acgnet_aaai22/README.md)
+- [Learning Optical Flow with Adaptive Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/agflow_aaai22/README.md)
 - [(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tpod_aaai22/README.md)
 
 
@@ -164,7 +165,6 @@
 - [Beyond GNNs: An Efficient Architecture for Graph Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnplus_aaai22/README.md)
 - [MIP-GNN: A Data-Driven Framework for Guiding Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mipgnn_aaai22/README.md)
 - [Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mvg_aaai22/README.md)
-- [Learning Optical Flow with Adaptive Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/agflow_aaai22/README.md)
 - [Disentangled Spatiotemporal Graph Generative Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgdvae_aaai22/README.md)
 - [ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sctag_aaai22/README.md)
 - [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
