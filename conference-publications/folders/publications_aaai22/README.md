@@ -6,6 +6,7 @@
 - [Orthogonal Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/orthogconv_aaai22/README.md)
 - [Adaptive Kernel Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/akgnn_aaai22/README.md)
 - [Deep Graph Clustering via Dual Correlation Reduction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dcrn_aaai22/README.md)
+- [Learning from the Dark: Boosting Graph Convolutional Neural Networks with Diverse Negative Samples](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/d2gcn_aaai22/README.md)
 
 
 
@@ -15,6 +16,7 @@
 - [Powerful Graph Convolutional Networks with Adaptive Propagation Mechanism for Homophily and Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hoggcn_aaai22/README.md)
 - [Deformable Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/deformablegcn_aaai22/README.md)
 - [Block Modeling-Guided Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bmgcn_aaai22/README.md)
+
 
 
 # Explainability
@@ -152,7 +154,6 @@
 - [Graph Filtration Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gfk_aaai22/README.md)
 - [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphtransplant_aaai22/README.md)
 - [MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mshgat_aaai22/README.md)
-- [Learning from the Dark: Boosting Graph Convolutional Neural Networks with Diverse Negative Samples](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/d2gcn_aaai22/README.md)
 - [Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bigene_aaai22/README.md)
 - [Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gltlf_aaai22/README.md)
 - [Hierarchical Multi-Supervision Multi-Interaction Graph Attention Network for Multi-Camera Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hm3gat_aaai22/README.md)
