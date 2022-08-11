@@ -101,6 +101,14 @@
 
 
 
+# Videos
+- [(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tpod_aaai22/README.md)
+- [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hgqa_aaai22/README.md)
+- [Learning Optical Flow with Adaptive Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/agflow_aaai22/README.md)
+- [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/acgnet_aaai22/README.md)
+
+
+
 # Computer Vision
 - [MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-based Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/magic_aaai22/README.md)
 - [Joint Deep Multi-Graph Matching and 3D Geometry Learning from Inhomogeneous 2D Image Collections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmgm_aaai22/README.md)
@@ -112,14 +120,6 @@
 - [SGEITL: Scene Graph Enhanced Image-Text Learning for Visual Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgeitl_aaai22/README.md)
 - [Improving Scene Graph Classification by Exploiting Knowledge from Texts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sgkt_aaai22/README.md)
 - [LOGICDEF: An Interpretable Defense Framework against Adversarial Examples via Inductive Scene Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/logicdef_aaai22/README.md)
-
-
-
-# Videos
-- [Video as Conditional Graph Hierarchy for Multi-Granular Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hgqa_aaai22/README.md)
-- [ACGNet: Action Complement Graph Network for Weakly-supervised Temporal Action Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/acgnet_aaai22/README.md)
-- [Learning Optical Flow with Adaptive Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/agflow_aaai22/README.md)
-- [(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tpod_aaai22/README.md)
 
 
 
