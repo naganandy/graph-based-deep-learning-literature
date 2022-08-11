@@ -152,6 +152,7 @@
 # Temporal Graphs
 - [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgncde_aaai22/README.md)
 - [HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hagen_aaai22/README.md)
+- [Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/chet_aaai22/README.md)
 - [MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mshgat_aaai22/README.md)
 
 
@@ -184,7 +185,6 @@
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 - [Fast Graph Neural Tangent Kernel via Kronecker Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/fastgntk_aaai22/README.md)
 - [RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/repbin_aaai22/README.md)
-- [Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/chet_aaai22/README.md)
 - [Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bigene_aaai22/README.md)
 - [Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gltlf_aaai22/README.md)
 - [GNN-Retro: Retrosynthetic Planning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnretro_aaai22/README.md)
