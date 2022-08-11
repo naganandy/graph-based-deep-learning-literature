@@ -60,6 +60,12 @@
 
 
 
+# Graph Augmentation
+- [Regularizing Graph Neural Networks via Consistency-Diversity Graph Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/nasa_aaai22/README.md)
+- [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphtransplant_aaai22/README.md)
+
+
+
 # Unsupervised Learning
 - [Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gcfx_aaai22/README.md)
 - [Simple Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sugrl_aaai22/README.md)
@@ -159,7 +165,6 @@
 - [RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/repbin_aaai22/README.md)
 - [Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/chet_aaai22/README.md)
 - [Graph Filtration Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gfk_aaai22/README.md)
-- [Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/graphtransplant_aaai22/README.md)
 - [MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mshgat_aaai22/README.md)
 - [Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bigene_aaai22/README.md)
 - [Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gltlf_aaai22/README.md)
@@ -167,7 +172,6 @@
 - [GNN-Retro: Retrosynthetic Planning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnretro_aaai22/README.md)
 - [Bag Graph: Multiple Instance Learning Using Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/baggraph_aaai22/README.md)
 - [Multi-Scale Distillation from Multiple Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mskd_aaai22/README.md)
-- [Regularizing Graph Neural Networks via Consistency-Diversity Graph Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/nasa_aaai22/README.md)
 - [Beyond GNNs: An Efficient Architecture for Graph Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnplus_aaai22/README.md)
 - [MIP-GNN: A Data-Driven Framework for Guiding Combinatorial Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mipgnn_aaai22/README.md)
 - [Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mvg_aaai22/README.md)
