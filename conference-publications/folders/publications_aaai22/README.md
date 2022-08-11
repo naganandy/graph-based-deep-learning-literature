@@ -32,16 +32,21 @@
 
 
 
-# Few-shot Learning
-- [Hybrid Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hybridgnn_aaai22/README.md)
-- [Meta Propagation Networks for Graph Few-shot Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/metapn_aaai22/README.md)
-
+# Scalability
+- [Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gebt_aaai22/README.md)
+- [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
 
 
 
 # Graph Classification
 - [Cross-Domain Few-Shot Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cdfsgc_aaai22/README.md)
 - [Structural Landmarking and Interaction Modelling: A "SLIM" Network for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/slim_aaai22/README.md)
+
+
+
+# Few-shot Learning
+- [Hybrid Graph Neural Networks for Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hybridgnn_aaai22/README.md)
+- [Meta Propagation Networks for Graph Few-shot Semi-supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/metapn_aaai22/README.md)
 
 
 
@@ -164,10 +169,8 @@
 
 # Miscellaneous
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
-- [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
 - [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgncde_aaai22/README.md)
 - [Fast Graph Neural Tangent Kernel via Kronecker Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/fastgntk_aaai22/README.md)
-- [Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gebt_aaai22/README.md)
 - [HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hagen_aaai22/README.md)
 - [RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/repbin_aaai22/README.md)
 - [Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/chet_aaai22/README.md)
