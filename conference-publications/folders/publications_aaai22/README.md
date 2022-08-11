@@ -28,6 +28,7 @@
 # Expressivity
 - [Generalized Equivariance and Preferential Labeling for GNN Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/plgnn_aaai22/README.md)
 - [Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting and Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmpnn_aaai22/README.md)
+- [Graph Filtration Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gfk_aaai22/README.md)
 
 
 
@@ -170,7 +171,6 @@
 - [HAGEN: Homophily-Aware Graph Convolutional Recurrent Network for Crime Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hagen_aaai22/README.md)
 - [RepBin: Constraint-based Graph Representation Learning for Metagenomic Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/repbin_aaai22/README.md)
 - [Context-aware Health Event Prediction via Transition Functions on Dynamic Disease Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/chet_aaai22/README.md)
-- [Graph Filtration Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gfk_aaai22/README.md)
 - [MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mshgat_aaai22/README.md)
 - [Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bigene_aaai22/README.md)
 - [Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gltlf_aaai22/README.md)
