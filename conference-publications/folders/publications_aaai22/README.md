@@ -119,6 +119,8 @@
 - [MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-based Image Captioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/magic_aaai22/README.md)
 - [Joint Deep Multi-Graph Matching and 3D Geometry Learning from Inhomogeneous 2D Image Collections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dmgm_aaai22/README.md)
 - [Learning to Detect 3D Facial Landmarks via Heatmap Regression with Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/3dfagcn_aaai22/README.md)
+- [Hierarchical Multi-Supervision Multi-Interaction Graph Attention Network for Multi-Camera Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hm3gat_aaai22/README.md)
+- [Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tacnn_aaai22/README.md)
 
 
 
@@ -172,7 +174,6 @@
 - [MS-HGAT: Memory-Enhanced Sequential Hypergraph Attention Network for Information Diffusion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mshgat_aaai22/README.md)
 - [Batch Active Learning with Graph Neural Networks via Multi-Agent Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/bigene_aaai22/README.md)
 - [Bridging LTLf Inference to GNN Inference for Learning LTLf Formulae](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gltlf_aaai22/README.md)
-- [Hierarchical Multi-Supervision Multi-Interaction Graph Attention Network for Multi-Camera Pedestrian Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/hm3gat_aaai22/README.md)
 - [GNN-Retro: Retrosynthetic Planning with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gnnretro_aaai22/README.md)
 - [Bag Graph: Multiple Instance Learning Using Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/baggraph_aaai22/README.md)
 - [Multi-Scale Distillation from Multiple Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mskd_aaai22/README.md)
@@ -186,4 +187,3 @@
 - [DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/disencite_aaai22/README.md)
 - [Interpretable Neural Subgraph Matching for Graph Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isonet_aaai22/README.md)
 - [Stationary Diffusion State Neural Estimation for Multiview Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sdsne_aaai22/README.md)
-- [Topology-aware Convolutional Neural Network for Efficient Skeleton-based Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/tacnn_aaai22/README.md)
