@@ -75,6 +75,7 @@
 # Unsupervised Learning
 - [Graph-wise Common Latent Factor Extraction for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/gcfx_aaai22/README.md)
 - [Simple Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sugrl_aaai22/README.md)
+- [Stationary Diffusion State Neural Estimation for Multiview Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sdsne_aaai22/README.md)
 
 
 
@@ -197,4 +198,3 @@
 - [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
 - [DisenCite: Graph-Based Disentangled Representation Learning for Context-Specific Citation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/disencite_aaai22/README.md)
 - [Interpretable Neural Subgraph Matching for Graph Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/isonet_aaai22/README.md)
-- [Stationary Diffusion State Neural Estimation for Multiview Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sdsne_aaai22/README.md)
