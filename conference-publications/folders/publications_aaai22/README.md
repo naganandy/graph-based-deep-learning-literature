@@ -36,6 +36,12 @@
 
 
 
+# Graph Classification
+- [Cross-Domain Few-Shot Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cdfsgc_aaai22/README.md)
+- [Structural Landmarking and Interaction Modelling: A "SLIM" Network for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/slim_aaai22/README.md)
+
+
+
 # Self-Supervised Learning
 - [A Self-supervised Mixed-curvature Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/selfmgnn_aaai22/README.md)
 - [Augmentation-Free Self-Supervised Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/afgrl_aaai22/README.md)
@@ -132,7 +138,6 @@
 
 
 # Miscellaneous
-- [Cross-Domain Few-Shot Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cdfsgc_aaai22/README.md)
 - [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/lunar_aaai22/README.md)
 - [Solving Disjunctive Temporal Networks with Uncertainty under Restricted Time-Based Controllability using Tree Search and Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/dntumpnn_aaai22/README.md)
 - [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/spreadgnn_aaai22/README.md)
@@ -159,7 +164,6 @@
 - [Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/mvg_aaai22/README.md)
 - [Learning Optical Flow with Adaptive Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/agflow_aaai22/README.md)
 - [Disentangled Spatiotemporal Graph Generative Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/stgdvae_aaai22/README.md)
-- [Structural Landmarking and Interaction Modelling: A "SLIM" Network for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/slim_aaai22/README.md)
 - [CoCoS: Enhancing Semi-supervised Learning on Graphs with Unlabeled Data via Contrastive Context Sharing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/cocos_aaai22/README.md)
 - [ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/sctag_aaai22/README.md)
 - [Directed Graph Auto-Encoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_aaai22/digae_aaai22/README.md)
