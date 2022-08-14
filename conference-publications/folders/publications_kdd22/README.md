@@ -31,10 +31,9 @@
 
 
 
-# Explainabiliy
-- [On Structural Explanation of Bias in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/referee_kdd22/README.md)
-- [Graph Rationalization with Environment-based Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/grea_kdd22/README.md)
-- [ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/exmeshcnn_kdd22/README.md)
+# Knowledge Distillation
+- [Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/graphakd_kdd22/README.md)
+- [FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/freekd_kdd22/README.md)
 
 
 # Generalisability
@@ -45,6 +44,13 @@
 
 
 
+# Explainabiliy
+- [On Structural Explanation of Bias in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/referee_kdd22/README.md)
+- [Graph Rationalization with Environment-based Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/grea_kdd22/README.md)
+- [ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/exmeshcnn_kdd22/README.md)
+
+
+
 # Adversarial Attacks
 - [Knowledge-enhanced Black-box Attacks for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgattack_kdd22/README.md)
 - [Graph Structural Attack by Perturbing Spectral Distance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/spac_kdd22/README.md)
@@ -52,9 +58,15 @@
 
 
 # Robustness
-- [How does Heterophily Impact the Robustness of Graph Neural Networks?: Theoretical Connections and Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/hetrobust_kdd22/README.md)
 - [Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/stable_kdd22/README.md)
 - [Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/oags_kdd22/README.md)
+- [How does Heterophily Impact the Robustness of Graph Neural Networks?: Theoretical Connections and Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/hetrobust_kdd22/README.md)
+
+
+
+# Uncertainty
+- [UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/udgnn_kdd22/README.md)
+- [JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/jurygcn_kdd22/README.md)
 
 
 
@@ -159,18 +171,6 @@
 - [GBPNet: Universal Geometric Representation Learning on Protein Structures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gbpnet_kdd22/README.md)
 - [SIPF: Sampling Method for Inverse Protein Folding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/sipf_kdd22/README.md)
 - [RetroGraph: Retrosynthetic Planning with Graph Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/retrograph_kdd22/README.md)
-
-
-
-# Uncertainty
-- [UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/udgnn_kdd22/README.md)
-- [JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/jurygcn_kdd22/README.md)
-
-
-
-# Knowledge Distillation
-- [Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/graphakd_kdd22/README.md)
-- [FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/freekd_kdd22/README.md)
 
 
 
