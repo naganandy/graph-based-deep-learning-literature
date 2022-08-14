@@ -71,8 +71,14 @@
 
 
 # Fairness
-- [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/fairvgnn_kdd22/README.md)
 - [GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/guide_kdd22/README.md)
+- [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/fairvgnn_kdd22/README.md)
+
+
+
+# Missing Data
+- [Accurate Node Feature Estimation with Structured Variational Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/svga_kdd22/README.md)
+- [M3Care: Learning with Missing Modalities in Multimodal Healthcare Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/m3care_kdd22/README.md)
 
 
 
@@ -184,12 +190,6 @@
 # Text-to-SQL Parsing
 - [Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/proton_kdd22/README.md)
 - [Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/iseslsql_kdd22/README.md)
-
-
-
-# Missing Data
-- [Accurate Node Feature Estimation with Structured Variational Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/svga_kdd22/README.md)
-- [M3Care: Learning with Missing Modalities in Multimodal Healthcare Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/m3care_kdd22/README.md)
 
 
 
