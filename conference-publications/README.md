@@ -106,7 +106,7 @@
 - [Learning on Graphs with Out-of-Distribution Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/oodgat_kdd22/README.md)
 - [Modeling Network-level Traffic Flow Transitions on Sparse Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/dtignn_kdd22/README.md)
 
-<details> 
+</details> 
 
 
 
