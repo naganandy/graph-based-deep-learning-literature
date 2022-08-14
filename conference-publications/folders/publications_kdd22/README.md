@@ -18,49 +18,6 @@
 
 
 
-# Graph Augmentation
-- [Robust Tensor Graph Convolutional Networks via T-SVD based Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/tensorgcn_kdd22/README.md)
-- [Enhancing Machine Learning Approaches for Graph Optimization Problems with Diversifying Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ligd_kdd22/README.md)
-
-
-
-# Time Series
-- [Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/esg_kdd22/README.md)
-- [Multi-Variate Time Series Forecasting on Variable Subsets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/vsf_kdd22/README.md)
-- [Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/step_kdd22/README.md)
-
-
-
-# Streaming Data
-- [Streaming Graph Neural Networks with Generative Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/sgnngr_kdd22/README.md)
-- [RL2: A Call for Simultaneous Representation Learning and Rule Learning for Graph Streams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/rl2_kdd22/README.md)
-
-
-
-# Spatio-Temporal Data
-- [MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/msdr_kdd22/README.md)
-- [Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/stgfsl_kdd22/README.md)
-- [Modeling Network-level Traffic Flow Transitions on Sparse Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/dtignn_kdd22/README.md)
-- [TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/trajgat_kdd22/README.md)
-
-
-
-# Temporal Data
-- [Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/magc_kdd22/README.md)
-- [Meta-Learned Metrics over Multi-Evolution Temporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/metatag_kdd22/README.md)
-- [Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/cmod_kdd22/README.md)
-- [Deep Representations for Time-varying Brain Datasets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/rebraid_kdd22/README.md)
-- [Graph-Flashback Network for Next Location Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/graphflashback_kdd22/README.md)
-
-
-
-# Dynamic Graphs
-- [Instant Graph Neural Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/instantgnn_kdd22/README.md)
-- [ROLAND: Graph Learning Framework for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/roland_kdd22/README.md)
-- [Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ddhgnn_kdd22/README.md)
-
-
-
 # Explainabiliy
 - [On Structural Explanation of Bias in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/referee_kdd22/README.md)
 - [Graph Rationalization with Environment-based Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/grea_kdd22/README.md)
@@ -72,6 +29,25 @@
 - [GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gppt_kdd22/README.md)
 - [Nonlinearity Encoding for Extrapolation of Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ane_kdd22/README.md)
 - [Domain Adaptation in Physical Systems via Graph Kernel](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gna_kdd22/README.md)
+
+
+
+# Adversarial Attacks
+- [Knowledge-enhanced Black-box Attacks for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgattack_kdd22/README.md)
+- [Graph Structural Attack by Perturbing Spectral Distance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/spac_kdd22/README.md)
+
+
+
+# Robustness
+- [How does Heterophily Impact the Robustness of Graph Neural Networks?: Theoretical Connections and Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/hetrobust_kdd22/README.md)
+- [Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/stable_kdd22/README.md)
+- [Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/oags_kdd22/README.md)
+
+
+
+# Fairness
+- [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/fairvgnn_kdd22/README.md)
+- [GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/guide_kdd22/README.md)
 
 
 
@@ -117,22 +93,46 @@
 
 
 
-# Adversarial Attacks
-- [Knowledge-enhanced Black-box Attacks for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgattack_kdd22/README.md)
-- [Graph Structural Attack by Perturbing Spectral Distance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/spac_kdd22/README.md)
+# Dynamic Graphs
+- [Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ddhgnn_kdd22/README.md)
+- [Instant Graph Neural Networks for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/instantgnn_kdd22/README.md)
+- [ROLAND: Graph Learning Framework for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/roland_kdd22/README.md)
 
 
 
-# Robustness
-- [Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/stable_kdd22/README.md)
-- [Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/oags_kdd22/README.md)
-- [How does Heterophily Impact the Robustness of Graph Neural Networks?: Theoretical Connections and Practical Implications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/hetrobust_kdd22/README.md)
+# Time Series
+- [Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/esg_kdd22/README.md)
+- [Multi-Variate Time Series Forecasting on Variable Subsets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/vsf_kdd22/README.md)
+- [Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/step_kdd22/README.md)
 
 
 
-# Fairness
-- [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/fairvgnn_kdd22/README.md)
-- [GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/guide_kdd22/README.md)
+# Streaming Data
+- [Streaming Graph Neural Networks with Generative Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/sgnngr_kdd22/README.md)
+- [RL2: A Call for Simultaneous Representation Learning and Rule Learning for Graph Streams](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/rl2_kdd22/README.md)
+
+
+
+# Spatio-Temporal Data
+- [MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/msdr_kdd22/README.md)
+- [Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/stgfsl_kdd22/README.md)
+- [Modeling Network-level Traffic Flow Transitions on Sparse Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/dtignn_kdd22/README.md)
+- [TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/trajgat_kdd22/README.md)
+
+
+
+# Temporal Data
+- [Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/magc_kdd22/README.md)
+- [Meta-Learned Metrics over Multi-Evolution Temporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/metatag_kdd22/README.md)
+- [Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/cmod_kdd22/README.md)
+- [Deep Representations for Time-varying Brain Datasets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/rebraid_kdd22/README.md)
+- [Graph-Flashback Network for Next Location Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/graphflashback_kdd22/README.md)
+
+
+
+# Graph Augmentation
+- [Robust Tensor Graph Convolutional Networks via T-SVD based Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/tensorgcn_kdd22/README.md)
+- [Enhancing Machine Learning Approaches for Graph Optimization Problems with Diversifying Graph Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ligd_kdd22/README.md)
 
 
 
