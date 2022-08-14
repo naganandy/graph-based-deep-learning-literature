@@ -6,9 +6,22 @@
 - [Variational Inference for Training Graph Neural Networks in Low-Data Regime through Joint Structure-Label Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/wsgnn_kdd22/README.md)
 - [Task-Adaptive Few-shot Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/tent_kdd22/README.md)
 - [Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/geometer_kdd22/README.md)
+- [CLARE: A Semi-supervised Community Detection Algorithm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/clare_kdd22/README.md)
+- [Learning on Graphs with Out-of-Distribution Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/oodgat_kdd22/README.md)
+
+
+
+# Zero-Shot Learning
 - [Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/dbigcn_kdd22/README.md)
 - [Disentangled Ontology Embedding for Zero-shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/dozsl_kdd22/README.md)
-- [CLARE: A Semi-supervised Community Detection Algorithm](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/clare_kdd22/README.md)
+
+
+
+# Scalability
+- [Graph Neural Networks with Node-wise Architecture](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/nwgnn_kdd22/README.md)
+- [Nimble GNN Embedding with Tensor-Train Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ttemb_kdd22/README.md)
+- [Condensing Graphs via One-Step Gradient Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/doscond_kdd22/README.md)
+
 
 
 
@@ -48,14 +61,6 @@
 # Fairness
 - [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/fairvgnn_kdd22/README.md)
 - [GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/guide_kdd22/README.md)
-
-
-
-# Graph Transformers
-- [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gate_kdd22/README.md)
-- [Global Self-Attention as a Replacement for Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/egt_kdd22/README.md)
-- [Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgtransformer_kdd22/README.md)
-- [KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgpt_kdd22/README.md)
 
 
 
@@ -136,6 +141,18 @@
 
 
 
+# Graph Transformers
+- [Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gate_kdd22/README.md)
+- [Global Self-Attention as a Replacement for Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/egt_kdd22/README.md)
+- [Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgtransformer_kdd22/README.md)
+
+
+
+# Molecules
+- [KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/kgpt_kdd22/README.md)
+- [Unified 2D and 3D Pre-Training of Molecular Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/2d3dpremol_kdd22/README.md)
+
+
 
 # Proteins
 - [Graph-in-Graph Network for Automatic Gene Ontology Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gig_kdd22/README.md)
@@ -177,15 +194,10 @@
 
 
 # Miscellaneous
-- [Nimble GNN Embedding with Tensor-Train Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/ttemb_kdd22/README.md)
-- [Unified 2D and 3D Pre-Training of Molecular Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/2d3dpremol_kdd22/README.md)
+- [Motif Prediction with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/seam_kdd22/README.md)
 - [FlowGEN: A Generative Model for Flow Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/flowgen_kdd22/README.md)
 - [Towards a Native Quantum Paradigm for Graph Representation Learning: A Sampling-based Recurrent Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/qgre_kdd22/README.md)
-- [Graph Neural Networks with Node-wise Architecture](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/nwgnn_kdd22/README.md)
 - [Improving Social Network Embedding via New Second-Order Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/socgnn_kdd22/README.md)
 - [Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/slvae_kdd22/README.md)
 - [Neural Bandit with Arm Group Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/aggucb_kdd22/README.md)
 - [Efficient Join Order Selection Learning with Graph-based Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/jogger_kdd22/README.md)
-- [Condensing Graphs via One-Step Gradient Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/doscond_kdd22/README.md)
-- [Learning on Graphs with Out-of-Distribution Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/oodgat_kdd22/README.md)
-- [Motif Prediction with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/seam_kdd22/README.md)

@@ -1,6 +1,9 @@
 # Related Workshops
 
 - ## 2022
+   * ### [New Frontiers in Graph Learning (NeurIPS)](https://glfrontiers.github.io/overview/)   
+   * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2022/)   
+   * ### [Deep Learning on Graphs (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd22/index.html)   
    * ### [Deep Learning on Graphs for Natural Language Processing (ICLR)](https://dlg4nlp-workshop.github.io/dlg4nlp-iclr22)
    * ### [Graph Learning Benchmarks (TheWebConf)](https://graph-learning-benchmarks.github.io/glb2022)
    * ### [Deep Learning on Graphs: Methods and Applications (AAAI)](https://deep-learning-graphs.bitbucket.io/dlg-aaai22/index.html)
