@@ -9,6 +9,7 @@
 ## -------------------------------------------------------------------
 # [KDD 2022 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/README.md)
 
+- [Learning Causal Effects on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/hypersci_kdd22/README.md)
 - [Graph Rationalization with Environment-based Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/grea_kdd22/README.md)
 - [Causal Attention for Interpretable and Generalizable Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/cal_kdd22/README.md)
 - [Graph-in-Graph Network for Automatic Gene Ontology Description Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gig_kdd22/README.md)
@@ -18,13 +19,13 @@
 - [Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/geometer_kdd22/README.md)
 - [TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/trajgat_kdd22/README.md)
 - [Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/proton_kdd22/README.md)
-- [Global Self-Attention as a Replacement for Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/egt_kdd22/README.md)
 
 
 
 <details> 
 <summary> more </summary> 
 
+- [Global Self-Attention as a Replacement for Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/egt_kdd22/README.md)
 - [JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/jurygcn_kdd22/README.md)
 - [Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/slvae_kdd22/README.md)
 - [Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/bigear_kdd22/README.md)
