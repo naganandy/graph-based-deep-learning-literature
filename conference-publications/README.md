@@ -1,5 +1,10 @@
 # [Conferences](https://aideadlin.es/)
 
+
+- ICLR 2023 (Apr, decisions late Jan, submissions late Sep)
+- AAAI 2023 (Feb, decisions mid Nov)
+- WSDM 2023 (Mar, decisions late Oct)
+- LOG 2022 (Dec, decisions late Nov, submissions early Sep)
 - EMNLP 2022 (Dec, decisions early Oct)
 - NeurIPS 2022 (Dec, decisions mid Sep)
 - ICDM 2022 (Dec, decisions early Sep)
