@@ -111,6 +111,7 @@
 
 
 # Graph Collaborative Filtering
+- [HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hrcf_webconf22/README.md)
 - [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ncl_webconf22/README.md)
 - [Hypercomplex Graph Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hcgcf_webconf22/README.md)
 
