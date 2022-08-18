@@ -4,7 +4,7 @@
 @inproceedings{hrcf_webconf22,
 author = {Yang, Menglin and Zhou, Min and Liu, Jiahong and Lian, Defu and King, Irwin},
 title = {HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization},
-booktitle = {Proceedings of the ACM Web Conference (TheWebConf)},
+booktitle = {Proceedings of the ACM Web Conference 2022 (TheWebConf)},
 pages = {2462–2471},
 year = {2022}
 }
