@@ -36,6 +36,7 @@
 - [FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/freekd_kdd22/README.md)
 
 
+
 # Generalisability
 - [Causal Attention for Interpretable and Generalizable Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/cal_kdd22/README.md)
 - [GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/gppt_kdd22/README.md)
@@ -79,6 +80,12 @@
 # Missing Data
 - [Accurate Node Feature Estimation with Structured Variational Graph Autoencoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/svga_kdd22/README.md)
 - [M3Care: Learning with Missing Modalities in Multimodal Healthcare Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/m3care_kdd22/README.md)
+
+
+
+# Higher-Order Interactions
+- [Learning Causal Effects on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/hypersci_kdd22/README.md)
+- [Motif Prediction with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/seam_kdd22/README.md)
 
 
 
@@ -194,7 +201,6 @@
 
 
 # Miscellaneous
-- [Motif Prediction with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/seam_kdd22/README.md)
 - [FlowGEN: A Generative Model for Flow Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/flowgen_kdd22/README.md)
 - [Towards a Native Quantum Paradigm for Graph Representation Learning: A Sampling-based Recurrent Embedding Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/qgre_kdd22/README.md)
 - [Improving Social Network Embedding via New Second-Order Continuous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_kdd22/socgnn_kdd22/README.md)
