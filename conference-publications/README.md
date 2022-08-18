@@ -507,6 +507,7 @@
 <details> 
 <summary> more </summary> 
 
+- [HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/hrcf_webconf22/README.md)
 - [Modeling User Behavior with Graph Convolution for Personalized Product Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/sbg_webconf22/README.md)
 - [IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/ihgnn_webconf22/README.md)
 - [Socialformer: Social Network Inspired Long Document Modeling for Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_webconf22/socialformer_webconf22/README.md)
