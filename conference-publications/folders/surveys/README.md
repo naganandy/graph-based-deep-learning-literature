@@ -14,6 +14,7 @@
    * ### [Combinatorial optimization and reasoning with graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/cognn_corr21/README.md)
    * ### [Hyperbolic Deep Neural Networks: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/hdnn_corr21/README.md)
    * ### [Survey on graph embeddings and their applications to machine learning problems on graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/mlgraphs_peerjcs21/README.md)
+   * ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnsurvey_tnnls21/README.md)
 
 - ## 2020
    * ### [Explainability in Graph Neural Networks: A Taxonomic Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnexplainability_corr21/README.md)
@@ -33,7 +34,6 @@
 - ## 2018
    * ### [Relational inductive biases, deep learning, and graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnet_arXiv18/README.md)
    * ### [Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnreview_arxiv18/README.md)
-   * ### [A Comprehensive Survey on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnsurvey_arxiv19/README.md)
 
 - ## 2017
    * ### [Representation Learning on Graphs: Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/grl_ideb17/README.md)
