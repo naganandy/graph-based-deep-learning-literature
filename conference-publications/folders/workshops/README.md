@@ -4,8 +4,7 @@
    * ### [Temporal Graph Learning Workshop (NeurIPS)](https://sites.google.com/view/tglworkshop2022/home)   
    * ### [Graph Learning for Industrial Applications (NeurIPS)](https://sites.google.com/view/glinda2022/home?authuser=0)   
    * ### [New Frontiers in Graph Learning (NeurIPS)](https://glfrontiers.github.io/overview/)   
-   * ### [Graphs in Artificial Intelligence and
-Neural Networks (GAIN)](https://gain-group.de/html/events.html)
+   * ### [Graphs in Artificial Intelligence and Neural Networks (GAIN)](https://gain-group.de/html/events.html)
    * ### [Stanford Graph Learning Workshop 2022](http://snap.stanford.edu/graphlearning-workshop-2022/)
    * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2022/)   
    * ### [Deep Learning on Graphs (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd22/index.html)   
