@@ -27,9 +27,9 @@
 
 
 # Oversmoothing
+- [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://nips.cc/Conferences/2022/Schedule?showEvent=54308)
 - [Old can be Gold: Better Gradient Flow can make Vanilla-GCNs Great Again](https://nips.cc/Conferences/2022/Schedule?showEvent=53757)
 - [Not too little, not too much: a theoretical analysis of graph (over)smoothing](https://nips.cc/Conferences/2022/Schedule?showEvent=53409)
-- [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://nips.cc/Conferences/2022/Schedule?showEvent=54308)
 - [Can Hybrid Geometric Scattering Networks Help Solve the Maximal Clique Problem?](https://nips.cc/Conferences/2022/Schedule?showEvent=54956)
 
 
