@@ -14,7 +14,7 @@
 # Scalable Graph Transformers
 - [Recipe for a General, Powerful, Scalable Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/gpsgt_neurips22/README.md)
 - [Hierarchical Graph Transformer with Adaptive Node Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/ansgt_neurips22/README.md)
-- [Towards Scalable (All-Pair) Message Passing for Node Classification beyond Explicit Topology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/nodeformer_neurips22/README.md)
+- [NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/nodeformer_neurips22/README.md)
 
 
 
