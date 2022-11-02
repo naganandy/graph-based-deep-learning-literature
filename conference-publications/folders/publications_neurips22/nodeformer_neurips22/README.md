@@ -1,9 +1,9 @@
-# Towards Scalable (All-Pair) Message Passing for Node Classification beyond Explicit Topology
+# NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification
 
 ```
 @incollection{nodeformer_neurips22
 author = {Qitian Wu and Wentao Zhao and Zenan Li and David P Wipf and Junchi Yan},
-title = {Towards Scalable (All-Pair) Message Passing for Node Classification beyond Explicit Topology},
+title = {NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},
 publisher = {Curran Associates, Inc.}
