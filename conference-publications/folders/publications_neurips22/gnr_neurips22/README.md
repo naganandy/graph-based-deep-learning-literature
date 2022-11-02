@@ -2,7 +2,7 @@
 
 ```
 @incollection{gnr_neurips22
-author = {David Buterez and Jon Paul Janet and Steven Kiddle and Dino Oglic and Pietro Liò},
+author = {David Buterez and Jon Paul Janet and Steven J Kiddle and Dino Oglic and Pietro Li{\`o}},
 title = {Graph Neural Networks with Adaptive Readouts},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},

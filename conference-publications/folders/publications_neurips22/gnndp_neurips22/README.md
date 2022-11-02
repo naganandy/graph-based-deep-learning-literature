@@ -2,7 +2,7 @@
 
 ```
 @incollection{gnndp_neurips22
-author = {Andrew J Dudzik and Petar Veličković},
+author = {Andrew Joseph Dudzik and Petar Veli{\v{c}}kovi{\'c}},
 title = {Graph Neural Networks are Dynamic Programmers},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},

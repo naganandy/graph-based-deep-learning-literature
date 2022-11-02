@@ -2,7 +2,7 @@
 
 ```
 @incollection{sokrates_neurips22
-author = {Thorben Frank and Oliver Unke and Klaus-Robert Müller},
+author = {Thorben Frank and Oliver Thorsten Unke and Klaus Robert Muller},
 title = {So3krates - Self-attention for higher-order geometric interactions on arbitrary length-scales},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},

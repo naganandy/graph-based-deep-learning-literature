@@ -2,7 +2,7 @@
 
 ```
 @incollection{sizeshiftreg_neurips22
-author = {Davide Buffelli and Pietro Lió and Fabio Vandin},
+author = {Davide Buffelli and Pietro Lio and Fabio Vandin},
 title = {SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},

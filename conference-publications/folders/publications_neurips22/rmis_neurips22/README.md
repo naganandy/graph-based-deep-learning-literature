@@ -2,7 +2,7 @@
 
 ```
 @incollection{rmis_neurips22
-author = {Yan Scholten and Jan Schuchardt and Simon Geisler and Aleksandar Bojchevski and Stephan Günnemann},
+author = {Yan Scholten and Jan Schuchardt and Simon Geisler and Aleksandar Bojchevski and Stephan G{\"u}nnemann},
 title = {Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},

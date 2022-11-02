@@ -2,7 +2,7 @@
 
 ```
 @incollection{gnnrobdef_neurips22
-author = {Felix Mujkanovic and Simon Geisler and Aleksandar Bojchevski and Stephan Günnemann},
+author = {Felix Mujkanovic and Simon Geisler and Stephan G{\"u}nnemann and Aleksandar Bojchevski},
 title = {Are Defenses for Graph Neural Networks Robust?},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
 year = {2022},
