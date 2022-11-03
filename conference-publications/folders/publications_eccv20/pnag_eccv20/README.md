@@ -5,11 +5,12 @@
 author = {Lei Yang and Qingqiu Huang and Huaiyi Huang and Linning Xu and Dahua Lin},
 title = {Learn to Propagate Reliably on Noisy Affinity Graphs},
 booktitle = {The European Conference on Computer Vision (ECCV)},
-year = {2020}
+pages = {447--464},
+year = {2022}
 }
 ```
 
 links
-- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600443.pdf)
-- [arXiv](https://arxiv.org/abs/2007.08802)
+- [springer](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_27)
+- [ecva](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2376_ECCV_2020_paper.php)
 - [video](https://youtu.be/qNvjaMyYaVI)

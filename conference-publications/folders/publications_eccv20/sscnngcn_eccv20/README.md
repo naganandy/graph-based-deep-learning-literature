@@ -5,9 +5,11 @@
 author = {Yanda Meng and Wei Meng and Dongxu Gao and Yitian Zhao and Xiaoyun Yang and Xiaowei Huang and Yalin Zheng},
 title = {Regression of Instance Boundary by Aggregated CNN and GCN},
 booktitle = {The European Conference on Computer Vision (ECCV)},
-year = {2020}
+pages = {190--207},
+year = {2022}
 }
 ```
 
 links
-- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530188.pdf)
+- [springer](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12)
+- [ecva](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/512_ECCV_2020_paper.php)

@@ -5,11 +5,12 @@
 author = {Heming Du and Xin Yu and Liang Zheng},
 title = {Learning Object Relation Graph and Tentative Policy for Visual Navigation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
-year = {2020}
+pages = {19--34},
+year = {2022}
 }
 ```
 
 links
-- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520018.pdf)
-- [arXiv](https://arxiv.org/abs/2007.11018)
+- [springer](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_2)
+- [ecva](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/121_ECCV_2020_paper.php)
 - [code](https://github.com/xiaobaishu0097/ECCV-VN)

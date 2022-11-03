@@ -5,10 +5,12 @@
 author = {Alireza Zareian and Svebor Karaman and Shih-Fu Chang},
 title = {Bridging Knowledge Graphs to Generate Scene Graphs},
 booktitle = {The European Conference on Computer Vision (ECCV)},
-year = {2020}
+pages = {606--623},
+year = {2022}
 }
 ```
 
 links
-- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680596.pdf)
+- [springer](https://link.springer.com/chapter/10.1007/978-3-030-58592-1_36)
+- [ecva](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4377_ECCV_2020_paper.php)
 - [arXiv](https://arxiv.org/abs/2001.02314)

@@ -5,10 +5,12 @@
 author = {Shaoxiang Chen and Yu-Gang Jiang},
 title = {Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language},
 booktitle = {The European Conference on Computer Vision (ECCV)},
-year = {2020}
+pages = {601--618},
+year = {2022}
 }
 ```
 
 links
-- [ecva](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650596.pdf)
+- [springer](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_36)
+- [ecva](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3563_ECCV_2020_paper.php)
 - [code](https://github.com/forwchen/HVTG)
