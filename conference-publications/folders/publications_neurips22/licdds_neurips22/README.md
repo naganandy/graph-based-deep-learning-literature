@@ -1,7 +1,7 @@
 # Learning Interface Conditions in Domain Decomposition Solvers
 
 ```
-@incollection{licdds_neurips22
+@incollection{licdds_neurips22,
 author = {Ali Taghibakhshi and Nicolas Nytko and Tareq Uz Zaman and Scott MacLachlan and Luke Olson and Matthew West},
 title = {Learning Interface Conditions in Domain Decomposition Solvers},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Few-shot Relational Reasoning via Pretraining of Connection Subgraph Reconstruction
 
 ```
-@incollection{csr_neurips22
+@incollection{csr_neurips22,
 author = {Qian Huang and Hongyu Ren and Jure Leskovec},
 title = {Few-shot Relational Reasoning via Pretraining of Connection Subgraph Reconstruction},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

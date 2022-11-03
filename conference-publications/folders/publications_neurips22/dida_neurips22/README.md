@@ -1,7 +1,7 @@
 # Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift
 
 ```
-@incollection{dida_neurips22
+@incollection{dida_neurips22,
 author = {Zeyang Zhang and Xin Wang and Ziwei Zhang and Haoyang Li and Zhou Qin and Wenwu Zhu},
 title = {Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

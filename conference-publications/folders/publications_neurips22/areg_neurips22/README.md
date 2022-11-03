@@ -1,7 +1,7 @@
 # Efficient Graph Similarity Computation with Alignment Regularization
 
 ```
-@incollection{areg_neurips22
+@incollection{areg_neurips22,
 author = {Wei Zhuo and Guang Tan},
 title = {Efficient Graph Similarity Computation with Alignment Regularization},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

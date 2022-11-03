@@ -1,7 +1,7 @@
 # Exact Shape Correspondence via 2D graph convolution
 
 ```
-@incollection{2dgem_neurips22
+@incollection{2dgem_neurips22,
 author = {Barakeel Fanseu Kamhoua and Lin Zhang and Yongqiang Chen and Han Yang and MA Kaili and Bo Han and Bo Li and James Cheng},
 title = {Exact Shape Correspondence via 2D graph convolution},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

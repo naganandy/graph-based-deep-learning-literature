@@ -1,7 +1,7 @@
 # CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference
 
 ```
-@incollection{cryptogcn_neurips22
+@incollection{cryptogcn_neurips22,
 author = {Ran Ran and Wei Wang and Quan Gang and Jieming Yin and Nuo Xu and Wujie Wen},
 title = {CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

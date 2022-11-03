@@ -1,7 +1,7 @@
 # Unsupervised Learning for Combinatorial Optimization with Principled Objective Design
 
 ```
-@incollection{affcon_neurips22
+@incollection{affcon_neurips22,
 author = {Haoyu Wang and Nan Wu and Hang Yang and Cong Hao and Pan Li},
 title = {Unsupervised Learning for Combinatorial Optimization with Principled Objective Design},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

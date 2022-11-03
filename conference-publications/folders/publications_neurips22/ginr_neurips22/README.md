@@ -1,7 +1,7 @@
 # Generalised Implicit Neural Representations
 
 ```
-@incollection{ginr_neurips22
+@incollection{ginr_neurips22,
 author = {Daniele Grattarola and Pierre Vandergheynst},
 title = {Generalised Implicit Neural Representations},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

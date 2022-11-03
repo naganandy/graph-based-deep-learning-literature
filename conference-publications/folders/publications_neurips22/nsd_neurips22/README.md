@@ -1,7 +1,7 @@
 # Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs
 
 ```
-@incollection{nsd_neurips22
+@incollection{nsd_neurips22,
 author = {Cristian Bodnar and Francesco Di Giovanni and Benjamin Paul Chamberlain and Pietro Lio and Michael M. Bronstein},
 title = {Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

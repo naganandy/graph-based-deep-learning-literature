@@ -1,7 +1,7 @@
 # Task-Agnostic Graph Explanations
 
 ```
-@incollection{tage_neurips22
+@incollection{tage_neurips22,
 author = {Yaochen Xie and Sumeet Katariya and Xianfeng Tang and Edward Huang and Nikhil Rao and Karthik Subbian and Shuiwang Ji},
 title = {Task-Agnostic Graph Explanations},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

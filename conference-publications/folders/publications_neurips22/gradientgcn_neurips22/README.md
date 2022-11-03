@@ -1,7 +1,7 @@
 # Old can be Gold: Better Gradient Flow can make Vanilla-GCNs Great Again
 
 ```
-@incollection{gradientgcn_neurips22
+@incollection{gradientgcn_neurips22,
 author = {AJAY JAISWAL and Peihao Wang and Tianlong Chen and Justin Rousseau and Ying Ding and Zhangyang Wang},
 title = {Old can be Gold: Better Gradient Flow can make Vanilla-GCNs Great Again},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

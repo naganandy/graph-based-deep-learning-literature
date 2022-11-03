@@ -1,7 +1,7 @@
 # Universally Expressive Communication in Multi-Agent Reinforcement Learning
 
 ```
-@incollection{gdn_neurips22
+@incollection{gdn_neurips22,
 author = {Matthew Morris and Thomas D Barrett and Arnu Pretorius},
 title = {Universally Expressive Communication in Multi-Agent Reinforcement Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

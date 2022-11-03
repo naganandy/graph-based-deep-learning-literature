@@ -1,7 +1,7 @@
 # Certifying Robust Graph Classification under Orthogonal Gromov-Wasserstein Threats
 
 ```
-@incollection{robustogw_neurips22
+@incollection{robustogw_neurips22,
 author = {Hongwei Jin and Zishun Yu and Xinhua Zhang},
 title = {Certifying Robust Graph Classification under Orthogonal Gromov-Wasserstein Threats},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification
 
 ```
-@incollection{nodeformer_neurips22
+@incollection{nodeformer_neurips22,
 author = {Qitian Wu and Wentao Zhao and Zenan Li and David P Wipf and Junchi Yan},
 title = {NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

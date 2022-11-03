@@ -1,7 +1,7 @@
 # Does GNN Pretraining Help Molecular Representation?
 
 ```
-@incollection{molgnnpretrain_neurips22
+@incollection{molgnnpretrain_neurips22,
 author = {Ruoxi Sun and Hanjun Dai and Adams Yu},
 title = {Does GNN Pretraining Help Molecular Representation?},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

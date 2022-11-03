@@ -1,7 +1,7 @@
 # Deep Attentive Belief Propagation: Integrating Reasoning and Learning for Solving Constraint Optimization Problems
 
 ```
-@incollection{dabp_neurips22
+@incollection{dabp_neurips22,
 author = {Yanchen Deng and Shufeng Kong and Caihua Liu and Bo An},
 title = {Deep Attentive Belief Propagation: Integrating Reasoning and Learning for Solving Constraint Optimization Problems},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Learning interacting dynamical systems with latent Gaussian process ODEs
 
 ```
-@incollection{igpode_neurips22
+@incollection{igpode_neurips22,
 author = {Cagatay Yildiz and Melih Kandemir and Barbara Rakitsch},
 title = {Learning interacting dynamical systems with latent Gaussian process ODEs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

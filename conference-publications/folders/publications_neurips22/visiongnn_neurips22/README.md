@@ -1,7 +1,7 @@
 # Vision GNN: An Image is Worth Graph of Nodes
 
 ```
-@incollection{visiongnn_neurips22
+@incollection{visiongnn_neurips22,
 author = {Kai Han and Yunhe Wang and Jianyuan Guo and Yehui Tang and Enhua Wu},
 title = {Vision GNN: An Image is Worth Graph of Nodes},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

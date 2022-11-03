@@ -1,7 +1,7 @@
 # EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks
 
 ```
-@incollection{evennet_neurips22
+@incollection{evennet_neurips22,
 author = {Runlin Lei and Zhen Wang and Yaliang Li and Bolin Ding and Zhewei Wei},
 title = {EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Micro and Macro Level Graph Modeling for Graph Variational Auto-Encoders
 
 ```
-@incollection{graphvaemm_neurips22
+@incollection{graphvaemm_neurips22,
 author = {Kiarash Zahirnia and Parmis Naddaf and Oliver Schulte and Ke Li},
 title = {Micro and Macro Level Graph Modeling for Graph Variational Auto-Encoders},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

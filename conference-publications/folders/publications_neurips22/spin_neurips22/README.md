@@ -1,7 +1,7 @@
 # Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations
 
 ```
-@incollection{spin_neurips22
+@incollection{spin_neurips22,
 author = {Ivan Marisca and Andrea Cini and Cesare Alippi},
 title = {Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

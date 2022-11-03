@@ -1,7 +1,7 @@
 # Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks
 
 ```
-@incollection{tpgnn_neurips22
+@incollection{tpgnn_neurips22,
 author = {Yijing Liu and Qinxian Liu and Jian-Wei Zhang and Haozhe Feng and Zhongwei Wang and Zihan Zhou and Wei Chen},
 title = {Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

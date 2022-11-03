@@ -1,7 +1,7 @@
 # coVariance Neural Networks
 
 ```
-@incollection{vnn_neurips22
+@incollection{vnn_neurips22,
 author = {Saurabh Sihag and Gonzalo Mateos and Corey McMillan and Alejandro Ribeiro},
 title = {coVariance Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

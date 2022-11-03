@@ -1,7 +1,7 @@
 # Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks
 
 ```
-@incollection{rmis_neurips22
+@incollection{rmis_neurips22,
 author = {Yan Scholten and Jan Schuchardt and Simon Geisler and Aleksandar Bojchevski and Stephan G{\"u}nnemann},
 title = {Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

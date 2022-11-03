@@ -1,7 +1,7 @@
 # Iterative Scene Graph Generation
 
 ```
-@incollection{issg_neurips22
+@incollection{issg_neurips22,
 author = {Siddhesh Khandelwal and Leonid Sigal},
 title = {Iterative Scene Graph Generation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

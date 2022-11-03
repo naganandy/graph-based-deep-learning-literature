@@ -1,7 +1,7 @@
 # Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective
 
 ```
-@incollection{nonlinearitygnn_neurips22
+@incollection{nonlinearitygnn_neurips22,
 author = {Rongzhe Wei and Haoteng YIN and Junteng Jia and Austin Benson and Pan Li},
 title = {Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

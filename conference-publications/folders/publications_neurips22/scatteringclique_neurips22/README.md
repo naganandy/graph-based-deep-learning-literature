@@ -1,7 +1,7 @@
 # Can Hybrid Geometric Scattering Networks Help Solve the Maximal Clique Problem?
 
 ```
-@incollection{scatteringclique_neurips22
+@incollection{scatteringclique_neurips22,
 author = {Yimeng Min and Frederik Wenkel and Michael Perlmutter and Guy Wolf},
 title = {Can Hybrid Geometric Scattering Networks Help Solve the Maximal Clique Problem?},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

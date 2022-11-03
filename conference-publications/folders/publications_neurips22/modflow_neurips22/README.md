@@ -1,7 +1,7 @@
 # Modular Flows: Differential Molecular Generation
 
 ```
-@incollection{modflow_neurips22
+@incollection{modflow_neurips22,
 author = {Yogesh Verma and Samuel Kaski and Markus Heinonen and Vikas Garg},
 title = {Modular Flows: Differential Molecular Generation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Graph Few-shot Learning with Task-specific Structures
 
 ```
-@incollection{glitter_neurips22
+@incollection{glitter_neurips22,
 author = {Song Wang and Chen Chen and Jundong Li},
 title = {Graph Few-shot Learning with Task-specific Structures},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

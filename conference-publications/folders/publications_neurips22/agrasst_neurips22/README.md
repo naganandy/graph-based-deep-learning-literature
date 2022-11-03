@@ -1,7 +1,7 @@
 # AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators
 
 ```
-@incollection{agrasst_neurips22
+@incollection{agrasst_neurips22,
 author = {Wenkai Xu and Gesine D Reinert},
 title = {AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

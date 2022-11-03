@@ -1,7 +1,7 @@
 # Geometric Distillation for Graph Networks
 
 ```
-@incollection{nhk_neurips22
+@incollection{nhk_neurips22,
 author = {Chenxiao Yang and Qitian Wu and Junchi Yan},
 title = {Geometric Distillation for Graph Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

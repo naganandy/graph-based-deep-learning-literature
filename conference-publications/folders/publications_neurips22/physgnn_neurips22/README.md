@@ -1,7 +1,7 @@
 # PhysGNN: A Physics--Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image--Guided Neurosurgery
 
 ```
-@incollection{physgnn_neurips22
+@incollection{physgnn_neurips22,
 author = {Yasmin Salehi and Dennis Giannacopoulos},
 title = {PhysGNN: A Physics--Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image--Guided Neurosurgery},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

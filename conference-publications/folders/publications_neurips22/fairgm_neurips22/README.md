@@ -1,7 +1,7 @@
 # On the Discrimination Risk of Mean Aggregation Feature Imputation in Graphs
 
 ```
-@incollection{fairgm_neurips22
+@incollection{fairgm_neurips22,
 author = {Arjun Subramonian and Kai-Wei Chang and Yizhou Sun},
 title = {On the Discrimination Risk of Mean Aggregation Feature Imputation in Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Graph Neural Networks with Adaptive Readouts
 
 ```
-@incollection{gnr_neurips22
+@incollection{gnr_neurips22,
 author = {David Buterez and Jon Paul Janet and Steven J Kiddle and Dino Oglic and Pietro Li{\`o}},
 title = {Graph Neural Networks with Adaptive Readouts},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

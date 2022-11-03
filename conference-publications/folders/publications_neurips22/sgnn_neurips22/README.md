@@ -1,7 +1,7 @@
 # Learning Physical Dynamics with Subequivariant Graph Neural Networks
 
 ```
-@incollection{sgnn_neurips22
+@incollection{sgnn_neurips22,
 author = {Jiaqi Han and Wenbing Huang and Hengbo Ma and Jiachen Li and Josh Tenenbaum and Chuang Gan},
 title = {Learning Physical Dynamics with Subequivariant Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Contrastive Graph Structure Learning via Information Bottleneck for Recommendation
 
 ```
-@incollection{cgi_neurips22
+@incollection{cgi_neurips22,
 author = {Chunyu Wei and Jian Liang and Di Liu and Fei Wang},
 title = {Contrastive Graph Structure Learning via Information Bottleneck for Recommendation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

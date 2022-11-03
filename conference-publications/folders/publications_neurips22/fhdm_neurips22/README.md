@@ -1,7 +1,7 @@
 # First Hitting Diffusion Models
 
 ```
-@incollection{fhdm_neurips22
+@incollection{fhdm_neurips22,
 author = {Mao Ye and Lemeng Wu and Qiang Liu},
 title = {First Hitting Diffusion Models},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Deep Generative Model for Periodic Graphs
 
 ```
-@incollection{pgdvae_neurips22
+@incollection{pgdvae_neurips22,
 author = {Shiyu Wang and Xiaojie Guo and Liang Zhao},
 title = {Deep Generative Model for Periodic Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum
 
 ```
-@incollection{spco_neurips22
+@incollection{spco_neurips22,
 author = {Nian Liu and Xiao Wang and Deyu Bo and Chuan Shi and Jian Pei},
 title = {Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

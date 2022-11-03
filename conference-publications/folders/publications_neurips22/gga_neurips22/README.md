@@ -1,7 +1,7 @@
 # Understanding Self-Supervised Graph Representation Learning from a Data-Centric Perspective
 
 ```
-@incollection{gga_neurips22
+@incollection{gga_neurips22,
 author = {Puja Trivedi and Ekdeep S Lubana and Mark Heimann and Danai Koutra and Jayaraman Thiagarajan},
 title = {Understanding Self-Supervised Graph Representation Learning from a Data-Centric Perspective},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

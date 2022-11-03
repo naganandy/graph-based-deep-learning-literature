@@ -1,7 +1,7 @@
 # Weisfeiler and Leman Go Walking: Random Walk Kernels Revisited
 
 ```
-@incollection{ncwwl_neurips22
+@incollection{ncwwl_neurips22,
 author = {Nils Kriege},
 title = {Weisfeiler and Leman Go Walking: Random Walk Kernels Revisited},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

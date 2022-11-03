@@ -1,7 +1,7 @@
 # Generalization Analysis of Message Passing Neural Networks on Large Random Graphs
 
 ```
-@incollection{cgmpnn_neurips22
+@incollection{cgmpnn_neurips22,
 author = {Sohir Maskey and Ron Levie and Yunseok Lee and Gitta Kutyniok},
 title = {Generalization Analysis of Message Passing Neural Networks on Large Random Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

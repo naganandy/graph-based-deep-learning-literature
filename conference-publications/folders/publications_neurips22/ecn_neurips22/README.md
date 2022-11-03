@@ -1,7 +1,7 @@
 # Equivariant Networks for Crystal Structures
 
 ```
-@incollection{ecn_neurips22
+@incollection{ecn_neurips22,
 author = {Oumar Kaba and Siamak Ravanbakhsh},
 title = {Equivariant Networks for Crystal Structures},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

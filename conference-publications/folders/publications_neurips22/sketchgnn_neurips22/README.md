@@ -1,7 +1,7 @@
 # Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity
 
 ```
-@incollection{sketchgnn_neurips22
+@incollection{sketchgnn_neurips22,
 author = {Mucong Ding and Tahseen Rabbani and Bang An and Evan Wang and Furong Huang},
 title = {Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Knowledge Distillation Improves Graph Structure Augmentation for Graph Neural Networks
 
 ```
-@incollection{kdga_neurips22
+@incollection{kdga_neurips22,
 author = {Lirong Wu and Haitao Lin and Yufei Huang and Stan Z. Li},
 title = {Knowledge Distillation Improves Graph Structure Augmentation for Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

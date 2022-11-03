@@ -1,7 +1,7 @@
 # Simultaneous Missing Value Imputation and Structure Learning with Groups
 
 ```
-@incollection{visl_neurips22
+@incollection{visl_neurips22,
 author = {Pablo Morales-Alvarez and Wenbo Gong and Angus Lamb and Simon Woodhead and Simon Peyton Jones and Nick Pawlowski and Miltiadis Allamanis and Cheng Zhang},
 title = {Simultaneous Missing Value Imputation and Structure Learning with Groups},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

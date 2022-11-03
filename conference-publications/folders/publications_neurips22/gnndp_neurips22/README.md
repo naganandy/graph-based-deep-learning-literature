@@ -1,7 +1,7 @@
 # Graph Neural Networks are Dynamic Programmers
 
 ```
-@incollection{gnndp_neurips22
+@incollection{gnndp_neurips22,
 author = {Andrew Joseph Dudzik and Petar Veli{\v{c}}kovi{\'c}},
 title = {Graph Neural Networks are Dynamic Programmers},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

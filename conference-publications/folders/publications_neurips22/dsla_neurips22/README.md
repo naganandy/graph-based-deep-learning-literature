@@ -1,7 +1,7 @@
 # Graph Self-supervised Learning with Accurate Discrepancy Learning
 
 ```
-@incollection{dsla_neurips22
+@incollection{dsla_neurips22,
 author = {Dongki Kim and Jinheon Baek and Sung Ju Hwang},
 title = {Graph Self-supervised Learning with Accurate Discrepancy Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

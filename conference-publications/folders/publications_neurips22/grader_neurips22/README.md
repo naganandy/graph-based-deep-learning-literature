@@ -1,7 +1,7 @@
 # Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning
 
 ```
-@incollection{grader_neurips22
+@incollection{grader_neurips22,
 author = {Wenhao Ding and Haohong Lin and Bo Li and DING ZHAO},
 title = {Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

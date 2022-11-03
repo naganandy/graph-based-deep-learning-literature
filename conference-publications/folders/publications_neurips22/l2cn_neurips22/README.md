@@ -1,7 +1,7 @@
 # Learning to Compare Nodes in Branch and Bound with Graph Neural Networks
 
 ```
-@incollection{l2cn_neurips22
+@incollection{l2cn_neurips22,
 author = {Abdel Ghani Labassi and Didier Chetelat and Andrea Lodi},
 title = {Learning to Compare Nodes in Branch and Bound with Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

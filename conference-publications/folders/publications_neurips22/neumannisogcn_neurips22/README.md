@@ -1,7 +1,7 @@
 # Physics-Embedded Neural Networks: $\boldsymbol\mathrmE(n)$-Equivariant Graph Neural PDE Solvers
 
 ```
-@incollection{neumannisogcn_neurips22
+@incollection{neumannisogcn_neurips22,
 author = {Masanobu Horie and NAOTO MITSUME},
 title = {Physics-Embedded Neural Networks: $\boldsymbol{\mathrm{E}(n)}$-Equivariant Graph Neural PDE Solvers},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

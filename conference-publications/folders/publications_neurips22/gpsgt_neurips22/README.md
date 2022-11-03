@@ -1,7 +1,7 @@
 # Recipe for a General, Powerful, Scalable Graph Transformer
 
 ```
-@incollection{gpsgt_neurips22
+@incollection{gpsgt_neurips22,
 author = {Ladislav Rampasek and Mikhail Galkin and Vijay Prakash Dwivedi and Anh Tuan Luu and Guy Wolf and Dominique Beaini},
 title = {Recipe for a General, Powerful, Scalable Graph Transformer},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

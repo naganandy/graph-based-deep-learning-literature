@@ -1,7 +1,7 @@
 # Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure
 
 ```
-@incollection{disc_neurips22
+@incollection{disc_neurips22,
 author = {Shaohua Fan and Xiao Wang and Yanhu Mo and Chuan Shi and Jian Tang},
 title = {Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

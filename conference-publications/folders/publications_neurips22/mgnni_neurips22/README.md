@@ -1,7 +1,7 @@
 # MGNNI: Multiscale Graph Neural Networks with Implicit Layers
 
 ```
-@incollection{mgnni_neurips22
+@incollection{mgnni_neurips22,
 author = {Juncheng Liu and Bryan Hooi and Kenji Kawaguchi and Xiaokui Xiao},
 title = {MGNNI: Multiscale Graph Neural Networks with Implicit Layers},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

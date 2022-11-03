@@ -1,7 +1,7 @@
 # Learning Rigid Body Dynamics with Lagrangian Graph Neural Network
 
 ```
-@incollection{lgnn_neurips22
+@incollection{lgnn_neurips22,
 author = {Ravinder Bhattoo and Sayan Ranu and N M Anoop Krishnan},
 title = {Learning Rigid Body Dynamics with Lagrangian Graph Neural Network},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

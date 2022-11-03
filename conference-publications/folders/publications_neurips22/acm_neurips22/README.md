@@ -1,7 +1,7 @@
 # Revisiting Heterophily For Graph Neural Networks
 
 ```
-@incollection{acm_neurips22
+@incollection{acm_neurips22,
 author = {Sitao Luan and Chenqing Hua and Qincheng Lu and Jiaqi Zhu and Mingde Zhao and Shuyuan Zhang and Xiao-Wen Chang and Doina Precup},
 title = {Revisiting Heterophily For Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

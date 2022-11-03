@@ -1,7 +1,7 @@
 # Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias
 
 ```
-@incollection{grad_neurips22
+@incollection{grad_neurips22,
 author = {Zihan Liu and Yun Luo and Lirong Wu and Zicheng Liu and Stan Z. Li},
 title = {Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

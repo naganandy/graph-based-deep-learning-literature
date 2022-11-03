@@ -1,7 +1,7 @@
 # Evaluating Graph Generative Models with Contrastively Learned Features
 
 ```
-@incollection{ggmclf_neurips22
+@incollection{ggmclf_neurips22,
 author = {Hamed Shirzad and Kaveh Hassani and Danica J. Sutherland},
 title = {Evaluating Graph Generative Models with Contrastively Learned Features},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

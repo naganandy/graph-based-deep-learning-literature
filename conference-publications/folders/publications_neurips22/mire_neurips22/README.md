@@ -1,7 +1,7 @@
 # Mix and Reason: Reasoning over Semantic Topology with Data Mixing for Domain Generalization
 
 ```
-@incollection{mire_neurips22
+@incollection{mire_neurips22,
 author = {Chaoqi Chen and Luyao Tang and Feng Liu and Gangming Zhao and Yue Huang and Yizhou Yu},
 title = {Mix and Reason: Reasoning over Semantic Topology with Data Mixing for Domain Generalization},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

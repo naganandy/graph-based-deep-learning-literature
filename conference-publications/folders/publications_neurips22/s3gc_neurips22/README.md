@@ -1,7 +1,7 @@
 # S3GC: Scalable Self-Supervised Graph Clustering
 
 ```
-@incollection{s3gc_neurips22
+@incollection{s3gc_neurips22,
 author = {Fnu Devvrit and Aditya Sinha and Inderjit Dhillon and Prateek Jain},
 title = {S3GC: Scalable Self-Supervised Graph Clustering},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

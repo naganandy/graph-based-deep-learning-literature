@@ -1,7 +1,7 @@
 # DreamShard: Generalizable Embedding Table Placement for Recommender Systems
 
 ```
-@incollection{dreamshard_neurips22
+@incollection{dreamshard_neurips22,
 author = {Daochen Zha and Louis Feng and Qiaoyu Tan and Zirui Liu and Kwei-Herng Lai and Bhargav Bhushanam and Yuandong Tian and Arun Kejariwal and Xia Hu},
 title = {DreamShard: Generalizable Embedding Table Placement for Recommender Systems},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

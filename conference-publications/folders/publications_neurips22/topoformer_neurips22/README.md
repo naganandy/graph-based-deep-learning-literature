@@ -1,7 +1,7 @@
 # Neural Topological Ordering for Computation Graphs
 
 ```
-@incollection{topoformer_neurips22
+@incollection{topoformer_neurips22,
 author = {Mukul Gagrani and Corrado Rainone and Yang Yang and Harris Teague and Wonseok Jeon and Roberto Bondesan and Herke van Hoof and Christopher Lott and Weiliang Zeng and Piero Zappi},
 title = {Neural Topological Ordering for Computation Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

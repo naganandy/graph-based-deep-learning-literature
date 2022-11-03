@@ -1,7 +1,7 @@
 # DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems
 
 ```
-@incollection{dimes_neurips22
+@incollection{dimes_neurips22,
 author = {Ruizhong Qiu and Zhiqing Sun and Yiming Yang},
 title = {DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

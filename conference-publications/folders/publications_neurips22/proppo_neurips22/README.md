@@ -1,7 +1,7 @@
 # Proppo: a Message Passing Framework for Customizable and Composable Learning Algorithms
 
 ```
-@incollection{proppo_neurips22
+@incollection{proppo_neurips22,
 author = {Paavo Parmas and Takuma Seno},
 title = {Proppo: a Message Passing Framework for Customizable and Composable Learning Algorithms},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

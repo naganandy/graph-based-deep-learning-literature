@@ -1,7 +1,7 @@
 # MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields
 
 ```
-@incollection{mace_neurips22
+@incollection{mace_neurips22,
 author = {Ilyes Batatia and David Kovacs and Gregor Simm and Christoph Ortner and Gabor Csanyi},
 title = {MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Neuron with Steady Response Leads to Better Generalization
 
 ```
-@incollection{nsr_neurips22
+@incollection{nsr_neurips22,
 author = {Qiang Fu and Lun Du and Haitao Mao and Xu Chen and Wei Fang and Shi Han and Dongmei Zhang},
 title = {Neuron with Steady Response Leads to Better Generalization},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Molecule Generation by Principal Subgraph Mining and Assembling
 
 ```
-@incollection{psvae_neurips22
+@incollection{psvae_neurips22,
 author = {Xiangzhe Kong and Wenbing Huang and Zhixing Tan and Yang Liu},
 title = {Molecule Generation by Principal Subgraph Mining and Assembling},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # On the Robustness of Graph Neural Diffusion
 
 ```
-@incollection{robustgnd_neurips22
+@incollection{robustgnd_neurips22,
 author = {Yang Song and Qiyu Kang and Sijie Wang and Zhao Kai and Wee Peng Tay},
 title = {On the Robustness of Graph Neural Diffusion},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

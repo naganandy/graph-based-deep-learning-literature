@@ -1,7 +1,7 @@
 # Graph Neural Network Bandits
 
 ```
-@incollection{gnnpe_neurips22
+@incollection{gnnpe_neurips22,
 author = {Parnian Kassraie and Andreas Krause and Ilija Bogunovic},
 title = {Graph Neural Network Bandits},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

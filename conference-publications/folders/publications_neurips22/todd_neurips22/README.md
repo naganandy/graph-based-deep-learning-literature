@@ -1,7 +1,7 @@
 # ToDD: Topological Compound Fingerprinting in Computer-Aided Drug Discovery
 
 ```
-@incollection{todd_neurips22
+@incollection{todd_neurips22,
 author = {Andac Demir and Baris Coskunuzer and Yulia Gel and Ignacio Segovia-Dominguez and Yuzhou Chen and Bulent Nps Kiziltan},
 title = {ToDD: Topological Compound Fingerprinting in Computer-Aided Drug Discovery},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Ordered Subgraph Aggregation Networks
 
 ```
-@incollection{osan_neurips22
+@incollection{osan_neurips22,
 author = {Chendi Qian and Gaurav Rattan and Floris Geerts and Mathias Niepert and Christopher Morris},
 title = {Ordered Subgraph Aggregation Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

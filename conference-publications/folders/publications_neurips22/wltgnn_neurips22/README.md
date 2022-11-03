@@ -1,7 +1,7 @@
 # Exponentially Improving the Complexity of Simulating the Weisfeiler-Lehman Test with Graph Neural Networks
 
 ```
-@incollection{wltgnn_neurips22
+@incollection{wltgnn_neurips22,
 author = {Anders Aamand and Justin Chen and Piotr Indyk and Shyam Narayanan and Ronitt Rubinfeld and Nicholas Schiefer and Sandeep Silwal and Tal Wagner},
 title = {Exponentially Improving the Complexity of Simulating the Weisfeiler-Lehman Test with Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Robust Graph Structure Learning over Images via Multiple Statistical Tests
 
 ```
-@incollection{bttention_neurips22
+@incollection{bttention_neurips22,
 author = {Yaohua Wang and Fangyi Zhang and Ming Lin and Senzhang Wang and Xiuyu Sun and Rong Jin},
 title = {Robust Graph Structure Learning over Images via Multiple Statistical Tests},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

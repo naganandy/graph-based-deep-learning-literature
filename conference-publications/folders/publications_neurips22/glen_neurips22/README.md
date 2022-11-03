@@ -1,7 +1,7 @@
 # Generalized Laplacian Eigenmaps
 
 ```
-@incollection{glen_neurips22
+@incollection{glen_neurips22,
 author = {Hao Zhu and Piotr Koniusz},
 title = {Generalized Laplacian Eigenmaps},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

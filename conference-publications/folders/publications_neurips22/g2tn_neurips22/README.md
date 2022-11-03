@@ -1,7 +1,7 @@
 # Capturing Graphs with Hypo-Elliptic Diffusions
 
 ```
-@incollection{g2tn_neurips22
+@incollection{g2tn_neurips22,
 author = {Csaba Toth and Darrick Lee and Celia Hacker and Harald Oberhauser},
 title = {Capturing Graphs with Hypo-Elliptic Diffusions},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

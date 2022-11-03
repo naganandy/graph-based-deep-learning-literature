@@ -1,7 +1,7 @@
 # Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graph
 
 ```
-@incollection{metatkgr_neurips22
+@incollection{metatkgr_neurips22,
 author = {Ruijie Wang and Zheng Li and Dachun Sun and Shengzhong Liu and Jinning Li and Bing Yin and Tarek Abdelzaher},
 title = {Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graph},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

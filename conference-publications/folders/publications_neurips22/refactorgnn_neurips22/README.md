@@ -1,7 +1,7 @@
 # ReFactorGNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective
 
 ```
-@incollection{refactorgnn_neurips22
+@incollection{refactorgnn_neurips22,
 author = {Yihong Chen and Pushkar Mishra and Luca Franceschi and Pasquale Minervini and Pontus Lars Erik Saito Stenetorp and Sebastian Riedel},
 title = {ReFactorGNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

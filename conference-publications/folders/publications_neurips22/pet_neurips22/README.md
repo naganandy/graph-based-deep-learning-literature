@@ -1,7 +1,7 @@
 # Learning Enhanced Representation for Tabular Data via Neighborhood Propagation
 
 ```
-@incollection{pet_neurips22
+@incollection{pet_neurips22,
 author = {Kounianhua Du and Weinan Zhang and Ruiwen Zhou and Yangkun Wang and Xilong Zhao and Jiarui Jin and Quan Gan and Zheng Zhang and David P Wipf},
 title = {Learning Enhanced Representation for Tabular Data via Neighborhood Propagation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

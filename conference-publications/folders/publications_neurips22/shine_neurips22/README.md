@@ -1,7 +1,7 @@
 # SHINE: SubHypergraph Inductive Neural nEtwork
 
 ```
-@incollection{shine_neurips22
+@incollection{shine_neurips22,
 author = {Yuan Luo},
 title = {SHINE: SubHypergraph Inductive Neural nEtwork},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

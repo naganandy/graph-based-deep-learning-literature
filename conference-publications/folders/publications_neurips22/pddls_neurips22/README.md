@@ -1,7 +1,7 @@
 # Physical Design using Differentiable Learned Simulators
 
 ```
-@incollection{pddls_neurips22
+@incollection{pddls_neurips22,
 author = {Kelsey Allen and Tatiana Lopez-Guevara and Kimberly Stachenfeld and Alvaro Sanchez Gonzalez and Peter Battaglia and Jessica Hamrick and Tobias Pfaff},
 title = {Physical Design using Differentiable Learned Simulators},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Learning-based Manipulation Planning in Dynamic Environments Using GNNs and Temporal Encoding
 
 ```
-@incollection{gnnte_neurips22
+@incollection{gnnte_neurips22,
 author = {Ruipeng Zhang and Chenning Yu and Jingkai Chen and Chuchu Fan and Sicun Gao},
 title = {Learning-based Manipulation Planning in Dynamic Environments Using GNNs and Temporal Encoding},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

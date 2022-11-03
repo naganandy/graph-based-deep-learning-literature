@@ -1,7 +1,7 @@
 # Parameter-free Dynamic Graph Embedding for Link Prediction
 
 ```
-@incollection{freegem_neurips22
+@incollection{freegem_neurips22,
 author = {Jiahao Liu and Dongsheng Li and Hansu Gu and Tun Lu and Peng Zhang and Ning Gu},
 title = {Parameter-free Dynamic Graph Embedding for Link Prediction},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

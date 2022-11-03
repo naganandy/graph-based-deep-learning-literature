@@ -1,7 +1,7 @@
 # Co-Modality Imbalanced Graph Contrastive Learning
 
 ```
-@incollection{cmigcl_neurips22
+@incollection{cmigcl_neurips22,
 author = {Yiyue Qian and Chunhui Zhang and Yiming Zhang and Qianlong Wen and Yanfang Ye and Chuxu Zhang},
 title = {Co-Modality Imbalanced Graph Contrastive Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

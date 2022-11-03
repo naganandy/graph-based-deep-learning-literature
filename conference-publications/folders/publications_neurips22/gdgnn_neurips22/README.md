@@ -1,7 +1,7 @@
 # Geodesic Graph Neural Network for Efficient Graph Representation Learning
 
 ```
-@incollection{gdgnn_neurips22
+@incollection{gdgnn_neurips22,
 author = {Lecheng Kong and Muhan Zhang and Yixin Chen},
 title = {Geodesic Graph Neural Network for Efficient Graph Representation Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

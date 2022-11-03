@@ -1,7 +1,7 @@
 # Provably expressive temporal graph networks
 
 ```
-@incollection{mptgn_neurips22
+@incollection{mptgn_neurips22,
 author = {Amauri Souza and Diego Mesquita and Samuel Kaski and Vikas Garg},
 title = {Provably expressive temporal graph networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

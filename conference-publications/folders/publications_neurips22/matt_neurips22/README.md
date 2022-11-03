@@ -1,7 +1,7 @@
 # MAtt: A Manifold Attention Network for EEG Decoding
 
 ```
-@incollection{matt_neurips22
+@incollection{matt_neurips22,
 author = {Yue Ting Pan and Jing-Lun Chou and Chun-Shu Wei},
 title = {MAtt: A Manifold Attention Network for EEG Decoding},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

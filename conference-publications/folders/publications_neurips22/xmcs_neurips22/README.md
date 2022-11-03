@@ -1,7 +1,7 @@
 # Maximum Common Subgraph Guided Graph Retrieval: Late and Early Interaction Networks
 
 ```
-@incollection{xmcs_neurips22
+@incollection{xmcs_neurips22,
 author = {Indradyumna Roy and Soumen Chakrabarti and Abir De},
 title = {Maximum Common Subgraph Guided Graph Retrieval: Late and Early Interaction Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

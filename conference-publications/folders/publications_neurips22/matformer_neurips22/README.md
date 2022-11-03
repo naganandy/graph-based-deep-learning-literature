@@ -1,7 +1,7 @@
 # Periodic Graph Transformers for Crystal Material Property Prediction
 
 ```
-@incollection{matformer_neurips22
+@incollection{matformer_neurips22,
 author = {Keqiang Yan and Yi Liu and Yuchao Lin and Shuiwang Ji},
 title = {Periodic Graph Transformers for Crystal Material Property Prediction},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

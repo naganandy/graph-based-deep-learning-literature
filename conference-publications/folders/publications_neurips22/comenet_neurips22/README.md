@@ -1,7 +1,7 @@
 # ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs
 
 ```
-@incollection{comenet_neurips22
+@incollection{comenet_neurips22,
 author = {Limei Wang and Yi Liu and Yuchao Lin and Haoran Liu and Shuiwang Ji},
 title = {ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

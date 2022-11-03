@@ -1,7 +1,7 @@
 # Inherently Explainable Reinforcement Learning in Natural Language
 
 ```
-@incollection{hexrl_neurips22
+@incollection{hexrl_neurips22,
 author = {Xiangyu Peng and Mark Riedl and Prithviraj Ammanabrolu},
 title = {Inherently Explainable Reinforcement Learning in Natural Language},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

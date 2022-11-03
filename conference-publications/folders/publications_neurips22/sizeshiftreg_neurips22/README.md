@@ -1,7 +1,7 @@
 # SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks
 
 ```
-@incollection{sizeshiftreg_neurips22
+@incollection{sizeshiftreg_neurips22,
 author = {Davide Buffelli and Pietro Lio and Fabio Vandin},
 title = {SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

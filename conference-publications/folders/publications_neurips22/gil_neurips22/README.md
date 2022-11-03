@@ -1,7 +1,7 @@
 # Learning Invariant Graph Representations Under Distribution Shifts
 
 ```
-@incollection{gil_neurips22
+@incollection{gil_neurips22,
 author = {Haoyang Li and Ziwei Zhang and Xin Wang and Wenwu Zhu},
 title = {Learning Invariant Graph Representations Under Distribution Shifts},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

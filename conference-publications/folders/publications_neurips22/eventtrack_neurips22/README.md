@@ -1,7 +1,7 @@
 # Leaning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds
 
 ```
-@incollection{eventtrack_neurips22
+@incollection{eventtrack_neurips22,
 author = {Zhiyu Zhu and Junhui Hou and Xianqiang Lyu},
 title = {Leaning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

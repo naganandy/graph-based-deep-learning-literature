@@ -1,7 +1,7 @@
 # Explaining Graph Neural Networks with Structure-Aware Cooperative Games
 
 ```
-@incollection{gstarx_neurips22
+@incollection{gstarx_neurips22,
 author = {Shichang Zhang and Neil Shah and Yozen Liu and Yizhou Sun},
 title = {Explaining Graph Neural Networks with Structure-Aware Cooperative Games},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

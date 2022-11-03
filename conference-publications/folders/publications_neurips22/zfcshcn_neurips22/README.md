@@ -1,7 +1,7 @@
 # Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting
 
 ```
-@incollection{zfcshcn_neurips22
+@incollection{zfcshcn_neurips22,
 author = {Yuzhou Chen and Yulia Gel and H. Vincent Poor},
 title = {Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

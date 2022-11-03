@@ -1,7 +1,7 @@
 # Sequential Latent Variable Models for Multiagent Trajectories
 
 ```
-@incollection{mat_neurips22
+@incollection{mat_neurips22,
 author = {Dennis Fassmeyer and Pascal Fassmeyer and Ulf Brefeld},
 title = {Sequential Latent Variable Models for Multiagent Trajectories},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

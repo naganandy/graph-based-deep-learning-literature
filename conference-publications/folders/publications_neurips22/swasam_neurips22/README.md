@@ -1,7 +1,7 @@
 # A Fair Comparison of Two Popular Flat-Minima Optimizers: Stochastic Weight Averaging vs. Sharpness-Aware Minimization
 
 ```
-@incollection{swasam_neurips22
+@incollection{swasam_neurips22,
 author = {Jean Kaddour and Linqing Liu and Ricardo Silva and Matt Kusner},
 title = {A Fair Comparison of Two Popular Flat-Minima Optimizers: Stochastic Weight Averaging vs. Sharpness-Aware Minimization},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Graph Scattering beyond Wavelet Shackles
 
 ```
-@incollection{ggsnek_neurips22
+@incollection{ggsnek_neurips22,
 author = {Christian Koke and Gitta Kutyniok},
 title = {Graph Scattering beyond Wavelet Shackles},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

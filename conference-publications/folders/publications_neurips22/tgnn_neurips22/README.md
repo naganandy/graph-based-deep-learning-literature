@@ -1,7 +1,7 @@
 # High-Order Pooling for Graph Neural Networks with Tensor Decomposition
 
 ```
-@incollection{tgnn_neurips22
+@incollection{tgnn_neurips22,
 author = {Chenqing Hua and Guillaume Rabusseau and Jian Tang},
 title = {High-Order Pooling for Graph Neural Networks with Tensor Decomposition},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

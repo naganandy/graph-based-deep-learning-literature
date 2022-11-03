@@ -1,7 +1,7 @@
 # $\textitPublic Wisdom Matters!$ Discourse-Aware Hyperbolic Fourier Co-Attention for Social Text Classification
 
 ```
-@incollection{hyphen_neurips22
+@incollection{hyphen_neurips22,
 author = {Karish Grover and S M Phaneendra Angara and Md Shad Akhtar and Tanmoy Chakraborty},
 title = {$\textit{Public Wisdom Matters!}$ Discourse-Aware Hyperbolic Fourier Co-Attention for Social Text Classification},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

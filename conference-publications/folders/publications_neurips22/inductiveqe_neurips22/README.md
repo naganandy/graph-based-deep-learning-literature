@@ -1,7 +1,7 @@
 # Inductive Logical Query Answering in Knowledge Graphs
 
 ```
-@incollection{inductiveqe_neurips22
+@incollection{inductiveqe_neurips22,
 author = {Mikhail Galkin and Zhaocheng Zhu and Hongyu Ren and Jian Tang},
 title = {Inductive Logical Query Answering in Knowledge Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

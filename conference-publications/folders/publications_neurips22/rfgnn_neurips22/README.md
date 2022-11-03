@@ -1,7 +1,7 @@
 # Redundancy-Free Message Passing for Graph Neural Networks
 
 ```
-@incollection{rfgnn_neurips22
+@incollection{rfgnn_neurips22,
 author = {Rongqin Chen and Shenghui Zhang and Leong Hou U and Ye Li},
 title = {Redundancy-Free Message Passing for Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

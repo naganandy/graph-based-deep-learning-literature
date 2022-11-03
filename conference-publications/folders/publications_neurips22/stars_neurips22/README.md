@@ -1,7 +1,7 @@
 # Stars: Tera-Scale Graph Building for Clustering and Learning
 
 ```
-@incollection{stars_neurips22
+@incollection{stars_neurips22,
 author = {CJ Carey and Jonathan Halcrow and Rajesh Jayaram and Vahab Mirrokni and Warren Schudy and Peilin Zhong},
 title = {Stars: Tera-Scale Graph Building for Clustering and Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

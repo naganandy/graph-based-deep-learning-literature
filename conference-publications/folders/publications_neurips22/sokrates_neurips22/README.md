@@ -1,7 +1,7 @@
 # So3krates - Self-attention for higher-order geometric interactions on arbitrary length-scales
 
 ```
-@incollection{sokrates_neurips22
+@incollection{sokrates_neurips22,
 author = {Thorben Frank and Oliver Thorsten Unke and Klaus Robert Muller},
 title = {So3krates - Self-attention for higher-order geometric interactions on arbitrary length-scales},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

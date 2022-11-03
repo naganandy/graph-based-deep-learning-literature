@@ -1,7 +1,7 @@
 # GraphQNTK: the Quantum Neural Tangent Kernel for Graph Data
 
 ```
-@incollection{graphqntk_neurips22
+@incollection{graphqntk_neurips22,
 author = {Yehui Tang and Junchi Yan},
 title = {GraphQNTK: the Quantum Neural Tangent Kernel for Graph Data},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

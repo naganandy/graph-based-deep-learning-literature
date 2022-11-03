@@ -1,7 +1,7 @@
 # Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative
 
 ```
-@incollection{hypergcl_neurips22
+@incollection{hypergcl_neurips22,
 author = {Tianxin Wei and Yuning You and Tianlong Chen and Yang Shen and Jingrui He and Zhangyang Wang},
 title = {Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Tree Mover's Distance: Bridging Graph Metrics and Stability of Graph Neural Networks
 
 ```
-@incollection{tmdsvm_neurips22
+@incollection{tmdsvm_neurips22,
 author = {Ching-Yao Chuang and Stefanie Jegelka},
 title = {Tree Mover's Distance: Bridging Graph Metrics and Stability of Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

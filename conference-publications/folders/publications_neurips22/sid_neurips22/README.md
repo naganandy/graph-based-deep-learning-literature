@@ -1,7 +1,7 @@
 # Symmetry-induced Disentanglement on Graphs
 
 ```
-@incollection{sid_neurips22
+@incollection{sid_neurips22,
 author = {Giangiacomo Mercatali and Andre Freitas and Vikas Garg},
 title = {Symmetry-induced Disentanglement on Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

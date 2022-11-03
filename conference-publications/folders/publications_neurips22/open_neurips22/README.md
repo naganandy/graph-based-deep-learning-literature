@@ -1,7 +1,7 @@
 # OPEN: Orthogonal Propagation with Ego-Network Modeling
 
 ```
-@incollection{open_neurips22
+@incollection{open_neurips22,
 author = {Liang Yang and Chuan Wang and Yuanfang Guo and bingxin niu and Xiaochun Cao and Zhen Wang and Dongxiao He and Mengzhe Li and Lina Kang and Qiuliang Zhang},
 title = {OPEN: Orthogonal Propagation with Ego-Network Modeling},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

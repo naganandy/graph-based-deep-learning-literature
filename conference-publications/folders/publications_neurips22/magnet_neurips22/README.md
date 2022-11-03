@@ -1,7 +1,7 @@
 # MAgNet: Mesh Agnostic Neural PDE Solver
 
 ```
-@incollection{magnet_neurips22
+@incollection{magnet_neurips22,
 author = {Oussama Boussif and Yoshua Bengio and Loubna Benabbou and Dan Assouline},
 title = {MAgNet: Mesh Agnostic Neural PDE Solver},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Decoupled Self-supervised Learning for Non-Homophilous Graphs
 
 ```
-@incollection{dssl_neurips22
+@incollection{dssl_neurips22,
 author = {Teng Xiao and Zhengyu Chen and Zhimeng Guo and Zeyang Zhuang and Suhang Wang},
 title = {Decoupled Self-supervised Learning for Non-Homophilous Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

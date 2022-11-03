@@ -1,7 +1,7 @@
 # Deep Bidirectional Language-Knowledge Pretraining
 
 ```
-@incollection{dragon_neurips22
+@incollection{dragon_neurips22,
 author = {Michihiro Yasunaga and Antoine Bosselut and Hongyu Ren and Xikun Zhang and Christopher D Manning and Percy Liang and Jure Leskovec},
 title = {Deep Bidirectional Language-Knowledge Pretraining},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

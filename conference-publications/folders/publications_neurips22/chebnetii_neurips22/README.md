@@ -1,7 +1,7 @@
 # Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited
 
 ```
-@incollection{chebnetii_neurips22
+@incollection{chebnetii_neurips22,
 author = {Mingguo He and Zhewei Wei and Ji-Rong Wen},
 title = {Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

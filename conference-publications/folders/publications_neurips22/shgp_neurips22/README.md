@@ -1,7 +1,7 @@
 # Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering
 
 ```
-@incollection{shgp_neurips22
+@incollection{shgp_neurips22,
 author = {Yaming Yang and Ziyu Guan and Zhe Wang and Wei Zhao and Cai Xu and Weigang Lu and Jianbin Huang},
 title = {Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

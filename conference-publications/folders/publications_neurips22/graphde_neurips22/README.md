@@ -1,7 +1,7 @@
 # Towards Debiased Learning and Out-of-Distribution Detection for Graph Data
 
 ```
-@incollection{graphde_neurips22
+@incollection{graphde_neurips22,
 author = {Zenan Li and Qitian Wu and Fan Nie and Junchi Yan},
 title = {Towards Debiased Learning and Out-of-Distribution Detection for Graph Data},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

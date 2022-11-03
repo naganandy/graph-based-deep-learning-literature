@@ -1,7 +1,7 @@
 # A Practical, Progressively-Expressive GNN
 
 ```
-@incollection{setgnn_neurips22
+@incollection{setgnn_neurips22,
 author = {Lingxiao Zhao and Neil Shah and Leman Akoglu},
 title = {A Practical, Progressively-Expressive GNN},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

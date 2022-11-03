@@ -1,7 +1,7 @@
 # Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries
 
 ```
-@incollection{sun_neurips22
+@incollection{sun_neurips22,
 author = {Fabrizio Frasca and Beatrice Bevilacqua and Michael Bronstein and Haggai Maron},
 title = {Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

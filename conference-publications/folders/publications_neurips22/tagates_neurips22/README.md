@@ -1,7 +1,7 @@
 # TA-GATES: An Encoding Scheme for Neural Network Architectures
 
 ```
-@incollection{tagates_neurips22
+@incollection{tagates_neurips22,
 author = {Xuefei Ning and Zixuan Zhou and Junbo Zhao and Tianchen Zhao and Yiping Deng and Changcheng Tang and Shuang Liang and Huazhong Yang and Yu Wang},
 title = {TA-GATES: An Encoding Scheme for Neural Network Architectures},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

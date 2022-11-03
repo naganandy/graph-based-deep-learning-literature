@@ -1,7 +1,7 @@
 # Contrastive Language-Image Pre-Training with Knowledge Graphs
 
 ```
-@incollection{knowledgeclip_neurips22
+@incollection{knowledgeclip_neurips22,
 author = {Xuran Pan and Tianzhu Ye and Dongchen Han and Shiji Song and Gao Huang},
 title = {Contrastive Language-Image Pre-Training with Knowledge Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

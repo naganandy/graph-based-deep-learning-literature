@@ -1,7 +1,7 @@
 # A Variational Edge Partition Model for Supervised Graph Representation Learning
 
 ```
-@incollection{vepm_neurips22
+@incollection{vepm_neurips22,
 author = {Yilin He and Chaojie Wang and Hao Zhang and Bo Chen and Mingyuan Zhou},
 title = {A Variational Edge Partition Model for Supervised Graph Representation Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

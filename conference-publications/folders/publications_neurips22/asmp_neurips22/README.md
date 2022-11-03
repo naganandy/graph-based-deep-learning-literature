@@ -1,7 +1,7 @@
 # Learning Audio-Visual Dynamics Using Scene Graphs
 
 ```
-@incollection{asmp_neurips22
+@incollection{asmp_neurips22,
 author = {Moitreya Chatterjee and Narendra Ahuja and Anoop Cherian},
 title = {Learning Audio-Visual Dynamics Using Scene Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # NSNet: A General Neural Probabilistic Framework for Satisfiability Problems
 
 ```
-@incollection{nsnet_neurips22
+@incollection{nsnet_neurips22,
 author = {Zhaoyu Li and Xujie Si},
 title = {NSNet: A General Neural Probabilistic Framework for Satisfiability Problems},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

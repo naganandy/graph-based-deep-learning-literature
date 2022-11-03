@@ -1,7 +1,7 @@
 # Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs
 
 ```
-@incollection{neurtw_neurips22
+@incollection{neurtw_neurips22,
 author = {Ming Jin and Yuan-Fang Li and Shirui Pan},
 title = {Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

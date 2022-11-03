@@ -1,7 +1,7 @@
 # Zero-shot Transfer Learning on Heterogeneous Graphs via Knowledge Transfer Networks
 
 ```
-@incollection{ktn_neurips22
+@incollection{ktn_neurips22,
 author = {Minji Yoon and John Palowitch and Dustin Zelle and Ziniu Hu and Ruslan Salakhutdinov and Bryan Perozzi},
 title = {Zero-shot Transfer Learning on Heterogeneous Graphs via Knowledge Transfer Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

@@ -1,7 +1,7 @@
 # Pseudo-Riemannian Graph Convolutional Networks
 
 ```
-@incollection{qgcn_neurips22
+@incollection{qgcn_neurips22,
 author = {Bo Xiong and Shichao Zhu and Nico Potyka and Shirui Pan and Chuan Zhou and Steffen Staab},
 title = {Pseudo-Riemannian Graph Convolutional Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

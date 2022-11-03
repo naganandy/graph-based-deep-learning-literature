@@ -1,7 +1,7 @@
 # Not too little, not too much: a theoretical analysis of graph (over)smoothing
 
 ```
-@incollection{oversmoothingtheory_neurips22
+@incollection{oversmoothingtheory_neurips22,
 author = {Nicolas Keriven},
 title = {Not too little, not too much: a theoretical analysis of graph (over)smoothing},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

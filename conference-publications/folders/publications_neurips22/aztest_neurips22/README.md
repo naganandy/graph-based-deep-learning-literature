@@ -1,7 +1,7 @@
 # AZ-whiteness test: a test for signal uncorrelation on spatio-temporal graphs
 
 ```
-@incollection{aztest_neurips22
+@incollection{aztest_neurips22,
 author = {Daniele Zambon and Cesare Alippi},
 title = {AZ-whiteness test: a test for signal uncorrelation on spatio-temporal graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

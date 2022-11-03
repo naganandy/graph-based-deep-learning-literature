@@ -1,7 +1,7 @@
 # A Deep Reinforcement Learning Framework for Column Generation
 
 ```
-@incollection{rlcg_neurips22
+@incollection{rlcg_neurips22,
 author = {Cheng Chi and Amine M Aboussalah and Elias Khalil and Juyoung Wang and Zoha Sherkat-Masoumi},
 title = {A Deep Reinforcement Learning Framework for Column Generation},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

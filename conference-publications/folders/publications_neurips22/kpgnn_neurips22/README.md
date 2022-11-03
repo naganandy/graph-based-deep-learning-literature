@@ -1,7 +1,7 @@
 # How Powerful are K-hop Message Passing Graph Neural Networks
 
 ```
-@incollection{kpgnn_neurips22
+@incollection{kpgnn_neurips22,
 author = {Jiarui Feng and Yixin Chen and Fuhai Li and Anindya Sarkar and Muhan Zhang},
 title = {How Powerful are K-hop Message Passing Graph Neural Networks},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

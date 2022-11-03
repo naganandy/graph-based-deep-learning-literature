@@ -1,7 +1,7 @@
 # What Makes Graph Neural Networks Miscalibrated?
 
 ```
-@incollection{gats_neurips22
+@incollection{gats_neurips22,
 author = {Hans Hao-Hsun Hsu and Yuesong Shen and Christian Tomani and Daniel Cremers},
 title = {What Makes Graph Neural Networks Miscalibrated?},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

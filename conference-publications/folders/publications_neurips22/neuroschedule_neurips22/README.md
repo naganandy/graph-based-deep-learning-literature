@@ -1,7 +1,7 @@
 # NeuroSchedule: A Novel Effective GNN-based Scheduling Method for High-level Synthesis
 
 ```
-@incollection{neuroschedule_neurips22
+@incollection{neuroschedule_neurips22,
 author = {Jun Zeng and Mingyang Kou and Hailong Yao},
 title = {NeuroSchedule: A Novel Effective GNN-based Scheduling Method for High-level Synthesis},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

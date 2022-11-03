@@ -1,7 +1,7 @@
 # OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs
 
 ```
-@incollection{cgmpnnlink_neurips22
+@incollection{cgmpnnlink_neurips22,
 author = {Yangze Zhou and Gitta Kutyniok and Bruno Ribeiro},
 title = {OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},

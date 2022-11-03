@@ -1,7 +1,7 @@
 # Uncovering the Structural Fairness in Graph Contrastive Learning
 
 ```
-@incollection{grade_neurips22
+@incollection{grade_neurips22,
 author = {Ruijia Wang and Xiao Wang and Chuan Shi and Le Song},
 title = {Uncovering the Structural Fairness in Graph Contrastive Learning},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS) 35},
