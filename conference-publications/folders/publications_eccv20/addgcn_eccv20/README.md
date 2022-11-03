@@ -6,7 +6,7 @@ author = {Jin Ye and Junjun He and Xiaojiang Peng and Wenhao Wu and Yu Qiao},
 title = {Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {649--665},
-year = {2022}
+year = {2020}
 }
 ```
 

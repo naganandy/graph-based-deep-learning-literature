@@ -6,7 +6,7 @@ author = {Effrosyni Mavroudi and Benjamín Béjar Haro and René Vidal},
 title = {Representation Learning on Visual-Symbolic Graphs for Video Understanding},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {71--90},
-year = {2022}
+year = {2020}
 }
 ```
 

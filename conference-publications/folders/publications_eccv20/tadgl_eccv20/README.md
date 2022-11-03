@@ -6,7 +6,7 @@ author = {Weijian Li and Yuhang Lu and Kang Zheng and Haofu Liao and Chihung Lin
 title = {Structured Landmark Detection via Topology-Adapting Deep Graph Learning},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {266--283},
-year = {2022}
+year = {2020}
 }
 ```
 

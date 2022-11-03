@@ -6,7 +6,7 @@ author = {Ming Liang and Bin Yang and Rui Hu and Yun Chen and Renjie Liao and So
 title = {Learning Lane Graph Representations for Motion Forecasting},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {541--556},
-year = {2022}
+year = {2020}
 }
 ```
 

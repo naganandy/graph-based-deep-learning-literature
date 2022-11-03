@@ -6,7 +6,7 @@ author = {Nelson Nauata and Kai-Hung Chang and Chin-Yi Cheng and Greg Mori and Y
 title = {House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {162--177},
-year = {2022}
+year = {2020}
 }
 ```
 

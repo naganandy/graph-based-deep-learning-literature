@@ -6,7 +6,7 @@ author = {Xueya Zhang and Tong Zhang and Xiaobin Hong and Zhen Cui and Jian Yang
 title = {Graph Wasserstein Correlation Analysis for Movie Retrieval},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {424--439},
-year = {2022}
+year = {2020}
 }
 ```
 

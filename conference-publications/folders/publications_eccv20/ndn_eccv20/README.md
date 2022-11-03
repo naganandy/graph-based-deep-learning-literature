@@ -6,7 +6,7 @@ author = {Hsin-Ying Lee and Lu Jiang and Irfan Essa and Phuong B Le and Haifeng 
 title = {Neural Design Network: Graphic Layout Generation with Constraints},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {491--506},
-year = {2022}
+year = {2020}
 }
 ```
 

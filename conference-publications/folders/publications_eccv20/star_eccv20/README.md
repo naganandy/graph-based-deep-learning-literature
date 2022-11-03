@@ -6,7 +6,7 @@ author = {Cunjun Yu and Xiao Ma and Jiawei Ren and Haiyu Zhao and Shuai Yi},
 title = {Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {507--523},
-year = {2022}
+year = {2020}
 }
 ```
 

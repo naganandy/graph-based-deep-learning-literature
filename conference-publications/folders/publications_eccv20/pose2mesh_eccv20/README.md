@@ -6,7 +6,7 @@ author = {Hongsuk Choi and Gyeongsik Moon and Kyoung Mu Lee},
 title = {Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {769--787},
-year = {2022}
+year = {2020}
 }
 ```
 

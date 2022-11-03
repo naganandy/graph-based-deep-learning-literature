@@ -6,7 +6,7 @@ author = {Duc Minh Vo and Akihiro Sugimoto},
 title = {Visual-Relation Conscious Image Generation from Structured-Text},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {290--306},
-year = {2022}
+year = {2020}
 }
 ```
 

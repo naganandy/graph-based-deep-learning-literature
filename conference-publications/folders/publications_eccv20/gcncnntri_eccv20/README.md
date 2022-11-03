@@ -6,7 +6,7 @@ author = {Dipu Manandhar and Dan Ruta and John Collomosse},
 title = {Learning Structural Similarity of User Interface Layouts using Graph Networks},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {730--746},
-year = {2022}
+year = {2020}
 }
 ```
 

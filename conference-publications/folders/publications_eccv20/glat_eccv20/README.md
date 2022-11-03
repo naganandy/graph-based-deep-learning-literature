@@ -6,7 +6,7 @@ author = {Alireza Zareian and Zhecan Wang and Haoxuan You and Shih-Fu Chang},
 title = {Learning Visual Commonsense for Robust Scene Graph Generation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {642--657},
-year = {2022}
+year = {2020}
 }
 ```
 

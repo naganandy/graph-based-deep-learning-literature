@@ -6,7 +6,7 @@ author = {Francesca Pistilli and Giulia Fracastoro and Diego Valsesia and Enrico
 title = {Learning Graph-Convolutional Representations for Point Cloud Denoising},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {103--118},
-year = {2022}
+year = {2020}
 }
 ```
 

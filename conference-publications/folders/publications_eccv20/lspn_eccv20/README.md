@@ -6,7 +6,7 @@ author = {Sibei Yang and Guanbin Li and Yizhou Yu},
 title = {Propagating Over Phrase Relations for One-Stage Visual Grounding},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {589--605},
-year = {2022}
+year = {2020}
 }
 ```
 

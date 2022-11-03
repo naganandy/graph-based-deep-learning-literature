@@ -6,7 +6,7 @@ author = {Xiankai Lu and Wenguan Wang and Martin Danelljan and Tianfei Zhou and 
 title = {Video Object Segmentation with Episodic Graph Memory Networks},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {661--679},
-year = {2022}
+year = {2020}
 }
 ```
 

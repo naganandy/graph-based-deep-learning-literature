@@ -6,7 +6,7 @@ author = {Xikun Zhang and Chang Xu and Dacheng Tao},
 title = {On Dropping Clusters to Regularize Graph Convolutional Neural Networks},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {245--260},
-year = {2022}
+year = {2020}
 }
 ```
 

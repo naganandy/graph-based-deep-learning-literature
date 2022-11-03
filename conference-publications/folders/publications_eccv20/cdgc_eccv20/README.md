@@ -6,7 +6,7 @@ author = {Hanzhe Hu and Deyi Ji and Weihao Gan and Shuai Bai and Wei Wu and Junj
 title = {Class-wise Dynamic Graph Convolution for Semantic Segmentation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {1--17},
-year = {2022}
+year = {2020}
 }
 ```
 

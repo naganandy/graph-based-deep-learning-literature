@@ -6,7 +6,7 @@ author = {Ke Cheng and Yifan Zhang and Congqi Cao and Lei Shi and Jian Cheng and
 title = {Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {536--553},
-year = {2022}
+year = {2020}
 }
 ```
 

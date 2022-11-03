@@ -6,7 +6,7 @@ author = {Matthew Korban and Xin Li},
 title = {DDGCN: A Dynamic Directed Graph Convolutional Network for Action Recognition},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {761--776},
-year = {2022}
+year = {2020}
 }
 ```
 

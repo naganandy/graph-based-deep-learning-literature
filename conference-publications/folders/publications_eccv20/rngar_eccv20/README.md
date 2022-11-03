@@ -6,7 +6,7 @@ author = {Rizard Renanda Adhi Pramono and Yie Tarng Chen and Wen Hsien Fang},
 title = {Empowering Relational Network by Self-Attention Augmented Conditional Random Fields for Group Activity Recognition},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {71--90},
-year = {2022}
+year = {2020}
 }
 ```
 

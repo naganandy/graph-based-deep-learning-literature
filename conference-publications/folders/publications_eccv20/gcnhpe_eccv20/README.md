@@ -6,7 +6,7 @@ author = {Kenkun Liu and Rongqi Ding and Zhiming Zou and Le Wang and Wei Tang},
 title = {A Comprehensive Study of Weight Sharing in Graph Networks for 3D Human Pose Estimation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {318--334},
-year = {2022}
+year = {2020}
 }
 ```
 

@@ -6,7 +6,7 @@ author = {Yueran Bai and Yingying Wang and Yunhai Tong and Yang Yang and Qiyue L
 title = {Boundary Content Graph Neural Network for Temporal Action Proposal Generation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {121--137},
-year = {2022}
+year = {2020}
 }
 ```
 

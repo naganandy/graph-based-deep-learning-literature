@@ -6,7 +6,7 @@ author = {Guo-Sen Xie and Li Liu and Fan Zhu and Fang Zhao and Zheng Zhang and Y
 title = {Region Graph Embedding Network for Zero-Shot Learning},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {562--580},
-year = {2022}
+year = {2020}
 }
 ```
 

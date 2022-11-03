@@ -6,7 +6,7 @@ author = {Jungin Park and Jiyoung Lee and Ig-Jae Kim and Kwanghoon Sohn},
 title = {SumGraph: Video Summarization via Recursive Graph Modeling},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {647--663},
-year = {2022}
+year = {2020}
 }
 ```
 

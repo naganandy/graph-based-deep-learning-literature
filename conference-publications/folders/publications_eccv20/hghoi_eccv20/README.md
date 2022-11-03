@@ -6,7 +6,7 @@ author = {Hai Wang and Wei-shi Zheng and Ling Yingbiao},
 title = {Contextual Heterogeneous Graph Network for Human-Object Interaction Detection},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {248--264},
-year = {2022}
+year = {2020}
 }
 ```
 

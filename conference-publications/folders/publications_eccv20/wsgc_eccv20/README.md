@@ -6,7 +6,7 @@ author = {Roei Herzig and Amir Bar and Huijuan Xu and Gal Chechik and Trevor Dar
 title = {Learning Canonical Representations for Scene Graph to Image Generation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {210--227},
-year = {2022}
+year = {2020}
 }
 ```
 

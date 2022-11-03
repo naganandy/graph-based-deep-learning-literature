@@ -6,7 +6,7 @@ author = {Chen Gao and Jiarui Xu and Yuliang Zou and Jia-Bin Huang},
 title = {DRG: Dual Relation Graph for Human-Object Interaction Detection},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {696--712},
-year = {2022}
+year = {2020}
 }
 ```
 

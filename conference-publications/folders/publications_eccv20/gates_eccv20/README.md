@@ -6,7 +6,7 @@ author = {Xuefei Ning and Yin Zheng and Tianchen Zhao and Yu Wang and Huazhong Y
 title = {A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {189--204},
-year = {2022}
+year = {2020}
 }
 ```
 

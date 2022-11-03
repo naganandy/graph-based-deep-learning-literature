@@ -6,7 +6,7 @@ author = {Sangmin Lee and Jung Uk Kim and Hak Gu Kim and Seongyeop Kim and Yong 
 title = {SACA Net: Cybersickness Assessment of Individual Viewers for VR Content via Graph-based Symptom Relation Embedding},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {170--186},
-year = {2022}
+year = {2020}
 }
 ```
 

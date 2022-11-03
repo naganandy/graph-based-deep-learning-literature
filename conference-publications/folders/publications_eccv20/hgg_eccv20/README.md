@@ -6,7 +6,7 @@ author = {Sheng Jin and Wentao Liu and Enze Xie and Wenhai Wang and Chen Qian an
 title = {Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {718--734},
-year = {2022}
+year = {2020}
 }
 ```
 

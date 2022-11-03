@@ -6,7 +6,7 @@ author = {Ahmed Samy Nassar and Stefano D’Aronco and Sébastien Lefèvre and J
 title = {GeoGraph: Graph-based multi-view object detection with geometric cues end-to-end},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {488--504},
-year = {2022}
+year = {2020}
 }
 ```
 

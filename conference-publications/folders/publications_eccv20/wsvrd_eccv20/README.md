@@ -6,7 +6,7 @@ author = {Federico Baldassarre and Kevin Smith and Josephine Sullivan and Hossei
 title = {Explanation-based Weakly-supervised Learning of Visual Relations with Graph Networks},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {612--630},
-year = {2022}
+year = {2020}
 }
 ```
 

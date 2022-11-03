@@ -6,7 +6,7 @@ author = {Nikolas Adaloglou and Nicholas Vretos and Petros Daras},
 title = {Multi-view adaptive graph convolutions for graph classification},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {398--414},
-year = {2022}
+year = {2020}
 }
 ```
 

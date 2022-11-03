@@ -6,7 +6,7 @@ author = {Tianyi Wu and Yu Lu and Yu Zhu and Chuang Zhang and MingWu and Zhanyu 
 title = {GINet: Graph Interaction Network for Scene Parsing},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {34--51},
-year = {2022}
+year = {2020}
 }
 ```
 

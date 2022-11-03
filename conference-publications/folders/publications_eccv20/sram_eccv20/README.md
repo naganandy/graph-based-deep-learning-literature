@@ -6,7 +6,7 @@ author = {Junwen Chen and Wentao Bao and and Yu Kong},
 title = {Group Activity Prediction with Sequential Relational Anticipation Model},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {581--597},
-year = {2022}
+year = {2020}
 }
 ```
 
