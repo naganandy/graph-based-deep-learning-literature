@@ -173,6 +173,7 @@
 - [Pseudo-Riemannian Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/qgcn_neurips22/README.md)
 - [Brain Network Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/brainnettf_neurips22/README.md)
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/matt_neurips22/README.md)
+- [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/sfe_neurips22/README.md)
 - [DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/dimes_neurips22/README.md)
 - [Graph Neural Network Bandits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/gnnpe_neurips22/README.md)
 - [What Makes Graph Neural Networks Miscalibrated?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/gats_neurips22/README.md)

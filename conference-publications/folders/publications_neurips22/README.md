@@ -284,6 +284,12 @@
 
 
 
+# Combinatorial Optimisation
+- [Neural Set Function Extensions: Learning with Discrete Functions in High Dimensions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/sfe_neurips22/README.md)
+- [DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/dimes_neurips22/README.md)
+
+
+
 # Computer Vision
 - [Vision GNN: An Image is Worth Graph of Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/visiongnn_neurips22/README.md)
 - [Exact Shape Correspondence via 2D graph convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/2dgem_neurips22/README.md)
@@ -340,7 +346,6 @@
 
 
 # Miscellaneous
-- [DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/dimes_neurips22/README.md)
 - [Graph Neural Network Bandits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/gnnpe_neurips22/README.md)
 - [What Makes Graph Neural Networks Miscalibrated?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/gats_neurips22/README.md)
 - [First Hitting Diffusion Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_neurips22/fhdm_neurips22/README.md)
