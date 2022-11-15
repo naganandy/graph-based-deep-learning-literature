@@ -14,7 +14,6 @@
 - Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations
 - Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion
 - Logical Neural Networks for Knowledge Base Completion with Embeddings & Rules
-- Aligning Recommendation and Conversation via Dual Imitation
 - Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform
 - A Framework for Adapting Pre-Trained Language Models to Knowledge Graph Completion
 - MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion
