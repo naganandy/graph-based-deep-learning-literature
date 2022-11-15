@@ -1,4 +1,4 @@
-# [Publications in ECCV 2022](https://eccv2022.ecva.net/program/accepted-papers/)
+[Publications in ECCV 2022](https://eccv2022.ecva.net/program/accepted-papers/)
 
 
 
@@ -14,8 +14,6 @@
 - [Video Graph Transformer for Video Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/vgt_eccv22/README.md)
 - [Learning from Unlabeled 3D Environments for Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/hm3dautovln_eccv22/README.md)
 - [MORE: Multi-Order RElation Mining for Dense Captioning in 3D Scenes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/more_eccv22/README.md)
-- Flow graph to Video Grounding for Weakly-supervised Multi-Step Localization
-- Asymmetric Relation Consistency Reasoning for Video Relation Grounding
 
 
 
@@ -41,21 +39,20 @@
 # Temporal Data
 - [Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/spell_eccv22/README.md)
 - [GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/graphcspn_eccv22/README.md)
-- Scale-aware Spatio-temporal Relation Learning for Video Anomaly Detection
-
-
-
-# Contrastive Learning
-- [CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/coder_eccv22/README.md)
-- Graph-constrained Contrastive Regularization for Semi-weakly Volumetric Segmentation
-- Unifying Vision Unsupervised Contrastive Learning from a Graph Perspective
 
 
 
 # Self-Supervision
 - [Generative Subgraph Contrast for Self-Supervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/gsc_eccv22/README.md)
 - [Self-supervised Social Relation Representation for Human Group Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/sssrr_eccv22/README.md)
-- Self-supervised Learning of Visual Graph Matching
+- [Unsupervised Segmentation in Real-World Images via Spelke Object Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/kprop_eccv22/README.md)
+- [Self-Supervised Learning of Visual Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/scgm_eccv22/README.md)
+
+
+
+# Contrastive Learning
+- [Unifying Visual Contrastive Learning for Object Recognition from a Graph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/univcl_eccv22/README.md)
+- [CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/coder_eccv22/README.md)
 
 
 
@@ -67,7 +64,7 @@
 
 # Adversarial Attacks
 - [FRT-PAD: Effective Presentation Attack Detection Driven by Face Related Task](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/frtpad_eccv22/README.md)
-- Adversarial Label Poisoning Attack on Graph Neural Networks via Label Propagation
+- [Adversarial Label Poisoning Attack on Graph Neural Networks via Label Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/alpa_eccv22/README.md)
 - [Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/gsda_eccv22/README.md)
 
 
@@ -75,6 +72,7 @@
 # Point Clouds
 - [diffConv: Analyzing Irregular Point Clouds with an Irregular View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/diffconv_eccv22/README.md)
 - [GraphFit: Learning Multi-scale Graph-Convolutional Representation for Point Cloud Normal Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/graphfit_eccv22/README.md)
+- [Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/pcsgnn_eccv22/README.md)
 
 
 
@@ -86,6 +84,7 @@
 
 
 # Human Motion Prediction
+- [Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/stars_eccv22/README.md)
 - [Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/spgsn_eccv22/README.md)
 - [Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/gpgraph_eccv22/README.md)
 
@@ -104,15 +103,30 @@
 
 
 
+# Audio-Visual Localisation
+- [End-to-End Active Speaker Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/easee_eccv22/README.md)
+- [Dual Perspective Network for Audio-Visual Event Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/dpnet_eccv22/README.md)
+
+
+
+# Benchmarks
+- [Panoramic Human Activity Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/par_eccv22/README.md)
+- [D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/d2tpred_eccv22/README.md)
+
+
+
+# Home Planning
+- [TIDEE: Tidying Up Novel Rooms Using Visuo-Semantic Commonsense Priors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/tidee_eccv22/README.md)
+- [End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/prn_eccv22/README.md)
+
+
+
 # Miscellanous
 - [SelectionConv: Convolutional Neural Networks for Non-rectilinear Image Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/selectionconv_eccv22/README.md)
 - [Learning Graph Neural Networks for Image Style Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/nstgnnn_eccv22/README.md)
-- [End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/prn_eccv22/README.md)
 - [TD-Road: Top-Down Road Network Extraction with Holistic Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/tdroad_eccv22/README.md)
 - [Learning Self-prior for Mesh Denoising using Dual Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/dualdmp_eccv22/README.md)
-- Bayesian Tracking of Video Graphs Using Joint Kalman Smoothing and Registration
-- Spatial and Visual Perspective-Taking via View Rotation and Relation Reasoning for Embodied Reference Understanding
-- Interclass Prototype Relation for Few-Shot Segmentation
-- Relationship Spatialization for Depth Estimation
-- Modality Synergy Complement Learning with Cascaded Aggregation for Visible-Infrared Person Re-Identification
-- TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning
+- [Relationship Spatialization for Depth Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/rsde_eccv22/README.md)
+- [The Shape Part Slot Machine: Contact-Based Reasoning for Generating 3D Shapes from Parts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/spsm_eccv22/README.md)
+- [An Efficient Person Clustering Algorithm for Open Checkout-free Groceries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_eccv22/csggcn_eccv22/README.md)
+
