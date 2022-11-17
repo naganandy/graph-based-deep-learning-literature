@@ -512,4 +512,4 @@
 
 
 ## -------------------------------------------------------------------
-# Years: [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018.MD) | [2017 and Earlier](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017.MD)
+# Years: [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/README.MD) | [2017 and Earlier](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/README.MD)
