@@ -354,41 +354,41 @@
 
 ## -------------------------------------------------------------------
 # [UAI 2020 (Aug)](http://www.auai.org/uai2020/accepted.php)
-- [Non-Parametric Graph Learning for Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/bgcn_uai20/README.md)
+- [Non-Parametric Graph Learning for Bayesian Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/bgcn_uai20/README.md)
 
 
 
 ## -------------------------------------------------------------------
 # [SIGIR 2020 (Jul)](https://dl.acm.org/doi/proceedings/10.1145/3397271)
-- [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/ackrec_sigir20/README.md)
-- [MVIN: Learning Multiview Items for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mvin_sigir20/README.md)
-- [Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/transgrec_sigir20/README.md)
-- [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/gcegcn_sigir20/README.md)
-- [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/niagcn_sigir20/README.md)
-- [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/lightgcn_sigir20/README.md)
-- [Multi-behavior Recommendation with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mbgcn_sigir20/README.md)
-- [GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/graphrfi_sigir20/README.md)
-- [Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/muse_sigir20/README.md)
-- [Streaming Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/dygnn_sigir20/README.md)
+- [Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/ackrec_sigir20/README.md)
+- [MVIN: Learning Multiview Items for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/mvin_sigir20/README.md)
+- [Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/transgrec_sigir20/README.md)
+- [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/gcegcn_sigir20/README.md)
+- [Neighbor Interaction Aware Graph Convolution Networks for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/niagcn_sigir20/README.md)
+- [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/lightgcn_sigir20/README.md)
+- [Multi-behavior Recommendation with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/mbgcn_sigir20/README.md)
+- [GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/graphrfi_sigir20/README.md)
+- [Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/muse_sigir20/README.md)
+- [Streaming Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/dygnn_sigir20/README.md)
 
 <details> 
 <summary> more </summary>
 
-- [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hfgn_sigir20/README.md)
-- [Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/graphconsis_sigir20/README.md)
-- [Neural Concept Map Generation for Effective Document Classification with Interpretable Structured Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/doc2graph_sigir20/README.md)
-- [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/stdgat_sigir20/README.md)
-- [Social Media User Geolocation via Hybrid Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hug_sigir20/README.md)
-- [Bundle Recommendation with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/bgcn_sigir20/README.md)
-- [MGNN: A Multimodal Graph Neural Network for Predicting the Survival of Cancer Patients](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mgnn_sigir20/README.md)
-- [Reinforcement Learning based Recommendation with Graph Convolutional Q-network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/gcqn_sigir20/README.md)
-- [MVL: Multi-View Learning for News Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mvl_sigir20/README.md)
-- [Label-Consistency based Graph Neural Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/lcgat_sigir20/README.md)
-- [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/tagnn_sigir20/README.md)
-- [A Heterogeneous Graph Neural Model for Cold-start Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/hgnr_sigir20/README.md)
-- [ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/atbrg_sigir20/README.md)
-- [Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/taggnn_sigir20/README.md)
-- [Robust Layout-aware IE for Visually Rich Documents with Pre-trained Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/robertagcn_sigir20/README.md)
+- [Hierarchical Fashion Graph Network for Personalized Outfit Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/hfgn_sigir20/README.md)
+- [Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/graphconsis_sigir20/README.md)
+- [Neural Concept Map Generation for Effective Document Classification with Interpretable Structured Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/doc2graph_sigir20/README.md)
+- [Spatio-Temporal Dual Graph Attention Network for Query-POI Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/stdgat_sigir20/README.md)
+- [Social Media User Geolocation via Hybrid Attention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/hug_sigir20/README.md)
+- [Bundle Recommendation with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/bgcn_sigir20/README.md)
+- [MGNN: A Multimodal Graph Neural Network for Predicting the Survival of Cancer Patients](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/mgnn_sigir20/README.md)
+- [Reinforcement Learning based Recommendation with Graph Convolutional Q-network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/gcqn_sigir20/README.md)
+- [MVL: Multi-View Learning for News Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/mvl_sigir20/README.md)
+- [Label-Consistency based Graph Neural Networks for Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/lcgat_sigir20/README.md)
+- [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/tagnn_sigir20/README.md)
+- [A Heterogeneous Graph Neural Model for Cold-start Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/hgnr_sigir20/README.md)
+- [ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/atbrg_sigir20/README.md)
+- [Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/taggnn_sigir20/README.md)
+- [Robust Layout-aware IE for Visually Rich Documents with Pre-trained Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/robertagcn_sigir20/README.md)
 
 </details>
 
@@ -905,15 +905,15 @@
 
 ## -------------------------------------------------------------------
 # [WSDM 2020 (Feb)](https://www.wsdm-conference.org/2020/acm-proceedings.php)
-- [Recurrent Attention Walk for Semi-supervised Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/raw_wsdm20/README.md)
-- [Popularity Prediction on Social Platforms with Coupled Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/coupledgnn_wsdm20/README.md)
-- [Epidemic Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/epidemicgcn_wsdm20/README.md)
-- [All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/vaccinate_wsdm20/README.md)
-- [Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/krf_wsdm20/README.md)
-- [MRAEA: An Efficient and Robust Entity Alignment Approach for Cross-lingual Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/mraea_wsdm20/README.md)
-- [Transferring Robustness for Graph Neural Network Against Poisoning Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/pagnn_wsdm20/README.md)
-- [Key Opinion Leaders in Recommendation Systems: Opinion Elicitation and Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/gorec_wsdm20/README.md)
-- [Relation Learning on Social Networks with Multi-Modal Graph Edge Variational Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc20/relearn_wsdm20/README.md)
+- [Recurrent Attention Walk for Semi-supervised Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/raw_wsdm20/README.md)
+- [Popularity Prediction on Social Platforms with Coupled Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/coupledgnn_wsdm20/README.md)
+- [Epidemic Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/epidemicgcn_wsdm20/README.md)
+- [All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/vaccinate_wsdm20/README.md)
+- [Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/krf_wsdm20/README.md)
+- [MRAEA: An Efficient and Robust Entity Alignment Approach for Cross-lingual Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/mraea_wsdm20/README.md)
+- [Transferring Robustness for Graph Neural Network Against Poisoning Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/pagnn_wsdm20/README.md)
+- [Key Opinion Leaders in Recommendation Systems: Opinion Elicitation and Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/gorec_wsdm20/README.md)
+- [Relation Learning on Social Networks with Multi-Modal Graph Edge Variational Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_misc20/relearn_wsdm20/README.md)
 
 
 

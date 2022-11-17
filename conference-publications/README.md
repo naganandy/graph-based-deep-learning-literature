@@ -1681,10 +1681,10 @@
 
 ## -------------------------------------------------------------------
 # [UAI 2021 (Jul)](https://www.auai.org/uai2021/accepted_papers)
-- [Towards a Unified Framework for Fair and Stable Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/nifty_uai21/README.md)
-- [Generating Adversarial Examples with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/advgnn_uai21/README.md)
-- [Explicit Pairwise Factorized Graph Neural Network for Semi-Supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/epfgnn_uai21/README.md)
-- [Unsupervised Constrained Community Detection via Self-Expressive Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/publications_misc21/secomm_uai21/README.md)
+- [Towards a Unified Framework for Fair and Stable Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_misc21/nifty_uai21/README.md)
+- [Generating Adversarial Examples with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_misc21/advgnn_uai21/README.md)
+- [Explicit Pairwise Factorized Graph Neural Network for Semi-Supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_misc21/epfgnn_uai21/README.md)
+- [Unsupervised Constrained Community Detection via Self-Expressive Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_misc21/secomm_uai21/README.md)
 
 
 
