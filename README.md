@@ -10,7 +10,7 @@ The repository contains links primarily to [conference publications](https://git
 
 <br> </br>
 
-* ### [LOG](https://logconference.org/) - [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
+### [LOG](https://logconference.org/) - [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
 
 <br> </br>
 
