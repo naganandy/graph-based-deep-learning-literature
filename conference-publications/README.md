@@ -6,7 +6,6 @@
 - ICLR 2023 (Apr, decisions late Jan)
 - AAAI 2023 (Feb, decisions mid Nov)
 - WSDM 2023 (Mar, decisions late Oct)
-- LOG 2022 (Dec, decisions late Nov)
 - EMNLP 2022 (Dec, decisions early Oct)
 - ICDM 2022 (Dec, decisions early Sep)
 
