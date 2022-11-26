@@ -1,3 +1,7 @@
+# [Publications in LOG 2022](https://openreview.net/group?id=logconference.io/LOG/2022/Conference)
+
+
+
 # Node Classification
 - [ScatterSample: Diversified Label Sampling for Data Efficient Graph Neural Network Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/scattersample_log22/README.md)
 - [On the Unreasonable Effectiveness of Feature Propagation in Learning on Graphs with Missing Node Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/fp_log22/README.md)
