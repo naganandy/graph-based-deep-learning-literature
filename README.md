@@ -10,6 +10,8 @@ The repository contains links primarily to [conference publications](https://git
 
 * ### [LOG](https://logconference.org/) - [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
 
+<br> </br>
+
 - ## Machine Learning Conferences
  
    * ### [NeurIPS](https://nips.cc/)  - [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_neurips22/README.md) | [2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_neurips21/README.md) | [2020](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_neurips20/README.md) | [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2019/publications_neurips19/README.md) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_neurips18/README.md) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/README.MD#neurips-2017) | [2016](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/README.MD#neurips-2016) | [2015](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/README.MD#neurips-2015)
