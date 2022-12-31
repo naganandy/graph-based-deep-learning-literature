@@ -1,4 +1,4 @@
-# [Publications in EMNLP 2022](https://2022.emnlp.org/)
+[Publications in EMNLP 2022](https://2022.emnlp.org/)
 
 
 
@@ -13,18 +13,13 @@
 # Knowledge Graphs
 - Inductive Relation Prediction with Logical Reasoning Using Contrastive Representations
 - Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion
-- Logical Neural Networks for Knowledge Base Completion with Embeddings & Rules
 - Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform
-- A Framework for Adapting Pre-Trained Language Models to Knowledge Graph Completion
-- MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion
-- Joint Completion and Alignment of Multilingual Knowledge Graphs
 - Generative Entity-to-Entity Stance Detection with Knowledge Graph Augmentation
 
 
 
 # Temporal Knowledge Graphs 
 - MetaTKG: Learning Evolutionary Meta-Knowledge for Temporal Knowledge Graph Reasoning
-- An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs
 - Graph Hawkes Transformer for Extrapolated Reasoning on Temporal Knowledge Graphs
 
 
@@ -41,9 +36,13 @@
 - Graph-Induced Transformers for Efficient Multi-Hop Question Answering
 - DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner
 - Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network
-- Explainable Question Answering based on Semantic Graph by Global Differentiable Learning and Dynamic Adaptive Reasoning
-- Faithful Knowledge Graph Explanations in Commonsense Question Answering
 - Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering
+
+
+
+# Explainability
+- Faithful Knowledge Graph Explanations in Commonsense Question Answering
+- A Joint Learning Framework for Restaurant Survival Prediction and Explanation
 
 
 
@@ -62,9 +61,7 @@
 # Relation Extraction
 - ReSel: N-ary Relation Extraction from Scientific Text and Tables by Learning to Retrieve and Select
 - RelU-Net: Syntax-aware Graph U-Net for Relational Triple Extraction
-- Cross-stitching Text and Knowledge Graph Encoders for Distantly Supervised Relation Extraction
 - Learning Cross-Task Dependencies for Joint Extraction of Entities, Events, Event Arguments, and Relations
-- A Dataset for Hyper-Relational Extraction and a Cube-Filling Approach
 
 
 
@@ -79,7 +76,6 @@
 - Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging
 - SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser
 - Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification
-- An Unsupervised, Geometric and Syntax-aware Quantification of Polysemy
 
 
 
@@ -105,8 +101,4 @@
 # Miscellaneous
 - Attention and Edge-Label Guided Graph Convolutional Networks for Named Entity Recognition
 - DocInfer: Document-level Natural Language Inference using Optimal Evidence Selection
-- PLM-based World Models for Text-based Games
-- A Joint Learning Framework for Restaurant Survival Prediction and Explanation
-- Chapter Ordering in Novels
-- T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation
 - Simplified Graph Learning for Inductive Short Text Classification
