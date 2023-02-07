@@ -114,6 +114,7 @@
 - [Graph Neural Networks are Inherently Good Generalizers: Insights by Bridging GNNs and Multi-Layer Perceptrons](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/pmlp_iclr23/README.md)
 - [Improving Out-of-distribution Generalization with Indirection Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/inlay_iclr23/README.md)
 - [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/gnnsafe_iclr23/README.md)
+- [Limitless Stability for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/stablegnn_iclr23/README.md)
 - [Control Graph as Unified IO for Morphology-Task Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/mxtbench_iclr23/README.md)
 
 
@@ -236,6 +237,12 @@
 
 
 
+# Algorithmic Reasoning
+- [Dual Algorithmic Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/dar_iclr23/README.md)
+- [Relational Attention: Generalizing Transformers for Graph-Structured Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/rt_iclr23/README.md)
+
+
+
 # Linear Programs
 - [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/psmilpgnn_iclr23/README.md)
 - [On Representing Mixed-Integer Linear Programs by Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/unmilp_iclr23/README.md)
@@ -256,7 +263,6 @@
 
 
 # Miscellaneous
-- [Dual Algorithmic Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/dar_iclr23/README.md)
 - [Relative representations enable zero-shot latent space communication](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/relrep_iclr23/README.md)
 - [Transfer NAS with Meta-learned Bayesian Surrogates](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/tnas_iclr23/README.md)
 - [Automated Data Augmentations for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/graphaug_iclr23/README.md)

@@ -39,6 +39,7 @@
 - [Rethinking Graph Lottery Tickets: Graph Sparsity Matters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/rglt_iclr23/README.md)
 - [$\rm A^2Q$: Aggregation-Aware Quantization for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/a2q_iclr23/README.md)
 - [Learnable Graph Convolutional Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/cat_iclr23/README.md)
+- [Limitless Stability for Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/stablegnn_iclr23/README.md)
 - [A critical look at evaluation of GNNs under heterophily: Are we really making progress?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/criticalheterophily_iclr23/README.md)
 - [Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/orderedgnn_iclr23/README.md)
 - [A non-asymptotic analysis of oversmoothing in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/nnao_iclr23/README.md)
@@ -130,6 +131,7 @@
 - [Latent Graph Inference using Product Manifolds](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/gcnddgm_iclr23/README.md)
 - [Random Laplacian Features for Learning with Hyperbolic Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/hyla_iclr23/README.md)
 - [Dual Algorithmic Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/dar_iclr23/README.md)
+- [Relational Attention: Generalizing Transformers for Graph-Structured Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/rt_iclr23/README.md)
 - [Neural DAG Scheduling via One-Shot Priority Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/ndagops_iclr23/README.md)
 - [Unsupervised Learning for Combinatorial Optimization Needs Meta Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/metaegn_iclr23/README.md)
 - [Backpropagation through Combinatorial Algorithms: Identity with Projection Works](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/bca_iclr23/README.md)
@@ -147,6 +149,7 @@
 - [Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/graphvci_iclr23/README.md)
 - [Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/gsimc_iclr23/README.md)
 - [CktGNN:  Circuit Graph Neural Network for Electronic Design Automation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/cktgnn_iclr23/README.md)
+- [{EAGLE}: Large-scale Learning of Turbulent Fluid Dynamics with Mesh Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/eagle_iclr23/README.md)
 
 </details>
 
