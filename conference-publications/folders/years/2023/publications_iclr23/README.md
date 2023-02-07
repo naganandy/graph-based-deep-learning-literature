@@ -211,6 +211,7 @@
 - [Enhancing the Inductive Biases of Graph Neural ODE for Modeling Dynamical Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/gnode_iclr23/README.md)
 - [Grounding Graph Network Simulators using Physical Sensor Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/ggns_iclr23/README.md)
 - [Learning rigid dynamics with face interaction graph networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/fignet_iclr23/README.md)
+- [{EAGLE}: Large-scale Learning of Turbulent Fluid Dynamics with Mesh Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/eagle_iclr23/README.md)
 
 
 
