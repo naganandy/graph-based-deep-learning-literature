@@ -1,4 +1,4 @@
-# [Publicatons in ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference)
+# [Publications in ICLR 2023](https://openreview.net/group?id=ICLR.cc/2023/Conference)
 
 
 
