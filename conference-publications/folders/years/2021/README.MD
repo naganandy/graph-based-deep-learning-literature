@@ -44,6 +44,7 @@
 
 
 
+## -------------------------------------------------------------------
 # [NeurIPS 2021 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_neurips21/README.md)
 
 - [Decoupling the Depth and Scope of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_neurips21/shadow_neurips21/README.md)
