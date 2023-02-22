@@ -337,9 +337,6 @@
 ## -------------------------------------------------------------------
 # [EMNLP 2022 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/README.md)
 
-<details> 
-<summary> more </summary>
-
 - [SynGEC: Syntax-Enhanced Grammatical Error Correction with a Tailored GEC-Oriented Parser](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/syngec_emnlp22/README.md)
 - [Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/cgsn_emnlp22/README.md)
 - [MetaFill: Text Infilling for Meta-Path Generation on Heterogeneous Information Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/metafill_emnlp22/README.md)
@@ -349,6 +346,11 @@
 - [Transformer-based Entity Typing in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/tet_emnlp22/README.md)
 - [Rethinking Multi-Modal Alignment in Multi-Choice VideoQA from Feature and Sample Perspectives](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/vqafsp_emnlp22/README.md)
 - [Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/oreolm_emnlp22/README.md)
+
+<details> 
+<summary> more </summary>
+
+
 - [Group is better than individual: Exploiting Label Topologies and Label Relations for Joint Multiple Intent Detection and Slot Filling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/relanet_emnlp22/README.md)
 - [HEGEL: Hypergraph Transformer for Long Document Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/hegel_emnlp22/README.md)
 - [ReSel: N-ary Relation Extraction from Scientific Text and Tables by Learning to Retrieve and Select](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/resel_emnlp22/README.md)
