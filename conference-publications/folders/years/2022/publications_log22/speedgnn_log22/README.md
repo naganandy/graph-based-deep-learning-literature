@@ -3,11 +3,13 @@
 ```
 @inproceedings{speedgnn_log22,
 title = {Well-conditioned Spectral Transforms for Dynamic Graph Representation},
-author = {Xinliang Liu and Bingxin Zhou and Yuehua Liu and Yunying Huang and Pietro Lio and Yu Guang Wang},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Liu, Xinliang and Zhou, Bingxin and Liu, Yuehua and Huang, Yunying and Lio, Pietro and Guang Wang, Yu},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {12:1--12:19},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/zhou22a.html)
 - [openreview](https://openreview.net/forum?id=kQsniwmGgF5)

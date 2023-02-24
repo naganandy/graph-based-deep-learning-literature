@@ -3,11 +3,13 @@
 ```
 @inproceedings{eqgat_log22,
 title = {Representation Learning on Biomolecular Structures using Equivariant Graph Attention},
-author = {Tuan Le and Frank Noe and Djork-Arn{\'e} Clevert},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Le, Tuan and Noe, Frank and Clevert, Djork-Arn{\'e}},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {30:1--30:17},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/le22a.html)
 - [openreview](https://openreview.net/forum?id=kv4xUo5Pu6)

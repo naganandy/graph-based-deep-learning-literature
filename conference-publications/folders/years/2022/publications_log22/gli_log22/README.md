@@ -3,11 +3,13 @@
 ```
 @inproceedings{gli_log22,
 title = {Graph Learning Indexer: A Contributor-Friendly Platform for Better Curation of Graph Learning Benchmarks},
-author = {Jiaqi Ma and Xingjian Zhang and Hezheng Fan and Jin Huang and Tianyue Li and Ting Wei Li and Yiwen Tu and Chenshu Zhu and Qiaozhu Mei},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Ma, Jiaqi and Zhang, Xingjian and Fan, Hezheng and Huang, Jin and Li, Tianyue and Wei Li, Ting and Tu, Yiwen and Zhu, Chenshu and Mei, Qiaozhu},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {7:1--7:23},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/ma22a.html)
 - [openreview](https://openreview.net/forum?id=ZBsxA6_gp3)

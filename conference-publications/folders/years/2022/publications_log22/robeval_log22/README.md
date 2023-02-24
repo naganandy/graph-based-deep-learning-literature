@@ -3,11 +3,13 @@
 ```
 @inproceedings{robeval_log22,
 title = {A Systematic Evaluation of Node Embedding Robustness},
-author = {Alexandru Cristian Mara and Jefrey Lijffijt and Stephan G{\"u}nnemann and Tijl De Bie},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Cristian Mara, Alexandru and Lijffijt, Jefrey and G{\"u}nnemann, Stephan and De Bie, Tijl},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {42:1--42:14},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/mara22a.html)
 - [openreview](https://openreview.net/forum?id=oxjVVBNrG-)

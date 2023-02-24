@@ -3,11 +3,13 @@
 ```
 @inproceedings{digrac_log22,
 title = {{DIGRAC}:  Digraph Clustering Based on  Flow Imbalance},
-author = {Yixuan He and Gesine Reinert and Mihai Cucuringu},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {He, Yixuan and Reinert, Gesine and Cucuringu, Mihai},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {21:1--21:43},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/he22b.html)
 - [openreview](https://openreview.net/forum?id=UqamDYtuh9)

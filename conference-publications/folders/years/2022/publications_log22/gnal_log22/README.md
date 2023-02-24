@@ -3,11 +3,13 @@
 ```
 @inproceedings{gnal_log22,
 title = {A Generalist Neural Algorithmic Learner},
-author = {Borja Ibarz and Vitaly Kurin and George Papamakarios and Kyriacos Nikiforou and Mehdi Bennani and R{\'o}bert Csord{\'a}s and Andrew Joseph Dudzik and Matko Bo{\v{s}}njak and Alex Vitvitskyi and Yulia Rubanova and Andreea Deac and Beatrice Bevilacqua and Yaroslav Ganin and Charles Blundell and Petar Veli{\v{c}}kovi{\'c}},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Ibarz, Borja and Kurin, Vitaly and Papamakarios, George and Nikiforou, Kyriacos and Bennani, Mehdi and Csord{\'a}s, R{\'o}bert and Joseph Dudzik, Andrew and Bo{\v{s}}njak, Matko and Vitvitskyi, Alex and Rubanova, Yulia and Deac, Andreea and Bevilacqua, Beatrice and Ganin, Yaroslav and Blundell, Charles and Veli{\v{c}}kovi{\'c}, Petar},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {2:1--2:23},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/ibarz22a.html)
 - [openreview](https://openreview.net/forum?id=FebadKZf6Gd)

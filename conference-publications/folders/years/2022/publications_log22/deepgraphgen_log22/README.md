@@ -3,11 +3,13 @@
 ```
 @inproceedings{deepgraphgen_log22,
 title = {A Survey on Deep Graph Generation: Methods and Application},
-author = {Yanqiao Zhu and Yuanqi Du and Yinkai Wang and Yichen Xu and Jieyu Zhang and Qiang Liu and Shu Wu},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Zhu, Yanqiao and Du, Yuanqi and Wang, Yinkai and Xu, Yichen and Zhang, Jieyu and Liu, Qiang and Wu, Shu},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {47:1--47:21},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/zhu22a.html)
 - [openreview](https://openreview.net/forum?id=Im8G9R1boQi)

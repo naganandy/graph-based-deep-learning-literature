@@ -3,11 +3,13 @@
 ```
 @inproceedings{lwgcn_log22,
 title = {Label-Wise Graph Convolutional Network for Heterophilic Graphs},
-author = {Enyan Dai and Shijie Zhou and Zhimeng Guo and Suhang Wang},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Dai, Enyan and Zhou, Shijie and Guo, Zhimeng and Wang, Suhang},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {26:1--26:21},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/dai22b.html)
 - [openreview](https://openreview.net/forum?id=HRmby7yVVuF)

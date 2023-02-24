@@ -3,11 +3,13 @@
 ```
 @inproceedings{spaloc_log22,
 title = {Sparse and Local Hypergraph Reasoning Networks},
-author = {Guangxuan Xiao and Leslie Pack Kaelbling and Jiajun Wu and Jiayuan Mao},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Xiao, Guangxuan and Pack Kaelbling, Leslie and Wu, Jiajun and Mao, Jiayuan},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {34:1--34:16},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/xiao22a.html)
 - [openreview](https://openreview.net/forum?id=m3aVA7ykn67)

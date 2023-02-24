@@ -3,11 +3,13 @@
 ```
 @inproceedings{spmpnn_log22,
 title = {Shortest Path Networks for Graph Property Prediction},
-author = {Ralph Abboud and Radoslav Dimitrov and Ismail Ilkan Ceylan},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Abboud, Ralph and Dimitrov, Radoslav and Ilkan Ceylan, Ismail},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {5:1--5:25},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/abboud22a.html)
 - [openreview](https://openreview.net/forum?id=mWzWvMxuFg1)

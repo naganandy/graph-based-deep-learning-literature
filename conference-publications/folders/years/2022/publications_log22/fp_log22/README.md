@@ -3,11 +3,13 @@
 ```
 @inproceedings{fp_log22,
 title = {On the Unreasonable Effectiveness of Feature Propagation in Learning on Graphs with Missing Node Features},
-author = {Emanuele Rossi and Henry Kenlay and Maria I. Gorinova and Benjamin Paul Chamberlain and Xiaowen Dong and Michael M. Bronstein},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Rossi, Emanuele and Kenlay, Henry and I. Gorinova, Maria and Paul Chamberlain, Benjamin and Dong, Xiaowen and M. Bronstein, Michael},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {11:1--11:16},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/rossi22a.html)
 - [openreview](https://openreview.net/forum?id=qe_qOarxjg)

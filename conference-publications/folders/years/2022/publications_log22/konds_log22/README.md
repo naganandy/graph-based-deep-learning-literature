@@ -3,11 +3,13 @@
 ```
 @inproceedings{konds_log22,
 title = {Learning Distributed Geometric Koopman Operator for Sparse Networked Dynamical Systems},
-author = {Sayak Mukherjee and Sai Pushpak Nandanoori and Sheng Guan and Khushbu Agarwal and Subhrajit Sinha and Soumya Kundu and Seemita Pal and Yinghui Wu and Draguna L Vrabie and Sutanay Choudhury},
-booktitle = {Learning on Graphs Conference (LOG)},
+author = {Mukherjee, Sayak and Pushpak Nandanoori, Sai and Guan, Sheng and Agarwal, Khushbu and Sinha, Subhrajit and Kundu, Soumya and Pal, Seemita and Wu, Yinghui and L Vrabie, Draguna and Choudhury, Sutanay},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+pages = {45:1--45:17},
 year = {2022}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v198/mukherjee22a.html)
 - [openreview](https://openreview.net/forum?id=lwx5gi4MIh)

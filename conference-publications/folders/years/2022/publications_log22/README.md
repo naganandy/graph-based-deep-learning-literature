@@ -81,7 +81,6 @@
 - [Graph-Time Convolutional Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/gtconvae_log22/README.md)
 - [DAMNETS: A Deep Autoregressive Model for Generating Markovian Network Time Series](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/damnet_log22/README.md)
 - [De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/dbgnn_log22/README.md)
-- [ISA-Traffic: An Ising-Aided Method for Traffic Congestion Prediction with Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/isatraffic_log22/README.md)
 
 
 
