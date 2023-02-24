@@ -1,16 +1,18 @@
 # [Conferences](https://aideadlin.es/)
 
-
-- CVPR 2023 (Jun, decisions late Feb)
-- TheWebConf 2023 (May, decisions late Jan)
-- AAAI 2023 (Feb, decisions mid Nov)
-- WSDM 2023 (Mar, decisions late Oct)
-- ICDM 2022 (Dec, decisions early Sep)
+- KDD 2023 (Aug, acceptance notification mid May)
+- IJCAI 2023 (Aug, acceptance notification mid Apr)
+- ACL 2023 (Jul, acceptance notification early May)
+- ICML 2023 (Jul, acceptance notification mid Apr)
+- CVPR 2023 (Jun)
+- TheWebConf 2023 (May)
+- AAAI 2023 (Feb)
 
 
 
 ## -------------------------------------------------------------------
 # [ICLR 2023 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/README.md)
+
 - [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/gdwl_iclr23/README.md)
 - [Graph Neural Networks for Link Prediction with Subgraph Sketching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/elph_iclr23/README.md)
 - [Do We Really Need Complicated Model Architectures For Temporal Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/graphmixer_iclr23/README.md)
@@ -153,6 +155,65 @@
 </details>
 
 
+
+## -------------------------------------------------------------------
+# [WSDM 2023 (Mar)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/README.md)
+
+
+- [CLNode: Curriculum Learning for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/clnode_wsdm23/README.md)
+- [Robust Training of Graph Neural Networks via Noise Governance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/rtgnn_wsdm23/README.md)
+- [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/disenpoi_wsdm23/README.md)
+- [Self-Supervised Group Graph Collaborative Filtering for Group Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/sggcf_wsdm23/README.md)
+- [Knowledge-Adaptive Contrastive Learning for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/kacl_wsdm23/README.md)
+- [Beyond Individuals: Modeling Mutual and Multiple Interactions for Inductive Link Prediction between Groups](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/mman_wsdm23/README.md)
+- [Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/ger_wsdm23/README.md)
+- [Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/vricr_wsdm23/README.md)
+- [GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/goodd_wsdm23/README.md)
+- [Towards Faithful and Consistent Explanations for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/fcegnn_wsdm23/README.md)
+
+
+
+<details> 
+<summary> more </summary>
+
+- [VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/vrkg4rec_wsdm23/README.md)
+- [Weakly Supervised Entity Alignment with Positional Inspiration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/peea_wsdm23/README.md)
+- [Graph Explicit Neural Networks: Explicitly Encoding Graphs for Efficient and Accurate Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/genn_wsdm23/README.md)
+- [Mining User-aware Multi-relations for Fake News Detection in Large Scale Online Social Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/usdefake_wsdm23/README.md)
+- [Dependency-aware Self-training for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/stea_wsdm23/README.md)
+- [MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/mmgnn_wsdm23/README.md)
+- [Simplifying Graph-based Collaborative Filtering for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/sgcf_wsdm23/README.md)
+- [Graph Neural Networks with Interlayer Feature Representation for Image Super-Resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/lsgnn_wsdm23/README.md)
+- [SGCCL: Siamese Graph Contrastive Consensus Learning for Personalized Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/sgccl_wsdm23/README.md)
+- [Simultaneous Linear Multi-view Attributed Graph Representation Learning and Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/lmgec_wsdm23/README.md)
+- [Cooperative Explanations of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/cge_wsdm23/README.md)
+- [A Multi-graph Fusion Based Spatiotemporal Dynamic Learning Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/mgtf_wsdm23/README.md)
+- [BLADE: Biased Neighborhood Sampling based Graph Neural Network for Directed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/blade_wsdm23/README.md)
+- [Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/ps2_wsdm23/README.md)
+- [Few-shot Node Classification with Extremely Weak Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/xfnc_wsdm23/README.md)
+- [Inductive Graph Transformer for Delivery Time Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/igt_wsdm23/README.md)
+- [S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/s2gae_wsdm23/README.md)
+- [Search Behavior Prediction: A Hypergraph Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/dcah_wsdm23/README.md)
+- [Unbiased and Efficient Self-Supervised Incremental Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/icl_wsdm23/README.md)
+- [Learning to Distill Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/disgnn_wsdm23/README.md)
+- [Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/gsnop_wsdm23/README.md)
+- [DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/dgrec_wsdm23/README.md)
+- [Self-supervised Graph Representation Learning for Black Market Account Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/sgrl_wsdm23/README.md)
+- [Exploiting Explicit and Implicit Item relationships for Session-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/sgagnn_wsdm23/README.md)
+- [Efficiently Leveraging Multi-level User Intent for Session-based Recommendation via Atten-Mixer Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/attenmixer_wsdm23/README.md)
+- [Alleviating Structural Distribution Shift in Graph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/gdn_wsdm23/README.md)
+- [Heterogeneous Graph Contrastive Learning for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/hgcl_wsdm23/README.md)
+- [Minimum Entropy Principle Guided Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/mgede_wsdm23/README.md)
+- [Self-Supervised Graph Structure Refinement for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/gsr_wsdm23/README.md)
+- [Global Counterfactual Explainer for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/gcfexplainer_wsdm23/README.md)
+- [Disentangled Negative Sampling for Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/dens_wsdm23/README.md)
+- [Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/tail_wsdm23/README.md)
+- [Ranking-based Group Identification via Factorized Attention on Social Tripartite Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/cfag_wsdm23/README.md)
+- [Position-Aware Subgraph Neural Networks with Data-Efficient Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/padel_wsdm23/README.md)
+- [Knowledge Enhancement for Contrastive Multi-Behavior Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/kmclr_wsdm23/README.md)
+- [Heterogeneous Graph-based Context-aware Document Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm23/hexa_wsdm23/README.md)
+
+</details>
 
 ## -------------------------------------------------------------------
 # [NeurIPS 2022 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_neurips22/README.md)
@@ -332,74 +393,6 @@
 </details>
 
 
-## -------------------------------------------------------------------
-# [ICDM 2022 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/README.md)
-
-- [Feature-Oriented Sampling for Fast and Scalable GNN Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/fosgnn_icdm22/README.md)
-- [MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mixdec_icdm22/README.md)
-- [Backpropagation-free Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/bfgcn_icdm22/README.md)
-- [HP-GMN: Graph Memory Networks for Heterophilous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hpgmn_icdm22/README.md)
-- [Causality Enhanced Societal Event Forecasting with Heterogeneous Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hgc_icdm22/README.md)
-- [Structure-Preserving Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/spgrl_icdm22/README.md)
-- [Sparsified Subgraph Memory for Continual Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ssm_icdm22/README.md)
-- [Uncertainty Propagation in Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/bup_icdm22/README.md)
-- [CC-GNN: A Community and Contraction-based Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ccgnn_icdm22/README.md)
-- [THINK: Temporal Hypergraph Hyperbolic Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/think_icdm22/README.md)
-
-
-<details> 
-<summary> more </summary>
-
-- [GRANDE: a neural model over directed multigraphs with application to anti-money laundering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/grande_icdm22/README.md)
-- [A Dynamic Variational Framework for Open-World Node Classification in Structured Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ossc_icdm22/README.md)
-- [Multi-Graph Convolutional Recurrent Network for Fine-Grained Lane-Level Traffic Flow Imputation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/macro_icdm22/README.md)
-- [Heterogeneous Information Enhanced Prerequisite Learning in Massive Open Online Courses](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hiepl_icdm22/README.md)
-- [Conflict Aware Pseudo Labeling via Optimal Transport for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/cplopt_icdm22/README.md)
-- [Origin-Destination Traffic Prediction based on Hybrid Spatio-Temporal Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hstn_icdm22/README.md)
-- [Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mrgnas_icdm22/README.md)
-- [DeepGAR: Deep Graph Learning for Analogical Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/deepgar_icdm22/README.md)
-- [Predicting Protein-Ligand Binding Affinity via Joint Global-Local Interaction Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/gli_icdm22/README.md)
-- [Kernel-based Substructure Exploration for Next POI Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/kbgnn_icdm22/README.md)
-- [Unifying Graph Contrastive Learning with Flexible Contextual Scopes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ugcl_icdm22/README.md)
-- [HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/higil_icdm22/README.md)
-- [Revisiting Link Prediction on Heterogeneous Graphs with A Multi-view Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mvhre_icdm22/README.md)
-- [Active Heterogeneous Graph Neural Networks with Per-step Meta-Q-Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/metra_icdm22/README.md)
-- [Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mtg_icdm22/README.md)
-- [DAGAD: Data Augmentation for Graph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dagad_icdm22/README.md)
-- [Structural Robust Label Propagation on Homogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/rlp_icdm22/README.md)
-- [Invariant Factor Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ifgnn_icdm22/README.md)
-- [A Generic Graph Sparsification Framework using Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/sparl_icdm22/README.md)
-- [Privacy-Preserved Neural Graph Similarity Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ppgm_icdm22/README.md)
-- [Deep Spatial Domain Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/signn_icdm22/README.md)
-- [The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dignn_icdm22/README.md)
-- [Augmenting Knowledge Transfer across Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/transnet_icdm22/README.md)
-- [A Two-Stream Light Graph Convolution Network-based Latent Factor Model for Accurate Cloud Service QoS Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/tlgcn_icdm22/README.md)
-- [HyperKGQA: Question Answering over Knowledge Graphs using Hyperbolic Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hyperkgqa_icdm22/README.md)
-- [GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/graphgdp_icdm22/README.md)
-- [Hypernode: Entity Fusion for Data Tracebility and Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hypernode_icdm22/README.md)
-- [Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dhunet_icdm22/README.md)
-- [MRM2: Multi-Relationship Modeling Module for Multivariate Time Series Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mrm2_icdm22/README.md)
-- [Task-level Relations Modelling for Graph Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/trgm_icdm22/README.md)
-- [Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/fagnn_icdm22/README.md)
-- [Multi-view POI-level Cellular Trajectory Reconstruction for Digital Contact Tracing of Infectious Diseases](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/pincette_icdm22/README.md)
-- [Higher-Order Masked Graph Neural Networks for Traffic Flow Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/homgnn_icdm22/README.md)
-- [GraphBERT: Bridging Graph and Text for Malicious Behavior Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/graphbert_icdm22/README.md)
-- [Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ggcn_icdm22/README.md)
-- [Unsupervised Deep Subgraph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/asgae_icdm22/README.md)
-- [Improving Graph Representation Learning with Distribution Preserving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dpgnn_icdm22/README.md)
-- [A Convex Formulation for Graph Convolutional Training: Two Layer Case](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/cvxgcn_icdm22/README.md)
-- [Generalized Few-Shot Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/stager_icdm22/README.md)
-- [Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hetedp_icdm22/README.md)
-- [MentalNet: Heterogeneous Graph Representation for Early Depression Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mentalnet_icdm22/README.md)
-- [THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/thor_icdm22/README.md)
-- [IGNiteR: News Recommendation in Microblogging Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/igniter_icdm22/README.md)
-- [GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/graphfl_icdm22/README.md)
-- [Decomposing Complementary and Substitutable Relations for Intercorporate Investment Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/spgcn_icdm22/README.md)
-- [Learning from the Multi-Level Abstraction of the Control Flow Graph via Alternating Propagation for Bug Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mla_icdm22/README.md)
-
-</details>
-
-
 
 ## -------------------------------------------------------------------
 # [EMNLP 2022 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/README.md)
@@ -525,6 +518,73 @@
 
 </details>
 
+
+## -------------------------------------------------------------------
+# [ICDM 2022 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/README.md)
+
+- [Feature-Oriented Sampling for Fast and Scalable GNN Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/fosgnn_icdm22/README.md)
+- [MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mixdec_icdm22/README.md)
+- [Backpropagation-free Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/bfgcn_icdm22/README.md)
+- [HP-GMN: Graph Memory Networks for Heterophilous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hpgmn_icdm22/README.md)
+- [Causality Enhanced Societal Event Forecasting with Heterogeneous Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hgc_icdm22/README.md)
+- [Structure-Preserving Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/spgrl_icdm22/README.md)
+- [Sparsified Subgraph Memory for Continual Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ssm_icdm22/README.md)
+- [Uncertainty Propagation in Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/bup_icdm22/README.md)
+- [CC-GNN: A Community and Contraction-based Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ccgnn_icdm22/README.md)
+- [THINK: Temporal Hypergraph Hyperbolic Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/think_icdm22/README.md)
+
+
+<details> 
+<summary> more </summary>
+
+- [GRANDE: a neural model over directed multigraphs with application to anti-money laundering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/grande_icdm22/README.md)
+- [A Dynamic Variational Framework for Open-World Node Classification in Structured Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ossc_icdm22/README.md)
+- [Multi-Graph Convolutional Recurrent Network for Fine-Grained Lane-Level Traffic Flow Imputation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/macro_icdm22/README.md)
+- [Heterogeneous Information Enhanced Prerequisite Learning in Massive Open Online Courses](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hiepl_icdm22/README.md)
+- [Conflict Aware Pseudo Labeling via Optimal Transport for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/cplopt_icdm22/README.md)
+- [Origin-Destination Traffic Prediction based on Hybrid Spatio-Temporal Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hstn_icdm22/README.md)
+- [Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mrgnas_icdm22/README.md)
+- [DeepGAR: Deep Graph Learning for Analogical Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/deepgar_icdm22/README.md)
+- [Predicting Protein-Ligand Binding Affinity via Joint Global-Local Interaction Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/gli_icdm22/README.md)
+- [Kernel-based Substructure Exploration for Next POI Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/kbgnn_icdm22/README.md)
+- [Unifying Graph Contrastive Learning with Flexible Contextual Scopes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ugcl_icdm22/README.md)
+- [HiGIL: Hierarchical Graph Inference Learning for Fact Checking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/higil_icdm22/README.md)
+- [Revisiting Link Prediction on Heterogeneous Graphs with A Multi-view Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mvhre_icdm22/README.md)
+- [Active Heterogeneous Graph Neural Networks with Per-step Meta-Q-Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/metra_icdm22/README.md)
+- [Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mtg_icdm22/README.md)
+- [DAGAD: Data Augmentation for Graph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dagad_icdm22/README.md)
+- [Structural Robust Label Propagation on Homogeneous Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/rlp_icdm22/README.md)
+- [Invariant Factor Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ifgnn_icdm22/README.md)
+- [A Generic Graph Sparsification Framework using Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/sparl_icdm22/README.md)
+- [Privacy-Preserved Neural Graph Similarity Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ppgm_icdm22/README.md)
+- [Deep Spatial Domain Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/signn_icdm22/README.md)
+- [The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dignn_icdm22/README.md)
+- [Augmenting Knowledge Transfer across Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/transnet_icdm22/README.md)
+- [A Two-Stream Light Graph Convolution Network-based Latent Factor Model for Accurate Cloud Service QoS Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/tlgcn_icdm22/README.md)
+- [HyperKGQA: Question Answering over Knowledge Graphs using Hyperbolic Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hyperkgqa_icdm22/README.md)
+- [GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/graphgdp_icdm22/README.md)
+- [Hypernode: Entity Fusion for Data Tracebility and Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hypernode_icdm22/README.md)
+- [Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dhunet_icdm22/README.md)
+- [MRM2: Multi-Relationship Modeling Module for Multivariate Time Series Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mrm2_icdm22/README.md)
+- [Task-level Relations Modelling for Graph Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/trgm_icdm22/README.md)
+- [Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/fagnn_icdm22/README.md)
+- [Multi-view POI-level Cellular Trajectory Reconstruction for Digital Contact Tracing of Infectious Diseases](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/pincette_icdm22/README.md)
+- [Higher-Order Masked Graph Neural Networks for Traffic Flow Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/homgnn_icdm22/README.md)
+- [GraphBERT: Bridging Graph and Text for Malicious Behavior Detection on Social Media](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/graphbert_icdm22/README.md)
+- [Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/ggcn_icdm22/README.md)
+- [Unsupervised Deep Subgraph Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/asgae_icdm22/README.md)
+- [Improving Graph Representation Learning with Distribution Preserving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/dpgnn_icdm22/README.md)
+- [A Convex Formulation for Graph Convolutional Training: Two Layer Case](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/cvxgcn_icdm22/README.md)
+- [Generalized Few-Shot Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/stager_icdm22/README.md)
+- [Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/hetedp_icdm22/README.md)
+- [MentalNet: Heterogeneous Graph Representation for Early Depression Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mentalnet_icdm22/README.md)
+- [THOR: Self-Supervised Temporal Knowledge Graph Embedding via Three-Tower Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/thor_icdm22/README.md)
+- [IGNiteR: News Recommendation in Microblogging Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/igniter_icdm22/README.md)
+- [GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/graphfl_icdm22/README.md)
+- [Decomposing Complementary and Substitutable Relations for Intercorporate Investment Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/spgcn_icdm22/README.md)
+- [Learning from the Multi-Level Abstraction of the Control Flow Graph via Alternating Propagation for Bug Localization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_icdm22/mla_icdm22/README.md)
+
+</details>
 
 
 ## -------------------------------------------------------------------
