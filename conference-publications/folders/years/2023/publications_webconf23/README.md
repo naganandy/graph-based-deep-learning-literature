@@ -125,7 +125,7 @@
 # Contrastive Learning
 - CitationSum: Citation-aware Graph Contrastive Learning for Scientific Paper Summarization
 - Generating Counterfactual Hard Negative Samples for Graph Contrastive Learning
-
+- CGC: Contrastive Graph Clustering for Community Detection and Tracking
 
 
 # Self-Supervision
@@ -133,21 +133,28 @@
 - Graph Self-supervised Learning with Augmentation-aware Contrastive Learning
 - Self-Supervised Teaching and Learning of Representations on Graphs
 - Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking
-
+- Automated Self-Supervised Learning for Recommendation
 
 
 # Recommendation
 - ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation
 - Automated Self-Supervised Learning for Recommendation with Masked Graph Transformer
 - Robust Preference-Guided Denoising for Graph based Social Recommendation
+- Denoising and Prompt-Tuning for Multi-Behavior Recommendation
 - Collaboration-Aware Graph Convolutional Network for Recommender Systems
 - Compressed Interaction Graph based Framework for Multi-behavior Recommendation
-- Semi-decentralized Federated Ego Graph Learning for Recommendation
 - Multi-Behavior Recommendation with Cascading Graph Convolutional Network
 - Dynamically Expandable Graph Convolution for Streaming Recommendation
+- ConsRec: Learning Consensus Behind Interactions for Group Recommendation
 
 
 
+# Federated Learning in Recommendation
+- Interaction-level Membership Inference Attack Against Federated Recommender Systems
+- Semi-decentralized Federated Ego Graph Learning for Recommendation
+
+
+ 
 # Session-based Recommendation
 - Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation
 - Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation
@@ -174,7 +181,9 @@
 
 
 # Miscellaneous
+- Encoding Node Diffusion Competence and Role Significance for Network Dismantling
 - Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task
+- Hashtag-Guided Low-Resource Tweet Classification
 - Multi-head Variational Graph Autoencoder Constrained by Sum-product Networks
 - Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network
 - G-FAME: Fair Graph Representation Learning via Diverse Mixture of Experts
