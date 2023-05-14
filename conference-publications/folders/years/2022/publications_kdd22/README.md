@@ -176,6 +176,7 @@
 # Molecules
 - [KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/kgpt_kdd22/README.md)
 - [Unified 2D and 3D Pre-Training of Molecular Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/2d3dpremol_kdd22/README.md)
+- [Graph Neural Networks for Multimodal Single-Cell Data Integration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/scmognn_kdd22/README.md)
 
 
 

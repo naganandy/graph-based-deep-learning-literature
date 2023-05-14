@@ -673,6 +673,7 @@
 <details> 
 <summary> more </summary> 
 
+- [Graph Neural Networks for Multimodal Single-Cell Data Integration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/scmognn_kdd22/README.md)
 - [Global Self-Attention as a Replacement for Graph Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/egt_kdd22/README.md)
 - [JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/jurygcn_kdd22/README.md)
 - [Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_kdd22/slvae_kdd22/README.md)
