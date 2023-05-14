@@ -1,12 +1,11 @@
 # [Conferences](https://aideadlin.es/)
 
 - ICCV 2023 (Oct, acceptance notification mid Jul)
-- KDD 2023 (Aug, acceptance notification mid May)
-- IJCAI 2023 (Aug, acceptance notification mid Apr)
-- ACL 2023 (Jul, acceptance notification early May)
-- ICML 2023 (Jul, acceptance notification mid Apr)
+- KDD 2023 (Aug)
+- IJCAI 2023 (Aug)
+- ACL 2023 (Jul)
+- ICML 2023 (Jul)
 - CVPR 2023 (Jun)
-- TheWebConf 2023 (May)
 - AAAI 2023 (Feb)
 
 

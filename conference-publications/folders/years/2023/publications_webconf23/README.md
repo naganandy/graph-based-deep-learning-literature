@@ -5,6 +5,7 @@
 # Scalability
 - [Node-wise Diffusion for Scalable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/nigcn_webconf23/README.md)
 - [xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/xgcn_webconf23/README.md)
+- [Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/agt_webconf23/README.md)
 
 
 
@@ -174,15 +175,18 @@
 
 
 
-# Miscellaneous
+# Diffusion
 - [Encoding Node Diffusion Competence and Role Significance for Network Dismantling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/dcrs_webconf23/README.md)
-- [Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/agt_webconf23/README.md)
+- [CMINet: a Graph Learning Framework for Content-aware Multi-channel Influence Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/cminet_webconf23/README.md)
+
+
+
+# Miscellaneous
 - [Hashtag-Guided Low-Resource Tweet Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/hashtation_webconf23/README.md)
 - [Multi-head Variational Graph Autoencoder Constrained by Sum-product Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/spnmvgae_webconf23/README.md)
 - [Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/ktgnn_webconf23/README.md)
 - [Fair Graph Representation Learning via Diverse Mixture-of-Experts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/gfame_webconf23/README.md)
 - [GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/graphprompt_webconf23/README.md)
-- [CMINet: a Graph Learning Framework for Content-aware Multi-channel Influence Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/cminet_webconf23/README.md)
 - [Detecting Socially Abnormal Highway Driving Behaviors via Recurrent Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/dsab_webconf23/README.md)
 - [CogDL: A Comprehensive Library for Graph Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/cogdl_webconf23/README.md)
 - [Graph-based Village Level Poverty Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/lgdc_webconf23/README.md)
