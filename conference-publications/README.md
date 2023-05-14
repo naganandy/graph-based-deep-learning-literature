@@ -31,6 +31,7 @@
 <details> 
 <summary> more </summary>
 
+- [HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/hyconve_webconf23/README.md)
 - [Unsupervised Anomaly Detection on Microservice Traces through Graph VAE](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/tracevae_webconf23/README.md)
 - [Dynamically Expandable Graph Convolution for Streaming Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/degc_webconf23/README.md)
 - [Attacking Fake News Detectors via Manipulating News Social Engagement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/marlfnd_webconf23/README.md)

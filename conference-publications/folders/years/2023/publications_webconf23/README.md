@@ -69,7 +69,7 @@
 
 # Knowledge Graphs
 - [Hierarchical Knowledge Graph Learning Enabled Socioeconomic Indicator Prediction in Location-Based Social Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/kgsip_webconf23/README.md)
-HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks
+- [HyConvE: A Novel Embedding Model for Knowledge Hypergraph Link Prediction with Convolutional Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/hyconve_webconf23/README.md)
 - [Knowledge Graph Completion with Counterfactual Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/kgcf_webconf23/README.md)
 - [Message Function Search for Knowledge Graph Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/msealhkg_webconf23/README.md)
 - [KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/kracl_webconf23/README.md)
