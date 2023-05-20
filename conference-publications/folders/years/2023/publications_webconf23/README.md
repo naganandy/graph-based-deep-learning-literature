@@ -50,7 +50,7 @@
 
 
 # Heterophily
-- [Graph Neural Networks without Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/lrgnn_webconf23/README.md)
+- [Graph Neural Networks without Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/lowrankgnn_webconf23/README.md)
 - [Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/autoheg_webconf23/README.md)
 - [Homophily-oriented Heterogeneous Graph Rewiring](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/hdhgr_webconf23/README.md)
 - [Label Information Enhanced Fraud Detection against Low Homophily in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/gaga_webconf23/README.md)
