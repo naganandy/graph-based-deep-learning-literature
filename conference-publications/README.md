@@ -14,7 +14,7 @@
 # [TheWebConf 2023 (Apr)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/README.md)
 
 - [Graph Neural Networks with Diverse Spectral Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/dsf_webconf23/README.md)
-- [Graph Neural Networks without Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/lrgnn_webconf23/README.md)
+- [Graph Neural Networks without Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/lowrankgnn_webconf23/README.md)
 - [Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/agt_webconf23/README.md)
 - [Node-wise Diffusion for Scalable Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/nigcn_webconf23/README.md)
 - [Unifying and Improving Graph Convolutional Neural Networks with Wavelet Denoising Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_webconf23/wave_webconf23/README.md)
