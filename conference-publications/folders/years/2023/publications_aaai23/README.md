@@ -42,8 +42,7 @@
 - Metric Multi-view Graph Clustering
 - Dual Label-Guided Graph Refinement for Multi-View Graph Clustering
 - Let the data choose: Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering
-- Priori Anchor Labels Supervised Scalable Multi-view Bipartite
-Graph Clustering
+- Priori Anchor Labels Supervised Scalable Multi-view Bipartite Graph Clustering
 
 
 
@@ -81,8 +80,7 @@ Graph Clustering
 
 # Temporal Data
 - FTM: A Frame-level Timeline Modeling Method for Temporal Graph Representation Learning
-- Inferring Patient Zero on Temporal Networks via Graph Neural
-Networks
+- Inferring Patient Zero on Temporal Networks via Graph Neural Networks
 - Asynchronous Event Processing with Local-Shift Graph Convolutional Network
 - GRLSTM: Trajectory Similarity Computation with Graph-based Residual LSTM
 - GMDNet: A Graph-based Mixture Density Network for Estimating Packages' Multimodal Travel Time Distribution
@@ -124,9 +122,7 @@ Prediction for Retrospective and Prospective Interpretations
 
 
 # Knowledge Graphs
-- Learning Representations of Bi-Level Knowledge Graphs for Reasoning beyond Link Prediction
 - IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings
-- PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs
 - Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding
 
 

@@ -1,5 +1,6 @@
 # [Conferences](https://aideadlin.es/)
 
+- NeurIPS 2023 (Dec, acceptance notification late Sep)
 - ICCV 2023 (Oct, acceptance notification mid Jul)
 - KDD 2023 (Aug)
 - IJCAI 2023 (Aug)
