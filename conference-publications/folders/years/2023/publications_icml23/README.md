@@ -209,11 +209,6 @@
 
 
 
-# Computer Vision
-- [Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition](https://icml.cc/Conferences/2023/Schedule?showEvent=24274)
-
-
-
 # Noisy Data
 - [Towards Understanding and Reducing Graph Structural Noise for GNNs](https://icml.cc/Conferences/2023/Schedule?showEvent=23586)
 - [GraphCleaner: Detecting Mislabelled Samples in Popular Graph Learning Benchmarks](https://icml.cc/Conferences/2023/Schedule?showEvent=24256)
@@ -225,11 +220,6 @@
 - [Generated Graph Detection](https://icml.cc/Conferences/2023/Schedule?showEvent=24189)
 - [On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation](https://icml.cc/Conferences/2023/Schedule?showEvent=24862)
 - [Demystifying Uneven Vulnerability of Link Stealing Attacks against Graph Neural Networks](https://icml.cc/Conferences/2023/Schedule?showEvent=24543)
-
-
-
-# Natural Language Processing
-- [Bayesian Progressive Deep Topic Model with Knowledge Informed Textual Data Coarsening Process](https://icml.cc/Conferences/2023/Schedule?showEvent=25134)
 
 
 
@@ -272,3 +262,5 @@
 - [SeedGNN: Graph Neural Network for Supervised Seeded Graph Matching](https://icml.cc/Conferences/2023/Schedule?showEvent=24282)
 - [Learning Representations without Compositional Assumptions](https://icml.cc/Conferences/2023/Schedule?showEvent=23980)
 - [Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation](https://icml.cc/Conferences/2023/Schedule?showEvent=24197)
+- [Bayesian Progressive Deep Topic Model with Knowledge Informed Textual Data Coarsening Process](https://icml.cc/Conferences/2023/Schedule?showEvent=25134)
+- [Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition](https://icml.cc/Conferences/2023/Schedule?showEvent=24274)
