@@ -1,5 +1,6 @@
 # [Conferences](https://aideadlin.es/)
 
+- EMNLP 2023 (Dec, acceptance notification early Oct)
 - NeurIPS 2023 (Dec, acceptance notification late Sep)
 - ICCV 2023 (Oct, acceptance notification mid Jul)
 - KDD 2023 (Aug)
@@ -29,6 +30,7 @@
 <summary> more </summary>
 
 
+- [An Actor-Centric Causality Graph for Asynchronous Temporal Inference in Group Activity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/accg_cvpr23/README.md)
 - [Histopathology Whole Slide Image Analysis With Heterogeneous Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/wsihgnn_cvpr23/README.md)
 - [Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/gcvrnn_cvpr23/README.md)
 - [VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/vectorfloorseg_cvpr23/README.md)
