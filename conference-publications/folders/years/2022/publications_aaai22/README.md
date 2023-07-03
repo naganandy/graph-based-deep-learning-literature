@@ -1,4 +1,4 @@
-# [Publications in AAAI 2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)
+# [Publications in AAAI 2022](hhttps://ojs.aaai.org/index.php/AAAI/issue/view/507)
 
 
 

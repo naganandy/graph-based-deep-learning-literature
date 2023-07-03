@@ -1,4 +1,4 @@
-# [Publications in AAAI 2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf)
+# [Publications in AAAI 2021](https://ojs.aaai.org/index.php/AAAI/issue/view/385)
 
 
 

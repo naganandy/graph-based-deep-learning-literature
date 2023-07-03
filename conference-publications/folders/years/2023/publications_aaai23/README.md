@@ -1,4 +1,4 @@
-# [Publications in AAAI 2023](https://aaai.org/Conferences/AAAI-23/wp-content/uploads/2023/01/AAAI-23-Technical-Program-Schedule_as-of-1.13.23.pdf)
+# [Publications in AAAI 2023](https://ojs.aaai.org/index.php/AAAI/issue/view/548)
 
 
 
