@@ -1,4 +1,4 @@
-# [Publications in AAAI 2022](hhttps://ojs.aaai.org/index.php/AAAI/issue/view/507)
+# [Publications in AAAI 2022](https://ojs.aaai.org/index.php/AAAI/issue/view/507)
 
 
 
