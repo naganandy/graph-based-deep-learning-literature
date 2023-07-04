@@ -59,7 +59,7 @@
 
 
 
-# Domain Adaptive Object Detection
+# Object Detection
 - [CIGAR: Cross-Modality Graph Reasoning for Domain Adaptive Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/cigar_cvpr23/README.md)
 - [Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/irg_cvpr23/README.md)
 - [ViPLO: Vision Transformer Based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_cvpr23/viplo_cvpr23/README.md)

@@ -13,4 +13,4 @@
 ```
 
 links
-- [aaai](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14803)
+- [aaai](https://ojs.aaai.org/index.php/AAAI/article/view/10904)

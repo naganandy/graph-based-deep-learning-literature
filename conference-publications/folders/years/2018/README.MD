@@ -166,7 +166,7 @@
 
 ## -------------------------------------------------------------------
 
-# [AAAI 2018 (Feb)](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
+# [AAAI 2018 (Feb)](https://ojs.aaai.org/index.php/AAAI/issue/view/301)
 - [Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_conf18/co_self_gcn_aaai18/README.md)
  - [RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_conf18/rsdne_aaai18/README.md)
 - [Graph Convolutional Networks with Argument-Aware Pooling for Event Detection](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_conf18/event_detection_gcn_aaai18/README.md)
