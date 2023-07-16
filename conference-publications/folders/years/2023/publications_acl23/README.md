@@ -11,18 +11,24 @@
 
 
 
-# Temporal Data
-- [Learning Latent Relations for Temporal Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/l2tkg_acl23/README.md)
-- [TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/techs_acl23/README.md)
-- [History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/hsge_acl23/README.md)
+# Commonsense Knowledge
+- [Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/denseatomic_acl23/README.md)
+- [Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/kpe_acl23/README.md)
+- [Dynamic Heterogeneous-Graph Reasoning with Language Models and Knowledge Representation Learning for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/dhlk_acl23/README.md)
 
 
 
 # Question Answering
-- [Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/kpe_acl23/README.md)
-- [Dynamic Heterogeneous-Graph Reasoning with Language Models and Knowledge Representation Learning for Commonsense Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/dhlk_acl23/README.md)
 - [Single Sequence Prediction over Reasoning Graphs for Multi-hop QA](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/seqgraph_acl23/README.md)
 - [Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/cfmqa_acl23/README.md)
+
+
+
+# Temporal Data
+- [History Semantic Graph Enhanced Conversational KBQA with Temporal Information Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/hsge_acl23/README.md)
+- [Learning Latent Relations for Temporal Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/l2tkg_acl23/README.md)
+- [Holistic Prediction on a Time-Evolving Attributed Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/agate_acl23/README.md)
+- [TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/techs_acl23/README.md)
 
 
 
@@ -35,12 +41,14 @@
 # Dialogue
 - [Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/sabart_acl23/README.md)
 - [Dialogue Summarization with Static-Dynamic Structure Fusion Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/sdds_acl23/README.md)
+- [Dual Class Knowledge Propagation Network for Multi-label Few-shot Intent Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/dckpn_acl23/README.md)
 
 
 
 # Conversations
 - [GIFT: Graph-Induced Fine-Tuning for Multi-Party Conversation Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/gift_acl23/README.md)
 - [TREA: Tree-Structure Reasoning Schema for Conversational Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/trea_acl23/README.md)
+- [CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/case_acl23/README.md)
 
 
 
@@ -61,6 +69,7 @@
 - [FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/formnetv2_acl23/README.md)
 - [Joint Constrained Learning with Boundary-adjusting for Emotion-Cause Pair Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/jcb_acl23/README.md)
 - [DiSCoMaT: Distantly Supervised Composition Extraction from Tables in Materials Science Articles](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/discomat_acl23/README.md)
+- [Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/tstw_acl23/README.md)
 - [Constrained Tuple Extraction with Interaction-Aware Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/ian_acl23/README.md)
 
 
@@ -110,11 +119,6 @@
 - [Peer-Label Assisted Hierarchical Text Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/peerhtc_acl23/README.md)
 - [Enhancing Language Representation with Constructional Information for Natural Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/hycxg_acl23/README.md)
 - [Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/mccl_acl23/README.md)
-- [Dual Class Knowledge Propagation Network for Multi-label Few-shot Intent Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/dckpn_acl23/README.md)
 - [Cross2StrA: Unpaired Cross-lingual Image Captioning with Cross-lingual Cross-modal Structure-pivoted Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/cross2stra_acl23/README.md)
-- [CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/case_acl23/README.md)
 - [BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/bic_acl23/README.md)
-- [Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/denseatomic_acl23/README.md)
-- [Holistic Prediction on a Time-Evolving Attributed Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/agate_acl23/README.md)
 - [Graph-based Relation Mining for Context-free Out-of-vocabulary Word Embedding Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/grm_acl23/README.md)
-- [Trading Syntax Trees for Wordpieces: Target-oriented Opinion Words Extraction with Wordpieces and Aspect Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_acl23/tstw_acl23/README.md)
