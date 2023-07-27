@@ -140,6 +140,7 @@
 - [{SEGA}: Structural Entropy Guided Anchor View for Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/sega_icml23/README.md)
 - [{C}o{C}o: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/coco_icml23/README.md)
 - [Model-Aware Contrastive Learning: Towards Escaping the Dilemmas](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/macl_icml23/README.md)
+- [Rethinking Weak Supervision in Helping Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/wscrl_icml23/README.md)
 
 
 
@@ -182,8 +183,14 @@
 
 
 # Explainability
-- [Rethinking Explaining Graph Neural Networks via Non-parametric Subgraph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/matchexplainer_icml23/README.md)
 - [Relevant Walk Search for Explaining Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/gnnlrp_icml23/README.md)
+- [Rethinking Explaining Graph Neural Networks via Non-parametric Subgraph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/matchexplainer_icml23/README.md)
+
+
+
+# Graph Matching
+- [{D}2{M}atch: Leveraging Deep Learning and Degeneracy for Subgraph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/d2mtch_icml23/README.md)
+- [{S}eed{GNN}: Graph Neural Network for Supervised Seeded Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/seedgnn_icml23/README.md)
 
 
 
@@ -206,6 +213,7 @@
 - [Learning Preconditioners for Conjugate Gradient {PDE} Solvers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/lpcgps_icml23/README.md)
 - [Training Deep Surrogate Models with Large Scale Online Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/smol_icml23/README.md)
 - [{A}b{ODE}: Ab initio antibody design using conjoined {ODE}s](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/abode_icml23/README.md)
+- [{MG}-{GNN}: Multigrid Graph Neural Networks for Learning Multilevel Domain Decomposition Methods](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/mggnn_icml23/README.md)
 
 
 
@@ -237,12 +245,16 @@
 
 
 
+# Social Networks
+- [Curriculum Co-disentangled Representation Learning across Multiple Environments for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/curcodis_icml23/README.md)
+- [Deep Graph Representation Learning and Optimization for Influence Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/dgrlim_icml23/README.md)
+
+
+
 # Miscellaneous
-- [{MG}-{GNN}: Multigrid Graph Neural Networks for Learning Multilevel Domain Decomposition Methods](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/mggnn_icml23/README.md)
 - [Universal Morphology Control via Contextual Modulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/modumorph_icml23/README.md)
 - [Towards Quantum Machine Learning for Constrained Combinatorial Optimization: a Quantum {QAP} Solver](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/qapqnn_icml23/README.md)
 - [Generative Graph Dictionary Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/frame_icml23/README.md)
-- [Curriculum Co-disentangled Representation Learning across Multiple Environments for Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/curcodis_icml23/README.md)
 - [All in a Row: Compressed Convolution Networks for Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/cocn_icml23/README.md)
 - [Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/nac_icml23/README.md)
 - [Learning Compiler Pass Orders using Coreset and Normalized Value Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/lcpocn_icml23/README.md)
@@ -254,12 +266,8 @@
 - [Improving Graph Generation by Restricting Graph Bandwidth](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/iggrb_icml23/README.md)
 - [Node Embedding from Neural {H}amiltonian Orbits in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/hamiltoniangnn_icml23/README.md)
 - [Neural Status Registers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/nsr_icml23/README.md)
-- [Deep Graph Representation Learning and Optimization for Influence Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/dgrlim_icml23/README.md)
 - [Feature Expansion for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/fegnn_icml23/README.md)
-- [Rethinking Weak Supervision in Helping Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/wscrl_icml23/README.md)
-- [{D}2{M}atch: Leveraging Deep Learning and Degeneracy for Subgraph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/d2mtch_icml23/README.md)
 - [Efficient Learning of Mesh-Based Physical Simulation with Bi-Stride Multi-Scale Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/bsmsgnn_icml23/README.md)
-- [{S}eed{GNN}: Graph Neural Network for Supervised Seeded Graph Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/seedgnn_icml23/README.md)
 - [Learning Representations without Compositional Assumptions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/legato_icml23/README.md)
 - [Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/informarl_icml23/README.md)
 - [{B}ayesian Progressive Deep Topic Model with Knowledge Informed Textual Data Coarsening Process](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/bptm_icml23/README.md)
