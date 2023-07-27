@@ -156,7 +156,7 @@
 - [Linkless Link Prediction via Relational Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_icml23/llp_icml23/README.md)
 
 
-</summary>
+</details>
 
 
 
