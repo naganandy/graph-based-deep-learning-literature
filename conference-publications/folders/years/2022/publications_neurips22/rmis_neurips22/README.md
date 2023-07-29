@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=t0VbBTw-o8)
 - [project](https://www.cs.cit.tum.de/daml/interception-smoothing/)
 - [code](https://github.com/yascho/interception_smoothing)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/d66d8164cfbf012cac2866edbb375035-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/d66d8164cfbf012cac2866edbb375035-Abstract-Conference.html)

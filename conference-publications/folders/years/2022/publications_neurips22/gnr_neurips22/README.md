@@ -15,4 +15,4 @@ links
 - [neurips](https://nips.cc/Conferences/2022/Schedule?showEvent=54742)
 - [openreview](https://openreview.net/forum?id=yts7fLpWY9G)
 - [code](https://github.com/davidbuterez/gnn-neural-readouts)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/7caf9d251b546bc78078b35b4a6f3b7e-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/7caf9d251b546bc78078b35b4a6f3b7e-Abstract-Conference.html)

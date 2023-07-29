@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=Xo8_yHyw4S)
 - [arxiv](https://arxiv.org/abs/2210.06032)
 - [project](https://yogeshverma1998.github.io/ModFlow/)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/509f7977030f3550300f541ec228c3fc-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/509f7977030f3550300f541ec228c3fc-Abstract-Conference.html)

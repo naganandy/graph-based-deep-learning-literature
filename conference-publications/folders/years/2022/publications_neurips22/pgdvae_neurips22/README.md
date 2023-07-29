@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=lgNGDjWRTo-)
 - [arxiv](https://arxiv.org/abs/2201.11932)
 - [code](https://github.com/shi-yu-wang/PGD-VAE)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/e89e8f84626197942b36a82e524c2529-Abstract-Conference.html)

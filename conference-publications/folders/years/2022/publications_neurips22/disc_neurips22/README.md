@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=ex60CCi5GS)
 - [arxiv](https://arxiv.org/abs/2209.14107)
 - [code](https://github.com/googlebaba/DisC)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/9e47a0bc530cc88b09b7670d2c130a29-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/9e47a0bc530cc88b09b7670d2c130a29-Abstract-Conference.html)

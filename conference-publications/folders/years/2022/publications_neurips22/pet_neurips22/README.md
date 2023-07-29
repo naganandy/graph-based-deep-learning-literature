@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=JJCnsgk4OIS)
 - [arxiv](https://arxiv.org/abs/2206.06587)
 - [code](https://github.com/KounianhuaDu/PET)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/67e79c8e9b11f068a7cafd79505175c0-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/67e79c8e9b11f068a7cafd79505175c0-Abstract-Conference.html)

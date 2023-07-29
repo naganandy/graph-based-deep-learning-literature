@@ -15,4 +15,4 @@ links
 - [neurips](https://nips.cc/Conferences/2022/Schedule?showEvent=54802)
 - [openreview](https://openreview.net/forum?id=wOI0AUAq9BR)
 - [arxiv](https://arxiv.org/abs/2207.07888)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/ceeb3fa5be458f08fbb12a5bb783aac8-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/ceeb3fa5be458f08fbb12a5bb783aac8-Abstract-Conference.html)

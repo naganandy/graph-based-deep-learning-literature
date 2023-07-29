@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=Q82UCjXNSWL)
 - [arxiv](https://arxiv.org/abs/2210.04637)
 - [code](https://github.com/autumn9999/MTC-with-Category-Shifts)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/1cc70be9fb6a83bc46cf4ac21a91e0b0-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/1cc70be9fb6a83bc46cf4ac21a91e0b0-Abstract-Conference.html)

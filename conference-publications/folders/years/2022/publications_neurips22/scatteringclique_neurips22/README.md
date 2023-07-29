@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=uxc8hDSs_xh)
 - [arxiv](https://arxiv.org/abs/2206.01506)
 - [code](https://github.com/yimengmin/GeometricScatteringMaximalClique)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/8ec88961d36d9a87ac24baf45402744f-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/8ec88961d36d9a87ac24baf45402744f-Abstract-Conference.html)

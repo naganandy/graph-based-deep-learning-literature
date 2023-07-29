@@ -15,4 +15,4 @@ links
 - [neurips](https://nips.cc/Conferences/2022/Schedule?showEvent=55060)
 - [openreview](https://openreview.net/forum?id=siG_S8mUWxf)
 - [project](https://hanjq17.github.io/SGNN/)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html)

@@ -14,4 +14,4 @@ publisher = {Curran Associates, Inc.}
 links
 - [neurips](https://nips.cc/Conferences/2022/Schedule?showEvent=54278)
 - [openreview](https://openreview.net/forum?id=VVCI8-PYYv)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/cf7700139af1fa346d2f57f1f5c26c18-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/cf7700139af1fa346d2f57f1f5c26c18-Abstract-Conference.html)

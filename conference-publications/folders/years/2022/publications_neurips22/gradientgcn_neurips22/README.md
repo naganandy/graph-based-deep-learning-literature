@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=mhp4wLwiAI-)
 - [arxiv](https://arxiv.org/abs/2210.08122)
 - [code](https://github.com/VITA-Group/GradientGCN)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/31df5479712197232485d4c2387f6033-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/31df5479712197232485d4c2387f6033-Abstract-Conference.html)

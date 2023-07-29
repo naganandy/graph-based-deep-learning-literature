@@ -16,4 +16,4 @@ links
 - [openreview](https://openreview.net/forum?id=zUbMHIxszNp)
 - [arxiv](https://arxiv.org/abs/2210.16844)
 - [code](https://github.com/kiarashza/GraphVAE-MM)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/c400474e8a36d0812fdee52739288b12-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/c400474e8a36d0812fdee52739288b12-Abstract-Conference.html)

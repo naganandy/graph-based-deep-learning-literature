@@ -15,4 +15,4 @@ links
 - [neurips](https://nips.cc/Conferences/2022/Schedule?showEvent=52976)
 - [openreview](https://openreview.net/forum?id=bx2roi8hca8)
 - [code](https://github.com/jaggbow/magnet)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/cf4c7ee0734cdfe09a099cf6cd7b117a-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/cf4c7ee0734cdfe09a099cf6cd7b117a-Abstract-Conference.html)

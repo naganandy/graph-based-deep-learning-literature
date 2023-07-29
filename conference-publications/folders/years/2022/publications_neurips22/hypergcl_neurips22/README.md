@@ -15,4 +15,4 @@ links
 - [neurips](https://nips.cc/Conferences/2022/Schedule?showEvent=54524)
 - [openreview](https://openreview.net/forum?id=igMc_C9pgYG)
 - [code](https://github.com/weitianxin/HyperGCL)
-- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/0cd1eec0eeaf5ce1bf6d8875a7c1d095-Abstract-Conference.html),
+- [proceedings](https://papers.nips.cc//paper_files/paper/2022/hash/0cd1eec0eeaf5ce1bf6d8875a7c1d095-Abstract-Conference.html)
