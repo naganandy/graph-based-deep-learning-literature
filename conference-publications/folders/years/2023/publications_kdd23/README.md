@@ -1,4 +1,4 @@
-# [Publications in KDD 2023](https://kdd.org/kdd2023/research-track-papers/)
+# [Publications in KDD 2023](https://dl.acm.org/doi/proceedings/10.1145/3580305)
 
 
 
