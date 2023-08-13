@@ -1,4 +1,4 @@
-# [Publications in IJCAI 2023](https://ijcai-23.org/main-track-accepted-papers/)
+# [Publications in IJCAI 2023](https://www.ijcai.org/proceedings/2023/)
 
 
 
