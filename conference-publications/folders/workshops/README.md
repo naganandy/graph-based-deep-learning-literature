@@ -1,7 +1,7 @@
 # Related Workshops
 
 - ## 2023
-   * ### [Scene Graph and Graph Representation Learning (ICCV)](sg2rl.github.iotelemetr.io/en/channels/1331701695-graphml/posts/745)   
+   * ### [Scene Graph and Graph Representation Learning (ICCV)](https://sg2rl.github.io/)   
    * ### [Graph Learning Benchmarks (KDD)](https://graph-learning-benchmarks.github.io/glb2023)   
    * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2023/)  
    * ### [Deep Learning on Graphs (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd23/)   
