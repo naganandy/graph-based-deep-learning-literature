@@ -1,8 +1,11 @@
 # [Conferences](https://aideadlin.es/)
 
+- WSDM 2024  (Mar, acceptance notification mid Oct)
+- AAAI 2024  (Feb, acceptance notification early Dec)
 - EMNLP 2023 (Dec, acceptance notification early Oct)
 - ICDM 2023 (Dec, acceptance notification early Sep)
 - NeurIPS 2023 (Dec, acceptance notification late Sep)
+- LOG 2023  (Nov, acceptance notification mid Nov)
 - ICCV 2023 (Oct)
 
 
@@ -90,6 +93,7 @@
 
 
 </details>
+
 
 
 ## -------------------------------------------------------------------
