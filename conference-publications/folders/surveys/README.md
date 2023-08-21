@@ -1,6 +1,10 @@
 
 # Surveys / Literature Reviews / Books
 
+- ## 2023
+   * ### [State of the Art and Potentialities of Graph-level Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gll_arxiv23/README.md)
+   * ### [A Comprehensive Survey on Deep Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dgrl_arxiv23/README.md)
+
 - ## 2022
    * ### [Graph Neural Networks Foundations, Frontiers, and Applications (Book)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnbook_springer22/README.md)
    * ### [Hyperbolic Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/hgnns_corr22/README.md)
