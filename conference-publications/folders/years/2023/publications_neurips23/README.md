@@ -242,6 +242,7 @@
 - [Learning Rule-Induced Subgraph Representations for Inductive Relation Prediction](https://nips.cc/Conferences/2023/Schedule?showEvent=71668)
 - [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://nips.cc/Conferences/2023/Schedule?showEvent=71161)
 - [Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion](https://nips.cc/Conferences/2023/Schedule?showEvent=70704)
+- [NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA](https://nips.cc/Conferences/2023/Schedule?showEvent=70644)
 - [Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph](https://nips.cc/Conferences/2023/Schedule?showEvent=72216)
 
 
@@ -317,7 +318,6 @@
 
 
 # Miscellaneous
-- [NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA](https://nips.cc/Conferences/2023/Schedule?showEvent=70644)
 - [Graph of Circuits with GNN for Exploring the Optimal Design Space](https://nips.cc/Conferences/2023/Schedule?showEvent=71460)
 - [Lovász Principle for Unsupervised Graph Representation Learning](https://nips.cc/Conferences/2023/Schedule?showEvent=73041)
 - [Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem](https://nips.cc/Conferences/2023/Schedule?showEvent=71561)
