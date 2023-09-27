@@ -63,16 +63,12 @@
 
 
 # Expressivity
-- [NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA](https://nips.cc/Conferences/2023/Schedule?showEvent=70644)
-- [Recurrent Temporal Revision Graph Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=72514)
 - [Efficiently incorporating quintuple interactions into geometric deep learning force fields](https://nips.cc/Conferences/2023/Schedule?showEvent=71146)
 - [On the Ability of Graph Neural Networks to Model Interactions Between Vertices](https://nips.cc/Conferences/2023/Schedule?showEvent=71172)
 - [Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules](https://nips.cc/Conferences/2023/Schedule?showEvent=70903)
-- [Expressive Sign Equivariant Networks for Spectral Geometric Learning](https://nips.cc/Conferences/2023/Schedule?showEvent=71505)
 - [MAG-GNN: Reinforcement Learning Boosted Graph Neural Network](https://nips.cc/Conferences/2023/Schedule?showEvent=72031)
 - [Towards Arbitrarily Expressive GNNs in $O(n^2)$ Space by Rethinking Folklore Weisfeiler-Lehman](https://nips.cc/Conferences/2023/Schedule?showEvent=71489)
 - [Diffusion Probabilistic Models for Structured Node Classification](https://nips.cc/Conferences/2023/Schedule?showEvent=72405)
-- [A new perspective on building efficient and expressive 3D equivariant graph neural networks](https://nips.cc/Conferences/2023/Schedule?showEvent=70780)
 - [What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding](https://nips.cc/Conferences/2023/Schedule?showEvent=71941)
 - [Fine-grained Expressivity of Graph Neural Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=70672)
 - [Graph Convolutional Kernel Machine versus Graph Convolutional Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=71620)
@@ -81,7 +77,6 @@
 - [Affinity-Aware Graph Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=70346)
 - [Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://nips.cc/Conferences/2023/Schedule?showEvent=71338)
 - [Is Distance Matrix Enough for Geometric Deep Learning?](https://nips.cc/Conferences/2023/Schedule?showEvent=71685)
-- [Approximately Equivariant Graph Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=72794)
 - [Expressivity-Preserving GNN Simulation](https://nips.cc/Conferences/2023/Schedule?showEvent=69926)
 - [Going beyond persistent homology using persistent homology](https://nips.cc/Conferences/2023/Schedule?showEvent=72975)
 - [Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs](https://nips.cc/Conferences/2023/Schedule?showEvent=72521)
@@ -89,6 +84,17 @@
 - [Distance-Restricted Folklore Weisfeiler-Lehman GNNs with Provable Cycle Counting Power](https://nips.cc/Conferences/2023/Schedule?showEvent=72616)
 - [The expressive power of pooling in Graph Neural Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=69873)
 - [FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective](https://nips.cc/Conferences/2023/Schedule?showEvent=71159)
+
+
+
+# Equivariance
+- [Approximately Equivariant Graph Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=72794)
+- [A new perspective on building efficient and expressive 3D equivariant graph neural networks](https://nips.cc/Conferences/2023/Schedule?showEvent=70780)
+- [Latent Field Discovery in Interacting Dynamical Systems with Neural Fields](https://nips.cc/Conferences/2023/Schedule?showEvent=71977)
+- [Equivariant Neural Operator Learning with Graphon Convolution](https://nips.cc/Conferences/2023/Schedule?showEvent=72298)
+- [Expressive Sign Equivariant Networks for Spectral Geometric Learning](https://nips.cc/Conferences/2023/Schedule?showEvent=71505)
+- [Unifying Predictions of Deterministic and Stochastic Physics in Mesh-reduced Space with Sequential Flow Generative Model](https://nips.cc/Conferences/2023/Schedule?showEvent=72959)
+- [Modeling Dynamics over Meshes with Gauge Equivariant Message Passing](https://nips.cc/Conferences/2023/Schedule?showEvent=73051)
 
 
 
@@ -139,6 +145,7 @@
 
 
 # Temporal Data
+- [Recurrent Temporal Revision Graph Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=72514)
 - [Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment](https://nips.cc/Conferences/2023/Schedule?showEvent=73036)
 - [SpatialRank: Urban Event Ranking with NDCG Optimization on Spatiotemporal Data](https://nips.cc/Conferences/2023/Schedule?showEvent=70628)
 - [Generative Pre-Training of Spatio-Temporal Graph Neural Networks](https://nips.cc/Conferences/2023/Schedule?showEvent=70508)
@@ -216,14 +223,6 @@
 # Augmentation
 - [Unleashing the Power of Graph Data Augmentation on Covariate Shift](https://nips.cc/Conferences/2023/Schedule?showEvent=70792)
 - [Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition](https://nips.cc/Conferences/2023/Schedule?showEvent=73050)
-
-
-
-# Equivariance
-- [Latent Field Discovery in Interacting Dynamical Systems with Neural Fields](https://nips.cc/Conferences/2023/Schedule?showEvent=71977)
-- [Equivariant Neural Operator Learning with Graphon Convolution](https://nips.cc/Conferences/2023/Schedule?showEvent=72298)
-- [Unifying Predictions of Deterministic and Stochastic Physics in Mesh-reduced Space with Sequential Flow Generative Model](https://nips.cc/Conferences/2023/Schedule?showEvent=72959)
-- [Modeling Dynamics over Meshes with Gauge Equivariant Message Passing](https://nips.cc/Conferences/2023/Schedule?showEvent=73051)
 
 
 
@@ -318,6 +317,7 @@
 
 
 # Miscellaneous
+- [NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA](https://nips.cc/Conferences/2023/Schedule?showEvent=70644)
 - [Graph of Circuits with GNN for Exploring the Optimal Design Space](https://nips.cc/Conferences/2023/Schedule?showEvent=71460)
 - [Lovász Principle for Unsupervised Graph Representation Learning](https://nips.cc/Conferences/2023/Schedule?showEvent=73041)
 - [Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem](https://nips.cc/Conferences/2023/Schedule?showEvent=71561)
