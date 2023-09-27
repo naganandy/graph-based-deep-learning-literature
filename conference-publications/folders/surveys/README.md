@@ -1,6 +1,20 @@
 
 # Surveys / Literature Reviews / Books
 
+- ## 2023
+   * ### [State of the Art and Potentialities of Graph-level Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gll_arxiv23/README.md)
+   * ### [A Comprehensive Survey on Deep Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/dgrl_arxiv23/README.md)
+   * ### [Attention-based graph neural networks: a survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/att_air23/README.md)
+   * ### [A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/recsys_tors23/README.md)
+   * ### [A survey of graph neural networks in various learning paradigms: methods, applications, and challenges](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/vlp_air23/README.md)
+   * ### [Graph Neural Networks in IoT: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/iot_tosn23/README.md)
+   * ### [A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/ts_arxiv23/README.md)
+   * ### [Challenges and Opportunities in Deep Reinforcement Learning With Graph Neural Networks: A Comprehensive Review of Algorithms and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/rl_tnnls23/README.md)
+   * ### [Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/tmp_arxiv23/README.md)
+   * ### [Counterfactual Learning on Graphs: A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/cntfact_arxiv23/README.md)
+   * ### [A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/tkg_arxiv23/README.md)
+   * ### [A Survey on Hyperlink Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/hyplink_tnnls23/README.md)
+
 - ## 2022
    * ### [Graph Neural Networks Foundations, Frontiers, and Applications (Book)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/gnnbook_springer22/README.md)
    * ### [Hyperbolic Graph Neural Networks: A Review of Methods and Applications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/hgnns_corr22/README.md)
