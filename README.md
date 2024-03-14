@@ -12,6 +12,8 @@ The repository contains links also to:
 
 Publications within each conference and year below are organised into topic-specific categories.
 
+<br> </br>
+
 
 * ### [Learning On Graphs Conference](https://logconference.org/) - [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
 
