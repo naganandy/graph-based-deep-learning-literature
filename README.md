@@ -6,7 +6,7 @@ The repository also contains links to:
 
 - [Related Workshops](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/workshops/README.md),
 - [Surveys / Literature Reviews / Books](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/surveys/README.md), 
-- [Software/Libraries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/software/README.md).
+- [Software / Libraries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/software/README.md).
  
 
 Publications within each conference and year below are organised into topic-specific categories.
