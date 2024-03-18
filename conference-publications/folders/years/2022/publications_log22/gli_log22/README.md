@@ -4,7 +4,7 @@
 @inproceedings{gli_log22,
 title = {Graph Learning Indexer: A Contributor-Friendly Platform for Better Curation of Graph Learning Benchmarks},
 author = {Ma, Jiaqi and Zhang, Xingjian and Fan, Hezheng and Huang, Jin and Li, Tianyue and Wei Li, Ting and Tu, Yiwen and Zhu, Chenshu and Mei, Qiaozhu},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {7:1--7:23},
 year = {2022}
 }

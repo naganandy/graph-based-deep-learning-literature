@@ -4,7 +4,7 @@
 @inproceedings{cep3_log22,
 title = {{CEP}3: Community Event Prediction with Neural Point Process on Graph},
 author = {Wang, Xuhong and Chen, Sirui and He, Yixuan and Wang, Minjie and Gan, Quan and Yan, Junchi},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {39:1--39:17},
 year = {2022}
 }

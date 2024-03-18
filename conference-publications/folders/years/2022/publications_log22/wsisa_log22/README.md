@@ -4,7 +4,7 @@
 @inproceedings{wsisa_log22,
 title = {Neural Graph Modelling of Whole Slide Images for Survival Ranking},
 author = {Christopher Mackenzie, Callum and Dawood, Muhammad and Graham, Simon and Eastwood, Mark and ul Amir Afsar Minhas, Fayyaz},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {48:1--48:10},
 year = {2022}
 }

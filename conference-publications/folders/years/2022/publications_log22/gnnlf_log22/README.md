@@ -4,7 +4,7 @@
 @inproceedings{gnnlf_log22,
 title = {Graph Neural Network with Local Frame for Molecular Potential Energy Surface},
 author = {Wang, Xiyuan and Zhang, Muhan},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {19:1--19:30},
 year = {2022}
 }

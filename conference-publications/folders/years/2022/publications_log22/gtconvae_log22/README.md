@@ -4,7 +4,7 @@
 @inproceedings{gtconvae_log22,
 title = {Graph-Time Convolutional Autoencoders},
 author = {Sabbaqi, Mohammad and Taormina, Riccardo and Hanjalic, Alan and Isufi, Elvin},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {24:1--24:20},
 year = {2022}
 }

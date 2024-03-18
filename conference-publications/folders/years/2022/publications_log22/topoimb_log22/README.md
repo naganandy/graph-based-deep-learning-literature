@@ -4,7 +4,7 @@
 @inproceedings{topoimb_log22,
 title = {TopoImb: Toward Topology-level Imbalance in Learning from Graphs},
 author = {Zhao, Tianxiang and Luo, Dongsheng and Zhang, Xiang and Wang, Suhang},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {37:1--37:18},
 year = {2022}
 }

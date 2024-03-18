@@ -4,7 +4,7 @@
 @inproceedings{expass_log22,
 title = {Towards Training {GNN}s using Explanation Directed Message Passing},
 author = {Giunchiglia, Valentina and Varun Shukla, Chirag and Gonzalez, Guadalupe and Agarwal, Chirag},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {28:1--28:18},
 year = {2022}
 }

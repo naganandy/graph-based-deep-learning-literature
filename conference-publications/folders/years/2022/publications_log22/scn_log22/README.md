@@ -4,7 +4,7 @@
 @inproceedings{scn_log22,
 title = {Efficient Representation Learning for Higher-Order Data with Simplicial Complexes},
 author = {Yang, Ruochen and Sala, Frederic and Bogdan, Paul},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {13:1--13:21},
 year = {2022}
 }

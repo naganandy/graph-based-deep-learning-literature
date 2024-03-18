@@ -4,7 +4,7 @@
 @inproceedings{ibmb_log22,
 title = {Influence-Based Mini-Batching for Graph Neural Networks},
 author = {Gasteiger, Johannes and Qian, Chendi and G{\"u}nnemann, Stephan},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {9:1--9:19},
 year = {2022}
 }

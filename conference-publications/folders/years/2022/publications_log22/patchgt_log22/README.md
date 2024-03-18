@@ -4,7 +4,7 @@
 @inproceedings{patchgt_log22,
 title = {Patch{GT}: Transformer over Non-trainable Clusters for Learning Graph Representations},
 author = {Gao, Han and Han, Xu and Huang, Jiaoyang and Wang, Jian-Xun and Liu, Liping},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {27:1--27:25},
 year = {2022}
 }

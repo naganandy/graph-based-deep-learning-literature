@@ -4,7 +4,7 @@
 @inproceedings{drgdps_log22,
 title = {Distributed representations of graphs for drug pair scoring},
 author = {Scherer, Paul and Lio, Pietro and Jamnik, Mateja},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {22:1--22:17},
 year = {2022}
 }

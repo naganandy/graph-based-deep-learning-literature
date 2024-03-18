@@ -4,7 +4,7 @@
 @inproceedings{robeval_log22,
 title = {A Systematic Evaluation of Node Embedding Robustness},
 author = {Cristian Mara, Alexandru and Lijffijt, Jefrey and G{\"u}nnemann, Stephan and De Bie, Tijl},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {42:1--42:14},
 year = {2022}
 }

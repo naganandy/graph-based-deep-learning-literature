@@ -4,7 +4,7 @@
 @inproceedings{tlscae_log22,
 title = {Transfer Learning using Spectral Convolutional Autoencoders on Semi-Regular Surface Meshes},
 author = {Hahner, Sara and Kerkhoff, Felix and Garcke, Jochen},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {18:1--18:19},
 year = {2022}
 }

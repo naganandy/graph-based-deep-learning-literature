@@ -4,7 +4,7 @@
 @inproceedings{lcm_log22,
 title = {Learnable Commutative Monoids for Graph Neural Networks},
 author = {Ong, Euan and Veli{\v{c}}kovi{\'c}, Petar},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {43:1--43:22},
 year = {2022}
 }

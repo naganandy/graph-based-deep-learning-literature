@@ -4,7 +4,7 @@
 @inproceedings{egp_log22,
 title = {Expander Graph Propagation},
 author = {Deac, Andreea and Lackenby, Marc and Veli{\v{c}}kovi{\'c}, Petar},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {38:1--38:18},
 year = {2022}
 }

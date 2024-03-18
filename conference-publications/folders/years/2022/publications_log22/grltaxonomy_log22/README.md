@@ -4,7 +4,7 @@
 @inproceedings{grltaxonomy_log22,
 title = {Taxonomy of Benchmarks in Graph Representation Learning},
 author = {Liu, Renming and Cant{\"u}rk, Semih and Rampasek, Ladislav and Wenkel, Frederik and McGuire, Sarah and Wang, Xinyi and Little, Anna and O'Bray, Leslie and Perlmutter, Michael and Rieck, Bastian and Hirn, Matthew and Wolf, Guy},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {6:1--6:25},
 year = {2022}
 }

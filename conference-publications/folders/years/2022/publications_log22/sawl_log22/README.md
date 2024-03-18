@@ -4,7 +4,7 @@
 @inproceedings{sawl_log22,
 title = {Towards Efficient and Expressive {GNN}s for Graph Classification via Subgraph-aware Weisfeiler-Lehman},
 author = {Wang, Zhaohui and Cao, Qi and Shen, Huawei and Bingbing, Xu and Zhang, Muhan and Cheng, Xueqi},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {17:1--17:18},
 year = {2022}
 }

@@ -4,7 +4,7 @@
 @inproceedings{damnet_log22,
 title = {{DAMNETS}: A Deep Autoregressive Model for Generating Markovian Network Time Series},
 author = {Clarkson, Jase and Cucuringu, Mihai and Elliott, Andrew and Reinert, Gesine},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {23:1--23:19},
 year = {2022}
 }

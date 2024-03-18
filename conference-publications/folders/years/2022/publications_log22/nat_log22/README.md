@@ -4,7 +4,7 @@
 @inproceedings{nat_log22,
 title = {Neighborhood-aware Scalable Temporal Network Representation Learning},
 author = {Luo, Yuhong and Li, Pan},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {1:1--1:18},
 year = {2022}
 }

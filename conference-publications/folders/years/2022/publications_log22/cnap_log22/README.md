@@ -4,7 +4,7 @@
 @inproceedings{cnap_log22,
 title = {Continuous Neural Algorithmic Planners},
 author = {He, Yu and Veli{\v{c}}kovi{\'c}, Petar and Lio, Pietro and Deac, Andreea},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {54:1--54:13},
 year = {2022}
 }

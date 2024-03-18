@@ -4,7 +4,7 @@
 @inproceedings{lpg2vec_log22,
 title = {Neural Graph Databases},
 author = {Besta, Maciej and Iff, Patrick and Scheidl, Florian and Osawa, Kazuki and Dryden, Nikoli and Podstawski, Michal and Chen, Tiancheng and Hoefler, Torsten},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {31:1--31:38},
 year = {2022}
 }

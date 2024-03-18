@@ -4,7 +4,7 @@
 @inproceedings{msgnn_log22,
 title = {{MSGNN}: A Spectral Graph Neural Network Based on a Novel Magnetic Signed Laplacian},
 author = {He, Yixuan and Perlmutter, Michael and Reinert, Gesine and Cucuringu, Mihai},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {40:1--40:39},
 year = {2022}
 }

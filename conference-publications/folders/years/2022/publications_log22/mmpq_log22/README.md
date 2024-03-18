@@ -4,7 +4,7 @@
 @inproceedings{mmpq_log22,
 title = {Jointly Modelling Uncertainty and Diversity for Active Molecular Property Prediction},
 author = {Zhou, Kuangqi and Wang, Kaixin and Tang, Jian and Feng, Jiashi and Hooi, Bryan and Zhao, Peilin and Xu, Tingyang and Wang, Xinchao},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {29:1--29:21},
 year = {2022}
 }

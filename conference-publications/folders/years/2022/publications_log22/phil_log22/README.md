@@ -4,7 +4,7 @@
 @inproceedings{phil_log22,
 title = {Learning Graph Search Heuristics},
 author = {P{\'a}ndy, Michal and Qiu, Weikang and Corso, Gabriele and Veli{\v{c}}kovi{\'c}, Petar and Ying, Zhitao and Leskovec, Jure and Lio, Pietro},
-booktitle = {Proceedings of the First Learning on Graphs Conference (LOG)},
+booktitle = {Proceedings of the First Learning on Graphs Conference (LoG)},
 pages = {10:1--10:13},
 year = {2022}
 }
