@@ -9,14 +9,13 @@
 
 
 # Expressivity
-- [WL meet VC](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/1wlvc_log23/README.md)
 - [Will More Expressive Graph Neural Networks do Better on Generative Tasks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/exgen_log23/README.md)
 - [Cycle Invariant Positional Encoding for Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/cyclenet_log23/README.md)
+- [GwAC: GNNs with Asynchronous Communication](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/gwac_log23/README.md)
 
 
 
 # Oversmoothing
-- [GwAC: GNNs with Asynchronous Communication](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/gwac_log23/README.md)
 - [Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/rankcollapse_log23/README.md)
 - [Mitigating Over-smoothing and Over-squashing using Augmentations of Forman-Ricci Curvature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/afrc_log23/README.md)
 
