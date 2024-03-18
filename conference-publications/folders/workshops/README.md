@@ -1,5 +1,12 @@
 # Related Workshops
 
+
+- ## 2024
+   * ### [Large Language Models in Graph Learning (WebConf)](https://advanced-recommender-systems.github.io/llm4graph/) 
+   * ### [Trustworthy Learning on Graphs (WebConf)](https://trustlogworkshop.github.io/) 
+   * ### [Graph Foundation Models (WebConf)](https://www.www24gfm.com/) 
+
+
 - ## 2023
    * ### [New Frontiers in Graph Learning (NeurIPS)](https://glfrontiers.github.io/) 
    * ### [Temporal Graph Learning Workshop (NeurIPS)](https://sites.google.com/view/tglworkshop-2023/home)  
