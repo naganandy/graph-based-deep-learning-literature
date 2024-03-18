@@ -14,7 +14,7 @@ Publications within each conference and year below are organised into topic-spec
 
 
 
-* ### [Learning On Graphs Conference](https://logconference.org/) - [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
+* ### [Learning On Graphs Conference](https://logconference.org/) - [2023](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/README.md) | [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
 
 - ## Machine Learning Conferences
  
