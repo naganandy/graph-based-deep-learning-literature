@@ -29,7 +29,7 @@
 - [Characterizing Graph Datasets for Node Classification: Homophily-Heterophily Dichotomy and Beyond](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/li_neurips23/README.md)
 - [Simple and Asymmetric Graph Contrastive Learning without Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/graphacl_neurips23/README.md)
 - [From Trainable Negative Depth to Edge Heterophily in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/tedgcn_neurips23/README.md)
-- [When Do Graph Neural Networks Help with Node Classification? Investigating the Homophily Principle on Node Distinguishability](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gnn node dist_neurips23/README.md)
+- [When Do Graph Neural Networks Help with Node Classification? Investigating the Homophily Principle on Node Distinguishability](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gnn_node_dist_neurips23/README.md)
 
 
 
