@@ -3,30 +3,37 @@
 
 
 # Scalability
-- [Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fgwmixup_neurips23/README.md)
 - [A Computationally Efficient Sparsified Online Newton Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sonew_neurips23/README.md)
-- [PlanE: Representation Learning over Planar Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/plane_neurips23/README.md)
 - [Neural Relation Graph: A Unified Framework for Identifying Label Noise and Outlier Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/nrg_neurips23/README.md)
-- [PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/perfograph_neurips23/README.md)
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lingcn_neurips23/README.md)
-- [Graph Contrastive Learning with Stable and Scalable Spectral Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sp2gcl_neurips23/README.md)
+
+
+
+# Sampling
 - [Layer-Neighbor Sampling --- Defusing Neighborhood Explosion in GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/labor_neurips23/README.md)
-- [Learning Large Graph Property Prediction via Graph Segment Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gstedt_neurips23/README.md)
-- [LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ld2_neurips23/README.md)
 - [Efficient Learning of Linear Graph Neural Networks via Node Subsampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/egvns_neurips23/README.md)
 
 
 
+# Large-scale Graph Property Prediction
+- [Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fgwmixup_neurips23/README.md)
+- [PlanE: Representation Learning over Planar Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/plane_neurips23/README.md)
+- [Learning Large Graph Property Prediction via Graph Segment Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gstedt_neurips23/README.md)
+
+
+
 # Hyperbolic Geometry
-- [Fitting trees to $\ell_1$-hyperbolic distances](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/hccrootedtreefit_neurips23/README.md)
 - [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/hgram_neurips23/README.md)
+- [Fitting trees to $\ell_1$-hyperbolic distances](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/hccrootedtreefit_neurips23/README.md)
 
 
 
 # Heterophily
-- [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gsd_neurips23/README.md)
-- [Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lrgnn_neurips23/README.md)
+- [LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ld2_neurips23/README.md)
 - [Characterizing Graph Datasets for Node Classification: Homophily-Heterophily Dichotomy and Beyond](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/li_neurips23/README.md)
+- [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gsd_neurips23/README.md)
+- [Towards Label Position Bias in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lpb_neurips23/README.md)
+- [Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lrgnn_neurips23/README.md)
 - [Simple and Asymmetric Graph Contrastive Learning without Augmentations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/graphacl_neurips23/README.md)
 - [From Trainable Negative Depth to Edge Heterophily in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/tedgcn_neurips23/README.md)
 - [When Do Graph Neural Networks Help with Node Classification? Investigating the Homophily Principle on Node Distinguishability](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gnn_node_dist_neurips23/README.md)
@@ -55,7 +62,6 @@
 - [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/narformer_neurips23/README.md)
 - [SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sgformer_neurips23/README.md)
 - [Transformers over Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/dagtransformer_neurips23/README.md)
-- [Laplacian Canonization: A Minimalist Approach to Sign and Basis Invariant Spectral Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lc_neurips23/README.md)
 - [Geometric Transformer with Interatomic Positional Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/geoformer_neurips23/README.md)
 - [On Separate Normalization in Self-supervised Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sepnorm_neurips23/README.md)
 - [Energy-based Attention for Associative Memory](https://nips.cc/Conferences/2023/Schedule?showEvent=71901)
@@ -87,9 +93,16 @@
 
 
 
+# Sign and Basis Invariance
+- [Laplacian Canonization: A Minimalist Approach to Sign and Basis Invariant Spectral Embedding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lc_neurips23/README.md)
+- [Graph Contrastive Learning with Stable and Scalable Spectral Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sp2gcl_neurips23/README.md)
+
+
+
 # Equivariance
 - [Approximately Equivariant Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/aegnn_neurips23/README.md)
 - [A new perspective on building efficient and expressive 3D equivariant graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/leftnet_neurips23/README.md)
+- [Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fwt_neurips23/README.md)
 - [Latent Field Discovery in Interacting Dynamical Systems with Neural Fields](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lfdnet_neurips23/README.md)
 - [Equivariant Neural Operator Learning with Graphon Convolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/infgcn_neurips23/README.md)
 - [Expressive Sign Equivariant Networks for Spectral Geometric Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/esen_neurips23/README.md)
@@ -125,7 +138,7 @@
 # Hypergraphs
 - [Sheaf Hypergraph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sheafhnn_neurips23/README.md)
 - [CAT-Walk: Inductive Hypergraph Learning via Set Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/catwalk_neurips23/README.md)
-- [HyTrel: Hypergraph-enhanced  Tabular Data Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/hytrel_neurips23/README.md)
+- [HyTrel: Hypergraph-enhanced Tabular Data Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/hytrel_neurips23/README.md)
 
 
 
@@ -318,13 +331,11 @@
 
 
 # Miscellaneous
+- [PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/perfograph_neurips23/README.md)
 - [Graph of Circuits with GNN for Exploring the Optimal Design Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gcx_neurips23/README.md)
 - [Lovász Principle for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lpugrl_neurips23/README.md)
-- [Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fwt_neurips23/README.md)
 - [Model-Based Control with Sparse Neural Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/snd_neurips23/README.md)
 - [ARTree: A Deep Autoregressive Model for Phylogenetic Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/artree_neurips23/README.md)
-- [Towards Label Position Bias in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lpb_neurips23/README.md)
-- [Approximate inference of marginals using the IBIA framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ibia_neurips23/README.md)
 - [Maximum Independent Set: Self-Training through Dynamic Programming](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/misdp_neurips23/README.md)
 - [On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/knntd_neurips23/README.md)
 - [GraphMP: Graph Neural Network-based Motion Planning with Efficient Graph Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/graphmp_neurips23/README.md)
