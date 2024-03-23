@@ -2,13 +2,6 @@
 
 
 
-# Scalability
-- [A Computationally Efficient Sparsified Online Newton Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sonew_neurips23/README.md)
-- [Neural Relation Graph: A Unified Framework for Identifying Label Noise and Outlier Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/nrg_neurips23/README.md)
-- [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lingcn_neurips23/README.md)
-
-
-
 # Sampling
 - [Layer-Neighbor Sampling --- Defusing Neighborhood Explosion in GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/labor_neurips23/README.md)
 - [Efficient Learning of Linear Graph Neural Networks via Node Subsampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/egvns_neurips23/README.md)
@@ -19,6 +12,13 @@
 - [Fused Gromov-Wasserstein Graph Mixup for Graph-level Classifications](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fgwmixup_neurips23/README.md)
 - [PlanE: Representation Learning over Planar Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/plane_neurips23/README.md)
 - [Learning Large Graph Property Prediction via Graph Segment Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gstedt_neurips23/README.md)
+
+
+
+# Second-order Optimisation
+- [A Computationally Efficient Sparsified Online Newton Method](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sonew_neurips23/README.md)
+- [Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/kfac_neurips23/README.md)
+
 
 
 
@@ -52,7 +52,6 @@
 - [Tailoring Self-Attention for Graph via Rooted Subtrees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sta_neurips23/README.md)
 - [Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gnnpde_neurips23/README.md)
 - [MeGraph: Capturing Long-Range Interactions by Alternating Local and Hierarchical Aggregation on Multi-Scaled Graph Hierarchy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/megraph_neurips23/README.md)
-- [Let the Flows Tell:  Solving Graph Combinatorial Problems with GFlowNets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/cogflownet_neurips23/README.md)
 - [TopoSRL: Topology preserving self-supervised Simplicial Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/toposrl_neurips23/README.md)
 - [Fragment-based Pretraining and Finetuning on Molecular Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fraggnn_neurips23/README.md)
 
@@ -64,6 +63,7 @@
 - [Transformers over Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/dagtransformer_neurips23/README.md)
 - [Geometric Transformer with Interatomic Positional Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/geoformer_neurips23/README.md)
 - [On Separate Normalization in Self-supervised Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sepnorm_neurips23/README.md)
+- [RH-BrainFS: Regional Heterogeneous Multimodal Brain Networks Fusion Strategy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/rhbrainfs_neurips23/README.md)
 - [Energy-based Attention for Associative Memory](https://nips.cc/Conferences/2023/Schedule?showEvent=71901)
 
 
@@ -77,6 +77,7 @@
 - [Diffusion Probabilistic Models for Structured Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/dpmsnc_neurips23/README.md)
 - [What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gnnpe_neurips23/README.md)
 - [Fine-grained Expressivity of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fgegnn_neurips23/README.md)
+- [Zero-One Laws of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/zolgnn_neurips23/README.md)
 - [Graph Convolutional Kernel Machine versus Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gckm_neurips23/README.md)
 - [Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/edgerwse_neurips23/README.md)
 - [Are GATs Out of Balance?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gatob_neurips23/README.md)
@@ -138,7 +139,13 @@
 # Hypergraphs
 - [Sheaf Hypergraph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sheafhnn_neurips23/README.md)
 - [CAT-Walk: Inductive Hypergraph Learning via Set Walks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/catwalk_neurips23/README.md)
+
+
+
+# Tabular Data
 - [HyTrel: Hypergraph-enhanced Tabular Data Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/hytrel_neurips23/README.md)
+- [On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/knntd_neurips23/README.md)
+- [High dimensional, tabular deep learning with an auxiliary knowledge graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/plato_neurips23/README.md)
 
 
 
@@ -194,7 +201,12 @@
 - [Architecture Matters: Uncovering Implicit Mechanisms in Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/amgcl_neurips23/README.md)
 - [Understanding Contrastive Learning via Distributionally Robust Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/adnce_neurips23/README.md)
 - [Provable Training for Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/pot_neurips23/README.md)
+
+
+
+# Recommendation
 - [An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/cptpp_neurips23/README.md)
+- [Mitigating the Popularity Bias of  Graph Collaborative Filtering: A Dimensional Collapse Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/degcf_neurips23/README.md)
 
 
 
@@ -207,6 +219,7 @@
 - [Accelerating Molecular Graph Neural Networks via Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/mgnnkd_neurips23/README.md)
 - [Transfer learning for atomistic simulations using GNNs and kernel mean embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/tlas_neurips23/README.md)
 - [Optimizing over trained GNNs via symmetry breaking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sbgnn_neurips23/README.md)
+- [NewtonCotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/necognn_neurips23/README.md)
 
 
 
@@ -230,6 +243,7 @@
 - [Does Invariant Graph Learning via Environment Augmentation Learn Invariance?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gala_neurips23/README.md)
 - [Improving Compositional Generalization using Iterated Learning and Simplicial Embeddings](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ilse_neurips23/README.md)
 - [A graphon-signal analysis of graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/graphon_neurips23/README.md)
+- [Learning Invariant Representations of Graph Neural Networks via Cluster Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/cit_neurips23/README.md)
 
 
 
@@ -256,7 +270,6 @@
 - [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/difflogic_neurips23/README.md)
 - [Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/terules_neurips23/README.md)
 - [NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/nutrea_neurips23/README.md)
-- [High dimensional, tabular deep learning with an auxiliary knowledge graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/plato_neurips23/README.md)
 
 
 
@@ -273,8 +286,17 @@
 - [Directional diffusion models for graph representation learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ddmgrl_neurips23/README.md)
 - [Data-Centric Learning from Unlabeled Graphs with Diffusion Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/dclug_neurips23/README.md)
 - [Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/aayw_neurips23/README.md)
-- [DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/difusco_neurips23/README.md)
 - [Diffusion Model for Graph Inverse Problems: Towards Effective Source Localization on Complex Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ddmsl_neurips23/README.md)
+
+
+
+# Combinatorial Optimisation
+- [DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/difusco_neurips23/README.md)
+- [Maximum Independent Set: Self-Training through Dynamic Programming](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/misdp_neurips23/README.md)
+- [Learning To Dive In Branch And Bound](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/l2dive_neurips23/README.md)
+- [Let the Flows Tell:  Solving Graph Combinatorial Problems with GFlowNets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/cogflownet_neurips23/README.md)
+- [Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/nhde_neurips23/README.md)
+
 
 
 # Physics
@@ -298,7 +320,6 @@
 - [Suggesting Variable Order for Cylindrical Algebraic Decomposition via Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/grlsvo_neurips23/README.md)
 - [Swarm Reinforcement Learning for Adaptive Mesh Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/asmr_neurips23/README.md)
 - [Unsupervised Learning for Solving the Travelling Salesman Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/utsp_neurips23/README.md)
-- [Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/nhde_neurips23/README.md)
 
 
 
@@ -313,6 +334,7 @@
 # Privacy
 - [Differentially Private Decoupled Graph Convolutions for Multigranular Topology Protection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/dpdgc_neurips23/README.md)
 - [Penguin: Parallel-Packed Homomorphic Encryption for Fast Graph Convolutional Network Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/penguin_neurips23/README.md)
+- [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lingcn_neurips23/README.md)
 
 
 
@@ -333,23 +355,15 @@
 # Miscellaneous
 - [PERFOGRAPH: A Numerical Aware Program Graph Representation for Performance Optimization and Program Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/perfograph_neurips23/README.md)
 - [Graph of Circuits with GNN for Exploring the Optimal Design Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/gcx_neurips23/README.md)
+- [Neural Relation Graph: A Unified Framework for Identifying Label Noise and Outlier Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/nrg_neurips23/README.md)
 - [Lovász Principle for Unsupervised Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lpugrl_neurips23/README.md)
 - [Model-Based Control with Sparse Neural Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/snd_neurips23/README.md)
 - [ARTree: A Deep Autoregressive Model for Phylogenetic Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/artree_neurips23/README.md)
-- [Maximum Independent Set: Self-Training through Dynamic Programming](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/misdp_neurips23/README.md)
-- [On Class Distributions Induced by Nearest Neighbor Graphs for Node Classification of Tabular Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/knntd_neurips23/README.md)
 - [GraphMP: Graph Neural Network-based Motion Planning with Efficient Graph Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/graphmp_neurips23/README.md)
 - [What Planning Problems Can A Relational Neural Network Solve?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/prnn_neurips23/README.md)
 - [Joint Feature and Differentiable $ k $-NN Graph Learning using Dirichlet Energy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/fdgnn_neurips23/README.md)
 - [Language Semantic Graph Guided Data-Efficient Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/lsg_neurips23/README.md)
-- [RH-BrainFS: Regional Heterogeneous Multimodal Brain Networks Fusion Strategy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/rhbrainfs_neurips23/README.md)
 - [Generalised f-Mean Aggregation for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/genagg_neurips23/README.md)
-- [Learning To Dive In Branch And Bound](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/l2dive_neurips23/README.md)
-- [Learning Invariant Representations of Graph Neural Networks via Cluster Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/cit_neurips23/README.md)
 - [A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/ncgnn_neurips23/README.md)
-- [Mitigating the Popularity Bias of  Graph Collaborative Filtering: A Dimensional Collapse Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/degcf_neurips23/README.md)
 - [A Metadata-Driven Approach to Understand Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/mdgnn_neurips23/README.md)
-- [Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/kfac_neurips23/README.md)
-- [Zero-One Laws of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/zolgnn_neurips23/README.md)
-- [NewtonCotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/necognn_neurips23/README.md)
 - [No Change, No Gain: Empowering Graph Neural Networks with Expected Model Change Maximization for Active Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/emcm_neurips23/README.md)
