@@ -64,7 +64,7 @@
 - [Geometric Transformer with Interatomic Positional Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/geoformer_neurips23/README.md)
 - [On Separate Normalization in Self-supervised Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/sepnorm_neurips23/README.md)
 - [RH-BrainFS: Regional Heterogeneous Multimodal Brain Networks Fusion Strategy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/rhbrainfs_neurips23/README.md)
-- [Energy-based Attention for Associative Memory](https://nips.cc/Conferences/2023/Schedule?showEvent=71901)
+- [Energy Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_neurips23/et_neurips23/README.md)
 
 
 
