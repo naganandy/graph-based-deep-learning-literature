@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{et_neurips23,
-title = {Expressive Sign Equivariant Networks for Spectral Geometric Learning},
+title = {Energy Transformer},
 author = {Hoover, Benjamin and Liang, Yuchen and Pham, Bao and Panda, Rameswar and Strobelt, Hendrik and Chau, Duen Horng and Zaki, Mohammed and Krotov, Dmitry},
 booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
 pages = {27532--27559},
