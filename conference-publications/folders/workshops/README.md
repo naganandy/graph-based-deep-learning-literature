@@ -5,6 +5,7 @@
    * ### [Large Language Models in Graph Learning (WebConf)](https://advanced-recommender-systems.github.io/llm4graph/) 
    * ### [Trustworthy Learning on Graphs (WebConf)](https://trustlogworkshop.github.io/) 
    * ### [Graph Foundation Models (WebConf)](https://www.www24gfm.com/) 
+   * ### [Machine Learning on Graphs (MLOG)](https://mlog-workshop.github.io/)
 
 
 - ## 2023
