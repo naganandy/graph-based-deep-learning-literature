@@ -3,14 +3,14 @@
 
 
 # Link Prediction
-- [Not All Negatives Are Worth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/mstgnn_wsdm24/README.md)
 - [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/spottarget_wsdm24/README.md)
+- [Not All Negatives Are Worth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/mstgnn_wsdm24/README.md)
 
 
 
 # Graph Contrastive Learning
-- [Towards Alignment-Uniformity Aware Representation in Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/auar_wsdm24/README.md)
 - [Rethinking and Simplifying Bootstrapped Graph Latents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/sgcl_wsdm24/README.md)
+- [Towards Alignment-Uniformity Aware Representation in Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/auar_wsdm24/README.md)
 
 
 
