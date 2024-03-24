@@ -1,10 +1,16 @@
-# [Publications in WSDM 2023](https://dl.acm.org/doi/proceedings/10.1145/3616855)
+# [Publications in WSDM 2024](https://dl.acm.org/doi/proceedings/10.1145/3616855)
 
 
 
 # Link Prediction
 - [Not All Negatives Are Worth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/mstgnn_wsdm24/README.md)
 - [Pitfalls in Link Prediction with Graph Neural Networks: Understanding the Impact of Target-link Inclusion & Better Practices](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/spottarget_wsdm24/README.md)
+
+
+
+# Graph Contrastive Learning
+- [Towards Alignment-Uniformity Aware Representation in Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/auar_wsdm24/README.md)
+- [Rethinking and Simplifying Bootstrapped Graph Latents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/sgcl_wsdm24/README.md)
 
 
 
@@ -59,6 +65,13 @@
 
 
 
+# Contextual Natural Language
+- [Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/reign_wsdm24/README.md)
+- [RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/rdgcn_wsdm24/README.md)
+- [Dance with Labels: Dual-Heterogeneous Label Graph Interaction for Multi-intent Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/dhlg_wsdm24/README.md)
+
+
+
 # Ethical AI
 - [The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/fairgkd_wsdm24/README.md)
 - [ProGAP: Progressive Graph Neural Networks with Differential Privacy Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/progap_wsdm24/README.md)
@@ -81,10 +94,5 @@
 - [Professional Network Matters: Connections Empower Person-Job Fit](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/csagnn_wsdm24/README.md)
 - [DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/desco_wsdm24/README.md)
 - [Incomplete Graph Learning via Attribute-Structure Decoupled Variational Auto-Encoder](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/asdvae_wsdm24/README.md)
-- [Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/reign_wsdm24/README.md)
 - [Source Free Graph Unsupervised Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/sfugda_wsdm24/README.md)
-- [Rethinking and Simplifying Bootstrapped Graph Latents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/sgcl_wsdm24/README.md)
 - [Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/dcgst_wsdm24/README.md)
-- [Towards Alignment-Uniformity Aware Representation in Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/auar_wsdm24/README.md)
-- [RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/rdgcn_wsdm24/README.md)
-- [Dance with Labels: Dual-Heterogeneous Label Graph Interaction for Multi-intent Spoken Language Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/dhlg_wsdm24/README.md)
