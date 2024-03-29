@@ -99,19 +99,28 @@
 
 # Temporal Data
 - [Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/dygnnexplainer_iclr24/README.md)
-- [Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values.](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/bitgraph_iclr24/README.md)
 - [Deep Temporal Graph Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/tgc_iclr24/README.md)
 - [VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/vbhgnn_iclr24/README.md)
 - [Graph Transformers on EHRs: Better Representation Improves Downstream Performance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/gtbehrt_iclr24/README.md)
-- [Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/eft_iclr24/README.md)
 - [A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/gpd_iclr24/README.md)
 - [Temporal Generalization Estimation in Evolving Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/smart_iclr24/README.md)
 - [Graphpulse: Topological representations for temporal graph property prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/graphpulse_iclr24/README.md)
 - [PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/pres_iclr24/README.md)
 - [NP-GL: Extending Power of Nature from Binary Problems to Real-World Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/npgl_iclr24/README.md)
-- [TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/testam_iclr24/README.md)
 - [Decoding Natural Images from EEG for Object Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/niceeeg_iclr24/README.md)
 - [Graph-based Virtual Sensing from Sparse and Partial Multivariate Observations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ggnet_iclr24/README.md)
+
+
+
+# Spatio-Temporal Data
+- [Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/eft_iclr24/README.md)
+- [TESTAM: A Time-Enhanced Spatio-Temporal Attention Model with Mixture of Experts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/testam_iclr24/README.md)
+
+
+
+# Time Series
+- [Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values.](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/bitgraph_iclr24/README.md)
+- [Amortized Network Intervention to Steer the Excitatory Point Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ani_iclr24/README.md)
 
 
 
@@ -295,5 +304,4 @@
 - [NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/neuro_iclr24/README.md)
 - [Partitioning Message Passing for Graph Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/pmp_iclr24/README.md)
 - [Encoding Unitig-level Assembly Graphs with Heterophilous Constraints for Metagenomic Contigs Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/untigbin_iclr24/README.md)
-- [Amortized Network Intervention to Steer the Excitatory Point Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ani_iclr24/README.md)
 - [BENO: Boundary-embedded Neural Operators for Elliptic PDEs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/beno_iclr24/README.md)
