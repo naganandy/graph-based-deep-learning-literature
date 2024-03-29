@@ -3,14 +3,18 @@
 
 
 # Scalability
-- [Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/snowflakes_iclr24/README.md)
-- [HiGen: Hierarchical Graph Generative Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/higen_iclr24/README.md)
+- [Scalable and Effective Implicit Graph Neural Networks on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/seignn_iclr24/README.md)
 - [Scalable Modular Network: A Framework for Adaptive Learning via Agreement Routing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/smn_iclr24/README.md)
-- [From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/dcm_iclr24/README.md)
+- [Forward Learning of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/forwardgnn_iclr24/README.md)
 - [LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/logicmp_iclr24/README.md)
 - [DREAM: Dual Structured Exploration with Mixup for Open-set Graph Domain Adaption](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/dream_iclr24/README.md)
-- [Scalable and Effective Implicit Graph Neural Networks on Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/seignn_iclr24/README.md)
 - [CoRe-GD: A Hierarchical Framework for Scalable Graph Visualization with GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/coregd_iclr24/README.md)
+
+
+
+# Latent Graph Inference
+- [Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/snowflakes_iclr24/README.md)
+- [From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/dcm_iclr24/README.md)
 
 
 
@@ -32,7 +36,13 @@
 - [Transformers vs. Message Passing GNNs: Distinguished in Uniform](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/vngt_iclr24/README.md)
 - [Learning Adaptive Multiresolution Transforms via Meta-Framelet-based Graph Convolutional Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/mmfgcn_iclr24/README.md)
 - [VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/vcrgraphormer_iclr24/README.md)
+
+
+
+# Generalisability
 - [InterpGNN: Understand and Improve Generalization Ability of Transdutive GNNs through the Lens of Interplay between Train and Test Nodes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/interpgnn_iclr24/README.md)
+- [The Optimal Constant Solution: Predictable Extrapolation in Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ocs_iclr24/README.md)
+- [Online GNN Evaluation Under Test-time Graph Distribution Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/lebed_iclr24/README.md)
 
 
 
@@ -81,6 +91,12 @@
 
 
 
+# Federated Learning
+- [FedWon: Triumphing Multi-domain Federated Learning Without Normalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/fedwon_iclr24/README.md)
+- [VFLAIR: A Research Library and Benchmark for Vertical Federated Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/vflair_iclr24/README.md)
+
+
+
 # Temporal Data
 - [Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/dygnnexplainer_iclr24/README.md)
 - [Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values.](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/bitgraph_iclr24/README.md)
@@ -99,6 +115,12 @@
 
 
 
+# Spectral Methods
+- [HoloNets: Spectral Convolutions do extend to Directed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/holonet_iclr24/README.md)
+- [PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/polygcl_iclr24/README.md)
+
+
+
 # Self-Supervision
 - [Self-supervised Heterogeneous Graph Learning:  a Homogeneity and Heterogeneity Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/hero_iclr24/README.md)
 - [HypeBoy: Generative Self-Supervised Representation Learning on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/hypeboy_iclr24/README.md)
@@ -107,22 +129,31 @@
 
 
 # Contrastive Learning
-- [PolyGCL: GRAPH CONTRASTIVE LEARNING via Learnable Spectral Polynomial Filters](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/polygcl_iclr24/README.md)
-- [Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/consisgad_iclr24/README.md)
 - [Multimodal Patient Representation Learning with Missing Modalities and Labels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/muse_iclr24/README.md)
 - [StructComp: Substituting propagation with Structural Compression in Training Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/structcomp_iclr24/README.md)
 - [A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/spikegcl_iclr24/README.md)
 
 
 
+# Data Augmentation
+- [Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/consisgad_iclr24/README.md)
+- [SAFLEX: Self-Adaptive Augmentation via Feature Label Extrapolation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/saflex_iclr24/README.md)
+
+
+
+# Graph Generation
+- [HiGen: Hierarchical Graph Generative Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/higen_iclr24/README.md)
+- [Graph Generation with  \$K\textasciicircum2\$-trees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/k2trees_iclr24/README.md)
+- [A Simple and Scalable Representation for Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/geel_iclr24/README.md)
+
+
+
 # Molecules
 - [Learning Scalar Fields for Molecular Docking with Fast Fourier Transforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/scalarfields_iclr24/README.md)
-- [Graph Generation with  \$K\textasciicircum2\$-trees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/k2trees_iclr24/README.md)
 - [GTMGC: Using Graph Transformer to Predict Molecule\textquoterights Ground-State Conformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/gtmgc_iclr24/README.md)
 - [Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/marcel_iclr24/README.md)
 - [Sum-Product-Set Networks: Deep Tractable Models for Tree-Structured Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/spsn_iclr24/README.md)
 - [Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ipdiff_iclr24/README.md)
-- [A Simple and Scalable Representation for Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/geel_iclr24/README.md)
 - [Stochastic Gradient Descent for Gaussian Processes Done Right](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/sgdgp_iclr24/README.md)
 - [Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/graphium_iclr24/README.md)
 - [Removing Biases from Molecular Representations via Information Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/infocore_iclr24/README.md)
@@ -173,6 +204,7 @@
 - [MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/mmdgk_iclr24/README.md)
 - [GraphGuard: Provably Robust Graph Classification against Adversarial Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/graphguard_iclr24/README.md)
 - [Mitigating Severe Robustness Degradation on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/dragon_iclr24/README.md)
+- [Rethinking Label Poisoning for GNNs: Pitfalls and Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/labelpoison_iclr24/README.md)
 - [iGraphMix: Input Graph Mixup Method for Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/igraphmix_iclr24/README.md)
 - [Robust Angular Synchronization via Directed Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/gnnsync_iclr24/README.md)
 - [Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/goodat_iclr24/README.md)
@@ -183,6 +215,12 @@
 - [Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/fit_iclr24/README.md)
 - [Towards Foundation Models for Knowledge Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ultra_iclr24/README.md)
 - [GraphCare: Enhancing Healthcare Predictions with Personalized Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/graphcare_iclr24/README.md)
+
+
+
+# Large Language Models
+- [Label-free Node Classification on Graphs with Large Language Models (LLMs)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/llmgnn_iclr24/README.md)
+- [Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/tape_iclr24/README.md)
 
 
 
@@ -219,11 +257,6 @@
 
 
 
-# Weak Supervision
-- [Label-free Node Classification on Graphs with Large Language Models (LLMs)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/llmgnn_iclr24/README.md)
-
-
-
 # Reinforcement Learning
 - [Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/rljss_iclr24/README.md)
 - [Learning Multi-Agent Communication from Graph Modeling Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/commformer_iclr24/README.md)
@@ -253,23 +286,14 @@
 
 
 # Miscellaneous
-- [Online GNN Evaluation Under Test-time Graph Distribution Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/lebed_iclr24/README.md)
 - [Combining Axes Preconditioners through Kronecker Approximation for Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/caspr_iclr24/README.md)
 - [One For All: Towards Training One Graph Model For All Classification Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ofa_iclr24/README.md)
-- [SAFLEX: Self-Adaptive Augmentation via Feature Label Extrapolation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/saflex_iclr24/README.md)
-- [HoloNets: Spectral Convolutions do extend to Directed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/holonet_iclr24/README.md)
 - [PROGRAM: PROtotype GRAph Model based Pseudo-Label Learning for Test-Time Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/program_iclr24/README.md)
-- [Forward Learning of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/forwardgnn_iclr24/README.md)
-- [VFLAIR: A Research Library and Benchmark for Vertical Federated Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/vflair_iclr24/README.md)
 - [Tractable Probabilistic Graph Representation Learning with Graph-Induced Sum-Product Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/gspn_iclr24/README.md)
-- [Rethinking Label Poisoning for GNNs: Pitfalls and Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/labelpoison_iclr24/README.md)
 - [Simplicial Representation Learning with Neural \$k\$-Forms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/nkf_iclr24/README.md)
-- [FedWon: Triumphing Multi-domain Federated Learning Without Normalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/fedwon_iclr24/README.md)
 - [Variance-enlarged Poisson Learning for Graph-based Semi-Supervised Learning with Extremely Sparse Labeled Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/vpl_iclr24/README.md)
 - [NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/neuro_iclr24/README.md)
 - [Partitioning Message Passing for Graph Fraud Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/pmp_iclr24/README.md)
-- [Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/tape_iclr24/README.md)
 - [Encoding Unitig-level Assembly Graphs with Heterophilous Constraints for Metagenomic Contigs Binning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/untigbin_iclr24/README.md)
-- [The Optimal Constant Solution: Predictable Extrapolation in Deep Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ocs_iclr24/README.md)
 - [Amortized Network Intervention to Steer the Excitatory Point Processes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/ani_iclr24/README.md)
 - [BENO: Boundary-embedded Neural Operators for Elliptic PDEs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_iclr24/beno_iclr24/README.md)
