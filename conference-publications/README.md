@@ -1,8 +1,8 @@
 # [Conferences](https://aideadlin.es/)
 
 - ECCV 2024 (Oct, decisions early Jul)
-- ACL 2024 (Aug, decisions mid May)
 - KDD 2024 (Aug, decisions mid May)
+- ACL 2024 (Aug, decisions mid May)
 - ICML 2024 (Jul, decisions early May)
 - IJCAI 2024 (Aug, decisions mid Apr)
 
