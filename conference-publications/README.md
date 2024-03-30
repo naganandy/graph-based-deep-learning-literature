@@ -5,6 +5,7 @@
 - ACL 2024 (Aug, decisions mid May)
 - ICML 2024 (Jul, decisions early May)
 - IJCAI 2024 (Aug, decisions mid Apr)
+- NAACL 2024 (Jun)
 
 
 
