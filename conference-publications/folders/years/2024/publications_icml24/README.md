@@ -1,4 +1,4 @@
-- [Publications in ICML 2024](https://icml.cc/Conferences/2024/Schedule)
+# [Publications in ICML 2024](https://icml.cc/Conferences/2024/Schedule)
 
 
 
