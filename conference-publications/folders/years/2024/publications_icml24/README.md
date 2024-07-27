@@ -177,7 +177,7 @@
 
 # Language Models
 - [Language Agents as Optimizable Graphs](https://icml.cc/Conferences/2024/Schedule?showEvent=32826)
-- [CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback](https://icml.cc/Conferences/2024/Schedule?showEvent=35045)
+- [CHEMREASONER: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback](https://icml.cc/Conferences/2024/Schedule?showEvent=35045)
 - [MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models](https://icml.cc/Conferences/2024/Schedule?showEvent=33459)
 - [LLaGA: Large Language and Graph Assistant](https://icml.cc/Conferences/2024/Schedule?showEvent=34739)
 - [LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits](https://icml.cc/Conferences/2024/Schedule?showEvent=34228)
@@ -354,7 +354,7 @@
 
 # Miscellaneous
 - [Unsupervised Episode Generation for Graph Meta-learning](https://icml.cc/Conferences/2024/Schedule?showEvent=34790)
-- [Graph Mixup on Approximate Gromov–Wasserstein Geodesics](https://icml.cc/Conferences/2024/Schedule?showEvent=34128)
+- [Graph Mixup on Approximate Gromov-Wasserstein Geodesics](https://icml.cc/Conferences/2024/Schedule?showEvent=34128)
 - [CurBench: Curriculum Learning Benchmark](https://icml.cc/Conferences/2024/Schedule?showEvent=34442)
 - [Differentiability and Convergence of Filtration Learning with Multiparameter Persistence Homology](https://icml.cc/Conferences/2024/Schedule?showEvent=33331)
 - [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/Conferences/2024/Schedule?showEvent=32687)
