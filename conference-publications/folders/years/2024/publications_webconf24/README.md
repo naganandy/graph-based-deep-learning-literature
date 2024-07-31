@@ -1,4 +1,4 @@
-# [Publications in TheWebConf 2024](https://www2024.thewebconf.org/accepted/research-tracks/)
+# [Publications in TheWebConf 2024](https://dl.acm.org/doi/proceedings/10.1145/3589334)
 
 
 
