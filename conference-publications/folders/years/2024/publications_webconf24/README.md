@@ -174,7 +174,7 @@
 
 
 
-# Causal Graphs
+# Causality
 - [Causal Graph ODE: Continuous Treatment Effect Modeling in Multi-agent Dynamical Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/cagode_webconf24/README.md)
 - [Invariant Graph Learning for Causal Effect Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/igl_webconf24/README.md)
 
