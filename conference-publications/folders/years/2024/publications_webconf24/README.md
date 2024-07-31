@@ -94,6 +94,7 @@
 - [GAUSS: GrAph-customized Universal Self-Supervised Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/gauss_webconf24/README.md)
 - [VilLain: Self-Supervised Learning on Homogeneous Hypergraphs without Features via Virtual Label Propagation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/villain_webconf24/README.md)
 - [Low Mileage, High Fidelity: Evaluating Hypergraph Expansion Methods by Quantifying the Information Loss](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/mileage_webconf24/README.md)
+- [Detecting Illicit Food Factories from Chemical Declaration Data via Graph-aware Self-supervised Contrastive Anomaly Ranking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/graphcar_webconf24/README.md)
 
 
 
@@ -142,6 +143,7 @@
 - [UniLP: Unified Topology-aware Generative Framework for Link Prediction in Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/unilp_webconf24/README.md)
 - [Robust Link Prediction over Noisy Hyper-Relational Knowledge Graphs via Active Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/nylon_webconf24/README.md)
 - [Fact Embedding through Diffusion Model for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/fdm_webconf24/README.md)
+- [GraphLeak: Patient Record Leakage through Gradients with Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/graphleak_webconf24/README.md)
 
 
 
@@ -172,9 +174,15 @@
 
 
 
+# Causal Graphs
+- [Causal Graph ODE: Continuous Treatment Effect Modeling in Multi-agent Dynamical Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/cagode_webconf24/README.md)
+- [Invariant Graph Learning for Causal Effect Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/igl_webconf24/README.md)
+
+
+
+
 # Miscellaneous
 - [SMUG: Sand Mixing for Unobserved Class Detection in Graph Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/smug_webconf24/README.md)
-- [Invariant Graph Learning for Causal Effect Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/igl_webconf24/README.md)
 - [Identifying VPN Servers through Graph-Represented Behaviors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/vpnsniffer_webconf24/README.md)
 - [Calibrating Graph Neural Networks from a Data-centric Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/dcgc_webconf24/README.md)
 - [Graph Principal Flow Network for Conditional Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/gprinflownet_webconf24/README.md)
