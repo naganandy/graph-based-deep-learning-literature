@@ -16,11 +16,6 @@
 
 
 
-# Efficiency
-- [Cost-effective Data Labelling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/aim_webconf24/README.md)
-
-
-
 # Spectral Methods
 - [Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/csf_webconf24/README.md)
 - [Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/adaptkry_webconf24/README.md)
@@ -182,6 +177,7 @@
 
 
 # Miscellaneous
+- [Cost-effective Data Labelling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/aim_webconf24/README.md)
 - [SMUG: Sand Mixing for Unobserved Class Detection in Graph Few-Shot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/smug_webconf24/README.md)
 - [Identifying VPN Servers through Graph-Represented Behaviors](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/vpnsniffer_webconf24/README.md)
 - [Calibrating Graph Neural Networks from a Data-centric Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_webconf24/dcgc_webconf24/README.md)
