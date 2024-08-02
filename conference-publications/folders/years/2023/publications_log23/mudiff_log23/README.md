@@ -2,12 +2,14 @@
 
 ```
 @inproceedings{mudiff_log23,
-title = {{MUD}iff: Unified Diffusion for Complete Molecule Generation},
-author = {Chenqing Hua and Sitao Luan and Minkai Xu and Zhitao Ying and Jie Fu and Stefano Ermon and Doina Precup},
-booktitle = {The Second Learning on Graphs Conference (LoG)},
-year = {2023}
+title = {MUDiff: Unified Diffusion for Complete Molecule Generation},
+author = {Hua, Chenqing and Luan, Sitao and Xu, Minkai and Ying, Zhitao and Fu, Jie and Ermon, Stefano and Precup, Doina},
+pages = {33:1--33:26},
+booktitle = {Proceedings of the Second Learning on Graphs Conference (LoG)},
+year = {2024}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v231/hua24a.html)
 - [openreview](https://openreview.net/forum?id=C7Z3yhWUAU)
