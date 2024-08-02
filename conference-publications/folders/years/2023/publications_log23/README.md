@@ -34,9 +34,15 @@
 
 
 
+# Generative Models
+- [Generative modeling of labeled graphs under data scarcity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/gshot_log23/README.md)
+- [A Simple Latent Variable Model for Graph Learning and Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/ahk_log23/README.md)
+
+
+
 # Generative Diffusion
-- [MUDiff: Unified Diffusion for Complete Molecule Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/mudiff_log23/README.md)
 - [A Latent Diffusion Model for Protein Structure Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/latentdiff_log23/README.md)
+- [MUDiff: Unified Diffusion for Complete Molecule Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/mudiff_log23/README.md)
 
 
 
@@ -70,9 +76,7 @@
 # Miscellaneous
 - [BeMap: Balanced Message Passing for Fair Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/bemap_log23/README.md)
 - [Intrinsically Motivated Graph Exploration Using Network Theories of Human Curiosity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/mge_log23/README.md)
-- [A Simple Latent Variable Model for Graph Learning and Inference](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/ahk_log23/README.md)
 - [Inferring dynamic regulatory interaction graphs from time series data with perturbations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/ritini_log23/README.md)
 - [Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/mfslt_log23/README.md)
-- [Generative modeling of labeled graphs under data scarcity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/gshot_log23/README.md)
 - [GSCAN: Graph Stability Clustering for Applications with Noise using Edge-Aware Excess-of-Mass](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/gscan_log23/README.md)
 - [Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/omphnn_log23/README.md)
