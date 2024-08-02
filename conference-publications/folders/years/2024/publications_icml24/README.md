@@ -345,7 +345,7 @@
 # Miscellaneous
 - [Simulation of Graph Algorithms with Looped Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/galt_icml24/README.md)
 - [Unsupervised Episode Generation for Graph Meta-learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/naq_icml24/README.md)
-- [Graph Mixup on Approximate Gromov–Wasserstein Geodesics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/geomix_icml24/README.md)
+- [Graph Mixup on Approximate Gromov-Wasserstein Geodesics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/geomix_icml24/README.md)
 - [CurBench: Curriculum Learning Benchmark](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/curbench_icml24/README.md)
 - [Differentiability and Optimization of Multiparameter Persistent Homology](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/mptop_icml24/README.md)
 - [Learning Graph Representation via Graph Entropy Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/gemax_icml24/README.md)
