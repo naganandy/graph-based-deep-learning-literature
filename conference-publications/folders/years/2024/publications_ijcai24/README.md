@@ -16,9 +16,15 @@
 
 
 
-# Graph Pooling
+# Graph Classification
 - [Subgraph Pooling: Tackling Negative Transfer on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/sppp_ijcai24/README.md)
+- [Rethinking the Effectiveness of Graph Classification Datasets in Benchmarks for Assessing GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/effgc_ijcai24/README.md)
+
+
+
+# Kernel Methods
 - [Kernel Readout for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/kerread_ijcai24/README.md)
+- [Deep Hierarchical Graph Alignment Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/dhgak_ijcai24/README.md)
 
 
 
@@ -28,6 +34,12 @@
 - [Gradformer: Graph Transformer with Exponential Decay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/gradformer_ijcai24/README.md)
 - [Dynamicity-aware Social Bot Detection with Dynamic Graph Transformers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/botdgt_ijcai24/README.md)
 - [FairGT: A Fairness-aware Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/fairgt_ijcai24/README.md)
+
+
+
+# Data Augmentation
+- [EPIC: Graph Augmentation with Edit Path Interpolation via Learnable Cost](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/epic_ijcai24/README.md)
+- [LSPAN: Spectrally Localized Augmentation for Graph Consistency Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/lspan_ijcai24/README.md)
 
 
 
@@ -119,8 +131,14 @@
 # Temporal Data
 - [MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/mftraj_ijcai24/README.md)
 - [Make Graph Neural Networks Great Again: A Generic Integration Paradigm of Topology-Free Patterns for Traffic Speed Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/dcst_ijcai24/README.md)
-- [Pre-DyGAE: Pre-training Enhanced Dynamic Graph Autoencoder for Occupational Skill Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/predygae_ijcai24/README.md)
 - [WeatherGNN: Exploiting Meteo- and Spatial-Dependencies for Local Numerical Weather Prediction Bias-Correction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/weathergnn_ijcai24/README.md)
+
+
+
+# Autoencoders
+- [Pre-DyGAE: Pre-training Enhanced Dynamic Graph Autoencoder for Occupational Skill Demand Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/predygae_ijcai24/README.md)
+- [SVD-AE: Simple Autoencoders for Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/svdae_ijcai24/README.md)
+- [Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/structmae_ijcai24/README.md)
 
 
 
@@ -165,12 +183,14 @@
 
 
 
-# Miscellaneous
+# Directed Graphs
 - [A Multi-Valued Decision Diagram-Based Approach to Constrained Optimal Path Problems over Directed Acyclic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/mddmcs_ijcai24/README.md)
-- [LSPAN: Spectrally Localized Augmentation for Graph Consistency Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/lspan_ijcai24/README.md)
-- [EPIC: Graph Augmentation with Edit Path Interpolation via Learnable Cost](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/epic_ijcai24/README.md)
-- [Towards Geometric Normalization Techniques in SE(3) Equivariant Graph Neural Networks for Physical Dynamics Simulations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/geonorm_ijcai24/README.md)
 - [Exploring the Role of Node Diversity in Directed Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/nddgnn_ijcai24/README.md)
+
+
+
+# Miscellaneous
+- [Towards Geometric Normalization Techniques in SE(3) Equivariant Graph Neural Networks for Physical Dynamics Simulations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/geonorm_ijcai24/README.md)
 - [Unified View Imputation and Feature Selection Learning for Incomplete Multi-view Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/unifier_ijcai24/README.md)
 - [Unsupervised Deep Graph Structure and Embedding Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/upgnn_ijcai24/README.md)
 - [Generalized Taxonomy-Guided Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/tg-gnn_ijcai24/README.md)
@@ -178,9 +198,5 @@
 - [A Logic for Reasoning about Aggregate-Combine Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/lacgnn_ijcai24/README.md)
 - [Finding Increasingly Large Extremal Graphs with AlphaZero and Tabu Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/alphazerotabu_ijcai24/README.md)
 - [CONC: Complex-noise-resistant Open-set Node Classification with Adaptive Noise Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/conc_ijcai24/README.md)
-- [Rethinking the Effectiveness of Graph Classification Datasets in Benchmarks for Assessing GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/effgc_ijcai24/README.md)
-- [SVD-AE: Simple Autoencoders for Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/svdae_ijcai24/README.md)
-- [Deep Hierarchical Graph Alignment Kernels](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/dhgak_ijcai24/README.md)
 - [A Context-Enhanced Framework for Sequential Graph Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/cesgr_ijcai24/README.md)
-- [Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/structmae_ijcai24/README.md)
 - [Joint Source Localization in Different Platforms via Implicit Propagation Characteristics of Similar Topics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/dslf_ijcai24/README.md)
