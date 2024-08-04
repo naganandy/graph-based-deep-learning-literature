@@ -8,13 +8,22 @@
 
 
 
+# Oversmoothing
+- ORCDF: An Oversmoothing-Resistant Cognitive Diagnosis Framework for Student Learning in Online Education Systems
+- TSC: a Simple Two-Sided Constraint against Over-Smoothing
+
+
+
 # Scalablility
+- The Snowflake Hypothesis: Training and Powering GNN with One Node One Receptive Field
 - Fast Computation of Kemeny’s Constant for Directed Graphs
 - Fast Computation for the Forest Matrix of an Evolving Graph
 - Scalable Algorithm for Finding Balanced Subgraphs with Tolerance in Signed Networks
 - A Fast Exact Algorithm to Enumerate Maximal Pseudo-cliques in Large Sparse Graphs
 - Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification
 - AGS-GNN: Attribute-guided Sampling for Graph Neural Network
+- Hypformer: Exploring Efficient Hyperbolic Transformer Fully in Hyperbolic Space
+- Pre-train and Refine: Towards Higher Efficiency in K-Agnostic Community Detection without Quality Degradation
 
 
 
@@ -45,6 +54,7 @@
 - Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks
 - A Learned Generalized Geodesic Distance Function-Based Approach for Node Feature Augmentation on Graphs
 - Latent Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model
+- GeoMix: Towards Geometry-Aware Data Augmentation
 
 
 
@@ -56,6 +66,9 @@
 - Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach
 - Topology-monitorable Contrastive Learning on Dynamic Graphs
 - LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs?
+- Topology-aware Embedding Memory for Continual Learning on Expanding Networks
+- RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes
+
 
 
 
@@ -63,8 +76,13 @@
 - Representation Learning of Temporal Graphs with Structural Roles
 - Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling
 - Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck
-- Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks
 - Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks
+
+
+
+# Time Series
+- GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing
+- Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks
 
 
 
@@ -74,9 +92,12 @@
 - LARP: Language Audio Relational Pre-training for Cold-Start Playlist Continuation
 
 
+
 # Anomaly Detection
 - Graph Anomaly Detection with Few Labels: A Data-Centric Approach
 - Motif-Consistent Counterfactuals with Adversarial Refinement for Graph-level Anomaly Detection
+- SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning
+- SEBot: Structural Entropy Guided Multi-View Contrastive learning for Social Bot Detection
 
 
 
@@ -129,6 +150,7 @@
 - When Box Meets Graph Neural Network in Tag-aware Recommendation
 - Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations
 - Customizing Graph Neural Network for CAD Assembly Recommendation
+- Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions
 
 
 
@@ -146,6 +168,7 @@
 # Explainability
 - Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks
 - Unifying Evolution, Explanation, and Discernment: A Generative Approach for Dynamic Graph Counterfactuals
+- Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning
 
 
 
@@ -216,3 +239,5 @@
 - Revisiting Local PageRank Estimation on Undirected Graphs: Simple and Optimal
 - Reimagining Graph Classification from a Prototype View with Optimal Transport: Algorithm and Theorem
 - Influence Maximization via Graph Neural Bandits
+- AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation
+- A Deep Prediction Framework for Multi-Source Information via Heterogeneous GNN

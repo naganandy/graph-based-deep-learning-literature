@@ -5,6 +5,8 @@
 # Transformers
 - Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
 - FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer
+- Compositional Video Understanding with Spatiotemporal Structure-based Transformers
+- MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
 
 
 
@@ -23,16 +25,17 @@
 - LLM4SGG: Large Language Models for Weakly Supervised Scene Graph Generation
 - From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models
 - Leveraging Predicate and Triplet Learning for Scene Graph Generation
+- CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning
 
 
 
 # Scene Graphs
 - SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks
-- Action Scene Graphs for Long-Form Understanding of Egocentric Videos
 - GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs
 - Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships
 - Multi-Level Neural Scene Graphs for Dynamic Urban Environments
-
+- Composing Object Relations and Attributes for Image-Text Matching
+- Neighbor Relations Matter in Video Scene Detection
 
 
 # Point Clouds
@@ -52,18 +55,31 @@
 - HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models
 - Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs
 - DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly
+- Relation Rectification in Diffusion Model
+- Neural Sign Actors: A Diffusion Model for 3D Sign Language Production from Text
+
+
+
+# Molecules
+- Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision
+- Clustering for Protein Representation Learning
 
 
 
 # 3D Data
 - MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation
 - CAGE: Controllable Articulation GEneration
-
+- G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping
+- 3D Feature Tracking via Event Camera
+- Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning
+- TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes
+- Category-Level Multi-Part Multi-Joint 3D Shape Assembly
 
 
 # Miscellaneous
 - FC-GNN: Recovering Reliable and Accurate Correspondences from Interferences
 - Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline
+- SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge
 - BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition
 - Constrained Layout Generation with Factor Graphs
 - Domain Separation Graph Neural Networks for Saliency Object Ranking
@@ -77,3 +93,15 @@
 - MemoNav: Working Memory Model for Visual Navigation
 - Adaptive Hyper-graph Aggregation for Modality-Agnostic Federated Learning
 - Neural Markov Random Field for Stereo Matching
+- LiDAR-based Person Re-identification
+- MESA: Matching Everything by Segmenting Anything
+- MaskPLAN: Masked Generative Layout Planning from Partial Input
+- Error Detection in Egocentric Procedural Task Videos
+- Neural Markov Random Field for Stereo Matching
+- CAGE: Controllable Articulation GEneration
+- Advancing Saliency Ranking with Human Fixations: Dataset Models and Benchmarks
+- Semantic-Aware Multi-Label Adversarial Attacks
+- CURSOR: Scalable Mixed-Order Hypergraph Matching with CUR Decomposition
+- Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing
+- XFibrosis: Explicit Vessel-Fiber Modeling for Fibrosis Staging from Liver Pathology Images
+- Higher-order Relational Reasoning for Pedestrian Trajectory Prediction
