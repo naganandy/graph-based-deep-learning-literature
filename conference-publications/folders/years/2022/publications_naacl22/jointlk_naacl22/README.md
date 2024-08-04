@@ -4,7 +4,7 @@
 @inproceedings{jointlk_naacl22,
 title = {{J}oint{LK}: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering},
 author = {Sun, Yueqing and Shi, Qi and Qi, Le and Zhang, Yu},
-booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL) (NAACL) (NAACL) (NAACL)},
+booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
 pages = {5049--5060},
 year = {2022}
 }

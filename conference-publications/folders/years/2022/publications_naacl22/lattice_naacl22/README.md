@@ -4,7 +4,7 @@
 @inproceedings{lattice_naacl22,
 title = {Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning},
 author = {Wang, Fei and Xu, Zhewei and Szekely, Pedro and Chen, Muhao},
-booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL) (NAACL) (NAACL) (NAACL)},
+booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
 pages = {5037--5048},
 year = {2022}
 }

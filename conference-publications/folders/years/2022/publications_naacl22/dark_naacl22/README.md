@@ -4,7 +4,7 @@
 @inproceedings{dark_naacl22,
 title = {Disentangled Action Recognition with Knowledge Bases},
 author = {Luo, Zhekun and Ghosh, Shalini and Guillory, Devin and Kato, Keizo and Darrell, Trevor and Xu, Huijuan},
-booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL) (NAACL) (NAACL) (NAACL)},
+booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
 pages = {559--572},
 year = {2022}
 }

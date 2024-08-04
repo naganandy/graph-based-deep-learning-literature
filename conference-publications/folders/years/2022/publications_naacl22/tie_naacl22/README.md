@@ -4,7 +4,7 @@
 @inproceedings{tie_naacl22,
 title = {{TIE}: Topological Information Enhanced Structural Reading Comprehension on Web Pages},
 author = {Zhao, Zihan and Chen, Lu and Cao, Ruisheng and Xu, Hongshen and Chen, Xingyu and Yu, Kai},
-booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL) (NAACL) (NAACL) (NAACL)},
+booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
 pages = {1808--1821},
 year = {2022}
 }
