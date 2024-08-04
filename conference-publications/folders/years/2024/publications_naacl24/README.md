@@ -1,4 +1,4 @@
-# Publications in NAACL 2024
+# [Publications in NAACL 2024](https://aclanthology.org/volumes/2024.naacl-long/)
 
 
 
