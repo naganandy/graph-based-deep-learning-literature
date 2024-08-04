@@ -1,5 +1,8 @@
 # [Conferences](https://aideadlin.es/)
 
+- NeurIPS 2024 (Dec, decisions late Sep)
+- ICDM 2024 (Dec, decisions early Sep)
+- EMNLP 2024 (Nov, decisions late Sep)
 - ECCV 2024 (Oct, decisions early Jul)
 - KDD 2024 (Aug, decisions mid May)
 - ACL 2024 (Aug, decisions mid May)
