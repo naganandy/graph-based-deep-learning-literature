@@ -637,7 +637,7 @@
 
 
 ## -------------------------------------------------------------------
-# [WSDM 2024 (Mar)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_wsdm24/README.md)
+# [WSDM 2024 (Mar)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/README.md)
 
 - [LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/lmbot_wsdm24/README.md)
 - [Professional Network Matters: Connections Empower Person-Job Fit](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_wsdm24/csagnn_wsdm24/README.md)
