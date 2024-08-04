@@ -9,7 +9,7 @@
 
 
 # LLMs + Knowledge Graphs
-- [Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_naacl24/head-to-tail benchmark_naacl24/README.md)
+- [Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_naacl24/h2t_naacl24/README.md)
 - [Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_naacl24/hallukg_naacl24/README.md)
 
 
