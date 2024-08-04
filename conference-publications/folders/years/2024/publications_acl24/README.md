@@ -8,7 +8,6 @@
 - SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph
 - MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models
 - Multimodal Reasoning with Multimodal Knowledge Graph
-- Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs
 - COKE: A Cognitive Knowledge Graph for Machine Theory of Mind
 - Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs
 - Bi-Directional Multi-Granularity Generation Framework for Knowledge Graph-to-Text with Large Language Model
@@ -55,3 +54,4 @@
 - Revisiting Structured Sentiment Analysis as Latent Dependency Graph Parsing
 - PAGED: A Benchmark for Procedural Graphs Extraction from Documents
 - S$^2$GSL: Incorporating Segment to Syntactic Enhanced Graph Structure Learning for Aspect-based Sentiment Analysis
+- Identifying while Learning for Document Event Causality Identification

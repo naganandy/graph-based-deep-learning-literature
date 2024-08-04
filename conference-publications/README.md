@@ -9,7 +9,7 @@
 
 
 ## -------------------------------------------------------------------
-# [IJCAI 2024 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_icml24/README.md)
+# [IJCAI 2024 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/README.md)
 
 
 - [VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_ijcai24/vsgt_ijcai24/README.md)
