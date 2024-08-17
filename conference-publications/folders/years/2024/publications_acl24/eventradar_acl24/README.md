@@ -4,7 +4,7 @@
 @inproceedings{eventradar_acl24,
 title = {Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection},
 author = {Ma, Zihan and Luo, Minnan and Guo, Hao and Zeng, Zhi and Hao, Yiran and Zhao, Xiang},
-booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
+booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {5809--5821},
 year = {2024}
 }

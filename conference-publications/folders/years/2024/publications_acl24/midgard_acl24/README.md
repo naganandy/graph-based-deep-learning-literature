@@ -4,7 +4,7 @@
 @inproceedings{midgard_acl24,
 title = {{MIDGARD}: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning},
 author = {Nair, Inderjeet and Wang, Lu},
-booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
+booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {7047--7065},
 year = {2024}
 }

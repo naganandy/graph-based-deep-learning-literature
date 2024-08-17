@@ -4,7 +4,7 @@
 @inproceedings{pomp_acl24,
 title = {{POMP}: Probability-driven Meta-graph Prompter for {LLM}s in Low-resource Unsupervised Neural Machine Translation},
 author = {Pan, Shilong and Tian, Zhiliang and Ding, Liang and Zheng, Haoqi and Huang, Zhen and Wen, Zhihua and Li, Dongsheng},
-booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
+booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {9976--9992},
 year = {2024}
 }

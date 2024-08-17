@@ -4,7 +4,7 @@
 @inproceedings{mmdcpa_acl24,
 title = {Limits of Theory of Mind Modelling in Dialogue-Based Collaborative Plan Acquisition},
 author = {Bortoletto, Matteo and Ruhdorfer, Constantin and Abdessaied, Adnen and Shi, Lei and Bulling, Andreas},
-booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)},
+booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)},
 pages = {4856--4871},
 year = {2024}
 }
