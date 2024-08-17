@@ -1,4 +1,4 @@
-# [Publications in ACL 2024](https://2024.aclweb.org/program/main_conference_papers/)
+# [Publications in ACL 2024](https://aclanthology.org/volumes/2024.acl-long/)
 
 
 
@@ -43,9 +43,10 @@
 
 
 
-# Few-shot Question Answering
+# Knowledge Question Answering
+- [HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/holmes_acl24/README.md)
 - [SymKGQA: Few-Shot Knowledge Graph Question Answering via Symbolic Program Generation and Execution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/symkgqa_acl24/README.md)
-- MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering
+- [Modality-Aware Integration with Large Language Models for Knowledge-Based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/mail_acl24/README.md)
 
 
 
@@ -58,12 +59,6 @@
 # Entity Alignment
 - [Progressively Modality Freezing for Multi-Modal Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/pmf_acl24/README.md)
 - [Unlocking the Power of Large Language Models for Entity Alignment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/chatea_acl24/README.md)
-
-
-
-# Knowledge Question Answering
-- [HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/holmes_acl24/README.md)
-- [Modality-Aware Integration with Large Language Models for Knowledge-Based Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/mail_acl24/README.md)
 
 
 
