@@ -5,7 +5,8 @@
 - EMNLP 2024 (Nov, decisions late Sep)
 - ECCV 2024 (Oct, decisions early Jul)
 - KDD 2024 (Aug, decisions mid May)
-- ACL 2024 (Aug, decisions mid May)
+
+
 
 ## -------------------------------------------------------------------
 # [ACL 2024 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/README.md)

@@ -19,6 +19,7 @@
 - [Graph Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/glm_acl24/README.md)
 - [Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/mpsc_acl24/README.md)
 - [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/locomo_acl24/README.md)
+- [InstructProtein: Aligning Human and Protein Language via Knowledge Instruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/instructprotein_acl24/README.md)
 - [Large Language Models Can Learn Temporal Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/tgllm_acl24/README.md)
 
 
@@ -78,7 +79,6 @@
 - [MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/midgard_acl24/README.md)
 - [Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/flan_acl24/README.md)
 - [Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/narco_acl24/README.md)
-- [InstructProtein: Aligning Human and Protein Language via Knowledge Instruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/instructprotein_acl24/README.md)
 - [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/abex_acl24/README.md)
 - [Hyper-CL: Conditioning Sentence Representations with Hypernetworks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/hypercl_acl24/README.md)
 - [Identifying while Learning for Document Event Causality Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_acl24/ilif_acl24/README.md)
