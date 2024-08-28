@@ -2,6 +2,10 @@
 
 
 - ## 2024
+   * ### [ Deep Learning and Large Language Models for Knowledge Graphs (KDD)](https://genetasefa.github.io/dl4kg2024/) 
+   * ### [Federated Learning for Data Mining and Graph Analytics (KDD)](https://fedkdd.github.io/) 
+   * ### [Graph-based Methods for Natural Language Processing (ACL)](https://sites.google.com/view/textgraphs2024) 
+   * ### [Scene Graphs and Graph Representation Learning (CVPR)](https://sites.google.com/view/sg2rl/) 
    * ### [Large Language Models in Graph Learning (TheWebConf)](https://advanced-recommender-systems.github.io/llm4graph/) 
    * ### [Trustworthy Learning on Graphs (TheWebConf)](https://trustlogworkshop.github.io/) 
    * ### [Graph Foundation Models (TheWebConf)](https://www.www24gfm.com/) 
