@@ -2,24 +2,31 @@
 
 
 
-# Heterophily
-- [Resurrecting Label Propagation for Graphs with Heterophily and Label Noise](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/r2lp_kdd24/README.md)
-- [The Heterophilic Snowflake Hypothesis: Training and Empowering GNNs for Heterophilic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/heterosnoh_kdd24/README.md)
-
-
-
 # Oversmoothing
+- [Flexible Graph Neural Diffusion with Latent Class Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/fgnd_kdd24/README.md)
 - [ORCDF: An Oversmoothing-Resistant Cognitive Diagnosis Framework for Student Learning in Online Education Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/orcdf_kdd24/README.md)
 - [TSC: A Simple Two-Sided Constraint against Over-Smoothing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/tsc_kdd24/README.md)
 
 
 
-# Scalablility
+# Label Noise
+- [Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dndnet_kdd24/README.md)
+- [Resurrecting Label Propagation for Graphs with Heterophily and Label Noise](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/r2lp_kdd24/README.md)
+
+
+
+# Snowflake Hypothesis
+- [The Heterophilic Snowflake Hypothesis: Training and Empowering GNNs for Heterophilic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/heterosnoh_kdd24/README.md)
 - [The Snowflake Hypothesis: Training and Powering GNN with One Node One Receptive Field](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/snowhypothe_kdd24/README.md)
-- [Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gassip_kdd24/README.md)
+
+
+
+# Scalablility
 - [AGS-GNN: Attribute-guided Sampling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/agsgnn_kdd24/README.md)
 - [Hypformer: Exploring Efficient Transformer Fully in Hyperbolic Space](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/hypformer_kdd24/README.md)
 - [Pre-train and Refine: Towards Higher Efficiency in K-Agnostic Community Detection without Quality Degradation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/procd_kdd24/README.md)
+- [Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gradtag_kdd24/README.md)
+- [Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gassip_kdd24/README.md)
 
 
 
@@ -34,10 +41,6 @@
 - [Effective Clustering on Large Attributed Bipartite Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/tpo_kdd24/README.md)
 - [NeuroCut: A Neural Approach for Robust Graph Partitioning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/neurocut_kdd24/README.md)
 - [Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/magi_kdd24/README.md)
-
-
-
-# Densest Subgraph
 
 
 
@@ -64,10 +67,12 @@
 
 
 # Temporal Graphs
+- [MSPipe: Efficient Temporal GNN Training via Staleness-Aware Pipeline](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/mspipe_kdd24/README.md)
 - [Representation Learning of Temporal Graphs with Structural Roles](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rtgcn_kdd24/README.md)
 - [Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/sean_kdd24/README.md)
 - [Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/tgib_kdd24/README.md)
 - [Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/astgnn_kdd24/README.md)
+- [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/stone_kdd24/README.md)
 
 
 
@@ -92,6 +97,7 @@
 
 
 # Link Prediction
+- [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/cnen_kdd24/README.md)
 - [Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/ltlp_kdd24/README.md)
 - [Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/hlgnn_kdd24/README.md)
 - [Conformalized Link Prediction on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/clp_kdd24/README.md)
@@ -110,10 +116,16 @@
 
 
 # Large Language Models
-- [HiGPT: Heterogeneous Graph Language Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/higpt_kdd24/README.md)
 - [GraphWiz: An Instruction-Following Language Model for Graph Computational Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/graphwiz_kdd24/README.md)
 - [GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gaugllm_kdd24/README.md)
 - [Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/cmrp_kdd24/README.md)
+
+
+
+# Heterogeneous Graphs
+- [HiGPT: Heterogeneous Graph Language Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/higpt_kdd24/README.md)
+- [PolygonGNN: Representation Learning for Polygonal Geometries with Heterogeneous Visibility Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/polygongnn_kdd24/README.md)
+- [A Deep Prediction Framework for Multi-Source Information via Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/hif_kdd24/README.md)
 
 
 
@@ -137,6 +149,7 @@
 - [How Powerful is Graph Filtering for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/sgfcf_kdd24/README.md)
 - [Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/sccf_kdd24/README.md)
 - [Graph Bottlenecked Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gbsr_kdd24/README.md)
+- [DFGNN: Dual-frequency Graph Neural Network for Sign-aware Feedback](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dfgnn_kdd24/README.md)
 - [When Box Meets Graph Neural Network in Tag-aware Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/boxgnn_kdd24/README.md)
 - [Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/cdr_kdd24/README.md)
 - [Customizing Graph Neural Network for CAD Assembly Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/cugnn_kdd24/README.md)
@@ -145,20 +158,26 @@
 
 
 # Generalisability
+- [Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dgat_kdd24/README.md)
 - [DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dive_kdd24/README.md)
 - [An Energy-centric Framework for Category-free Out-of-distribution Node Detection in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/energydef_kdd24/README.md)
 - [Mastering Long-Tail Complexity on Graphs: Characterization, Learning, and Generalization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/hiertail_kdd24/README.md)
 - [ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/zerog_kdd24/README.md)
 - [Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/selmag_kdd24/README.md)
 - [Can Modifying Data Address Graph Domain Adaptation?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/graphalign_kdd24/README.md)
+
+
+
+# Molecules
 - [Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/pgrmood_kdd24/README.md)
+- [Advancing Molecule Invariant Representation via Privileged Substructure Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/mili_kdd24/README.md)
 
 
 
 # Explainability
+- [Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rlhex_kdd24/README.md)
 - [Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gip_kdd24/README.md)
 - [Unifying Evolution, Explanation, and Discernment: A Generative Approach for Dynamic Graph Counterfactuals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gracie_kdd24/README.md)
-- [Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rlhex_kdd24/README.md)
 
 
 
@@ -170,7 +189,7 @@
 
 # Self-Supervision
 - [Self-Supervised Learning for Graph Dataset Condensation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/sgdc_kdd24/README.md)
-- [Reserving-Masking-Reconstruction Model for Self-Supervised Heterogeneous GraphRepresentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rmr_kdd24/README.md)
+- [Reserving-Masking-Reconstruction Model for Self-Supervised Heterogeneous Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rmr_kdd24/README.md)
 - [Self-Supervised Denoising through Independent Cascade Graph Augmentation for Robust Social Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/sscdicga_kdd24/README.md)
 
 
@@ -191,11 +210,16 @@
 
 
 
+# Expressivity
+- [An Efficient Subgraph GNN with Provable Substructure Counting Power](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/escgnn_kdd24/README.md)
+- [Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Leman Go Indifferent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/ibfa_kdd24/README.md)
+
+
+
 # Adversarial Attacks
 - [Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/hgac_kdd24/README.md)
 - [Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dpgba_kdd24/README.md)
 - [Cross-Context Backdoor Attacks against Graph Prompt Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/crossba_kdd24/README.md)
-- [Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Leman Go Indifferent](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/ibfa_kdd24/README.md)
 - [IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/idea_kdd24/README.md)
 - [Certified Robustness on Visual Graph Matching via Searching Optimal Smoothing Range](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/crosrs_kdd24/README.md)
 
@@ -219,22 +243,10 @@
 
 # Miscellaneous
 - [RoutePlacer: An End-to-End Routability-Aware Placer with Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/routeplacer_kdd24/README.md)
-- [An Efficient Subgraph GNN with Provable Substructure Counting Power](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/escgnn_kdd24/README.md)
 - [Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Broad Physical Dynamics Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/degnn_kdd24/README.md)
 - [Learning Attributed Graphlets: Predictive Graph Mining by Graphlets with Trainable Attribute](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/lagra_kdd24/README.md)
-- [Flexible Graph Neural Diffusion with Latent Class Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/fgnd_kdd24/README.md)
-- [DFGNN: Dual-frequency Graph Neural Network for Sign-aware Feedback](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dfgnn_kdd24/README.md)
-- [PolygonGNN: Representation Learning for Polygonal Geometries with Heterogeneous Visibility Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/polygongnn_kdd24/README.md)
 - [Reimagining Graph Classification from a Prototype View with Optimal Transport: Algorithm and Theorem](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/pgot_kdd24/README.md)
 - [Influence Maximization via Graph Neural Bandits](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/imgnb_kdd24/README.md)
 - [AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/adagmlp_kdd24/README.md)
-- [A Deep Prediction Framework for Multi-Source Information via Heterogeneous GNN](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/hif_kdd24/README.md)
-- [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/cnen_kdd24/README.md)
-- [Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dndnet_kdd24/README.md)
-- [Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/dgat_kdd24/README.md)
-- [Scalable Multitask Learning Using Gradient-based Estimation of Task Affinity](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/gradtag_kdd24/README.md)
-- [MSPipe: Efficient Temporal GNN Training via Staleness-Aware Pipeline](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/mspipe_kdd24/README.md)
-- [STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/stone_kdd24/README.md)
-- [Advancing Molecule Invariant Representation via Privileged Substructure Identification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/mili_kdd24/README.md)
 - [Rethinking Order Dispatching in Online Ride-Hailing Platforms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/grc_kdd24/README.md)
 - [Conditional Logical Message Passing Transformer for Complex Query Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/clmpt_kdd24/README.md)

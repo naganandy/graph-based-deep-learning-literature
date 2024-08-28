@@ -18,7 +18,7 @@
 - [Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/aseer_kdd24/README.md)
 - [ORCDF: An Oversmoothing-Resistant Cognitive Diagnosis Framework for Student Learning in Online Education Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/orcdf_kdd24/README.md)
 - [TSC: A Simple Two-Sided Constraint against Over-Smoothing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/tsc_kdd24/README.md)
-- [Reserving-Masking-Reconstruction Model for Self-Supervised Heterogeneous GraphRepresentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rmr_kdd24/README.md)
+- [Reserving-Masking-Reconstruction Model for Self-Supervised Heterogeneous Graph Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_kdd24/rmr_kdd24/README.md)
 
 
 <details>
