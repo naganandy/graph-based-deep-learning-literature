@@ -15,9 +15,8 @@
 - ## 2023
    * ### [New Frontiers in Graph Learning (NeurIPS)](https://glfrontiers.github.io/) 
    * ### [Temporal Graph Learning Workshop (NeurIPS)](https://sites.google.com/view/tglworkshop-2023/home)  
-   * ### [Stanford Graph Learning Workshop](https://snap.stanford.edu/graphlearning-workshop-2023/) 
-   * ### [Scene Graph and Graph Representation Learning (ICCV)](https://sg2rl.github.io/)   
    * ### [Stanford Graph Learning Workshop 2023](https://snap.stanford.edu/graphlearning-workshop-2023/)
+   * ### [Scene Graph and Graph Representation Learning (ICCV)](https://sg2rl.github.io/)   
    * ### [Graph Learning Benchmarks (KDD)](https://graph-learning-benchmarks.github.io/glb2023)   
    * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2023/)  
    * ### [Deep Learning on Graphs (KDD)](https://deep-learning-graphs.bitbucket.io/dlg-kdd23/)   
