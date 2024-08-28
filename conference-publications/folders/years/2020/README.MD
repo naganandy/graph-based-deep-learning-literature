@@ -1,3 +1,7 @@
+# Publications in 2020
+
+
+## -------------------------------------------------------------------
 # [NeurIPS 2020 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_neurips20/README.md)
 - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_neurips20/ogb_neurips20/README.md)
 - [Pointer Graph Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_neurips20/pgn_neurips20/README.md)

@@ -1,3 +1,6 @@
+# Publications in 2018
+
+## -------------------------------------------------------------------
 # [NeurIPS 2018 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_neurips18/README.md)
 - [Link Prediction Based on Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_neurips18/seal_neurips18/README.md)
 - [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_neurips18/gtsgcn_neurips18/README.md)

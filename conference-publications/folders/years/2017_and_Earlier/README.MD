@@ -1,3 +1,6 @@
+# Publications in 2017 and Earlier
+
+## -------------------------------------------------------------------
 # [NeurIPS 2017](https://www.youtube.com/watch?v=LvmjbXZyoP0)
 - [Inductive Representation Learning on Large Graphs](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/graphsage_neurips17/README.md)
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://github.com/naganandy/geometric-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/mgcnn_neurips17/README.md)

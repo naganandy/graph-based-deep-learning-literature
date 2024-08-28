@@ -1,3 +1,6 @@
+# Publications in 2022
+
+
 ## -------------------------------------------------------------------
 # [NeurIPS 2022 (Dec)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_neurips22/README.md)
 
