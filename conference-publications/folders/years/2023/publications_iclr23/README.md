@@ -10,7 +10,13 @@
 - [Serving Graph Compression for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/vng_iclr23/README.md)
 - [Joint Edge-Model Sparse Learning is Provably Efficient for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/jems_iclr23/README.md)
 - [Gradient Gating for Deep Multi-Rate Learning on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/g2_iclr23/README.md)
+
+
+
+# Scalable Graph Transformers
 - [NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/nagphormer_iclr23/README.md)
+- [DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/difformer_iclr23/README.md)
+
 
 
 

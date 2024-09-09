@@ -2289,6 +2289,7 @@
 <details> 
 <summary> more </summary>
 
+- [DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/difformer_iclr23/README.md)
 - [Unbiased Stochastic Proximal Solver for Graph Neural Networks with Equilibrium States](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/gnnusp_iclr23/README.md)
 - [MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/mlpinit_iclr23/README.md)
 - [LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_iclr23/lmc_iclr23/README.md)
