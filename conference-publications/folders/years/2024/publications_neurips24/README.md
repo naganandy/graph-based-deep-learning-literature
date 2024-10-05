@@ -345,7 +345,7 @@
 
 
 
-# Molecule (Conformer) Generation
+# Conformer Generation
 - [Equivariant Flow-Matching for Molecular Conformer Generation](https://nips.cc/Conferences/2024/Schedule?showEvent=94522)
 - [Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation](https://nips.cc/Conferences/2024/Schedule?showEvent=96234)
 
