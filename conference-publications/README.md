@@ -1,5 +1,7 @@
 # [Conferences](https://aideadlin.es/)
 
+- ICLR 2025 (May, decisions mid Jan)
+- LoG 2024 (Dec, decisions mid Nov)
 - NeurIPS 2024 (Dec, decisions late Sep)
 - ICDM 2024 (Dec, decisions early Sep)
 - EMNLP 2024 (Nov, decisions late Sep)
