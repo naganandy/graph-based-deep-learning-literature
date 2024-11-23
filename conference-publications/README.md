@@ -4,6 +4,8 @@
 - NAACL 2025 (May, decisions late Jan)
 - ICLR 2025 (May, decisions mid Jan)
 - TheWebConf 2025 (May, decisions late Jan)
+- WSDM 2025 (Mar, decisions late Oct)
+- AAAI 2025 (Mar, decisions early Dec)
 - NeurIPS 2024 (Dec, decisions late Sep)
 - ICDM 2024 (Dec, decisions early Sep)
 - ECCV 2024 (Oct, decisions early Jul)
