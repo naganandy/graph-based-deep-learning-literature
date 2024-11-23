@@ -12,6 +12,8 @@
 ## -------------------------------------------------------------------
 # [LoG 2024 (Nov)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/README.md)
 
+- [Revisiting Graph Homophily Measures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/unbiasedhomophily_log24/README.md)
+- [Decomposing force fields as flows on graphs reconstructed from stochastic trajectories](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/decomposingflows_log24/README.md)
 - [What Do GNNs Actually Learn? Towards Understanding their Representations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/gnnrl_log24/README.md)
 - [Ising on the Graph: Task-specific Graph Subsampling via the Ising Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/isinggraph_log24/README.md)
 - [Reinforcement Learning Discovers Efficient Decentralized Graph Path Search Strategies](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/garden_log24/README.md)
@@ -20,20 +22,19 @@
 - [Edge-Splitting MLP: Node Classification on Homophilic and Heterophilic Graphs without Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/esmlp_log24/README.md)
 - [TRIX: A More Expressive Model for Zero-shot Domain Transfer in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/trix_log24/README.md)
 - [Asymptotic generalization error of a single-layer graph convolutional network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/agegcn_log24/README.md)
-- [Preventing Representational Rank Collapse in MPNNs by Splitting the Computational Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/mrs_log24/README.md)
-- [Effectiveness of SDP rounding using Hopfield Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/sdphopfield_log24/README.md)
 
 
 <details>
 <summary> more </summary>
 
 
+- [Preventing Representational Rank Collapse in MPNNs by Splitting the Computational Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/mrs_log24/README.md)
+- [Effectiveness of SDP rounding using Hopfield Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/sdphopfield_log24/README.md)
 - [xAI-Drop: Don't use what you cannot explain](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/xaidrop_log24/README.md)
 - [Understanding Feature/Structure Interplay in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/feastrgnn_log24/README.md)
 - [Knowledge Graph Preference Contrastive Learning for Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/kpcl_log24/README.md)
 - [DF-GNN: Dynamic Fusion Framework for Attention Graph Neural Networks on GPUs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/dfgnn_log24/README.md)
 - [GraTeD-MLP: Efficient Node Classification via Graph Transformer Distillation to MLP](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/gratedmlp_log24/README.md)
-- [Revisiting Graph Homophily Measures](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/unbiasedhomophily_log24/README.md)
 - [A Neuro-Symbolic Framework for Answering Graph Pattern Queries in Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/unravl_log24/README.md)
 - [Optimal performance of Graph Convolutional Networks on the Contextual Stochastic Block Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/gcncsbm_log24/README.md)
 - [Leveraging Temporal Graph Networks Using Module Decoupling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/ldtgn_log24/README.md)
@@ -52,7 +53,6 @@
 - [Matrix Completion with Hypergraphs: Sharp Thresholds and Efficient Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/mch_log24/README.md)
 - [Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/gssls_log24/README.md)
 - [Sub-graph Based Diffusion Model for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/sgdiff_log24/README.md)
-- [Decomposing force fields as flows on graphs reconstructed from stochastic trajectories](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/decomposingflows_log24/README.md)
 - [Multi-Scale High-Resolution Logarithmic Grapher Module for Efficient Vision GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/lsgc_log24/README.md)
 - [CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/crysatom_log24/README.md)
 - [Scalable and Efficient Temporal Graph Representation Learning via Forward Recent Sampling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/nlb_log24/README.md)
