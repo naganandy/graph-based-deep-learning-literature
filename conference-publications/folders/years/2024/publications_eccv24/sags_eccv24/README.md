@@ -6,7 +6,7 @@ title = {SAGS: Structure-Aware 3D Gaussian Splatting},
 author = {Ververas, Evangelos and Potamias, Rolandos Alexandros and Song, Jifei and Deng, Jiankang and Zafeiriou, Stefanos},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {221--238},
-year = {2025}
+year = {2024}
 }
 ```
 

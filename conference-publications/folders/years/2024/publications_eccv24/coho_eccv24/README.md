@@ -6,7 +6,7 @@ title = {COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation
 author = {He, Liu and Aliaga, Daniel},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {1--18},
-year = {2025}
+year = {2024}
 }
 ```
 

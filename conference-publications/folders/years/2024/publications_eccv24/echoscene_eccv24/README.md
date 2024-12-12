@@ -6,7 +6,7 @@ title = {EchoScene: Indoor Scene Generation via Information Echo Over Scene Grap
 author = {Zhai, Guangyao and {\"O}rnek, Evin P{\i}nar and Chen, Dave Zhenyu and Liao, Ruotong and Di, Yan and Navab, Nassir and Tombari, Federico and Busam, Benjamin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {167--184},
-year = {2025}
+year = {2024}
 }
 ```
 

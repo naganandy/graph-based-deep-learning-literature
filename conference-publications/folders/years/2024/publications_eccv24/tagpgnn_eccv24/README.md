@@ -6,7 +6,7 @@ title = {On the Topology Awareness and Generalization Performance of Graph Neura
 author = {Su, Junwei and Wu, Chuan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {73--89},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {Causal Subgraphs and Information Bottlenecks: Redefining OOD Robustness
 author = {An, Weizhi and Zhong, Wenliang and Jiang, Feng and Ma, Hehuan and Huang, Junzhou},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {473--489},
-year = {2025}
+year = {2024}
 }
 ```
 

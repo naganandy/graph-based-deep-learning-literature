@@ -6,7 +6,7 @@ title = {Nonverbal Interaction Detection},
 author = {Wei, Jianan and Zhou, Tianfei and Yang, Yi and Wang, Wenguan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {277--295},
-year = {2025}
+year = {2024}
 }
 ```
 

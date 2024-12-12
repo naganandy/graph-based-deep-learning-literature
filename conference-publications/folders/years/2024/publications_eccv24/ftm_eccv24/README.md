@@ -6,7 +6,7 @@ title = {Frontier-Enhanced Topological Memory with Improved Exploration Awarenes
 author = {Cui, Xinru and Liu, Qiming and Liu, Zhe and Wang, Hesheng},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {296--313},
-year = {2025}
+year = {2024}
 }
 ```
 

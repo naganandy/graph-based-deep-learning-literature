@@ -6,7 +6,7 @@ title = {Visual Relationship Transformation},
 author = {Xu, Xiaoyu and Qiu, Jiayan and Yu, Baosheng and Wang, Zhou},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {251--272},
-year = {2025}
+year = {2024}
 }
 ```
 

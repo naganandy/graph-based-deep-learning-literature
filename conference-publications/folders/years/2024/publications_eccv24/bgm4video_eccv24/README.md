@@ -6,7 +6,7 @@ title = {Contextual Correspondence Matters: Bidirectional Graph Matching for Vid
 author = {Zhang, Yunzuo and Liu, Yameng},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {300--317},
-year = {2025}
+year = {2024}
 }
 ```
 

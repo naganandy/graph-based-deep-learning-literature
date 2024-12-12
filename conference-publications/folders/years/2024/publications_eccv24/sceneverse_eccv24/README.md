@@ -6,7 +6,7 @@ title = {SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Unde
 author = {Jia, Baoxiong and Chen, Yixin and Yu, Huangyue and Wang, Yan and Niu, Xuesong and Liu, Tengyu and Li, Qing and Huang, Siyuan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {289--310},
-year = {2025}
+year = {2024}
 }
 ```
 

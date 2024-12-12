@@ -6,7 +6,7 @@ title = {A Graph-Based Approach for Category-Agnostic Pose Estimation},
 author = {Hirschorn, Or and Avidan, Shai},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {469--485},
-year = {2025}
+year = {2024}
 }
 ```
 

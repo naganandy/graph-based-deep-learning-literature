@@ -6,7 +6,7 @@ title = {SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data
 author = {Wu, Jialong and Meuter, Mirko and Schoeler, Markus and Rottmann, Matthias},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {52--69},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detecti
 author = {Salzmann, Tim and Ryll, Markus and Bewley, Alex and Minderer, Matthias},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {195--213},
-year = {2025}
+year = {2024}
 }
 ```
 

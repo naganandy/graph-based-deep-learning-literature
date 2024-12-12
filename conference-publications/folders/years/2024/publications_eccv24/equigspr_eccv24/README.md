@@ -6,7 +6,7 @@ title = {Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud
 author = {Kang, Xueyang and Luan, Zhaoliang and Khoshelham, Kourosh and Wang, Bing},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {149--167},
-year = {2025}
+year = {2024}
 }
 ```
 

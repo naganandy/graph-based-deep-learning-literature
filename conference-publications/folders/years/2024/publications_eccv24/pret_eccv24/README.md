@@ -6,7 +6,7 @@ title = {PRET: Planning with Directed Fidelity Trajectory for Vision and Languag
 author = {Lu, Renjie and Meng, Jingke and Zheng, Wei-Shi},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {72--88},
-year = {2025}
+year = {2024}
 }
 ```
 

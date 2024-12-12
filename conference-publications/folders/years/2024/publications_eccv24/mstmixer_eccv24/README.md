@@ -6,7 +6,7 @@ title = {Multi-modal Video Dialog State Tracking in the Wild},
 author = {Abdessaied, Adnen and Shi, Lei and Bulling, Andreas},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {348--365},
-year = {2025}
+year = {2024}
 }
 ```
 

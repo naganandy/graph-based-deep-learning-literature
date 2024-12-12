@@ -6,7 +6,7 @@ title = {Heterogeneous Graph Learning for Scene Graph Prediction in 3D Point Clo
 author = {Ma, Yanni and Liu, Hao and Pei, Yun and Guo, Yulan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {274--291},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {ControlLLM: Augment Language Models with Tools by Searching on Graphs},
 author = {Liu, Zhaoyang and Lai, Zeqiang and Gao, Zhangwei and Cui, Erfei and Li, Ziheng and Zhu, Xizhou and Lu, Lewei and Chen, Qifeng and Qiao, Yu and Dai, Jifeng and Wang, Wenhai},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {89--105},
-year = {2025}
+year = {2024}
 }
 ```
 

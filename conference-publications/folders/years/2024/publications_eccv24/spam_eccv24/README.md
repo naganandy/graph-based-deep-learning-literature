@@ -6,7 +6,7 @@ title = {SPAMming Labels: Efficient Annotations for the Trackers of Tomorrow},
 author = {Cetintas, Orcun and Meinhardt, Tim and Bras{\'o}, Guillem and Leal-Taix{\'e}, Laura},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {377--395},
-year = {2025}
+year = {2024}
 }
 ```
 

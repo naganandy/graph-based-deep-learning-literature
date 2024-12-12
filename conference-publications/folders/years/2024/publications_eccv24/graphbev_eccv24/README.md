@@ -6,7 +6,7 @@ title = {GraphBEV: Towards Robust BEV Feature Alignment for Multi-modal 3D Objec
 author = {Song, Ziying and Yang, Lei and Xu, Shaoqing and Liu, Lin and Xu, Dongyang and Jia, Caiyan and Jia, Feiyang and Wang, Li},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {347--366},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {Enhanced Motion Forecasting with Visual Relation Reasoning},
 author = {Kim, Sungjune and Baek, Hadam and Lee, Seunggwan and Chi, Hyung-gun and Lim, Hyerin and Kim, Jinkyu and Kim, Sangpil},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {311--328},
-year = {2025}
+year = {2024}
 }
 ```
 

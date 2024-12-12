@@ -6,7 +6,7 @@ title = {GRACE: Graph-Based Contextual Debiasing for Fair Visual Question Answer
 author = {Zhang, Yifeng and Jiang, Ming and Zhao, Qi},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {176--194},
-year = {2025}
+year = {2024}
 }
 ```
 

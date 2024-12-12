@@ -6,7 +6,7 @@ title = {MAGR: Manifold-Aligned Graph Regularization for Continual Action Qualit
 author = {Zhou, Kanglei and Wang, Liyuan and Zhang, Xingxing and Shum, Hubert P. H. and Li, Frederick W. B. and Li, Jianguo and Liang, Xiaohui},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {375--392},
-year = {2025}
+year = {2024}
 }
 ```
 

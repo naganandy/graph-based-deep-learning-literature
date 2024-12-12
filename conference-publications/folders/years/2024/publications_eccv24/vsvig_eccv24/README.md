@@ -6,7 +6,7 @@ title = {VSViG: Real-Time Video-Based Seizure Detection via Skeleton-Based Spati
 author = {Xu, Yankun and Wang, Junzhe and Chen, Yun-Hsuan and Yang, Jie and Ming, Wenjie and Wang, Shuang and Sawan, Mohamad},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {228--245},
-year = {2025}
+year = {2024}
 }
 ```
 

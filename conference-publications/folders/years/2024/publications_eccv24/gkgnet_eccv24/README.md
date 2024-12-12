@@ -6,7 +6,7 @@ title = {GKGNet: Group K-Nearest Neighbor Based Graph Convolutional Network for 
 author = {Yao, Ruijie and Jin, Sheng and Xu, Lumin and Zeng, Wang and Liu, Wentao and Qian, Chen and Luo, Ping and Wu, Ji},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {91--107},
-year = {2025}
+year = {2024}
 }
 ```
 

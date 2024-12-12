@@ -6,7 +6,7 @@ title = {HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estim
 author = {Cheng, Wencan and Kim, Eunji and Ko, Jong Hwan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {35--52},
-year = {2025}
+year = {2024}
 }
 ```
 

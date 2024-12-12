@@ -6,7 +6,7 @@ title = {The All-Seeing Project V2: Towards General Relation Comprehension of th
 author = {Wang, Weiyun and Ren, Yiming and Luo, Haowen and Li, Tiantong and Yan, Chenxiang and Chen, Zhe and Wang, Wenhai and Li, Qingyun and Lu, Lewei and Zhu, Xizhou and Qiao, Yu and Dai, Jifeng},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {471--490},
-year = {2025}
+year = {2024}
 }
 ```
 

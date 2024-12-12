@@ -6,7 +6,7 @@ title = {SNP: Structured Neuron-Level Pruning to Preserve Attention Scores},
 author = {Shim, Kyunghwan and Yun, Jaewoong and Choi, Shinkook},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {90--104},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {A Fair Ranking and New Model for Panoptic Scene Graph Generation},
 author = {Lorenz, Julian and Pest, Alexander and Kienzle, Daniel and Ludwig, Katja and Lienhart, Rainer},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {148--164},
-year = {2025}
+year = {2024}
 }
 ```
 

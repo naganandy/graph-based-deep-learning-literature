@@ -6,7 +6,7 @@ title = {KeypointDETR: An End-to-End 3D Keypoint Detector},
 author = {Jin, Hairong and Shen, Yuefan and Lou, Jianwen and Zhou, Kun and Zheng, Youyi},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {374--390},
-year = {2025}
+year = {2024}
 }
 ```
 

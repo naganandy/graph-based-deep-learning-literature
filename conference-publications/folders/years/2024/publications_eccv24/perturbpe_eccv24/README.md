@@ -6,7 +6,7 @@ title = {Occlusion Handling in 3D Human Pose Estimation with Perturbed Positiona
 author = {Azizi, Niloofar and Fayyaz, Mohsen and Bischof, Horst},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {441--458},
-year = {2025}
+year = {2024}
 }
 ```
 

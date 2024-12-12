@@ -6,7 +6,7 @@ title = {SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition
 author = {Do, Jeonghyeok and Kim, Munchurl},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {401--420},
-year = {2025}
+year = {2024}
 }
 ```
 

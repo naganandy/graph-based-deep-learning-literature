@@ -6,7 +6,7 @@ title = {Upper-Body Hierarchical Graph for Skeleton Based Emotion Recognition in
 author = {Wu, Jiehui and Chen, Jiansheng and Luo, Qifeng and Liu, Siqi and Xue, Youze and Ma, Huimin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {1--17},
-year = {2025}
+year = {2024}
 }
 ```
 

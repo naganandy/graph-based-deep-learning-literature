@@ -6,7 +6,7 @@ title = {Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction},
 author = {Li, Yansheng and Wang, Tingzhu and Wu, Kang and Wang, Linlin and Guo, Xin and Wang, Wenbin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {18--35},
-year = {2025}
+year = {2024}
 }
 ```
 

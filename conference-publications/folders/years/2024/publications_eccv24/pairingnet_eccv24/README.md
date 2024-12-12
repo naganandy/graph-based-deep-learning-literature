@@ -6,7 +6,7 @@ title = {PairingNet: A Learning-Based Pair-Searching and -Matching Network for I
 author = {Zhou, Rixin and Xia, Ding and Zhang, Yi and Pang, Honglin and Yang, Xi and Li, Chuntao},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {234--251},
-year = {2025}
+year = {2024}
 }
 ```
 

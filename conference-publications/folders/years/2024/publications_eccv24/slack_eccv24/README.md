@@ -6,7 +6,7 @@ title = {SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Trackin
 author = {Li, Siyuan and Ke, Lei and Yang, Yung-Hsu and Piccinelli, Luigi and Seg{\`u}, Mattia and Danelljan, Martin and Gool, Luc Van},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {1--18},
-year = {2025}
+year = {2024}
 }
 ```
 

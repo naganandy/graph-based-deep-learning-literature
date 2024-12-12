@@ -6,7 +6,7 @@ title = {External Knowledge Enhanced 3D Scene Generation from Sketch},
 author = {Wu, Zijie and Feng, Mingtao and Wang, Yaonan and Xie, He and Dong, Weisheng and Miao, Bo and Mian, Ajmal},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {286--304},
-year = {2025}
+year = {2024}
 }
 ```
 

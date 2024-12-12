@@ -6,7 +6,7 @@ title = {Graph Neural Network Causal Explanation via Neural Causal Models},
 author = {Behnam, Arman and Wang, Binghui},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {410--427},
-year = {2025}
+year = {2024}
 }
 ```
 

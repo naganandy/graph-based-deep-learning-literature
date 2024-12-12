@@ -6,7 +6,7 @@ title = {GTP-4o: Modality-Prompted Heterogeneous Graph Learning for Omni-Modal B
 author = {Li, Chenxin and Liu, Xinyu and Wang, Cheng and Liu, Yifan and Yu, Weihao and Shao, Jing and Yuan, Yixuan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {168--187},
-year = {2025}
+year = {2024}
 }
 ```
 

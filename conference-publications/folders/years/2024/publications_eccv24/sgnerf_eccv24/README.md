@@ -6,7 +6,7 @@ title = {SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization},
 author = {Chen, Yiyang and Dong, Siyan and Wang, Xulong and Cai, Lulu and Zheng, Youyi and Yang, Yanchao},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {188--205},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {POET: Prompt Offset Tuning for Continual Human Action Adaptation},
 author = {Garg, Prachi and Joseph, K. J. and Balasubramanian, Vineeth N. and Camgoz, Necati Cihan and Wan, Chengde and Kin, Kenrick and Si, Weiguang and Ma, Shugao and De La Torre, Fernando},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {436--455},
-year = {2025}
+year = {2024}
 }
 ```
 

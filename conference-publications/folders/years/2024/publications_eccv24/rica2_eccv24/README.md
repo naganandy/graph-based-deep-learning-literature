@@ -6,7 +6,7 @@ title = {RICA{\$}{\$}^2{\$}{\$}: Rubric-Informed, Calibrated Assessment of Actio
 author = {Majeedi, Abrar and Gajjala, Viswanatha Reddy and GNVV, Satya Sai Srinath Namburi and Li, Yin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {143--161},
-year = {2025}
+year = {2024}
 }
 ```
 

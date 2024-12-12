@@ -6,7 +6,7 @@ title = {Continuity Preserving Online CenterLine Graph Learning},
 author = {Han, Yunhui and Yu, Kun and Li, Zhiwei},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {342--359},
-year = {2025}
+year = {2024}
 }
 ```
 

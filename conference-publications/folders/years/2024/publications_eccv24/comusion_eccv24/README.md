@@ -6,7 +6,7 @@ title = {CoMusion: Towards Consistent Stochastic Human Motion Prediction via Mot
 author = {Sun, Jiarui and Chowdhary, Girish},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {18--36},
-year = {2025}
+year = {2024}
 }
 ```
 

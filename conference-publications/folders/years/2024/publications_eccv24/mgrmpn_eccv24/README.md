@@ -6,7 +6,7 @@ title = {Multi-Granularity Sparse Relationship Matrix Prediction Network for End
 author = {Wang, Lei and Yuan, Zejian and Chen, Badong},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {105--121},
-year = {2025}
+year = {2024}
 }
 ```
 

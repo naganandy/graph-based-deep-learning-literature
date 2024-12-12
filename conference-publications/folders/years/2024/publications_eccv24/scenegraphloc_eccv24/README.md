@@ -6,7 +6,7 @@ title = {SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graph
 author = {Miao, Yang and Engelmann, Francis and Vysotska, Olga and Tombari, Federico and Pollefeys, Marc and Bar{\'a}th, D{\'a}niel B{\'e}la},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {127--150},
-year = {2025}
+year = {2024}
 }
 ```
 

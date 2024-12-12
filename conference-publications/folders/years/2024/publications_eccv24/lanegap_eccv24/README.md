@@ -6,7 +6,7 @@ title = {Lane Graph as Path: Continuity-Preserving Path-Wise Modeling for Online
 author = {Liao, Bencheng and Chen, Shaoyu and Jiang, Bo and Cheng, Tianheng and Zhang, Qian and Liu, Wenyu and Huang, Chang and Wang, Xinggang},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {334--351},
-year = {2025}
+year = {2024}
 }
 ```
 

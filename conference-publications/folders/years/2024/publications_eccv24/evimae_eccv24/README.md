@@ -6,7 +6,7 @@ title = {Masked Video and Body-Worn IMU Autoencoder for Egocentric Action Recogn
 author = {Zhang, Mingfang and Huang, Yifei and Liu, Ruicong and Sato, Yoichi},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {312--330},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {OpenPSG: Open-Set Panoptic Scene Graph Generation via Large Multimodal 
 author = {Zhou, Zijian and Zhu, Zheng and Caesar, Holger and Shi, Miaojing},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {199--215},
-year = {2025}
+year = {2024}
 }
 ```
 

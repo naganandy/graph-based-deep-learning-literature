@@ -6,7 +6,7 @@ title = {Improving Hyperbolic Representations via Gromov-Wasserstein Regularizat
 author = {Yang, Yifei and Lee, Wonjun and Zou, Dongmian and Lerman, Gilad},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {211--227},
-year = {2025}
+year = {2024}
 }
 ```
 

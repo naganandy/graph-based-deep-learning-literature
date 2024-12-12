@@ -6,7 +6,7 @@ title = {NAMER: Non-autoregressive Modeling for Handwritten Mathematical Express
 author = {Liu, Chenyu and Pan, Jia and Hu, Jinshui and Yin, Baocai and Yin, Bing and Chen, Mingjun and Liu, Cong and Du, Jun and Liu, Qingfeng},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {273--291},
-year = {2025}
+year = {2024}
 }
 ```
 

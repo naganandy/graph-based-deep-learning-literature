@@ -6,7 +6,7 @@ title = {Generalizable Symbolic Optimizer Learning},
 author = {Song, Xiaotian and Zeng, Peng and Sun, Yanan and Song, Andy},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {36--52},
-year = {2025}
+year = {2024}
 }
 ```
 

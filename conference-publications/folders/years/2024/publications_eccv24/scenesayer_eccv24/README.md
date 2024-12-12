@@ -6,7 +6,7 @@ title = {Towards Scene Graph Anticipation},
 author = {Peddi, Rohith and Singh, Saksham and Saurabh and Singla, Parag and Gogate, Vibhav},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {159--175},
-year = {2025}
+year = {2024}
 }
 ```
 

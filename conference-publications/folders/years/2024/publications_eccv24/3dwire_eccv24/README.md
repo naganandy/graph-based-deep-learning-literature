@@ -6,7 +6,7 @@ title = {Generating 3D House Wireframes with Semantics},
 author = {Ma, Xueqi and Liu, Yilin and Zhou, Wenjun and Wang, Ruowei and Huang, Hui},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {223--240},
-year = {2025}
+year = {2024}
 }
 ```
 

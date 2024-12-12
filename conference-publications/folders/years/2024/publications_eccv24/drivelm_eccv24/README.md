@@ -6,7 +6,7 @@ title = {DriveLM: Driving with Graph Visual Question Answering},
 author = {Sima, Chonghao and Renz, Katrin and Chitta, Kashyap and Chen, Li and Zhang, Hanxue and Xie, Chengen and Bei{\ss}wenger, Jens and Luo, Ping and Geiger, Andreas and Li, Hongyang},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {256--274},
-year = {2025}
+year = {2024}
 }
 ```
 

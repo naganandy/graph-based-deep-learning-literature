@@ -6,7 +6,7 @@ title = {Multiscale Graph Texture Network},
 author = {Evani, Ravishankar and Rajan, Deepu and Mao, Shangbo},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {218--235},
-year = {2025}
+year = {2024}
 }
 ```
 

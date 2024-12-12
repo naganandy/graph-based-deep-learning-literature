@@ -6,7 +6,7 @@ title = {Structured-NeRF: Hierarchical Scene Graph with Neural Representation},
 author = {Zhong, Zhide and Cao, Jiakai and Gu, Songen and Xie, Sirui and Luo, Liyi and Zhao, Hao and Zhou, Guyue and Li, Haoang and Yan, Zike},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {184--201},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {Semantic Diversity-Aware Prototype-Based Learning for Unbiased Scene Gr
 author = {Jeon, Jaehyeong and Kim, Kibum and Yoon, Kanghoon and Park, Chanyoung},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {379--395},
-year = {2025}
+year = {2024}
 }
 ```
 

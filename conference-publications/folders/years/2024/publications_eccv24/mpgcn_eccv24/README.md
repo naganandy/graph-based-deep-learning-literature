@@ -6,7 +6,7 @@ title = {Skeleton-Based Group Activity Recognition via Spatial-Temporal Panorami
 author = {Li, Zhengcen and Chang, Xinle and Li, Yueran and Su, Jingyong},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {252--269},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {Mew: Multiplexed Immunofluorescence Image Analysis Through an Efficient
 author = {Yun, Sukwon and Peng, Jie and Trevino, Alexandro E. and Park, Chanyoung and Chen, Tianlong},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {127--144},
-year = {2025}
+year = {2024}
 }
 ```
 

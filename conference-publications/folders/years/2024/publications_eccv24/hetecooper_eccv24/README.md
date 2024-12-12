@@ -6,7 +6,7 @@ title = {Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative
 author = {Shao, Congzhang and Luo, Guiyang and Yuan, Quan and Chen, Yifu and Liu, Yilin and Gong, Kexin and Li, Jinglin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {162--178},
-year = {2025}
+year = {2024}
 }
 ```
 

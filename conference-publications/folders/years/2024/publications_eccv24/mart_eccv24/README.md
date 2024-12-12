@@ -6,7 +6,7 @@ title = {MART: MultiscAle Relational Transformer Networks for Multi-agent Trajec
 author = {Lee, Seongju and Lee, Junseok and Yu, Yeonguk and Kim, Taeri and Lee, Kyoobin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {89--107},
-year = {2025}
+year = {2024}
 }
 ```
 

@@ -6,7 +6,7 @@ title = {SAM-Guided Graph Cut for 3D Instance Segmentation},
 author = {Guo, Haoyu and Zhu, He and Peng, Sida and Wang, Yuang and Shen, Yujun and Hu, Ruizhen and Zhou, Xiaowei},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {234--251},
-year = {2025}
+year = {2024}
 }
 ```
 

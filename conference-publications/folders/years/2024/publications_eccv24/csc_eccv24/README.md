@@ -6,7 +6,7 @@ title = {Confidence Self-calibration for Multi-label Class-Incremental Learning}
 author = {Du, Kaile and Zhou, Yifan and Lyu, Fan and Li, Yuyang and Lu, Chen and Liu, Guangcan},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {234--252},
-year = {2025}
+year = {2024}
 }
 ```
 

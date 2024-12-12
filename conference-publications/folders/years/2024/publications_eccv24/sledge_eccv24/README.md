@@ -6,7 +6,7 @@ title = {SLEDGE: Synthesizing Driving Environments with Generative Models and Ru
 author = {Chitta, Kashyap and Dauner, Daniel and Geiger, Andreas},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {57--74},
-year = {2025}
+year = {2024}
 }
 ```
 

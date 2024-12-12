@@ -6,7 +6,7 @@ title = {``Where am I?'' Scene Retrieval with Language},
 author = {Chen, Jiaqi and Barath, Daniel and Armeni, Iro and Pollefeys, Marc and Blum, Hermann},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {201--220},
-year = {2025}
+year = {2024}
 }
 ```
 

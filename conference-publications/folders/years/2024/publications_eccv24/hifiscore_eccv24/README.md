@@ -6,7 +6,7 @@ title = {HiFi-Score: Fine-Grained Image Description Evaluation with Hierarchical
 author = {Yao, Ziwei and Wang, Ruiping and Chen, Xilin},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {441--458},
-year = {2025}
+year = {2024}
 }
 ```
 

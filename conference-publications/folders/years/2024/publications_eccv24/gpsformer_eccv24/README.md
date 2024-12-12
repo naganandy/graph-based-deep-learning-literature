@@ -6,7 +6,7 @@ title = {GPSFormer: A Global Perception and Local Structure Fitting-Based Transf
 author = {Wang, Changshuo and Wu, Meiqing and Lam, Siew-Kei and Ning, Xin and Yu, Shangshu and Wang, Ruiping and Li, Weijun and Srikanthan, Thambipillai},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {75--92},
-year = {2025}
+year = {2024}
 }
 ```
 

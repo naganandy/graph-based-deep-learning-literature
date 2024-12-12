@@ -6,7 +6,7 @@ title = {Learning to Distinguish Samples for Generalized Category Discovery},
 author = {Yang, Fengxiang and Pu, Nan and Li, Wenjing and Luo, Zhiming and Li, Shaozi and Sebe, Nicu and Zhong, Zhun},
 booktitle = {The European Conference on Computer Vision (ECCV)},
 pages = {105--122},
-year = {2025}
+year = {2024}
 }
 ```
 
