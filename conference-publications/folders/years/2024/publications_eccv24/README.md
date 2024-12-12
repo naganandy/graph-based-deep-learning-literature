@@ -3,170 +3,170 @@
 
 
 # Image Understanding
-- [HiFi-Score: Fine-grained Image Description Evaluation with Hierarchical Parsing Graphs](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7957_ECCV_2024_paper.php)
-- [GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2675_ECCV_2024_paper.php)
-- [GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3796_ECCV_2024_paper.php)
-- [PairingNet: A Learning-based Pair-searching and matching Network for Image Fragments](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7655_ECCV_2024_paper.php)
-- [Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7189_ECCV_2024_paper.php)
-- [NAMER: Non-Autoregressive Modeling for Handwritten Mathematical Expression Recognition](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7448_ECCV_2024_paper.php)
+- [HiFi-Score: Fine-grained Image Description Evaluation with Hierarchical Parsing Graphs](- [HiFi-Score: Fine-Grained Image Description Evaluation with Hierarchical Parsing Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/hifiscore_eccv24/README.md))
+- [GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition](- [GKGNet: Group K-Nearest Neighbor Based Graph Convolutional Network for Multi-label Image Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/gkgnet_eccv24/README.md))
+- [GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection](- [GraphBEV: Towards Robust BEV Feature Alignment for Multi-modal 3D Object Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/graphbev_eccv24/README.md))
+- [PairingNet: A Learning-based Pair-searching and matching Network for Image Fragments](- [PairingNet: A Learning-Based Pair-Searching and -Matching Network for Image Fragments](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/pairingnet_eccv24/README.md))
+- [Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network](- [Mew: Multiplexed Immunofluorescence Image Analysis Through an Efficient Multiplex Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/mew_eccv24/README.md))
+- [NAMER: Non-Autoregressive Modeling for Handwritten Mathematical Expression Recognition](- [NAMER: Non-autoregressive Modeling for Handwritten Mathematical Expression Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/namer_eccv24/README.md))
 
 
 
 # Scene Graphs
-- [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8870_ECCV_2024_paper.php)
-- [Structured-NeRF: Hierarchical Scene Graph with Neural Representation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5154_ECCV_2024_paper.php)
-- [Towards Scene Graph Anticipation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/12130_ECCV_2024_paper.php)
-- [EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3146_ECCV_2024_paper.php)
+- [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](- [SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sgnerf_eccv24/README.md))
+- [Structured-NeRF: Hierarchical Scene Graph with Neural Representation](- [Structured-NeRF: Hierarchical Scene Graph with Neural Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/strnerf_eccv24/README.md))
+- [Towards Scene Graph Anticipation](- [Towards Scene Graph Anticipation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/scenesayer_eccv24/README.md))
+- [EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion](- [EchoScene: Indoor Scene Generation via Information Echo Over Scene Graph Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/echoscene_eccv24/README.md))
 
 
 
 # Visual Relationships
-- [Visual Relationship Transformation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8217_ECCV_2024_paper.php)
-- [Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11211_ECCV_2024_paper.php)
+- [Visual Relationship Transformation](- [Visual Relationship Transformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/vrt_eccv24/README.md))
+- [Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection](- [Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sgvit_eccv24/README.md))
 
 
 
 # Scene Graph Generation
-- [A Fair Ranking and New Model for Panoptic Scene Graph Generation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7817_ECCV_2024_paper.php)
-- [OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1552_ECCV_2024_paper.php)
-- [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3698_ECCV_2024_paper.php)
-- [Expanding Scene Graph Boundaries: Fully Open-vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8290_ECCV_2024_paper.php)
-- [Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10738_ECCV_2024_paper.php)
-- [Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8616_ECCV_2024_paper.php)
+- [A Fair Ranking and New Model for Panoptic Scene Graph Generation](- [A Fair Ranking and New Model for Panoptic Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/dsformer_eccv24/README.md))
+- [OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models](- [OpenPSG: Open-Set Panoptic Scene Graph Generation via Large Multimodal Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/opsg_eccv24/README.md))
+- [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](- [Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sbg_eccv24/README.md))
+- [Expanding Scene Graph Boundaries: Fully Open-vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention](- [Expanding Scene Graph Boundaries: Fully Open-Vocabulary Scene Graph Generation via Visual-Concept Alignment and Retention](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/ovsgtr_eccv24/README.md))
+- [Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation](- [Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/mgrmpn_eccv24/README.md))
+- [Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation](- [Semantic Diversity-Aware Prototype-Based Learning for Unbiased Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/dpl_eccv24/README.md))
 
 
 
 # 3D Scenes
-- [SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1255_ECCV_2024_paper.php)
-- [External Knowledge Enhanced 3D Scene Generation from Sketch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/991_ECCV_2024_paper.php)
-- [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1407_ECCV_2024_paper.php)
+- [SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs](- [SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/scenegraphloc_eccv24/README.md))
+- [External Knowledge Enhanced 3D Scene Generation from Sketch](- [External Knowledge Enhanced 3D Scene Generation from Sketch](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/ekesgs_eccv24/README.md))
+- [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](- [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sceneverse_eccv24/README.md))
 
 
 
 # Vision + Language
-- [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8287_ECCV_2024_paper.php)
-- [Where am I? Scene Retrieval with Language](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5418_ECCV_2024_paper.php)
+- [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](- [PRET: Planning with Directed Fidelity Trajectory for Vision and Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/pret_eccv24/README.md))
+- [Where am I? Scene Retrieval with Language](- [``Where am I?'' Scene Retrieval with Language](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/t2sgm_eccv24/README.md))
 
 
 
 # LLMs
-- [GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/523_ECCV_2024_paper.php)
-- [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1838_ECCV_2024_paper.php)
-- [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4939_ECCV_2024_paper.php)
+- [GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation](- [GTP-4o: Modality-Prompted Heterogeneous Graph Learning for Omni-Modal Biomedical Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/gtp4o_eccv24/README.md))
+- [ControlLLM: Augment Language Models with Tools by Searching on Graphs](- [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/controlllm_eccv24/README.md))
+- [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](- [The All-Seeing Project V2: Towards General Relation Comprehension of the Open World](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/asv2_eccv24/README.md))
 
 
  
 # Point Clouds
-- [Heterogeneous Graph Learning for Scene Graph Prediction in 3D Point Clouds](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3785_ECCV_2024_paper.php)
-- [GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1247_ECCV_2024_paper.php)
-- [Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/521_ECCV_2024_paper.php)
+- [Heterogeneous Graph Learning for Scene Graph Prediction in 3D Point Clouds](- [Heterogeneous Graph Learning for Scene Graph Prediction in 3D Point Clouds](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/3dhetsgp_eccv24/README.md))
+- [GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding](- [GPSFormer: A Global Perception and Local Structure Fitting-Based Transformer for Point Cloud Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/gpsformer_eccv24/README.md))
+- [Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration](- [Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/equigspr_eccv24/README.md))
 
 
 
 # 3D Shapes
-- [KeypointDETR: An End-to-End 3D Keypoint Detector](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9481_ECCV_2024_paper.php)
-- [Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/786_ECCV_2024_paper.php)
-- [Generating 3D House Wireframes with Semantics](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3261_ECCV_2024_paper.php)
-- [SAGS: Structure-Aware 3D Gaussian Splatting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2887_ECCV_2024_paper.php)
+- [KeypointDETR: An End-to-End 3D Keypoint Detector](- [KeypointDETR: An End-to-End 3D Keypoint Detector](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/keypointdetr_eccv24/README.md))
+- [Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching](- [Synchronous Diffusion for Unsupervised Smooth Non-rigid 3D Shape Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/syndiff_eccv24/README.md))
+- [Generating 3D House Wireframes with Semantics](- [Generating 3D House Wireframes with Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/3dwire_eccv24/README.md))
+- [SAGS: Structure-Aware 3D Gaussian Splatting](- [SAGS: Structure-Aware 3D Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sags_eccv24/README.md))
 
 
 
 # Pose Estimation
-- [Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2132_ECCV_2024_paper.php)
-- [HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/12018_ECCV_2024_paper.php)
-- [A Graph-Based Approach for Category-Agnostic Pose Estimation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8058_ECCV_2024_paper.php)
+- [Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding](- [Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/perturbpe_eccv24/README.md))
+- [HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation](- [HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/handdagt_eccv24/README.md))
+- [A Graph-Based Approach for Category-Agnostic Pose Estimation](- [A Graph-Based Approach for Category-Agnostic Pose Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/graphcape_eccv24/README.md))
 
 
 
 # Nonverbal Communication
-- [Nonverbal Interaction Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3272_ECCV_2024_paper.php)
-- [AnimateMe: 4D Facial Expressions via Diffusion Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9918_ECCV_2024_paper.php)
+- [Nonverbal Interaction Detection](- [Nonverbal Interaction Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/nvidehr_eccv24/README.md))
+- [AnimateMe: 4D Facial Expressions via Diffusion Models](- [AnimateMe: 4D Facial Expressions via Diffusion Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/animatme_eccv24/README.md))
 
 
 
 # Human Motion
-- [Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3669_ECCV_2024_paper.php)
-- [Upper-body Hierarchical Graph for Skeleton Based Emotion Recognition in Assistive Driving](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3697_ECCV_2024_paper.php)
-- [CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7969_ECCV_2024_paper.php)
+- [Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation](- [Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/guidedmotion_eccv24/README.md))
+- [Upper-body Hierarchical Graph for Skeleton Based Emotion Recognition in Assistive Driving](- [Upper-Body Hierarchical Graph for Skeleton Based Emotion Recognition in Assistive Driving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/ubhgcn_eccv24/README.md))
+- [CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion](- [CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/comusion_eccv24/README.md))
 
 
 
 # Motion Understanding
-- [Enhanced Motion Forecasting with Visual Relation Reasoning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7336_ECCV_2024_paper.php)
-- [SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/490_ECCV_2024_paper.php)
+- [Enhanced Motion Forecasting with Visual Relation Reasoning](- [Enhanced Motion Forecasting with Visual Relation Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/virr_eccv24/README.md))
+- [SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic](- [SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sledge_eccv24/README.md))
 
 
 
 # Visual Question Answering
-- [DriveLM: Driving with Graph Visual Question Answering](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6870_ECCV_2024_paper.php)
-- [GRACE: Graph-Based Contextual Debiasing for Fair Visual Question Answering](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2569_ECCV_2024_paper.php)
+- [DriveLM: Driving with Graph Visual Question Answering](- [DriveLM: Driving with Graph Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/drivelm_eccv24/README.md))
+- [GRACE: Graph-Based Contextual Debiasing for Fair Visual Question Answering](- [GRACE: Graph-Based Contextual Debiasing for Fair Visual Question Answering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/grace_eccv24/README.md))
 
 
 
 # SpatioTemporal Graphs
-- [Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7657_ECCV_2024_paper.php)
-- [VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10768_ECCV_2024_paper.php)
+- [Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph](- [Skeleton-Based Group Activity Recognition via Spatial-Temporal Panoramic Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/mpgcn_eccv24/README.md))
+- [VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG](- [VSViG: Real-Time Video-Based Seizure Detection via Skeleton-Based Spatiotemporal ViG](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/vsvig_eccv24/README.md))
 
 
 
 # Videos
-- [Contextual Correspondence Matters: Bidirectional Graph Matching for Video Summarization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11870_ECCV_2024_paper.php)
-- [Multi-Modal Video Dialog State Tracking in the Wild](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7457_ECCV_2024_paper.php)
+- [Contextual Correspondence Matters: Bidirectional Graph Matching for Video Summarization](- [Contextual Correspondence Matters: Bidirectional Graph Matching for Video Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/bgm4video_eccv24/README.md))
+- [Multi-Modal Video Dialog State Tracking in the Wild](- [Multi-modal Video Dialog State Tracking in the Wild](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/mstmixer_eccv24/README.md))
 
 
 
 # Tracking
-- [SPAMming Labels: Efficient Annotations for the Trackers of Tomorrow](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1927_ECCV_2024_paper.php)
-- [SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3832_ECCV_2024_paper.php)
+- [SPAMming Labels: Efficient Annotations for the Trackers of Tomorrow](- [SPAMming Labels: Efficient Annotations for the Trackers of Tomorrow](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/spam_eccv24/README.md))
+- [SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking](- [SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/slack_eccv24/README.md))
 
 
 
 # Action Recognition
-- [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2781_ECCV_2024_paper.php)
-- [SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5796_ECCV_2024_paper.php)
-- [POET: Prompt Offset Tuning for Continual Human Action Adaptation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8141_ECCV_2024_paper.php)
+- [Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition](- [Masked Video and Body-Worn IMU Autoencoder for Egocentric Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/evimae_eccv24/README.md))
+- [SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition](- [SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/skateformer_eccv24/README.md))
+- [POET: Prompt Offset Tuning for Continual Human Action Adaptation](- [POET: Prompt Offset Tuning for Continual Human Action Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/poet_eccv24/README.md))
 
 
 
 # Action Quality Assessment
-- [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1775_ECCV_2024_paper.php)
-- [RICA^2: Rubric-Informed, Calibrated Assessment of Actions](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8001_ECCV_2024_paper.php)
+- [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment](- [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/magr_eccv24/README.md))
+- [RICA^2: Rubric-Informed, Calibrated Assessment of Actions](- [RICA{\$}{\$}^2{\$}{\$}: Rubric-Informed, Calibrated Assessment of Actions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/rica2_eccv24/README.md))
 
 
 
 # Urban Environments
-- [COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2007_ECCV_2024_paper.php)
-- [MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8288_ECCV_2024_paper.php)
-- [Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7071_ECCV_2024_paper.php)
+- [COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation](- [COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/coho_eccv24/README.md))
+- [MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction](- [MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/mart_eccv24/README.md))
+- [Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception](- [Hetecooper: Feature Collaboration Graph for Heterogeneous Collaborative Perception](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/hetecooper_eccv24/README.md))
 
 
 
 # Continuity Preservation
-- [Continuity Preserving Online CenterLine Graph Learning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9140_ECCV_2024_paper.php)
-- [Lane Graph as Path: Continuity-preserving Path-wise Modeling for Online Lane Graph Construction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6068_ECCV_2024_paper.php)
+- [Continuity Preserving Online CenterLine Graph Learning](- [Continuity Preserving Online CenterLine Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/cgnet_eccv24/README.md))
+- [Lane Graph as Path: Continuity-preserving Path-wise Modeling for Online Lane Graph Construction](- [Lane Graph as Path: Continuity-Preserving Path-Wise Modeling for Online Lane Graph Construction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/lanegap_eccv24/README.md))
 
 
 
 # Causality
-- [Causal Subgraphs and Information Bottlenecks: Redefining OOD Robustness in Graph Neural Networks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/12325_ECCV_2024_paper.php)
-- [Graph Neural Network Causal Explanation via Neural Causal Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7866_ECCV_2024_paper.php)
+- [Causal Subgraphs and Information Bottlenecks: Redefining OOD Robustness in Graph Neural Networks](- [Causal Subgraphs and Information Bottlenecks: Redefining OOD Robustness in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/csib_eccv24/README.md))
+- [Graph Neural Network Causal Explanation via Neural Causal Models](- [Graph Neural Network Causal Explanation via Neural Causal Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/cxgnn_eccv24/README.md))
 
 
 
 # Neural Network Optimisation
-- [SNP: Structured Neuron-level Pruning to Preserve Attention Scores](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10737_ECCV_2024_paper.php)
-- [Confidence Self-Calibration for Multi-Label Class-Incremental Learning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4537_ECCV_2024_paper.php)
+- [SNP: Structured Neuron-level Pruning to Preserve Attention Scores](- [SNP: Structured Neuron-Level Pruning to Preserve Attention Scores](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/snp_eccv24/README.md))
+- [Confidence Self-Calibration for Multi-Label Class-Incremental Learning](- [Confidence Self-calibration for Multi-label Class-Incremental Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/csc_eccv24/README.md))
 
 
 
 # Miscellaneous
-- [On the Topology Awareness and Generalization Performance of Graph Neural Networks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11184_ECCV_2024_paper.php)
-- [Improving Hyperbolic Representations via Gromov-Wasserstein Regularization](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10766_ECCV_2024_paper.php)
-- [SENC: Handling Self-collision in Neural Cloth Simulation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1436_ECCV_2024_paper.php)
-- [Multiscale Graph Texture Network](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4702_ECCV_2024_paper.php)
-- [SAM-guided Graph Cut for 3D Instance Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6451_ECCV_2024_paper.php)
-- [Generalizable Symbolic Optimizer Learning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10485_ECCV_2024_paper.php)
-- [SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11537_ECCV_2024_paper.php)
-- [Learning to Distinguish Samples for Generalized Category Discovery](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8177_ECCV_2024_paper.php)
-- [Frontier-enhanced Topological Memory with Improved Exploration Awareness for Embodied Visual Navigation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8905_ECCV_2024_paper.php)
-- [TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/11535_ECCV_2024_paper.php)
+- [On the Topology Awareness and Generalization Performance of Graph Neural Networks](- [On the Topology Awareness and Generalization Performance of Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/tagpgnn_eccv24/README.md))
+- [Improving Hyperbolic Representations via Gromov-Wasserstein Regularization](- [Improving Hyperbolic Representations via Gromov-Wasserstein Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/gwreg_eccv24/README.md))
+- [SENC: Handling Self-collision in Neural Cloth Simulation](- [SENC: Handling Self-collision in Neural Cloth Simulation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/senc_eccv24/README.md))
+- [Multiscale Graph Texture Network](- [Multiscale Graph Texture Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/gtn_eccv24/README.md))
+- [SAM-guided Graph Cut for 3D Instance Segmentation](- [SAM-Guided Graph Cut for 3D Instance Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sgcis_eccv24/README.md))
+- [Generalizable Symbolic Optimizer Learning](- [Generalizable Symbolic Optimizer Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sol_eccv24/README.md))
+- [SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data](- [SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/sparseradnet_eccv24/README.md))
+- [Learning to Distinguish Samples for Generalized Category Discovery](- [Learning to Distinguish Samples for Generalized Category Discovery](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/ngcncvcs_eccv24/README.md))
+- [Frontier-enhanced Topological Memory with Improved Exploration Awareness for Embodied Visual Navigation](- [Frontier-Enhanced Topological Memory with Improved Exploration Awareness for Embodied Visual Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/ftm_eccv24/README.md))
+- [TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly](- [TreeSBA: Tree-Transformer for Self-supervised Sequential Brick Assembly](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_eccv24/treesba_eccv24/README.md))
