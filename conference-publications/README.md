@@ -1,5 +1,9 @@
 # [Conferences](https://aideadlin.es/)
 
+- KDD 2025 (Aug, decisions mid May)
+- ACL 2025 (Jul, decisions mid May)
+- IJCAI 2025 (Aug, decisions late Apr)
+- ICML 2025 (Jul, decisions early May)
 - CVPR 2025 (Jun, decisions late Feb)
 - NAACL 2025 (May, decisions late Jan)
 - ICLR 2025 (May, decisions mid Jan)
