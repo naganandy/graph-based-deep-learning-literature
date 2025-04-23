@@ -3,7 +3,7 @@
 ```
 @inproceedings{glycanml_iclr25,
 title = {GlycanML: A Multi-Task and Multi-Structure Benchmark for Glycan Machine Learning},
-author = {author = {Minghao Xu and Yunteng Geng and Yihang Zhang and Ling Yang and Jian Tang and Wentao Zhang}},
+author = {Minghao Xu and Yunteng Geng and Yihang Zhang and Ling Yang and Jian Tang and Wentao Zhang},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

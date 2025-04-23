@@ -3,7 +3,7 @@
 ```
 @inproceedings{neuralwalker_iclr25,
 title = {Learning Long Range Dependencies on Graphs via Random Walks},
-author = {author = {Dexiong Chen and Till Hendrik Schulz and Karsten Borgwardt}},
+author = {Dexiong Chen and Till Hendrik Schulz and Karsten Borgwardt},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

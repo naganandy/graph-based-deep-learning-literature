@@ -3,7 +3,7 @@
 ```
 @inproceedings{fedstruct_iclr25,
 title = {Decoupled Subgraph Federated Learning},
-author = {author = {Javad Aliakbari and Johan {\"O}stman and Alexandre Graell i Amat}},
+author = {Javad Aliakbari and Johan {\"O}stman and Alexandre Graell i Amat},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

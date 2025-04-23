@@ -3,7 +3,7 @@
 ```
 @inproceedings{edbd_iclr25,
 title = {Spreading Out-of-Distribution Detection on Graphs},
-author = {author = {Daeho Um and Jongin Lim and Sunoh Kim and Yuneil Yeo and Yoonho Jung}},
+author = {Daeho Um and Jongin Lim and Sunoh Kim and Yuneil Yeo and Yoonho Jung},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

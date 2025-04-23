@@ -3,7 +3,7 @@
 ```
 @inproceedings{grapheval_iclr25,
 title = {GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation},
-author = {author = {Tao Feng and Yihang Sun and Jiaxuan You}},
+author = {Tao Feng and Yihang Sun and Jiaxuan You},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

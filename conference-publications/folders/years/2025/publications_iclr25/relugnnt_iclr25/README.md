@@ -3,7 +3,7 @@
 ```
 @inproceedings{relugnnt_iclr25,
 title = {Training One-Dimensional Graph Neural Networks is NP-Hard},
-author = {author = {Robert Ganian and Mathis Rocton and Simon Wietheger}},
+author = {Robert Ganian and Mathis Rocton and Simon Wietheger},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

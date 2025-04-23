@@ -3,7 +3,7 @@
 ```
 @inproceedings{graphdoc_iclr25,
 title = {Graph-based Document Structure Analysis},
-author = {author = {Yufan Chen and Ruiping Liu and Junwei Zheng and Di Wen and Kunyu Peng and Jiaming Zhang and Rainer Stiefelhagen}},
+author = {Yufan Chen and Ruiping Liu and Junwei Zheng and Di Wen and Kunyu Peng and Jiaming Zhang and Rainer Stiefelhagen},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

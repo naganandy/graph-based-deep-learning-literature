@@ -3,7 +3,7 @@
 ```
 @inproceedings{empp_iclr25,
 title = {Equivariant Masked Position Prediction for Efficient Molecular Representation},
-author = {author = {Junyi An and Chao Qu and Yun-Fei Shi and XinHao Liu and Qianwei Tang and Fenglei Cao and Yuan Qi}},
+author = {Junyi An and Chao Qu and Yun-Fei Shi and XinHao Liu and Qianwei Tang and Fenglei Cao and Yuan Qi},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

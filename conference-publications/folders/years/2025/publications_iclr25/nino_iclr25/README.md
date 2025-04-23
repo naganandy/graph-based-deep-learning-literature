@@ -3,7 +3,7 @@
 ```
 @inproceedings{nino_iclr25,
 title = {Accelerating Training with Neuron Interaction and Nowcasting Networks},
-author = {author = {Boris Knyazev and Abhinav Moudgil and Guillaume Lajoie and Eugene Belilovsky and Simon Lacoste-Julien}},
+author = {Boris Knyazev and Abhinav Moudgil and Guillaume Lajoie and Eugene Belilovsky and Simon Lacoste-Julien},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

@@ -3,7 +3,7 @@
 ```
 @inproceedings{opgm_iclr25,
 title = {Learning Partial Graph Matching via Optimal Partial Transport},
-author = {author = {Gathika Ratnayaka and James Nichols and Qing Wang}},
+author = {Gathika Ratnayaka and James Nichols and Qing Wang},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

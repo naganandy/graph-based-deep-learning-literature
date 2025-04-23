@@ -3,7 +3,7 @@
 ```
 @inproceedings{uetr_iclr25,
 title = {Is uniform expressivity too restrictive? Towards efficient expressivity of GNNs},
-author = {author = {Sammy Khalife and Josu{\'e} Tonelli-Cueto}},
+author = {Sammy Khalife and Josu{\'e} Tonelli-Cueto},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

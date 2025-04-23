@@ -3,7 +3,7 @@
 ```
 @inproceedings{perturbqa_iclr25,
 title = {Contextualizing biological perturbation experiments through language},
-author = {author = {Menghua Wu and Russell Littman and Jacob Levine and Lin Qiu and Tommaso Biancalani and David Richmond and Jan-Christian Huetter}},
+author = {Menghua Wu and Russell Littman and Jacob Levine and Lin Qiu and Tommaso Biancalani and David Richmond and Jan-Christian Huetter},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

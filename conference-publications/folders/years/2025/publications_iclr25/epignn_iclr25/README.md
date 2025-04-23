@@ -3,7 +3,7 @@
 ```
 @inproceedings{epignn_iclr25,
 title = {Systematic Relational Reasoning With Epistemic Graph Neural Networks},
-author = {author = {Irtaza Khalid and Steven Schockaert}},
+author = {Irtaza Khalid and Steven Schockaert},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

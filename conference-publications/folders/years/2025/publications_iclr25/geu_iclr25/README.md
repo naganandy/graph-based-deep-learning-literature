@@ -3,7 +3,7 @@
 ```
 @inproceedings{geu_iclr25,
 title = {Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs},
-author = {author = {Levi Rauchwerger and Stefanie Jegelka and Ron Levie}},
+author = {Levi Rauchwerger and Stefanie Jegelka and Ron Levie},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

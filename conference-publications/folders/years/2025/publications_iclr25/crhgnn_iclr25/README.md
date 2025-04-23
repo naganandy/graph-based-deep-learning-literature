@@ -3,7 +3,7 @@
 ```
 @inproceedings{crhgnn_iclr25,
 title = {The Effectiveness of Curvature-Based Rewiring and the Role of Hyperparameters in GNNs Revisited},
-author = {author = {Floriano Tori and Vincent Holst and Vincent Ginis}},
+author = {Floriano Tori and Vincent Holst and Vincent Ginis},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

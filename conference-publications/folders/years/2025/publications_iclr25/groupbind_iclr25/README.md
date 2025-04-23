@@ -3,7 +3,7 @@
 ```
 @inproceedings{groupbind_iclr25,
 title = {Group Ligands Docking to Protein Pockets},
-author = {author = {Jiaqi Guan and Jiahan Li and Xiangxin Zhou and Xingang Peng and Sheng Wang and Yunan Luo and Jian Peng and Jianzhu Ma}},
+author = {Jiaqi Guan and Jiahan Li and Xiangxin Zhou and Xingang Peng and Sheng Wang and Yunan Luo and Jian Peng and Jianzhu Ma},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

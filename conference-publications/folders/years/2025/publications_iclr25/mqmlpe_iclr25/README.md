@@ -3,7 +3,7 @@
 ```
 @inproceedings{mqmlpe_iclr25,
 title = {What Are Good Positional Encodings for Directed Graphs?},
-author = {author = {Yinan Huang and Haoyu Peter Wang and Pan Li}},
+author = {Yinan Huang and Haoyu Peter Wang and Pan Li},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

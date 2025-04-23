@@ -3,7 +3,7 @@
 ```
 @inproceedings{tsbm_iclr25,
 title = {Topological Schrödinger Bridge Matching},
-author = {author = {Maosheng Yang}},
+author = {Maosheng Yang},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

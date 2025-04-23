@@ -3,7 +3,7 @@
 ```
 @inproceedings{maxcutpool_iclr25,
 title = {MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks},
-author = {author = {Carlo Abate and Filippo Maria Bianchi}},
+author = {Carlo Abate and Filippo Maria Bianchi},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

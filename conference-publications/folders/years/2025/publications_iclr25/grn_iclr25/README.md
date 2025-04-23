@@ -3,7 +3,7 @@
 ```
 @inproceedings{grn_iclr25,
 title = {Learning Geometric Reasoning Networks For Robot Task And Motion Planning},
-author = {author = {Smail Ait Bouhsain and Rachid Alami and Thierry Simeon}},
+author = {Smail Ait Bouhsain and Rachid Alami and Thierry Simeon},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

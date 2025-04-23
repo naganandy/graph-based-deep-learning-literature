@@ -3,7 +3,7 @@
 ```
 @inproceedings{synthesisnet_iclr25,
 title = {Procedural Synthesis of Synthesizable Molecules},
-author = {author = {Michael Sun and Alston Lo and Minghao Guo and Jie Chen and Connor W. Coley and Wojciech Matusik}},
+author = {Michael Sun and Alston Lo and Minghao Guo and Jie Chen and Connor W. Coley and Wojciech Matusik},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

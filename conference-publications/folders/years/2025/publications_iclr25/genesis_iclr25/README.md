@@ -3,7 +3,7 @@
 ```
 @inproceedings{genesis_iclr25,
 title = {BodyGen: Advancing Towards Efficient Embodiment Co-Design},
-author = {author = {Haofei Lu and Zhe Wu and Junliang Xing and Jianshu Li and Ruoyu Li and Zhe Li and Yuanchun Shi}},
+author = {Haofei Lu and Zhe Wu and Junliang Xing and Jianshu Li and Ruoyu Li and Zhe Li and Yuanchun Shi},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

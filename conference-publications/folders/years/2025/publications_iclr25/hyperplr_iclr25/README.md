@@ -3,7 +3,7 @@
 ```
 @inproceedings{hyperplr_iclr25,
 title = {HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction},
-author = {author = {Weihuang Wen and Tianshu Yu}},
+author = {Weihuang Wen and Tianshu Yu},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

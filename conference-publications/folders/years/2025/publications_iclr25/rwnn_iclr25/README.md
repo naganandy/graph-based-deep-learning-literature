@@ -3,7 +3,7 @@
 ```
 @inproceedings{rwnn_iclr25,
 title = {Revisiting Random Walks for Learning on Graphs},
-author = {author = {Jinwoo Kim and Olga Zaghen and Ayhan Suleymanzade and Youngmin Ryou and Seunghoon Hong}},
+author = {Jinwoo Kim and Olga Zaghen and Ayhan Suleymanzade and Youngmin Ryou and Seunghoon Hong},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

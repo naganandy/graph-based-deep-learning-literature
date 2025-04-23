@@ -3,7 +3,7 @@
 ```
 @inproceedings{grass_iclr25,
 title = {Greener GRASS: Enhancing GNNs with Encoding, Rewiring, and Attention},
-author = {author = {Tongzhou Liao and Barnabas Poczos}},
+author = {Tongzhou Liao and Barnabas Poczos},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

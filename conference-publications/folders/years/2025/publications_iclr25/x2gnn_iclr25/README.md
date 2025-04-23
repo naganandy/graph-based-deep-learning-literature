@@ -3,7 +3,7 @@
 ```
 @inproceedings{x2gnn_iclr25,
 title = {Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization},
-author = {author = {Utku Umur ACIKALIN and Aaron M Ferber and Carla P Gomes}},
+author = {Utku Umur ACIKALIN and Aaron M Ferber and Carla P Gomes},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

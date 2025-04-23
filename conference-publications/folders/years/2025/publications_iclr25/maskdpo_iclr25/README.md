@@ -3,7 +3,7 @@
 ```
 @inproceedings{maskdpo_iclr25,
 title = {Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs},
-author = {author = {Yuzhe Gu and Wenwei Zhang and Chengqi Lyu and Dahua Lin and Kai Chen}},
+author = {Yuzhe Gu and Wenwei Zhang and Chengqi Lyu and Dahua Lin and Kai Chen},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

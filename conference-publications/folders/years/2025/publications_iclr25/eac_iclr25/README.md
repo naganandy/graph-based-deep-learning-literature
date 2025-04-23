@@ -3,7 +3,7 @@
 ```
 @inproceedings{eac_iclr25,
 title = {Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting},
-author = {author = {Wei Chen and Yuxuan Liang}},
+author = {Wei Chen and Yuxuan Liang},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

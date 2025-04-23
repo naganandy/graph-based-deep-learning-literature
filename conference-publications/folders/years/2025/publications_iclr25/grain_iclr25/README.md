@@ -3,7 +3,7 @@
 ```
 @inproceedings{grain_iclr25,
 title = {GRAIN: Exact Graph Reconstruction from Gradients},
-author = {author = {Maria Drencheva and Ivo Petrov and Maximilian Baader and Dimitar Iliev Dimitrov and Martin Vechev}},
+author = {Maria Drencheva and Ivo Petrov and Maximilian Baader and Dimitar Iliev Dimitrov and Martin Vechev},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

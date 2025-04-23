@@ -3,7 +3,7 @@
 ```
 @inproceedings{gimf_iclr25,
 title = {Neural Multi-Objective Combinatorial Optimization via Graph-Image Multimodal Fusion},
-author = {author = {Jinbiao Chen and Jiahai Wang and Zhiguang Cao and Yaoxin Wu}},
+author = {Jinbiao Chen and Jiahai Wang and Zhiguang Cao and Yaoxin Wu},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

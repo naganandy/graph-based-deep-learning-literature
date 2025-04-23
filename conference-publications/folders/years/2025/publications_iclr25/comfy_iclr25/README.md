@@ -3,7 +3,7 @@
 ```
 @inproceedings{comfy_iclr25,
 title = {GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring},
-author = {author = {Celia Rubio-Madrigal and Adarsh Jamadandi and Rebekka Burkholz}},
+author = {Celia Rubio-Madrigal and Adarsh Jamadandi and Rebekka Burkholz},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

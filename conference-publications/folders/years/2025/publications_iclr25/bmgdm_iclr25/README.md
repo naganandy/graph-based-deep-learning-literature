@@ -3,7 +3,7 @@
 ```
 @inproceedings{bmgdm_iclr25,
 title = {Bias Mitigation in Graph Diffusion Models},
-author = {author = {Meng Yu and Kun Zhan}},
+author = {Meng Yu and Kun Zhan},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

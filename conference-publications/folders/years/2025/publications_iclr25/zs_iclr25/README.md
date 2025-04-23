@@ -3,7 +3,7 @@
 ```
 @inproceedings{zs_iclr25,
 title = {Topological Zigzag Spaghetti for Diffusion-based Generation and Prediction on Graphs},
-author = {author = {Yuzhou Chen and Yulia Gel}},
+author = {Yuzhou Chen and Yulia Gel},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

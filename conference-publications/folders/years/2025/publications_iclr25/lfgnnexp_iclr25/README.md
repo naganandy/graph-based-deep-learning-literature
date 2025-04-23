@@ -3,7 +3,7 @@
 ```
 @inproceedings{lfgnnexp_iclr25,
 title = {Towards a Complete Logical Framework for GNN Expressiveness},
-author = {author = {Tuo Xu}},
+author = {Tuo Xu},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

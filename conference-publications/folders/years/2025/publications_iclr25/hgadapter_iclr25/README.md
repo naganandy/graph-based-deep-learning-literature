@@ -3,7 +3,7 @@
 ```
 @inproceedings{hgadapter_iclr25,
 title = {HG-Adapter: Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters},
-author = {author = {Yujie Mo and Runpeng Yu and Xiaofeng Zhu and Xinchao Wang}},
+author = {Yujie Mo and Runpeng Yu and Xiaofeng Zhu and Xinchao Wang},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

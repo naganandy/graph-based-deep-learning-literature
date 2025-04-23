@@ -3,7 +3,7 @@
 ```
 @inproceedings{sgul_iclr25,
 title = {Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation},
-author = {author = {Hongliang Chi and Qiong Wu and Zhengyi Zhou and Yao Ma}},
+author = {Hongliang Chi and Qiong Wu and Zhengyi Zhou and Yao Ma},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

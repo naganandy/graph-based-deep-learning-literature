@@ -3,7 +3,7 @@
 ```
 @inproceedings{egennet_iclr25,
 title = {On the Expressive Power of Sparse Geometric MPNNs},
-author = {author = {Yonatan Sverdlov and Nadav Dym}},
+author = {Yonatan Sverdlov and Nadav Dym},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

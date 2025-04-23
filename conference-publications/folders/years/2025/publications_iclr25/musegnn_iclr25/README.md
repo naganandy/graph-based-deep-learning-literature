@@ -3,7 +3,7 @@
 ```
 @inproceedings{musegnn_iclr25,
 title = {MuseGNN: Forming Scalable, Convergent GNN Layers that Minimize a Sampling-Based Energy},
-author = {author = {Haitian Jiang and Renjie Liu and Zengfeng Huang and Yichuan Wang and Xiao Yan and Zhenkun Cai and Minjie Wang and David Wipf}},
+author = {Haitian Jiang and Renjie Liu and Zengfeng Huang and Yichuan Wang and Xiao Yan and Zhenkun Cai and Minjie Wang and David Wipf},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

@@ -3,7 +3,7 @@
 ```
 @inproceedings{icilgd_iclr25,
 title = {Instant Policy: In-Context Imitation Learning via Graph Diffusion},
-author = {author = {Vitalis Vosylius and Edward Johns}},
+author = {Vitalis Vosylius and Edward Johns},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

@@ -3,7 +3,7 @@
 ```
 @inproceedings{unicott_iclr25,
 title = {UniCoTT: A Unified Framework for Structural Chain-of-Thought Distillation},
-author = {author = {Xianwei Zhuang and Zhihong Zhu and Zhichang Wang and Xuxin Cheng and Yuexian Zou}},
+author = {Xianwei Zhuang and Zhihong Zhu and Zhichang Wang and Xuxin Cheng and Yuexian Zou},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

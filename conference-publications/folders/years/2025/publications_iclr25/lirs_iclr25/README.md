@@ -3,7 +3,7 @@
 ```
 @inproceedings{lirs_iclr25,
 title = {Learning Graph Invariance by Harnessing Spuriosity},
-author = {author = {Tianjun Yao and Yongqiang Chen and Kai Hu and Tongliang Liu and Kun Zhang and Zhiqiang Shen}},
+author = {Tianjun Yao and Yongqiang Chen and Kai Hu and Tongliang Liu and Kun Zhang and Zhiqiang Shen},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

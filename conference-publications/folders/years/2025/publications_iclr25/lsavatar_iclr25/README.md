@@ -3,7 +3,7 @@
 ```
 @inproceedings{lsavatar_iclr25,
 title = {Locality Sensitive Avatars From Video},
-author = {author = {Chunjin Song and Zhijie Wu and Shih-Yang Su and Bastian Wandt and Leonid Sigal and Helge Rhodin}},
+author = {Chunjin Song and Zhijie Wu and Shih-Yang Su and Bastian Wandt and Leonid Sigal and Helge Rhodin},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

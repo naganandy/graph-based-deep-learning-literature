@@ -3,7 +3,7 @@
 ```
 @inproceedings{cenpre_iclr25,
 title = {Centrality-guided Pre-training for Graph},
-author = {author = {Bin Liang and Shiwei Chen and Lin Gui and Hui Wang and Yue Yu and Ruifeng Xu and Kam-Fai Wong}},
+author = {Bin Liang and Shiwei Chen and Lin Gui and Hui Wang and Yue Yu and Ruifeng Xu and Kam-Fai Wong},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

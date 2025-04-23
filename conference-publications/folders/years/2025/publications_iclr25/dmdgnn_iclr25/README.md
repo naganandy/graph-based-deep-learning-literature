@@ -3,7 +3,7 @@
 ```
 @inproceedings{dmdgnn_iclr25,
 title = {When Graph Neural Networks Meet Dynamic Mode Decomposition},
-author = {author = {Dai Shi and Lequan Lin and Andi Han and Zhiyong Wang and Yi Guo and Junbin Gao}},
+author = {Dai Shi and Lequan Lin and Andi Han and Zhiyong Wang and Yi Guo and Junbin Gao},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

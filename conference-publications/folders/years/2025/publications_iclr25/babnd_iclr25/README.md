@@ -3,7 +3,7 @@
 ```
 @inproceedings{babnd_iclr25,
 title = {BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics},
-author = {author = {Keyi Shen and Jiangwei Yu and Jose Barreiros and Huan Zhang and Yunzhu Li}},
+author = {Keyi Shen and Jiangwei Yu and Jose Barreiros and Huan Zhang and Yunzhu Li},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

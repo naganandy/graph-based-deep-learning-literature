@@ -3,7 +3,7 @@
 ```
 @inproceedings{milpevolve_iclr25,
 title = {Towards Foundation Models for Mixed Integer Linear Programming},
-author = {author = {Sirui Li and Janardhan Kulkarni and Ishai Menache and Cathy Wu and Beibin Li}},
+author = {Sirui Li and Janardhan Kulkarni and Ishai Menache and Cathy Wu and Beibin Li},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

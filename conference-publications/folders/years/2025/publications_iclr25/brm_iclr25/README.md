@@ -3,7 +3,7 @@
 ```
 @inproceedings{brm_iclr25,
 title = {Beyond Random Masking: When Dropout meets Graph Convolutional Networks},
-author = {author = {Yuankai Luo and Xiao-Ming Wu and Hao Zhu}},
+author = {Yuankai Luo and Xiao-Ming Wu and Hao Zhu},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

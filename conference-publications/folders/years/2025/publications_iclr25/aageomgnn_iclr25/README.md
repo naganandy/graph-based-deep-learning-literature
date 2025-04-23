@@ -3,7 +3,7 @@
 ```
 @inproceedings{aageomgnn_iclr25,
 title = {Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling, and Zero-Shot Transfer},
-author = {author = {Zihan Pengmei and Zhengyuan Shen and Zichen Wang and Marcus D. Collins and Huzefa Rangwala}},
+author = {Zihan Pengmei and Zhengyuan Shen and Zichen Wang and Marcus D. Collins and Huzefa Rangwala},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

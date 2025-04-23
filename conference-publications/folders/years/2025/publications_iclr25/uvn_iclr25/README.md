@@ -3,7 +3,7 @@
 ```
 @inproceedings{uvn_iclr25,
 title = {Understanding Virtual Nodes: Oversquashing and Node Heterogeneity},
-author = {author = {Joshua Southern and Francesco Di Giovanni and Michael M. Bronstein and Johannes F. Lutzeyer}},
+author = {Joshua Southern and Francesco Di Giovanni and Michael M. Bronstein and Johannes F. Lutzeyer},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

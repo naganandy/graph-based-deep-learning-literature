@@ -3,7 +3,7 @@
 ```
 @inproceedings{urlost_iclr25,
 title = {URLOST: Unsupervised Representation Learning without Stationarity or Topology},
-author = {author = {Zeyu Yun and Juexiao Zhang and Yann LeCun and Yubei Chen}},
+author = {Zeyu Yun and Juexiao Zhang and Yann LeCun and Yubei Chen},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

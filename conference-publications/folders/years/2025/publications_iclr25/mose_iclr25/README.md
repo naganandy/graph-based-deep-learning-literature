@@ -3,7 +3,7 @@
 ```
 @inproceedings{mose_iclr25,
 title = {Homomorphism Counts as Structural Encodings for Graph Learning},
-author = {author = {Linus Bao and Emily Jin and Michael M. Bronstein and Ismail Ilkan Ceylan and Matthias Lanzinger}},
+author = {Linus Bao and Emily Jin and Michael M. Bronstein and Ismail Ilkan Ceylan and Matthias Lanzinger},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

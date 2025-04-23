@@ -3,7 +3,7 @@
 ```
 @inproceedings{nodeid_iclr25,
 title = {Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning},
-author = {author = {Yuankai Luo and Hongkang Li and Qijiong Liu and Lei Shi and Xiao-Ming Wu}},
+author = {Yuankai Luo and Hongkang Li and Qijiong Liu and Lei Shi and Xiao-Ming Wu},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

@@ -3,7 +3,7 @@
 ```
 @inproceedings{capex_iclr25,
 title = {CapeX: Category-Agnostic Pose Estimation from Textual Point Explanation},
-author = {author = {Matan Rusanovsky and Or Hirschorn and Shai Avidan}},
+author = {Matan Rusanovsky and Or Hirschorn and Shai Avidan},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

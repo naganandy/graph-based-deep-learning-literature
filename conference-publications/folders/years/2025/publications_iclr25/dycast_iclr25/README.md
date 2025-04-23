@@ -3,7 +3,7 @@
 ```
 @inproceedings{dycast_iclr25,
 title = {DyCAST: Learning Dynamic Causal Structure from Time Series},
-author = {author = {Yue Cheng and Bochen Lyu and Weiwei Xing and Zhanxing Zhu}},
+author = {Yue Cheng and Bochen Lyu and Weiwei Xing and Zhanxing Zhu},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

@@ -3,7 +3,7 @@
 ```
 @inproceedings{ale_iclr25,
 title = {Explanations of GNN on Evolving Graphs via Axiomatic  Layer edges},
-author = {author = {Yazheng Liu and Sihong Xie}},
+author = {Yazheng Liu and Sihong Xie},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }

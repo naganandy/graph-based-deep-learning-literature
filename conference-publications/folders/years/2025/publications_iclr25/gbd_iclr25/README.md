@@ -3,7 +3,7 @@
 ```
 @inproceedings{gbd_iclr25,
 title = {Advancing Graph Generation through Beta Diffusion},
-author = {author = {Xinyang Liu and Yilin He and Bo Chen and Mingyuan Zhou}},
+author = {Xinyang Liu and Yilin He and Bo Chen and Mingyuan Zhou},
 booktitle = {The Thirteenth International Conference on Learning Representations (ICLR)},
 year = {2025}
 }
