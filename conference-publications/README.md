@@ -1,5 +1,6 @@
 # [Conferences](https://aideadlin.es/)
 
+- ICCV 2025 (Oct, decisions late Jun)
 - KDD 2025 (Aug, decisions mid May)
 - ACL 2025 (Jul, decisions mid May)
 - IJCAI 2025 (Aug, decisions late Apr)
