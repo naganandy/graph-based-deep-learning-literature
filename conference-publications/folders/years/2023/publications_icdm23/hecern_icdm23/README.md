@@ -5,7 +5,7 @@
 title = {Homogeneous Entity Context Enhanced Representation Network for Temporal Knowledge Graph Reasoning},
 author = {Y. Yang and C. Zheng and L. Pan},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1487-1492},
+pages = {1487--1492},
 year = {2023}
 }
 ```

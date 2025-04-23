@@ -5,7 +5,7 @@
 title = {PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection},
 author = {J. Pan and Y. Liu and Y. Zheng and S. Pan},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1253-1258},
+pages = {1253--1258},
 year = {2023}
 }
 ```

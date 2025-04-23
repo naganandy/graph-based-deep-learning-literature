@@ -5,7 +5,7 @@
 title = {Towards Cross-Domain Few-Shot Graph Anomaly Detection},
 author = {Chen, Jiazhen and Fu, Sichao and Zhang, Zhibin and Ma, Zheng and Feng, Mingbin and Wirjanto, Tony S. and Peng, Qinmu},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {51-60},
+pages = {51--60},
 year = {2024}
 }
 ```

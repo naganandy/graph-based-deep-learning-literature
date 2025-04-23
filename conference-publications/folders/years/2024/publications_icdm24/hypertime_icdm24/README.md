@@ -5,7 +5,7 @@
 title = {HyperTime: A Dynamic Hypergraph Approach for Time Series Classification},
 author = {Younis, Raneen and Ahmadi, Zahra},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {570-579},
+pages = {570--579},
 year = {2024}
 }
 ```

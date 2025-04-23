@@ -5,7 +5,7 @@
 title = {An Explainable Recommender System by Integrating Graph Neural Networks and User Reviews},
 author = {Batmani, Sahar and Moradi, Parham and Heidari, Narges and Jalili, Mahdi},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {669-674},
+pages = {669--674},
 year = {2024}
 }
 ```

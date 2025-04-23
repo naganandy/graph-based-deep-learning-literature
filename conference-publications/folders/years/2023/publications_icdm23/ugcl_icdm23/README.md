@@ -5,7 +5,7 @@
 title = {Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing},
 author = {S. Fu and Q. Peng and Y. He and B. Du and X. You},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1019-1024},
+pages = {1019--1024},
 year = {2023}
 }
 ```

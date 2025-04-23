@@ -5,7 +5,7 @@
 title = {Variational Collective Graph AutoEncoder for Multi-behavior Recommendation},
 author = {Y. Liu and Q. Rao and W. Pan and Z. Ming},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {438-447},
+pages = {438--447},
 year = {2023}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Spatio-Temporal Hypergraph Neural ODE Network for Traffic Forecasting},
 author = {C. Yao and Z. Li and J. Wang},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1499-1504},
+pages = {1499--1504},
 year = {2023}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Channel-Attentive Graph Neural Networks},
 author = {Karabulut, Tugrul Hasan and Baytas, Inci M.},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {729-734},
+pages = {729--734},
 year = {2024}
 }
 ```

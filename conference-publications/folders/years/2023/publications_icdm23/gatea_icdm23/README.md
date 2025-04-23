@@ -5,7 +5,7 @@
 title = {Efficient and Effective Entity Alignment for Evolving Temporal Knowledge Graphs},
 author = {Y. Li and L. Chen and C. Liu and R. Zhou and J. Li},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {349-358},
+pages = {349--358},
 year = {2023}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Futures Quantitative Investment With Heterogeneous Continual Graph Neural Network},
 author = {Tan, Zhizhong and Hu, Min and Liu, Bin and Yin, Guosheng},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {851-856},
+pages = {851--856},
 year = {2024}
 }
 ```

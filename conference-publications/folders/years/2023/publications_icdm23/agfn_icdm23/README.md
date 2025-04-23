@@ -5,7 +5,7 @@
 title = {Auto Graph Filtering for Bundle Recommendation},
 author = {X. Li and W. Xi and X. Xing and C. Wang},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {299-308},
+pages = {299--308},
 year = {2023}
 }
 ```

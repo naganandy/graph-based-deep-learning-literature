@@ -5,7 +5,7 @@
 title = {RDKG: A Reinforcement Learning Framework for Disease Diagnosis on Knowledge Graph},
 author = {S. Guo and K. Liu and P. Wang and W. Dai and Y. Du and Y. Zhou and W. Cui},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1049-1054},
+pages = {1049--1054},
 year = {2023}
 }
 ```

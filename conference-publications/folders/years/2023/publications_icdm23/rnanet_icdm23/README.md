@@ -5,7 +5,7 @@
 title = {Robust Network Alignment with the Combination of Structure and Attribute Embeddings},
 author = {J. Peng and F. Xiong and S. Pan and L. Wang and X. Xiong},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {498-507},
+pages = {498--507},
 year = {2023}
 }
 ```

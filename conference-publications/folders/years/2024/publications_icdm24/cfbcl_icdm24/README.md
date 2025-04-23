@@ -5,7 +5,7 @@
 title = {Counterfactual Brain Graph Augmentation Guided Bi-Level Contrastive Learning for Disorder Analysis},
 author = {Dong, Guangwei and Luo, Xuexiong and Du, Jing and Wu, Jia and Xue, Shan and Yang, Jian and Beheshti, Amin},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {91-100},
+pages = {91--100},
 year = {2024}
 }
 ```

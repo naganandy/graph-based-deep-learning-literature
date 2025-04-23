@@ -5,7 +5,7 @@
 title = {GMMDA: Gaussian Mixture Modeling of Graph in Latent Space for Graph Data Augmentation},
 author = {Y. Li and L. Xu and K. Yamanishi},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {319-328},
+pages = {319--328},
 year = {2023}
 }
 ```

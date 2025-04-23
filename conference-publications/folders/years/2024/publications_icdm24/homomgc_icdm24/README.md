@@ -5,7 +5,7 @@
 title = {HomoMGC: Homophily-Enhanced Adaptive Graph Refinement for Multi-View Graph Clustering},
 author = {Chen, Man-Sheng and Cai, Xiao-Sha and Wang, Chang-Dong and Huang, Dong and Chen, Min and Guizani, Mohsen},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {61-70},
+pages = {61--70},
 year = {2024}
 }
 ```

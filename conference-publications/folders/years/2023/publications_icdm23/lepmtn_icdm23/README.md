@@ -5,7 +5,7 @@
 title = {Limitations of Perturbation-based Explanation Methods for Temporal Graph Neural Networks},
 author = {M. N. Vu and M. T. Thai},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {618-627},
+pages = {618--627},
 year = {2023}
 }
 ```

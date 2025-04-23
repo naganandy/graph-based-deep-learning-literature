@@ -5,7 +5,7 @@
 title = {Informative Subgraphs Aware Masked Auto-Encoder in Dynamic Graphs},
 author = {Jiao, Pengfei and Zhang, Xinxun and Gao, Mengzhou and Li, Tianpeng and Zhao, Zhidong},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {161-170},
+pages = {161--170},
 year = {2024}
 }
 ```

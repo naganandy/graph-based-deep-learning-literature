@@ -5,7 +5,7 @@
 title = {An Efficient Graph Autoencoder with Lightweight Desmoothing Decoder and Long-Range Modeling},
 author = {Wen, Jinyong and Zhang, Tao and Zhang, Chunxia and Xiang, Shiming and Pan, Chunhong},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {887-892},
+pages = {887--892},
 year = {2024}
 }
 ```

@@ -5,7 +5,7 @@
 title = {CL4CO: A Curriculum Training Framework for Graph-Based Neural Combinatorial Optimization},
 author = {Liu, Yang and Zhou, Chuan and Zhang, Peng and Li, Zhao and Zhang, Shuai and Lin, Xixun and Wu, Xindong},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {779-784},
+pages = {779--784},
 year = {2024}
 }
 ```

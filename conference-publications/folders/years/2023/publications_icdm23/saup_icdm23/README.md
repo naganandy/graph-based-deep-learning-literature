@@ -5,7 +5,7 @@
 title = {Boosting Urban Prediction via Addressing Spatial-Temporal Distribution Shift},
 author = {X. Hu and W. Fan and K. Yi and P. Wang and Y. Xu and Y. Fu and P. Wang},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {160-169},
+pages = {160--169},
 year = {2023}
 }
 ```

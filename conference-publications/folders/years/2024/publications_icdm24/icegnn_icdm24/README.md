@@ -5,7 +5,7 @@
 title = {Towards Expressive Graph Representations for Graph Neural Networks},
 author = {Mao, Chengsheng and Yao, Liang and Luo, Yuan},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {797-802},
+pages = {797--802},
 year = {2024}
 }
 ```

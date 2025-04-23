@@ -5,7 +5,7 @@
 title = {Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization},
 author = {Wang, Song and Yang, Xiaodong and Islam, Rashidul and Chen, Huiyuan and Xu, Minghua and Li, Jundong and Cai, Yiwei},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {875-880},
+pages = {875--880},
 year = {2024}
 }
 ```

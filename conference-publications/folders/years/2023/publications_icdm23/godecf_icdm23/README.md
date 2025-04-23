@@ -5,7 +5,7 @@
 title = {Graph Neural Ordinary Differential Equations-based method for Collaborative Filtering},
 author = {K. Xu and Y. Zhu and W. Zhang and P. S. Yu},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1445-1450},
+pages = {1445--1450},
 year = {2023}
 }
 ```

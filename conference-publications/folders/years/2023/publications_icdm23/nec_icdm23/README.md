@@ -5,7 +5,7 @@
 title = {Infinitely Deep Graph Transformation Networks},
 author = {L. Zhang and Q. Zhang and Z. Chen and Y. Sun and C. Lu and L. Zhao},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {778-787},
+pages = {778--787},
 year = {2023}
 }
 ```

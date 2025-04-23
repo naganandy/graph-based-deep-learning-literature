@@ -5,7 +5,7 @@
 title = {On the Verification of Embeddings with Hybrid Markov Logic},
 author = {A. Shakya and A. Magar and S. Sarkhel and D. Venugopal},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1301-1306},
+pages = {1301--1306},
 year = {2023}
 }
 ```

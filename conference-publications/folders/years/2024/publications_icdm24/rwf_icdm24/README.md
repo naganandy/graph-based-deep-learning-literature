@@ -5,7 +5,7 @@
 title = {Scalable Graph Classification via Random Walk Fingerprints},
 author = {Li, Peiyan and Wang, Honglian and Bohm, Christian},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {231-240},
+pages = {231--240},
 year = {2024}
 }
 ```

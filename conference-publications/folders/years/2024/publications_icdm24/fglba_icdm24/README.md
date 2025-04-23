@@ -5,7 +5,7 @@
 title = {FGLBA: Enabling Highly-Effective and Stealthy Backdoor Attack on Federated Graph Learning},
 author = {Lu, Qing and Hu, Miao and Wu, Di and Zhou, Yipeng and Guizani, Mohsen and Sheng, Quan Z.},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {791-796},
+pages = {791--796},
 year = {2024}
 }
 ```

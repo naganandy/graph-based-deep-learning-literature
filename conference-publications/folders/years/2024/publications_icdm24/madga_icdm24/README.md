@@ -5,7 +5,7 @@
 title = {Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection},
 author = {Wang, Yuanyi and Sun, Haifeng and Wang, Chengsen and Zhu, Mengde and Wang, Jingyu and Tang, Wei and Qi, Qi and Zhuang, Zirui and Liao, Jianxin},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {869-874},
+pages = {869--874},
 year = {2024}
 }
 ```

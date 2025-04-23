@@ -5,7 +5,7 @@
 title = {Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network},
 author = {Park, Jongmin and Han, Seunghoon and Lee, Jong-Ryul and Lim, Sungsu},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {815-820},
+pages = {815--820},
 year = {2024}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Telecom Fraud Detection Based on Feature Binning and Autoencoder},
 author = {F. Liang and F. Li and R. Xu and W. Cheng and S. Deng and Z. Yang and C. Wang},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {368-377},
+pages = {368--377},
 year = {2023}
 }
 ```

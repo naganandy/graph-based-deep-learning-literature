@@ -5,7 +5,7 @@
 title = {Exploitation or Exploration Next? User Behavior Decoupling and Emerging Intent Modeling for Next-Item Recommendation},
 author = {Zhu, Nengjun and Sun, Lingdan and Luo, Xiangfeng and Cao, Jian and Zhang, Qi and Lu, Xinjiang},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {965-970},
+pages = {965--970},
 year = {2024}
 }
 ```

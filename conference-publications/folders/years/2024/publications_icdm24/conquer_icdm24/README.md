@@ -5,7 +5,7 @@
 title = {Solving Combinatorial Optimization Problem Over Graph Through QUBO Transformation and Deep Reinforcement Learning},
 author = {Pu, Tianle and Chen, Chao and Zeng, Li and Liu, Shixuan and Sun, Rui and Fan, Changjun},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {390-399},
+pages = {390--399},
 year = {2024}
 }
 ```

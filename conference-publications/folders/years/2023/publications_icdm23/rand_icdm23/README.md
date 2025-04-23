@@ -5,7 +5,7 @@
 title = {Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection},
 author = {Y. Bei and S. Zhou and Q. Tan and H. Xu and H. Chen and Z. Li and J. Bu},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {11-20},
+pages = {11--20},
 year = {2023}
 }
 ```

@@ -5,7 +5,7 @@
 title = {PKAT: Pre-training in Collaborative Knowledge Graph Attention Network for Recommendation},
 author = {Y. Lu and C. Wang and P. Lai and J. Lai},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {448-457},
+pages = {448--457},
 year = {2023}
 }
 ```

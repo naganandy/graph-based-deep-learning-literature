@@ -5,7 +5,7 @@
 title = {TROPICAL: Transformer-Based Hypergraph Learning for Camouflaged Fraudster Detection},
 author = {Haghighi, Venus and Soltani, Behnaz and Shabani, Nasrin and Wu, Jia and Zhang, Yang and Yao, Lina and Sheng, Quan Z. and Yang, Jian},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {121-130},
+pages = {121--130},
 year = {2024}
 }
 ```

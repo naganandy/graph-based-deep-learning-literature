@@ -5,7 +5,7 @@
 title = {IE-Evo: Internal and External Evolution-Enhanced Temporal Knowledge Graph Forecasting},
 author = {K. Liu and F. Zhao and G. Xu and S. Wu},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {408-417},
+pages = {408--417},
 year = {2023}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Reducing Unfairness in Distributed Community Detection},
 author = {Zhang, Hao and Jayaweera, Malith and Ren, Bin and Wang, Yanzhi and Soundarajan, Sucheta},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {953-958},
+pages = {953--958},
 year = {2024}
 }
 ```

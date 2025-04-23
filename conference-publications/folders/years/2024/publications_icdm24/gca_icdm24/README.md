@@ -5,7 +5,7 @@
 title = {Graph Community Augmentation with GMM-Based Modeling in Latent Space},
 author = {Fukushima, Shintaro and Yamanishi, Kenji},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {111-120},
+pages = {111--120},
 year = {2024}
 }
 ```

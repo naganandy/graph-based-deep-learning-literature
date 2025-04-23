@@ -5,7 +5,7 @@
 title = {Entropy Aware Training for Fast and Accurate Distributed GNN},
 author = {D. Deshmukh and G. Gupta and M. Chawla and V. Jatala and A. Haldar},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {986-991},
+pages = {986--991},
 year = {2023}
 }
 ```

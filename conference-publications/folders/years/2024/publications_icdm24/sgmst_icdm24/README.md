@@ -5,7 +5,7 @@
 title = {Hypergraph-Enhanced Contrastively Regularized Transformer for Multi-Behavior E-commerce Product Recommendation},
 author = {Liao, Shuiying and Mok, P. Y.},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {767-772},
+pages = {767--772},
 year = {2024}
 }
 ```

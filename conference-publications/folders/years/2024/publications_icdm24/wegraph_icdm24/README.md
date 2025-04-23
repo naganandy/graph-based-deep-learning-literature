@@ -5,7 +5,7 @@
 title = {Weakly-Supervised Graph Classification with Even a Single Key Subgraph Per Class},
 author = {Zhang, Lu and Zhang, Chenbo and Guan, Jihong and Zhou, Shuigeng},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {947-952},
+pages = {947--952},
 year = {2024}
 }
 ```

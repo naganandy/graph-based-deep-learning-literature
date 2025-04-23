@@ -5,7 +5,7 @@
 title = {Federated Learning for Privacy-Preserving Prediction of Occupational Group Mobility Using Multi-Source Mobile Data},
 author = {H. Li and H. Jiang and H. Xian and Q. Chen},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {249-258},
+pages = {249--258},
 year = {2023}
 }
 ```

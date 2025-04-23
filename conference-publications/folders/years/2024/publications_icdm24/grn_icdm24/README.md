@@ -5,7 +5,7 @@
 title = {Graph Rhythm Network: Beyond Energy Modeling for Deep Graph Neural Networks},
 author = {Jin, Yufei and Zhu, Xingquan},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {723-728},
+pages = {723--728},
 year = {2024}
 }
 ```

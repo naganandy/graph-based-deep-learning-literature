@@ -5,7 +5,7 @@
 title = {Graph Sampling based Fairness-aware Recommendation over Sensitive Attribute Removal},
 author = {S. Liu and G. Wu and X. Deng and H. Lu and B. Wang and L. Yang and J. J. Park},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {428-437},
+pages = {428--437},
 year = {2023}
 }
 ```

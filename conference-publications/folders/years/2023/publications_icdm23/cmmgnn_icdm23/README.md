@@ -5,7 +5,7 @@
 title = {Toward Interpretable Graph Neural Networks via Concept Matching Model},
 author = {T. Bui and W. Li},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {950-955},
+pages = {950--955},
 year = {2023}
 }
 ```

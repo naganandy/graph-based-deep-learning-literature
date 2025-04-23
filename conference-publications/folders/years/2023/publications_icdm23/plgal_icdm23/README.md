@@ -5,7 +5,7 @@
 title = {Pseudo-Labeling with Graph Active Learning for Few-shot Node Classification},
 author = {Q. Li and L. Chen and S. Jing and D. Wu},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1115-1120},
+pages = {1115--1120},
 year = {2023}
 }
 ```

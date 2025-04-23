@@ -5,7 +5,7 @@
 title = {Graph Reciprocal Neural Networks by Abstracting Node as Attribute},
 author = {L. Yang and J. Wang and D. He and C. Wang and X. Cao and B. Niu and Z. Wang},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1463-1468},
+pages = {1463--1468},
 year = {2023}
 }
 ```

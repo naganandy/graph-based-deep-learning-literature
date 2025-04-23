@@ -5,7 +5,7 @@
 title = {Adaptive Graph Neural Networks for Cold-Start Multimedia Recommendation},
 author = {Li, Zhen and Wang, Jibin and Chen, Zhuo and Wu, Kun and Wei, Yuanzhen and Huang, Hai},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {201-210},
+pages = {201--210},
 year = {2024}
 }
 ```

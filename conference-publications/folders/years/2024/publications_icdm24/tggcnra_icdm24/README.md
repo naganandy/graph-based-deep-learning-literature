@@ -5,7 +5,7 @@
 title = {Influence-Aware Group Recommendation for Social Media Propagation},
 author = {He, Chengkun and Zhou, Xiangmin and Wang, Chen and Cao, Longbing and Shao, Jie and Tari, Zahir},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {705-710},
+pages = {705--710},
 year = {2024}
 }
 ```

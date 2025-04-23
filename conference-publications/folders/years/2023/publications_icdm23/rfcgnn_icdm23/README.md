@@ -5,7 +5,7 @@
 title = {Mitigating Multisource Biases in Graph Neural Networks via Real Counterfactual Samples},
 author = {Z. Wang and G. Narasimhan and X. Yao and W. Zhang},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {638-647},
+pages = {638--647},
 year = {2023}
 }
 ```

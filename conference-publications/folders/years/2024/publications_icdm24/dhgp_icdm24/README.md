@@ -5,7 +5,7 @@
 title = {Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation},
 author = {Li, Ru-Bin and Chen, Man-Sheng and Ding, Xin-Yu and Wang, Chang-Dong and Xie, Sihong and Liu, Shuangyin and Chen, Min and Guizani, Mohsen},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {747-752},
+pages = {747--752},
 year = {2024}
 }
 ```

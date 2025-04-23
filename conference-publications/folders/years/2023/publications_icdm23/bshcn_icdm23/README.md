@@ -5,7 +5,7 @@
 title = {Bilateral Sequential Hypergraph Convolution Network for Reciprocal Recommendation},
 author = {J. Chen and H. Liu and H. Guo and Y. Du and Z. Wang and Y. Song and Z. Wu},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {974-979},
+pages = {974--979},
 year = {2023}
 }
 ```

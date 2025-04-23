@@ -5,7 +5,7 @@
 title = {Unfairness in Distributed Graph Frameworks},
 author = {H. Zhang and M. Jayaweera and B. Ren and Y. Wang and S. Soundarajan},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {1529-1534},
+pages = {1529--1534},
 year = {2023}
 }
 ```

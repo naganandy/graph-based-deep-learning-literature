@@ -5,7 +5,7 @@
 title = {Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding},
 author = {X. Jin and J. Li and Y. Xie and L. Chen and B. Kong and L. Cheng and B. Hu and Z. Li and Z. Zheng},
 booktitle = {2023 IEEE International Conference on Data Mining (ICDM)},
-pages = {190-199},
+pages = {190--199},
 year = {2023}
 }
 ```

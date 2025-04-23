@@ -5,7 +5,7 @@
 title = {HFGNN: Efficient Graph Neural Networks Using Hub-Fringe Structures},
 author = {Ip, Pak Lon and Zhang, Shenghui and Wei, Xuekai and Chan, Tsz Nam and U, Leong Hou},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {151-160},
+pages = {151--160},
 year = {2024}
 }
 ```

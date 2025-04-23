@@ -5,7 +5,7 @@
 title = {Zero-Shot Link Prediction in Knowledge Graphs with Large Language Models},
 author = {Li, Mingchen and Ling, Chen and Zhang, Rui and Zhao, Liang},
 booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
-pages = {753-760},
+pages = {753--760},
 year = {2024}
 }
 ```
