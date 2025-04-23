@@ -355,7 +355,6 @@
 - [Iterative Substructure Extraction for Molecular Relational Learning with Interactive Graph Information Bottleneck](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/igibise_iclr25/README.md)
 - [Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling, and Zero-Shot Transfer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/aageomgnn_iclr25/README.md)
 - [CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/clmfap_iclr25/README.md)
-- [Equivariant Masked Position Prediction for Efficient Molecular Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/empp_iclr25/README.md)
 - [Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/waloss_iclr25/README.md)
 - [Procedural Synthesis of Synthesizable Molecules](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/synthesisnet_iclr25/README.md)
 - [ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/shepherd_iclr25/README.md)
@@ -366,6 +365,7 @@
 
 
 # Equivariance
+- [Equivariant Masked Position Prediction for Efficient Molecular Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/empp_iclr25/README.md)
 - [E(3)-equivariant models cannot learn chirality: Field-based molecular generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/fmg_iclr25/README.md)
 - [GotenNet: Rethinking Efficient 3D Equivariant Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/gotennet_iclr25/README.md)
 - [Learning Equivariant Non-Local Electron Density Functionals](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/egxc_iclr25/README.md)
