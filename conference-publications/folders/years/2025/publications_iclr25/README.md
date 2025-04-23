@@ -66,9 +66,15 @@
 
 
 
+# Knowledge Distillation
+- [Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/mlffdistill_iclr25/README.md)
+- [A Graph Enhanced Symbolic Discovery Framework For Efficient Logic Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/gesd_iclr25/README.md)
+
+
+
 # Hypergraphs
-- [Training-Free Message Passing for Learning on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/tfhnn_iclr25/README.md)
 - [DistillHGNN: A Knowledge Distillation Approach for High-Speed Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/distillhgnn_iclr25/README.md)
+- [Training-Free Message Passing for Learning on Hypergraphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/tfhnn_iclr25/README.md)
 - [HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/hyperplr_iclr25/README.md)
 - [Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/hmssea_iclr25/README.md)
 
@@ -469,12 +475,6 @@
 - [GETS: Ensemble Temperature Scaling for Calibration in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/gets_iclr25/README.md)
 - [A Generic Framework for Conformal Fairness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/gfcf_iclr25/README.md)
 - [Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/lgnsde_iclr25/README.md)
-
-
-
-# Knowledge Distillation
-- [Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/mlffdistill_iclr25/README.md)
-- [A Graph Enhanced Symbolic Discovery Framework For Efficient Logic Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/gesd_iclr25/README.md)
 
 
 
