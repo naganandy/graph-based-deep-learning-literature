@@ -24,6 +24,7 @@
 - [FedGF: Enhancing Structural Knowledge via Graph Factorization for Federated Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/fedgf_wsdm25/README.md)
 - [HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/hhgt_wsdm25/README.md)
 - [Self-supervised Time-aware Heterogeneous Hypergraph Learning for Dynamic Graph-level Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/dyhgnet_wsdm25/README.md)
+- [Edge Classification on Graphs: New Directions in Topological Imbalance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/topoedge_wsdm25/README.md)
 
 
 
@@ -32,7 +33,6 @@
 
 
 
-- [Edge Classification on Graphs: New Directions in Topological Imbalance](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/topoedge_wsdm25/README.md)
 - [MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/mokgnn_wsdm25/README.md)
 - [An Aspect Performance-aware Hypergraph Neural Network for Review-based Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/aph_wsdm25/README.md)
 - [Improving CTR Prediction with Graph-Enhanced Interest Networks for Sparse Behavior Sequences](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_wsdm25/gein_wsdm25/README.md)
