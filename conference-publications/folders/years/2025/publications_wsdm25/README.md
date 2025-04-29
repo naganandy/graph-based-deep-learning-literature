@@ -1,4 +1,4 @@
-# [Submissions in WSDM 2025](https://www.wsdm-conference.org/2025/accepted-papers/)
+# [Publications in WSDM 2025](https://dl.acm.org/doi/proceedings/10.1145/3701551)
 
 
 
