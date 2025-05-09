@@ -13,6 +13,26 @@
 ## -------------------------------------------------------------------
 # [TheWebConf 2025 (May)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/README.md)
 
+
+- [SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/symage_webconf25/README.md)
+- [Leveraging Invariant Principle for Heterophilic Graph Structure Distribution Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hei_webconf25/README.md)
+- [G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/grefer_webconf25/README.md)
+- [Graph Wave Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/gwn_webconf25/README.md)
+- [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/spear_webconf25/README.md)
+- [SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/sehg_webconf25/README.md)
+- [Diffusion-based Graph-agnostic Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dgac_webconf25/README.md)
+- [Domain-Informed Negative Sampling Strategies for Dynamic Graph Embedding in Meme Stock-Related Social Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dins_webconf25/README.md)
+- [UniGO: A Unified Graph Neural Network for Modeling Opinion Dynamics on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/unigo_webconf25/README.md)
+- [NI-GDBA: Non-Intrusive Distributed Backdoor Attack Based on Adaptive Perturbation on Federated Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/nigdba_webconf25/README.md)
+
+
+
+<details>
+<summary> more </summary>
+
+
+
+
 - [Tackling Sparse Facts for Temporal Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/anel_webconf25/README.md)
 - [Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/mafedhgl_webconf25/README.md)
 - [Empowering Federated Graph Rationale Learning with Latent Environments](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/eada_webconf25/README.md)
@@ -21,7 +41,6 @@
 - [Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hqagae_webconf25/README.md)
 - [Achieving Personalized Privacy-Preserving Graph Neural Network via Topology Awareness](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/tdpgnn_webconf25/README.md)
 - [Str-GCL: Structural Commonsense Driven Graph Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/strgcl_webconf25/README.md)
-- [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/spear_webconf25/README.md)
 - [Nature Makes No Leaps: Building Continuous Location Embeddings with Satellite Imagery from the Web](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/satcle_webconf25/README.md)
 - [MGF-ESE: An Enhanced Semantic Extractor with Multi-Granularity Feature Fusion for Code Summarization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/mgfese_webconf25/README.md)
 - [Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/smile_webconf25/README.md)
@@ -29,16 +48,12 @@
 - [Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/ccdm_webconf25/README.md)
 - [Epidemiology-informed Network for Robust Rumor Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/ein_webconf25/README.md)
 - [Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/diffsp_webconf25/README.md)
-- [NI-GDBA: Non-Intrusive Distributed Backdoor Attack Based on Adaptive Perturbation on Federated Graph Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/nigdba_webconf25/README.md)
 - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/medrag_webconf25/README.md)
 - [Unveiling Discrete Clues: Superior Healthcare Predictions for Rare Diseases](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/udc_webconf25/README.md)
-- [Leveraging Invariant Principle for Heterophilic Graph Structure Distribution Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hei_webconf25/README.md)
-- [UniGO: A Unified Graph Neural Network for Modeling Opinion Dynamics on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/unigo_webconf25/README.md)
 - [RiemannGFM: Learning a Graph Foundation Model from Structural Geometry](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/riemanngfm_webconf25/README.md)
 - [GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/graphclip_webconf25/README.md)
 - [Beyond tip of the Iceberg: Debiased Self-training for Long-tailed Semi-supervised Node Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/iceberg_webconf25/README.md)
 - [Boosting Graph Convolution with Disparity-induced Structural Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dsr_webconf25/README.md)
-- [Graph Wave Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/gwn_webconf25/README.md)
 - [Hyperbolic Diffusion Recommender Model](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hdrm_webconf25/README.md)
 - [Semi-supervised Node Importance Estimation with Informative Distribution Modeling for Uncertainty Regularization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/easing_webconf25/README.md)
 - [LLGformer: Learnable Long-range Graph Transformer for Traffic Flow Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/llgformer_webconf25/README.md)
@@ -51,13 +66,11 @@
 - [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hysae_webconf25/README.md)
 - [Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hgcond_webconf25/README.md)
 - [Generalization Performance of Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/genhnn_webconf25/README.md)
-- [Diffusion-based Graph-agnostic Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dgac_webconf25/README.md)
 - [Robust Deep Signed Graph Clustering via Weak Balance Theory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dsgc_webconf25/README.md)
 - [GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/graphhash_webconf25/README.md)
 - [Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/aura_webconf25/README.md)
 - [Brewing Vodka: Distilling Pure Knowledge for Lightweight Threat Detection in Audit Logs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/brewvodka_webconf25/README.md)
 - [Towards Multimodal Inductive Learning: Adaptively Embedding MMKG via Prototypes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/indmkg_webconf25/README.md)
-- [SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/symage_webconf25/README.md)
 - [Logic-Aware Knowledge Graph Reasoning for Structural Sparsity under Large Language Model Supervision](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/lollm_webconf25/README.md)
 - [Subgraph-Aware Training of Language Models for Knowledge Graph Completion Using Structure-Aware Contrastive Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/satkgc_webconf25/README.md)
 - [Hyper-Relational Knowledge Representation Learning with Multi-Hypergraph Disentanglement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/mhd_webconf25/README.md)
@@ -73,12 +86,10 @@
 - [Disentangled Condensation for Large-scale Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/disco_webconf25/README.md)
 - [STKOpt: Automated Spatio-Temporal Knowledge Optimization for Traffic Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/stkopt_webconf25/README.md)
 - [LP-DIXIT: Evaluating Explanations for Link Prediction on Knowledge Graphs using Large Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/lpdixit_webconf25/README.md)
-- [SEHG: Bridging Interpretability and Prediction in Self-Explainable Heterogeneous Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/sehg_webconf25/README.md)
 - [Hyperbolic-Euclidean Deep Mutual Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hedml_webconf25/README.md)
 - [Heterogeneous Graph Transfer Learning for Category-aware Cross-Domain Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hgtl_webconf25/README.md)
 - [Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/break_webconf25/README.md)
 - [On the Cross-Graph Transferability of Dynamic Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/crossdyg_webconf25/README.md)
-- [Domain-Informed Negative Sampling Strategies for Dynamic Graph Embedding in Meme Stock-Related Social Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dins_webconf25/README.md)
 - [Ranking on Dynamic Graphs: An Effective and Robust Band-Pass Disentangled Approach](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/bandrank_webconf25/README.md)
 - [TESA: A Trajectory and Semantic-aware Dynamic Heterogeneous Graph Neural Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/tesa_webconf25/README.md)
 - [Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dgu_webconf25/README.md)
@@ -95,7 +106,6 @@
 - [FG-CIBGC: A Unified Framework for Fine-Grained and Class-Incremental Behavior Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/fgcibgc_webconf25/README.md)
 - [Automatic Instruction Data Selection for Large Language Models via Uncertainty-Aware Influence Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/unimax_webconf25/README.md)
 - [Unleashing the Power of Large Language Model for Denoising Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/llard_webconf25/README.md)
-- [G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/grefer_webconf25/README.md)
 - [Instruction Vulnerability Prediction for WebAssembly with Semantic Enhanced Code Property Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/ivpseg_webconf25/README.md)
 - [P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/p4gcn_webconf25/README.md)
 - [Hypergraph-based Zero-shot Multi-modal Product Attribute Value Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hzsmm_webconf25/README.md)
@@ -112,6 +122,10 @@
 - [Rumor Detection on Social Media with Reinforcement Learning-based Key Propagation Graph Generator](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/kpg_webconf25/README.md)
 - [Conformal Graph-level Out-of-distribution Detection with Adaptive Data Augmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/cgod_webconf25/README.md)
 - [Uncertainty-aware Graph Structure Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/ungsl_webconf25/README.md)
+
+
+
+</details>
 
 
 
