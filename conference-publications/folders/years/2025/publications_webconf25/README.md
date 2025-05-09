@@ -12,7 +12,6 @@
 - [Diffusion-based Graph-agnostic Clustering](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dgac_webconf25/README.md)
 - [Robust Deep Signed Graph Clustering via Weak Balance Theory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dsgc_webconf25/README.md)
 - [GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/graphhash_webconf25/README.md)
-- [Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/aura_webconf25/README.md)
 
 
 
@@ -48,6 +47,15 @@
 # Autoencoders
 - [Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hqagae_webconf25/README.md)
 - [Hyperbolic Variational Graph Auto-Encoder for Next POI Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hvgae_webconf25/README.md)
+
+
+
+# Hypergraphs
+- [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hysae_webconf25/README.md)
+- [Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hgcond_webconf25/README.md)
+- [Hypergraph-based Zero-shot Multi-modal Product Attribute Value Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hzsmm_webconf25/README.md)
+- [Generalization Performance of Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/genhnn_webconf25/README.md)
+- [Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/aura_webconf25/README.md)
 
 
 
@@ -114,14 +122,6 @@
 # Unlearning
 - [Subgraph Federated Unlearning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/rfps_webconf25/README.md)
 - [Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/dgu_webconf25/README.md)
-
-
-
-# Hypergraphs
-- [HySAE: An Efficient Semantic-Enhanced Representation Learning Model for Knowledge Hypergraph Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hysae_webconf25/README.md)
-- [Exploring Hypergraph Condensation via Variational Hyperedge Generation and Multi-Aspectual Amelioration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hgcond_webconf25/README.md)
-- [Hypergraph-based Zero-shot Multi-modal Product Attribute Value Extraction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/hzsmm_webconf25/README.md)
-- [Generalization Performance of Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_webconf25/genhnn_webconf25/README.md)
 
 
 
