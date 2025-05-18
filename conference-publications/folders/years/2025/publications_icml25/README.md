@@ -58,12 +58,7 @@
 # Heterophily
 - [Multi-View Graph Clustering via Node-Guided Contrastive Encoding](https://icml.cc/Conferences/2025/Schedule?showEvent=46161)
 - [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](https://icml.cc/Conferences/2025/Schedule?showEvent=43944)
-
-
-
-# Homophily
 - [Homophily Enhanced Graph Domain Adaptation](https://icml.cc/Conferences/2025/Schedule?showEvent=45180)
-- [HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45156)
 
 
 
@@ -313,6 +308,7 @@
 
 
 # Hypergraphs
+- [HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45156)
 - [EduLLM: Leveraging Large Language Models and Framelet-Based Signed Hypergraph Neural Networks for Student Performance Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=46399)
 - [SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models](https://icml.cc/Conferences/2025/Schedule?showEvent=46524)
 - [Improved Expressivity of Hypergraph Neural Networks through High-Dimensional Generalized Weisfeiler-Leman Algorithms](https://icml.cc/Conferences/2025/Schedule?showEvent=44021)
