@@ -26,6 +26,7 @@
 - [Graph Generative Pre-trained Transformer](https://icml.cc/Conferences/2025/Schedule?showEvent=45870)
 - [Multimodal Medical Code Tokenizer](https://icml.cc/Conferences/2025/Schedule?showEvent=45110)
 - [Graph4MM: Weaving Multimodal Learning with Structural Information](https://icml.cc/Conferences/2025/Schedule?showEvent=45904)
+- [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://icml.cc/Conferences/2025/Schedule?showEvent=45167)
 
 
 
@@ -34,7 +35,6 @@
 - [Equivalence is All: A Unified View for Self-supervised Graph Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44874)
 - [From Theory to Practice: Rethinking Green and Martin Kernels for Unleashing Graph Transformers](https://icml.cc/Conferences/2025/Schedule?showEvent=44592)
 - [Simple Path Structural Encoding for Graph Transformers](https://icml.cc/Conferences/2025/Schedule?showEvent=43794)
-- [Learnable Spatial-Temporal Positional Encoding for Link Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=45924)
 - [Complete-Tree Space Favors Data-Efficient Link Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=46661)
 - [GrokFormer: Graph Fourier Kolmogorov-Arnold Transformers](https://icml.cc/Conferences/2025/Schedule?showEvent=43630)
 
@@ -48,9 +48,15 @@
 
 
 
+# Uncertainty
+- [GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=43591)
+- [Learning Latent Graph Structures and their Uncertainty](https://icml.cc/Conferences/2025/Schedule?showEvent=45179)
+- [Uncertainty Estimation for Heterophilic Graphs Through the Lens of Information Theory](https://icml.cc/Conferences/2025/Schedule?showEvent=45844)
+
+
+
 # Heterophily
 - [Multi-View Graph Clustering via Node-Guided Contrastive Encoding](https://icml.cc/Conferences/2025/Schedule?showEvent=46161)
-- [Uncertainty Estimation for Heterophilic Graphs Through the Lens of Information Theory](https://icml.cc/Conferences/2025/Schedule?showEvent=45844)
 - [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](https://icml.cc/Conferences/2025/Schedule?showEvent=43944)
 
 
@@ -62,28 +68,28 @@
 
 
 # Oversmoothing
-- [Graph Attention is Not Always Beneficial: A Theoretical Analysis of Graph Attention Mechanisms via Contextual Stochastic Block Models](https://icml.cc/Conferences/2025/Schedule?showEvent=46423)
-- [Adaptive Message Passing: A General Framework to Mitigate Oversmoothing, Oversquashing, and Underreaching](https://icml.cc/Conferences/2025/Schedule?showEvent=44906)
-- [Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification](https://icml.cc/Conferences/2025/Schedule?showEvent=45487)
 - [Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence](https://icml.cc/Conferences/2025/Schedule?showEvent=44865)
 - [On the Interplay between Graph Structure and Learning Algorithms in Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45447)
 - [A Dynamical Systems-Inspired Pruning Strategy for Addressing Oversmoothing in Graph Attention Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46508)
+- [Adaptive Message Passing: A General Framework to Mitigate Oversmoothing, Oversquashing, and Underreaching](https://icml.cc/Conferences/2025/Schedule?showEvent=44906)
 
 
 
 # Oversquashing
-- [Improving the Effective Receptive Field of Message-Passing Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45345)
 - [What makes a good feedforward computational graph?](https://icml.cc/Conferences/2025/Schedule?showEvent=43635)
+- [Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification](https://icml.cc/Conferences/2025/Schedule?showEvent=45487)
 - [ENAHPool: The Edge-Node Attention-based Hierarchical Pooling for Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=43473)
 
 
 
-# Long-Range Dependencies
+# Long-range Dependencies
 - [On Measuring Long-Range Interactions in Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46575)
+- [Improving the Effective Receptive Field of Message-Passing Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45345)
 
 
 
 # Stochastic Block Models
+- [Graph Attention is Not Always Beneficial: A Theoretical Analysis of Graph Attention Mechanisms via Contextual Stochastic Block Models](https://icml.cc/Conferences/2025/Schedule?showEvent=46423)
 - [SBGD: Improving Graph Diffusion Generative Model via Stochastic Block Diffusion](https://icml.cc/Conferences/2025/Schedule?showEvent=45891)
 
 
@@ -95,27 +101,13 @@
 
 
 
-# Graph Matching
-- [Neural Graph Matching Improves Retrieval Augmented Generation in Small Molecule Mass Spectrum Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=44092)
-- [Learning without Isolation: Pathway Protection for Continual Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=46536)
-
-
-
-# Structure Learning
-- [Learning Latent Graph Structures and their Uncertainty](https://icml.cc/Conferences/2025/Schedule?showEvent=45179)
-
-
-
-# Uncertainty
-- [GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=43591)
-
-
-
 # Adversarial Learning
 - [Self-supervised Adversarial Purification for Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=43540)
 - [CEGA: A Cost-Effective Approach for Graph-Based Model Extraction Attacks](https://icml.cc/Conferences/2025/Schedule?showEvent=45765)
 - [Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets](https://icml.cc/Conferences/2025/Schedule?showEvent=44947)
 - [Adversarial Robust Generalization of Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46457)
+- [A shot of Cognac to forget bad memories: Corrective Unlearning in GNNs](https://icml.cc/Conferences/2025/Schedule?showEvent=44563)
+- [MemFreezing: A Novel Adversarial Attack on Temporal Graph Neural Networks under Limited Future Knowledge](https://icml.cc/Conferences/2025/Schedule?showEvent=43931)
 
 
 
@@ -123,18 +115,28 @@
 - [FDGen: A Fairness-Aware Graph Generation Model](https://icml.cc/Conferences/2025/Schedule?showEvent=46368)
 - [DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=45227)
 - [Stable Fair Graph Representation Learning with Lipschitz Constraint](https://icml.cc/Conferences/2025/Schedule?showEvent=44069)
-- [TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45244)
 
 
 
 # Federated Learning
 - [Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance](https://icml.cc/Conferences/2025/Schedule?showEvent=46305)
 - [GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention](https://icml.cc/Conferences/2025/Schedule?showEvent=44117)
-- [Efficient Federated Incomplete Multi-View Clustering](https://icml.cc/Conferences/2025/Schedule?showEvent=43800)
 - [Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective](https://icml.cc/Conferences/2025/Schedule?showEvent=43607)
-- [Federated Node-Level Clustering Network with Corss-Subgraph Link Mending](https://icml.cc/Conferences/2025/Schedule?showEvent=46550)
 - [$S^2$FGL: Spatial Spectral Federated Graph Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44020)
 - [EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification](https://icml.cc/Conferences/2025/Schedule?showEvent=46105)
+
+
+
+# Federated Clustering
+- [Federated Node-Level Clustering Network with Corss-Subgraph Link Mending](https://icml.cc/Conferences/2025/Schedule?showEvent=46550)
+- [Efficient Federated Incomplete Multi-View Clustering](https://icml.cc/Conferences/2025/Schedule?showEvent=43800)
+
+
+
+# Clustering
+- [Cover learning for large-scale topology representation](https://icml.cc/Conferences/2025/Schedule?showEvent=44511)
+- [From Spectrum-free towards Baseline-view-free: Double-track Proximity Driven Multi-view Clustering](https://icml.cc/Conferences/2025/Schedule?showEvent=46260)
+- [GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation](https://icml.cc/Conferences/2025/Schedule?showEvent=45355)
 
 
 
@@ -147,42 +149,52 @@
 
 
 
-# Clustering
-- [Cover learning for large-scale topology representation](https://icml.cc/Conferences/2025/Schedule?showEvent=44511)
-- [From Spectrum-free towards Baseline-view-free: Double-track Proximity Driven Multi-view Clustering](https://icml.cc/Conferences/2025/Schedule?showEvent=46260)
-- [GraphCL: Graph-based Clustering for Semi-Supervised Medical Image Segmentation](https://icml.cc/Conferences/2025/Schedule?showEvent=45355)
-
-
-
 # Subgraphs
 - [Implicit Subgraph Neural Network](https://icml.cc/Conferences/2025/Schedule?showEvent=45327)
 - [Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes](https://icml.cc/Conferences/2025/Schedule?showEvent=44212)
-- [RISE: Radius of Influence based Subgraph Extraction for 3D Molecular Graph Explanation](https://icml.cc/Conferences/2025/Schedule?showEvent=44150)
 - [GPEN: Global Position Encoding Network for Enhanced Subgraph Representation Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=46329)
 - [TopInG: Topologically Interpretable  Graph Learning via Persistent Rationale Filtration](https://icml.cc/Conferences/2025/Schedule?showEvent=43748)
+- [RISE: Radius of Influence based Subgraph Extraction for 3D Molecular Graph Explanation](https://icml.cc/Conferences/2025/Schedule?showEvent=44150)
 - [Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality](https://icml.cc/Conferences/2025/Schedule?showEvent=44678)
 
 
 
-# Expressivity
+# Positional Encodings
+- [Learnable Spatial-Temporal Positional Encoding for Link Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=45924)
+- [Positional encoding meets persistent homology on graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=46612)
+
+
+
+# Scalability
 - [Haste Makes Waste: A Simple Approach for Scaling Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45271)
+- [Unifews: You Need Fewer Operations for Efficient Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45740)
+- [Adapting Precomputed Features for Efficient Graph Condensation](https://icml.cc/Conferences/2025/Schedule?showEvent=45162)
+
+
+
+# Expressivity
+- [Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win](https://icml.cc/Conferences/2025/Schedule?showEvent=46332)
 - [Covered Forest: Fine-grained generalization analysis of graph neural networks](https://icml.cc/Conferences/2025/Schedule?showEvent=43559)
 - [Enhancing Spectral GNNs: From Topology and Perturbation Perspectives](https://icml.cc/Conferences/2025/Schedule?showEvent=45423)
+- [WILTing Trees: Interpreting the Distance Between MPNN Embeddings](https://icml.cc/Conferences/2025/Schedule?showEvent=44188)
 - [Neural Graph Pattern Machine](https://icml.cc/Conferences/2025/Schedule?showEvent=44748)
 - [Rhomboid Tiling clustering for geometric graph deep learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44198)
 - [Diss-l-ECT: Dissecting Graph Data with local Euler Characteristic Transforms](https://icml.cc/Conferences/2025/Schedule?showEvent=45849)
-- [Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win](https://icml.cc/Conferences/2025/Schedule?showEvent=46332)
 - [Test-Time Graph Neural Dataset Search With Generative Projection](https://icml.cc/Conferences/2025/Schedule?showEvent=46295)
 - [PRUNING For GNNs: HIGHER EXPRESSIVENESS, LOWER COMPLEXITY](https://icml.cc/Conferences/2025/Schedule?showEvent=46397)
-- [Positional encoding meets persistent homology on graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=46612)
+
+
+
+# Topological Deep Learning
 - [Contrastive Learning with Simplicial Convolutional Networks for Short-Text Classification](https://icml.cc/Conferences/2025/Schedule?showEvent=45750)
+- [TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45244)
 
 
 
 # Explainability
 - [Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective](https://icml.cc/Conferences/2025/Schedule?showEvent=44141)
+- [COMRECGC: Global Graph Counterfactual Explainer through Common Recourse](https://icml.cc/Conferences/2025/Schedule?showEvent=43939)
 - [Redundancy Undermines the Trustworthiness of Self-Interpretable GNNs](https://icml.cc/Conferences/2025/Schedule?showEvent=44426)
-- [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=46192)
 - [On Explaining Equivariant Graph Networks via Improved Relevance Propagation](https://icml.cc/Conferences/2025/Schedule?showEvent=45859)
 - [Graph Inverse Style Transfer for Counterfactual Explainability](https://icml.cc/Conferences/2025/Schedule?showEvent=46421)
 - [Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes](https://icml.cc/Conferences/2025/Schedule?showEvent=44529)
@@ -195,6 +207,7 @@
 - [Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](https://icml.cc/Conferences/2025/Schedule?showEvent=45656)
 - [Open Materials Generation with Stochastic Interpolants](https://icml.cc/Conferences/2025/Schedule?showEvent=44483)
 - [Graph Adaptive Autoregressive Moving Average Models](https://icml.cc/Conferences/2025/Schedule?showEvent=45132)
+- [Large Language-Geometry Model: When LLM meets Equivariance](https://icml.cc/Conferences/2025/Schedule?showEvent=45326)
 
 
 
@@ -210,6 +223,7 @@
 - [Relational Invariant Learning for Robust Solvation Free Energy Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=43578)
 - [Disentangling Invariant Subgraph via Variance Contrastive Estimation under Distribution Shifts](https://icml.cc/Conferences/2025/Schedule?showEvent=44901)
 - [Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation](https://icml.cc/Conferences/2025/Schedule?showEvent=45274)
+- [GCAL: Adapting Graph Models to Evolving Domain Shifts](https://icml.cc/Conferences/2025/Schedule?showEvent=43474)
 
 
 
@@ -222,9 +236,8 @@
 
 
 # Atoms
-- [Reaction Graph: Towards Reaction-Level Modeling for Chemical Reactions with 3D Structures](https://icml.cc/Conferences/2025/Schedule?showEvent=45081)
 - [Pretraining Generative Flow Networks with Inexpensive Rewards for Molecular Graph Generation](https://icml.cc/Conferences/2025/Schedule?showEvent=43446)
-- [RelGNN: Composite Message Passing for Relational Deep Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44955)
+- [Reaction Graph: Towards Reaction-Level Modeling for Chemical Reactions with 3D Structures](https://icml.cc/Conferences/2025/Schedule?showEvent=45081)
 
 
 
@@ -238,13 +251,11 @@
 - [SDMG: Smoothing Your Diffusion Models for Powerful Graph Representation Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44201)
 - [Graph Diffusion for Offline Multi-Agent Coordination](https://icml.cc/Conferences/2025/Schedule?showEvent=45189)
 - [Critical Iterative Denoising: A Discrete Generative Model Applied to Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=44256)
-- [Noise-Guided Predicate Representation Extraction and Diffusion-Enhanced Discretization for Scene Graph Generation](https://icml.cc/Conferences/2025/Schedule?showEvent=43766)
 
 
 
 # AutoEncoders
 - [Pre-Training Graph Contrastive Masked Autoencoders are Strong Distillers for EEG](https://icml.cc/Conferences/2025/Schedule?showEvent=44482)
-- [SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval](https://icml.cc/Conferences/2025/Schedule?showEvent=43841)
 - [Self-supervised Masked Graph Autoencoder via Structure-aware Curriculum](https://icml.cc/Conferences/2025/Schedule?showEvent=46366)
 
 
@@ -257,7 +268,6 @@
 
 # Knowledge Distillation
 - [Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation](https://icml.cc/Conferences/2025/Schedule?showEvent=45684)
-- [WILTing Trees: Interpreting the Distance Between MPNN Embeddings](https://icml.cc/Conferences/2025/Schedule?showEvent=44188)
 - [Bridging Layout and RTL: Knowledge Distillation based Timing Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=43998)
 - [TINED: GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation](https://icml.cc/Conferences/2025/Schedule?showEvent=44094)
 
@@ -276,32 +286,34 @@
 # Time Series
 - [Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series](https://icml.cc/Conferences/2025/Schedule?showEvent=44115)
 - [HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=43741)
-- [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://icml.cc/Conferences/2025/Schedule?showEvent=45167)
 - [TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=46502)
 - [Relational Conformal Prediction for Correlated Time Series](https://icml.cc/Conferences/2025/Schedule?showEvent=43601)
 - [FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=44031)
 
 
 
-# Temporal Data
-- [KGMark: A Diffusion Watermark for Knowledge Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=45835)
-- [CSG-ODE: ControlSynth Graph ODE For Modeling Complex Evolution of Dynamic Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=46309)
-- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=43964)
-- [Non-Stationary Predictions May Be More Informative: Exploring Pseudo-Labels with a Two-Phase Pattern of Training Dynamics](https://icml.cc/Conferences/2025/Schedule?showEvent=44953)
+# Dynamic Graphs
 - [CoDy: Counterfactual Explainers for Dynamic Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=45900)
-- [Information Bottleneck-guided MLPs for Robust Spatial-temporal Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=43981)
-- [Learning Changes in Graphon Attachment Network Models](https://icml.cc/Conferences/2025/Schedule?showEvent=45662)
-- [MemFreezing: A Novel Adversarial Attack on Temporal Graph Neural Networks under Limited Future Knowledge](https://icml.cc/Conferences/2025/Schedule?showEvent=43931)
-- [A Selective Learning Method for Temporal Graph Continual Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=46118)
-- [TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](https://icml.cc/Conferences/2025/Schedule?showEvent=46231)
-- [EduLLM: Leveraging Large Language Models and Framelet-Based Signed Hypergraph Neural Networks for Student Performance Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=46399)
-- [Expressive Geometric Generative Modeling with Noise Conditioned Graph Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46557)
-- [Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph](https://icml.cc/Conferences/2025/Schedule?showEvent=43816)
 - [TMetaNet: Topological Meta-Learning Framework for Dynamic Link Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=46188)
 
 
 
+# Temporal Data
+- [CSG-ODE: ControlSynth Graph ODE For Modeling Complex Evolution of Dynamic Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=46309)
+- [Robust Spatio-Temporal Centralized Interaction for OOD Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=43964)
+- [Non-Stationary Predictions May Be More Informative: Exploring Pseudo-Labels with a Two-Phase Pattern of Training Dynamics](https://icml.cc/Conferences/2025/Schedule?showEvent=44953)
+- [Information Bottleneck-guided MLPs for Robust Spatial-temporal Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=43981)
+- [Learning Changes in Graphon Attachment Network Models](https://icml.cc/Conferences/2025/Schedule?showEvent=45662)
+- [A Selective Learning Method for Temporal Graph Continual Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=46118)
+- [TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](https://icml.cc/Conferences/2025/Schedule?showEvent=46231)
+- [Expressive Geometric Generative Modeling with Noise Conditioned Graph Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46557)
+- [Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph](https://icml.cc/Conferences/2025/Schedule?showEvent=43816)
+- [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://icml.cc/Conferences/2025/Schedule?showEvent=46192)
+
+
+
 # Hypergraphs
+- [EduLLM: Leveraging Large Language Models and Framelet-Based Signed Hypergraph Neural Networks for Student Performance Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=46399)
 - [SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models](https://icml.cc/Conferences/2025/Schedule?showEvent=46524)
 - [Improved Expressivity of Hypergraph Neural Networks through High-Dimensional Generalized Weisfeiler-Leman Algorithms](https://icml.cc/Conferences/2025/Schedule?showEvent=44021)
 - [Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44143)
@@ -317,22 +329,28 @@
 
 
 # Knowledge Graphs
-- [Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=46565)
 - [Retrieval-Augmented Language Model for Knowledge-aware Protein Encoding](https://icml.cc/Conferences/2025/Schedule?showEvent=45183)
+- [KGMark: A Diffusion Watermark for Knowledge Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=45835)
+- [Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs](https://icml.cc/Conferences/2025/Schedule?showEvent=46565)
 - [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning](https://icml.cc/Conferences/2025/Schedule?showEvent=45220)
 - [Stability and Generalization Capability of Subgraph Reasoning Models for Inductive Knowledge Graph Completion](https://icml.cc/Conferences/2025/Schedule?showEvent=45513)
 - [GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation](https://icml.cc/Conferences/2025/Schedule?showEvent=46217)
 
 
 
+# Scene Graphs
+- [Noise-Guided Predicate Representation Extraction and Diffusion-Enhanced Discretization for Scene Graph Generation](https://icml.cc/Conferences/2025/Schedule?showEvent=43766)
+- [SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval](https://icml.cc/Conferences/2025/Schedule?showEvent=43841)
+
+
+
 # Language Models
-- [Enhancing Graph Invariant Learning from a Negative Inference Perspective](https://icml.cc/Conferences/2025/Schedule?showEvent=46664)
 - [Fine-Grained Video Captioning through Scene Graph Consolidation](https://icml.cc/Conferences/2025/Schedule?showEvent=44795)
+- [Enhancing Graph Invariant Learning from a Negative Inference Perspective](https://icml.cc/Conferences/2025/Schedule?showEvent=46664)
 
 
 
 # Large Language Models
-- [Large Language-Geometry Model: When LLM meets Equivariance](https://icml.cc/Conferences/2025/Schedule?showEvent=45326)
 - [Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data](https://icml.cc/Conferences/2025/Schedule?showEvent=46653)
 - [Hierarchical Graph Tokenization for Molecule-Language Alignment](https://icml.cc/Conferences/2025/Schedule?showEvent=43604)
 - [LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification](https://icml.cc/Conferences/2025/Schedule?showEvent=45114)
@@ -364,7 +382,6 @@
 
 # Recommendation
 - [Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation](https://icml.cc/Conferences/2025/Schedule?showEvent=45307)
-- [COMRECGC: Global Graph Counterfactual Explainer through Common Recourse](https://icml.cc/Conferences/2025/Schedule?showEvent=43939)
 - [No Metric to Rule Them All: Toward Principled Evaluations of Graph-Learning Datasets](https://icml.cc/Conferences/2025/Schedule?showEvent=44954)
 - [Implicit degree bias in the link prediction task](https://icml.cc/Conferences/2025/Schedule?showEvent=44481)
 - [Flow Matching for Denoised Social Recommendation](https://icml.cc/Conferences/2025/Schedule?showEvent=44451)
@@ -378,22 +395,18 @@
 
 
 # Hyperbolic Geometry
+- [Hyperbolic Graph Transformer for Collaborative Filtering](https://icml.cc/Conferences/2025/Schedule?showEvent=44203)
 - [CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection](https://icml.cc/Conferences/2025/Schedule?showEvent=45460)
 - [Mixed-curvature decision trees and random forests](https://icml.cc/Conferences/2025/Schedule?showEvent=43603)
-- [Hyperbolic Graph Transformer for Collaborative Filtering](https://icml.cc/Conferences/2025/Schedule?showEvent=44203)
 - [Analytical Construction on Geometric Architectures: Transitioning from Static to Temporal Link Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=46676)
 - [Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations](https://icml.cc/Conferences/2025/Schedule?showEvent=45129)
 - [Curvature-aware Graph Attention for PDEs on Manifolds](https://icml.cc/Conferences/2025/Schedule?showEvent=43668)
 
 
 
-# Unlearning
-- [A shot of Cognac to forget bad memories: Corrective Unlearning in GNNs](https://icml.cc/Conferences/2025/Schedule?showEvent=44563)
-
-
-
-# Algorithmic Reasoning
-- [Primal-Dual Neural Algorithmic Reasoning](https://icml.cc/Conferences/2025/Schedule?showEvent=44369)
+# Graph Matching
+- [Neural Graph Matching Improves Retrieval Augmented Generation in Small Molecule Mass Spectrum Prediction](https://icml.cc/Conferences/2025/Schedule?showEvent=44092)
+- [Learning without Isolation: Pathway Protection for Continual Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=46536)
 
 
 
@@ -418,11 +431,6 @@
 
 
 
-# Circuits
-- [AnalogGenie-Lite: Enhancing Scalability and Precision in Circuit Topology Discovery through Lightweight Graph Modeling](https://icml.cc/Conferences/2025/Schedule?showEvent=45643)
-
-
-
 # Benchmarks
 - [FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=44172)
 - [Distributed Conformal Prediction via Message Passing](https://icml.cc/Conferences/2025/Schedule?showEvent=45295)
@@ -437,11 +445,11 @@
 # Miscellaneous
 - [G-Adaptivity: optimised graph-based mesh relocation for finite element methods](https://icml.cc/Conferences/2025/Schedule?showEvent=43974)
 - [EARTH: Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph](https://icml.cc/Conferences/2025/Schedule?showEvent=46041)
-- [Unifews: You Need Fewer Operations for Efficient Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=45740)
-- [GCAL: Adapting Graph Models to Evolving Domain Shifts](https://icml.cc/Conferences/2025/Schedule?showEvent=43474)
 - [Commute Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46600)
 - [Propagate and Inject: Revisiting Propagation-Based Feature Imputation for Graphs with Partially Observed Features](https://icml.cc/Conferences/2025/Schedule?showEvent=45329)
 - [A General Graph Spectral Wavelet Convolution via Chebyshev Order Decomposition](https://icml.cc/Conferences/2025/Schedule?showEvent=45116)
 - [Predictive Consistency Learning with Gradual Label Modeling](https://icml.cc/Conferences/2025/Schedule?showEvent=45890)
 - [Towards characterizing the value of edge embeddings in Graph Neural Networks](https://icml.cc/Conferences/2025/Schedule?showEvent=46181)
-- [Adapting Precomputed Features for Efficient Graph Condensation](https://icml.cc/Conferences/2025/Schedule?showEvent=45162)
+- [RelGNN: Composite Message Passing for Relational Deep Learning](https://icml.cc/Conferences/2025/Schedule?showEvent=44955)
+- [Primal-Dual Neural Algorithmic Reasoning](https://icml.cc/Conferences/2025/Schedule?showEvent=44369)
+- [AnalogGenie-Lite: Enhancing Scalability and Precision in Circuit Topology Discovery through Lightweight Graph Modeling](https://icml.cc/Conferences/2025/Schedule?showEvent=45643)
