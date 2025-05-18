@@ -277,7 +277,7 @@
 - [KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/kaa_iclr25/README.md)
 - [Learning Graph Quantized Tokenizers](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/gqt_iclr25/README.md)
 - [Learning Efficient Positional Encodings with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/pearl_iclr25/README.md)
-- [Biologically Plausible Brain Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/biobgt_iclr25/README.md)``
+- [Biologically Plausible Brain Graph Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iclr25/biobgt_iclr25/README.md)
 
 
 
