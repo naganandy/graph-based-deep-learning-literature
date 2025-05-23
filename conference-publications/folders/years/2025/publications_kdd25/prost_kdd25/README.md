@@ -5,7 +5,7 @@
 title = {ProST: Prompt Future Snapshot on Dynamic Graphs for Spatio-Temporal Prediction},
 author = {Xia, Kaiwen and Lin, Li and Wang, Shuai and Zhang, Qi and Wang, Shuai and He, Tian},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1645–1656},
+pages = {1645--1656},
 year = {2025}
 }
 ```

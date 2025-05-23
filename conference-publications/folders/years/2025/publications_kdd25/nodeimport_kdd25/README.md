@@ -13,7 +13,7 @@ I
 : Imbalanced Node Classification with Node Importance Assessment},
 author = {Chen, Nan and Liu, Zemin and Hooi, Bryan and He, Bingsheng and Hu, Jun and Chen, Jia},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {94–105},
+pages = {94--105},
 year = {2025}
 }
 ```

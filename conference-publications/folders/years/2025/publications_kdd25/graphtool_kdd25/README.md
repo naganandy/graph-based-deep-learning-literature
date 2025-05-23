@@ -5,7 +5,7 @@
 title = {GraphTool-Instruction: Revolutionizing Graph Reasoning in LLMs through Decomposed Subtask Instruction},
 author = {Wang, Rongzheng and Liang, Shuang and Chen, Qizhi and Zhang, Jiasheng and Qin, Ke},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1492–1503},
+pages = {1492--1503},
 year = {2025}
 }
 ```

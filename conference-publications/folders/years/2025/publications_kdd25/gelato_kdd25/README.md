@@ -5,7 +5,7 @@
 title = {Attribute-Enhanced Similarity Ranking for Sparse Link Prediction},
 author = {Mattos, Joao and Huang, Zexi and Kosan, Mert and Singh, Ambuj and Silva, Arlei},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1044–1055},
+pages = {1044--1055},
 year = {2025}
 }
 ```

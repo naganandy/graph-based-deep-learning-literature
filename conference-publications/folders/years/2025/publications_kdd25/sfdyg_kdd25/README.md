@@ -5,7 +5,7 @@
 title = {Input Snapshots Fusion for Scalable Discrete-Time Dynamic Graph Neural Networks},
 author = {Qi, QingGuo and Chen, Hongyang and Cheng, Minhao and Liu, Han},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1138–1149},
+pages = {1138--1149},
 year = {2025}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Fast and Accurate Temporal Hypergraph Representation for Hyperedge Prediction},
 author = {Xu, Yuanyuan and Zhang, Wenjie and Zhang, Ying and Xu, Xiwei and Lin, Xuemin},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1727–1738},
+pages = {1727--1738},
 year = {2025}
 }
 ```

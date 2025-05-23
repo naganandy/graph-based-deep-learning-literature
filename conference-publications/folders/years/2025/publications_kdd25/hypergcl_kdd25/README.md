@@ -5,7 +5,7 @@
 title = {Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning},
 author = {Zhang, Yifei and Zhu, Hao and Yang, Menglin and Liu, Jiahong and Ying, Rex and King, Irwin and Koniusz, Piotr},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1984–1995},
+pages = {1984--1995},
 year = {2025}
 }
 ```

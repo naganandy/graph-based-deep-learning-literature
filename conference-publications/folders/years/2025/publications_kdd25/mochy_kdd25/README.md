@@ -5,7 +5,7 @@
 title = {Hypergraph Motif Representation Learning},
 author = {Antelmi, Alessia and Cordasco, Gennaro and De Vinco, Daniele and Di Pasquale, Valerio and Polato, Mirko and Spagnuolo, Carmine},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {13–24},
+pages = {13--24},
 year = {2025}
 }
 ```

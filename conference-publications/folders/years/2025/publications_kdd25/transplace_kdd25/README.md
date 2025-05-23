@@ -5,7 +5,7 @@
 title = {TransPlace: Transferable Circuit Global Placement via Graph Neural Network},
 author = {Hou, Yunbo and Ye, Haoran and Yang, Shuwen and Zhang, Yingxue and Xu, Siyuan and Song, Guojie},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {484–495},
+pages = {484--495},
 year = {2025}
 }
 ```

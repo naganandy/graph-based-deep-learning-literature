@@ -5,7 +5,7 @@
 title = {Stealing Training Graphs from Graph Neural Networks},
 author = {Lin, Minhua and Dai, Enyan and Xu, Junjie and Jia, Jinyuan and Zhang, Xiang and Wang, Suhang},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {777–788},
+pages = {777--788},
 year = {2025}
 }
 ```

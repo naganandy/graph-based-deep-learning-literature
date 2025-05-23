@@ -5,7 +5,7 @@
 title = {Graph Contrastive Learning with Progressive Augmentations},
 author = {Zhao, Yuhai and Wang, Yejiang and Wang, Zhengkui and Shan, Wen and Huang, Miaomiao and Wang, Xingwei},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {2079–2088},
+pages = {2079--2088},
 year = {2025}
 }
 ```

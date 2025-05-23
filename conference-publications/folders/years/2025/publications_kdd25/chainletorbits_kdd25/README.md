@@ -5,7 +5,7 @@
 title = {Chainlet Orbits: Topological Address Embedding for Blockchain},
 author = {Azad, Poupak and Coskunuzer, Baris and Kantarcioglu, Murat and Akcora, Cuneyt G.},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {25–36},
+pages = {25--36},
 year = {2025}
 }
 ```

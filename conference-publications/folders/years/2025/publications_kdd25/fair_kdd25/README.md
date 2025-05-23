@@ -5,7 +5,7 @@
 title = {Future Matters for Present: Towards Effective Physical Simulation over Meshes},
 author = {Luo, Xiao and Luo, Junyu and Jiang, Huiyu and Zhou, Hang and Xiao, Zhiping and Ju, Wei and Yang, Carl and Zhang, Ming and Sun, Yizhou},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {906–917},
+pages = {906--917},
 year = {2025}
 }
 ```

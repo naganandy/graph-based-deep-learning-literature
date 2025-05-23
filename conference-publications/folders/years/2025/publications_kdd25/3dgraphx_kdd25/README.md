@@ -5,7 +5,7 @@
 title = {3DGraphX: Explaining 3D Molecular Graph Models via Incorporating Chemical Priors},
 author = {Liu, Xufeng and Luo, Dongsheng and Gao, Wenhan and Liu, Yi},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {859–870},
+pages = {859--870},
 year = {2025}
 }
 ```

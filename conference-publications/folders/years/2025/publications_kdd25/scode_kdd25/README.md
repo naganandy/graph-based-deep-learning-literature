@@ -5,7 +5,7 @@
 title = {SCode: A Spherical Code Metric Learning Approach to Continuously Monitoring Predictive Events in Networked Data},
 author = {Liu, Qu and Zulawnik, Emil and Ge, Tingjian},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {824–835},
+pages = {824--835},
 year = {2025}
 }
 ```

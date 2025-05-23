@@ -5,7 +5,7 @@
 title = {MLDGG: Meta-Learning for Domain Generalization on Graphs},
 author = {Tian, Qin and Zhao, Chen and Shao, Minglai and Wang, Wenjun and Lin, Yujie and Li, Dong},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1361–1372},
+pages = {1361--1372},
 year = {2025}
 }
 ```

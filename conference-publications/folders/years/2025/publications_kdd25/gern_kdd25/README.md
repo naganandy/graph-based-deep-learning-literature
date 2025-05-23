@@ -5,7 +5,7 @@
 title = {Fast and Effective GNN Training through Sequences of Random Path Graphs},
 author = {Bonchi, Francesco and Gentile, Claudio and Nerini, Francesco Paolo and Panisson, André and Vitale, Fabio},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {49–60},
+pages = {49--60},
 year = {2025}
 }
 ```

@@ -5,7 +5,7 @@
 title = {Non-Homophilic Graph Pre-Training and Prompt Learning},
 author = {Yu, Xingtong and Zhang, Jie and Fang, Yuan and Jiang, Renhe},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {1844–1854},
+pages = {1844--1854},
 year = {2025}
 }
 ```

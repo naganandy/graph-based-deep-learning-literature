@@ -5,7 +5,7 @@
 title = {CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship},
 author = {Lee, Yeon-Chang and Lee, JaeHyun and Yamashita, Michiharu and Lee, Dongwon and Kim, Sang-Wook},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {647–658},
+pages = {647--658},
 year = {2025}
 }
 ```

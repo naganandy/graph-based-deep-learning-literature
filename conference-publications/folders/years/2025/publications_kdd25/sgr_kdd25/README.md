@@ -5,7 +5,7 @@
 title = {Stable Representation Learning on Graphs from Multiple Environments with Structure Distribution Shift},
 author = {Zhao, Tong and Wang, Daixin and Zhang, Zhiqiang and Kang, Yulin and Zhou, Jun},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {2032–2042},
+pages = {2032--2042},
 year = {2025}
 }
 ```

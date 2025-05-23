@@ -5,7 +5,7 @@
 title = {Graph Learning with Distributional Edge Layouts},
 author = {Zhao, Xinjian and Ying, Chaolong and Xu, Yaoyao and Yu, Tianshu},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {2055–2066},
+pages = {2055--2066},
 year = {2025}
 }
 ```

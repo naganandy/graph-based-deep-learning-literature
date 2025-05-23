@@ -5,7 +5,7 @@
 title = {Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification},
 author = {Ding, Haipeng and Wei, Zhewei and Ye, Yuhang},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {213–223},
+pages = {213--223},
 year = {2025}
 }
 ```

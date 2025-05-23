@@ -5,7 +5,7 @@
 title = {Fairness without Demographics through Learning Graph of Gradients},
 author = {Luo, Yingtao and Li, Zhixun and Liu, Qiang and Zhu, Jun},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {918–926},
+pages = {918--926},
 year = {2025}
 }
 ```

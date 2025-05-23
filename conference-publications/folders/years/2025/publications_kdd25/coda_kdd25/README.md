@@ -5,7 +5,7 @@
 title = {Denoising Programming Knowledge Tracing with a Code Graph-based Tuning Adaptor},
 author = {Gao, Weibo and Liu, Qi and Li, Rui and Zhao, Yuze and Wang, Hao and Yue, Linan and Yao, Fangzhou and Zhang, Zheng},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {354–365},
+pages = {354--365},
 year = {2025}
 }
 ```

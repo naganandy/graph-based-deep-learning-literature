@@ -5,7 +5,7 @@
 title = {Bi-Dynamic Graph ODE for Opinion Evolution},
 author = {Duan, Bowen and Deng, Henggang and Piao, Jinghua and Wang, Huandong and Wang, Yue},
 booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-pages = {260–270},
+pages = {260--270},
 year = {2025}
 }
 ```
