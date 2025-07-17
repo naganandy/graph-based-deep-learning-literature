@@ -1,6 +1,7 @@
 # [Conferences](https://aideadlin.es/)
 
 - NeurIPS 2025 (Dec, decisions mid Sep)
+- ICDM 2025 (Dec, decisions late Aug)
 - EMNLP 2025 (Nov, decisions late Aug)
 - ICCV 2025 (Oct, decisions late Jun)
 - KDD 2025 (Aug, decisions mid May)
