@@ -211,7 +211,7 @@
 - Revealing Concept Shift in Spatio-Temporal Graphs via State Learning
 - GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer
 - Graph Prompts: Adapting Video Graph for Video Question Answering
-- Let’s Group: A Plug-and-Play SubGraph Learning Method for Memory-Efficient Spatio-Temporal Graph Modeling
+- Lets Group: A Plug-and-Play SubGraph Learning Method for Memory-Efficient Spatio-Temporal Graph Modeling
 - DASS: A Dual-Branch Attention-based Framework for Trajectory Similarity Learning with Spatial and Semantic Fusion
 
 
