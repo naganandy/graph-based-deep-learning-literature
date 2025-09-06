@@ -1,4 +1,5 @@
-# [Publications in KDD 2025](https://dl.acm.org/doi/proceedings/10.1145/3690624)
+# [Publications in KDD 2025 V.1](https://dl.acm.org/doi/proceedings/10.1145/3690624)
+# [Publications in KDD 2025 V.2](https://dl.acm.org/doi/proceedings/10.1145/3711896)
 
 
 
