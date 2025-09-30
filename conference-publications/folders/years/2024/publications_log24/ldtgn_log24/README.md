@@ -3,11 +3,13 @@
 ```
 @inproceedings{ldtgn_log24,
 title = {Leveraging Temporal Graph Networks Using Module Decoupling},
-author = {Or Feldman and Chaim Baskin},
-booktitle = {The Third Learning on Graphs Conference (LoG)},
-year = {2024}
+author = {Feldman, Or and Baskin, Chaim},
+pages = {22:1--22:19},
+booktitle = {Proceedings of the Third Learning on Graphs Conference (LoG)},
+year = {2025}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v269/feldman25a.html)
 - [openreview](https://openreview.net/forum?id=lKFExG1ga8)

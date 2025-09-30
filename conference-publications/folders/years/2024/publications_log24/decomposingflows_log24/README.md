@@ -1,13 +1,15 @@
-# Decomposing force fields as flows on graphs reconstructed from stochastic trajectories
+# Decomposing Force Fields as Flows on Graphs Reconstructed From Stochastic Trajectories
 
 ```
 @inproceedings{decomposingflows_log24,
-title = {Decomposing force fields as flows on graphs reconstructed from stochastic trajectories},
-author = {Ram{\'o}n Dineth Nartallo-Kaluarachchi and Paul Expert and David Beers and Alexander Strang and Morten L Kringelbach and Renaud Lambiotte and Alain Goriely},
-booktitle = {The Third Learning on Graphs Conference (LoG)},
-year = {2024}
+title = {Decomposing Force Fields as Flows on Graphs Reconstructed From Stochastic Trajectories},
+author = {Nartallo-Kaluarachchi, Ram{\'o}n Dineth and Expert, Paul and Beers, David and Strang, Alexander and Kringelbach, Morten L and Lambiotte, Renaud and Goriely, Alain},
+pages = {4:1--4:26},
+booktitle = {Proceedings of the Third Learning on Graphs Conference (LoG)},
+year = {2025}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v269/nartallo-kaluarachchi25a.html)
 - [openreview](https://openreview.net/forum?id=fefy4QgTzI)

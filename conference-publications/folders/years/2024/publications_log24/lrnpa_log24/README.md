@@ -1,13 +1,15 @@
-# Simple GNNs with Low Rank Non-parametric Aggregators
+# Simple GNNs With Low Rank Non-Parametric Aggregators
 
 ```
 @inproceedings{lrnpa_log24,
-title = {Simple {GNN}s with Low Rank Non-parametric Aggregators},
-author = {Luciano Vinas and Arash A. Amini},
-booktitle = {The Third Learning on Graphs Conference (LoG)},
-year = {2024}
+title = {Simple GNNs With Low Rank Non-Parametric Aggregators},
+author = {Vinas, Luciano and Amini, Arash A.},
+pages = {10:1--10:11},
+booktitle = {Proceedings of the Third Learning on Graphs Conference (LoG)},
+year = {2025}
 }
 ```
 
 links
+- [pmlr](https://proceedings.mlr.press/v269/vinas25a.html)
 - [openreview](https://openreview.net/forum?id=a9BMSBU6Af)
