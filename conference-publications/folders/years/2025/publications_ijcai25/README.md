@@ -250,6 +250,7 @@
 - [Soft Reasoning Paths for Knowledge Graph Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/srpkgc_ijcai25/README.md)
 - [SecV: LLM-based Secure Verilog Generation with Clue-Guided Exploration on Hardware-CWE Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/secv_ijcai25/README.md)
 - [APIMig: A Project-Level Cross-Multi-Version API Migration Framework Based on Evolution Knowledge Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/apimig_ijcai25/README.md)
+- [AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/arigraph_ijcai25/README.md)
 
 
 

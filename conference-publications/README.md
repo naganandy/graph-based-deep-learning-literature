@@ -203,6 +203,7 @@
 <details>
 <summary> more </summary>
 
+- [AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/arigraph_ijcai25/README.md)
 - [A Simple yet Effective Hypergraph Clustering Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/hcn_ijcai25/README.md)
 - [FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/fsken_ijcai25/README.md)
 - [Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_ijcai25/hpgnn_ijcai25/README.md)
