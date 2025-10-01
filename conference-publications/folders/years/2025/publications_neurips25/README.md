@@ -1,3 +1,7 @@
+# [Publications in NeurIPS 2025](https://nips.cc/Conferences/2025/Schedule)
+
+
+
 # Scalability
 - [Profile Inference with Graph Neural Networks](https://nips.cc/Conferences/2025/Schedule?showEvent=119293)
 - [You Only Spectralize Once: Taking a Spectral Detour to Accelerate Graph Neural Network](https://nips.cc/Conferences/2025/Schedule?showEvent=117732)
