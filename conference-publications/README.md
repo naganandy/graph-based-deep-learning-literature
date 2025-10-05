@@ -1,6 +1,7 @@
 # [Conferences](https://aideadlin.es/)
 
-- ICLR 2026 (Apr, decisions late Sep)
+- ICLR 2026 (Apr, decisions late Jan)
+- KDD 2026 (Aug, decisions late Nov)
 - WSDM 2026 (Feb, decisions late Oct)
 - AAAI 2026 (Jan, decisions early Nov)
 - LoG 2025 (Dec, decisions late Oct)
