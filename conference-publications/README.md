@@ -184,7 +184,7 @@
 
 
 ## -------------------------------------------------------------------
-# [ICML 2025 (Aug)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/README.md)
+# [ICML 2025 (Jul)](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/README.md)
 
 - [Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/git_icml25/README.md)
 - [Covered Forest: Fine-grained generalization analysis of graph neural networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/covfor_icml25/README.md)
