@@ -1,4 +1,4 @@
-# [Publications in ICML 2025](https://icml.cc/Conferences/2025/Schedule)
+# [Publications in ICML 2025](https://proceedings.mlr.press/v267/)
 
 
 
@@ -48,6 +48,13 @@
 
 
 
+# Scalability
+- [Adapting Precomputed Features for Efficient Graph Condensation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/gcpa_icml25/README.md)
+- [Unifews: You Need Fewer Operations for Efficient Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/unifews_icml25/README.md)
+- [AnalogGenie-Lite: Enhancing Scalability and Precision in Circuit Topology Discovery through Lightweight Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/analoggenielite_icml25/README.md)
+
+
+
 # Heterophily
 - [Multi-View Graph Clustering via Node-Guided Contrastive Encoding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/ngce_icml25/README.md)
 - [Uncertainty Estimation for Heterophilic Graphs Through the Lens of Information Theory](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/uhitle_icml25/README.md)
@@ -58,6 +65,12 @@
 # Homophily
 - [Homophily Enhanced Graph Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/hegda_icml25/README.md)
 - [HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/hypnear_icml25/README.md)
+
+
+
+# Adversarial Attacks
+- [A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/cognac_icml25/README.md)
+- [MemFreezing: A Novel Adversarial Attack on Temporal Graph Neural Networks under Limited Future Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/memfreezing_icml25/README.md)
 
 
 
@@ -75,16 +88,7 @@
 - [Improving the Effective Receptive Field of Message-Passing Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/immpnn_icml25/README.md)
 - [What Makes a Good Feedforward Computational Graph?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/ffcg_icml25/README.md)
 - [ENAHPool: The Edge-Node Attention-based Hierarchical Pooling for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/enahpool_icml25/README.md)
-
-
-
-# Long-Range Dependencies
 - [On Measuring Long-Range Interactions in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/lrm_icml25/README.md)
-
-
-
-# Stochastic Block Models
-- [SBGD: Improving Graph Diffusion Generative Model via Stochastic Block Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/sbgd_icml25/README.md)
 
 
 
@@ -98,16 +102,6 @@
 # Graph Matching
 - [Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/marason_icml25/README.md)
 - [Learning without Isolation: Pathway Protection for Continual Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/lwi_icml25/README.md)
-
-
-
-# Structure Learning
-- [Learning Latent Graph Structures and their Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/lgsu_icml25/README.md)
-
-
-
-# Uncertainty
-- [GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/goirl_icml25/README.md)
 
 
 
@@ -210,6 +204,7 @@
 - [Relational Invariant Learning for Robust Solvation Free Energy Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/rilood_icml25/README.md)
 - [Disentangling Invariant Subgraph via Variance Contrastive Estimation under Distribution Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/disvce_icml25/README.md)
 - [Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/scdgi_icml25/README.md)
+- [GCAL: Adapting Graph Models to Evolving Domain Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/gcal_icml25/README.md)
 
 
 
@@ -239,6 +234,7 @@
 - [Graph Diffusion for Robust Multi-Agent Coordination](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/mcgd_icml25/README.md)
 - [Simple and Critical Iterative Denoising: A Recasting of Discrete Diffusion in Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/cid_icml25/README.md)
 - [Noise-Guided Predicate Representation Extraction and Diffusion-Enhanced Discretization for Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/nodis_icml25/README.md)
+- [SBGD: Improving Graph Diffusion Generative Model via Stochastic Block Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/sbgd_icml25/README.md)
 
 
 
@@ -291,7 +287,6 @@
 - [CoDy: Counterfactual Explainers for Dynamic Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/cody_icml25/README.md)
 - [Information Bottleneck-guided MLPs for Robust Spatial-temporal Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/rstibmlp_icml25/README.md)
 - [Learning Changes in Graphon Attachment Network Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/ganm_icml25/README.md)
-- [MemFreezing: A Novel Adversarial Attack on Temporal Graph Neural Networks under Limited Future Knowledge](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/memfreezing_icml25/README.md)
 - [A Selective Learning Method for Temporal Graph Continual Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/ltf_icml25/README.md)
 - [TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/telograf_icml25/README.md)
 - [EduLLM: Leveraging Large Language Models and Framelet-Based Signed Hypergraph Neural Networks for Student Performance Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/edullm_icml25/README.md)
@@ -301,11 +296,16 @@
 
 
 
+# Structure Learning
+- [Learning Latent Graph Structures and their Uncertainty](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/lgsu_icml25/README.md)
+- [SPHINX: Structural Prediction using Hypergraph Inference Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/sphinx_icml25/README.md)
+
+
+
 # Hypergraphs
 - [SHARP-Distill: A 68$\times$ Faster Recommender System with Hypergraph Neural Networks and Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/sharpdistill_icml25/README.md)
 - [Improved Expressivity of Hypergraph Neural Networks through High-Dimensional Generalized Weisfeiler-Leman Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/kpogwl_icml25/README.md)
 - [HYGMA: Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/hcn_icml25/README.md)
-- [SPHINX: Structural Prediction using Hypergraph Inference Network](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/sphinx_icml25/README.md)
 
 
 
@@ -387,16 +387,6 @@
 
 
 
-# Unlearning
-- [A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/cognac_icml25/README.md)
-
-
-
-# Algorithmic Reasoning
-- [Primal-Dual Neural Algorithmic Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/pdnar_icml25/README.md)
-
-
-
 # Combinatorial Optimisation
 - [ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-$k$-Cut Problems](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/ros_icml25/README.md)
 - [Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/gsmodac_icml25/README.md)
@@ -418,11 +408,6 @@
 
 
 
-# Circuits
-- [AnalogGenie-Lite: Enhancing Scalability and Precision in Circuit Topology Discovery through Lightweight Graph Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/analoggenielite_icml25/README.md)
-
-
-
 # Benchmarks
 - [FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/ficgcn_icml25/README.md)
 - [Distributed Conformal Prediction via Message Passing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/qhdcp_icml25/README.md)
@@ -437,11 +422,10 @@
 # Miscellaneous
 - [G-Adaptivity: optimised graph-based mesh relocation for finite element methods](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/gadaptivity_icml25/README.md)
 - [EARTH: Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/earth_icml25/README.md)
-- [Unifews: You Need Fewer Operations for Efficient Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/unifews_icml25/README.md)
-- [GCAL: Adapting Graph Models to Evolving Domain Shifts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/gcal_icml25/README.md)
 - [Commute Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/cgnn_icml25/README.md)
 - [Propagate and Inject: Revisiting Propagation-Based Feature Imputation for Graphs with Partially Observed Features](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/pfipof_icml25/README.md)
 - [A General Graph Spectral Wavelet Convolution via Chebyshev Order Decomposition](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/wavegc_icml25/README.md)
 - [Generative Modeling Reinvents Supervised Learning: Label Repurposing with Predictive Consistency Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/pcl_icml25/README.md)
 - [Towards characterizing the value of edge embeddings in Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/edgegnn_icml25/README.md)
-- [Adapting Precomputed Features for Efficient Graph Condensation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/gcpa_icml25/README.md)
+- [Primal-Dual Neural Algorithmic Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/pdnar_icml25/README.md)
+- [GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icml25/goirl_icml25/README.md)
