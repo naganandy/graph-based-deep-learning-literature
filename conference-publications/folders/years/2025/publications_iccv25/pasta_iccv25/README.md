@@ -1,0 +1,14 @@
+# PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior
+
+```
+@inproceedings{pasta_iccv25,
+title = {PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior},
+author = {Lee, Seunggwan and Jung, Hwanhee and Koh, Byoungsoo and Huang, Qixing and Yoon, Sang Ho and Kim, Sangpil},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+pages = {18585--18595},
+year = {2025}
+}
+```
+
+links
+- [openaccess](PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior)
