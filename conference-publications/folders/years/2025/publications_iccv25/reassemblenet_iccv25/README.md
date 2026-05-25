@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Islam_ReassembleNet_Learnable_Keypoints_and_Diffusion_for_2D_Fresco_Reconstruction_ICCV_2025_paper.html)

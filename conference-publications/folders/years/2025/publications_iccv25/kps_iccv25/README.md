@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Knowledge-Guided Part Segmentation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Gou_Knowledge-Guided_Part_Segmentation_ICCV_2025_paper.html)

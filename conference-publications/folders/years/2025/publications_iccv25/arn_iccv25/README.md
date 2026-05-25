@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](End-to-End Entity-Predicate Association Reasoning for Dynamic Scene Graph Generation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_End-to-End_Entity-Predicate_Association_Reasoning_for_Dynamic_Scene_Graph_Generation_ICCV_2025_paper.html)

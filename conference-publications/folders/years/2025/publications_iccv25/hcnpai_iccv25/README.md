@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Hypergraph Clustering Network with Partial Attribute Imputation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Hypergraph_Clustering_Network_with_Partial_Attribute_Imputation_ICCV_2025_paper.html)

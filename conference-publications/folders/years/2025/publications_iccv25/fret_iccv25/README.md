@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](FRET: Feature Redundancy Elimination for Test Time Adaptation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/You_FRET_Feature_Redundancy_Elimination_for_Test_Time_Adaptation_ICCV_2025_paper.html)

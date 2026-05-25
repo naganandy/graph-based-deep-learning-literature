@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](A3GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.html)

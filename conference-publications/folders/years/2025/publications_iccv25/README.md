@@ -34,7 +34,7 @@
 
 # Hypergraphs
 - [HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iccv25/hypergct_iccv25/README.md)
-- [Hypergraph Clustering Network with Partial Attribute Imputation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iccv25/hcn-pai_iccv25/README.md)
+- [Hypergraph Clustering Network with Partial Attribute Imputation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iccv25/hcnpai_iccv25/README.md)
 - [Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iccv25/hypergcn_iccv25/README.md)
 - [Hyper-Depth: Hypergraph-based Multi-Scale Representation Fusion for Monocular Depth Estimation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_iccv25/hyperdepth_iccv25/README.md)
 

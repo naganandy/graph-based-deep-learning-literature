@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_HyperGCT_A_Dynamic_Hyper-GNN-Learned_Geometric_Constraint_for_3D_Registration_ICCV_2025_paper.html)

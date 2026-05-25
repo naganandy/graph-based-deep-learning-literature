@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Scene Graph Guided Generation: Enable Accurate Relations Generation in Text-to-Image Models via Textural Rectification)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Shen_Scene_Graph_Guided_Generation_Enable_Accurate_Relations_Generation_in_Text-to-Image_ICCV_2025_paper.html)

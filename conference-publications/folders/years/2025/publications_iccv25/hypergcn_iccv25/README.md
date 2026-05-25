@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_Adaptive_Hyper-Graph_Convolution_Network_for_Skeleton-based_Human_Action_Recognition_with_ICCV_2025_paper.html)

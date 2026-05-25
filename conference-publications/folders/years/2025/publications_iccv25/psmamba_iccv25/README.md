@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](PS-Mamba: Spatial-Temporal Graph Mamba for Pose Sequence Refinement)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_PS-Mamba_Spatial-Temporal_Graph_Mamba_for_Pose_Sequence_Refinement_ICCV_2025_paper.html)

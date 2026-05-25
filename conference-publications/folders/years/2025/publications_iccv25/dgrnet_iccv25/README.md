@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Breaking Grid Constraints: Dynamic Graph Reconstruction Network for Multi-organ Segmentation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Xiao_Breaking_Grid_Constraints_Dynamic_Graph_Reconstruction_Network_for_Multi-organ_Segmentation_ICCV_2025_paper.html)

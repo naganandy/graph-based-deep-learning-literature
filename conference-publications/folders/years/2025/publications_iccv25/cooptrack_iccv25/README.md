@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Zhong_CoopTrack_Exploring_End-to-End_Learning_for_Efficient_Cooperative_Sequential_Perception_ICCV_2025_paper.html)

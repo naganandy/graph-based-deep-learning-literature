@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Vision-Language Interactive Relation Mining for Open-Vocabulary Scene Graph Generation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Min_Vision-Language_Interactive_Relation_Mining_for_Open-Vocabulary_Scene_Graph_Generation_ICCV_2025_paper.html)

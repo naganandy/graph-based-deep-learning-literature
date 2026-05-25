@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](C2MIL: Synchronizing Semantic and Topological Causalities in Multiple Instance Learning for Robust and Interpretable Survival Analysis)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Cen_C2MIL_Synchronizing_Semantic_and_Topological_Causalities_in_Multiple_Instance_Learning_ICCV_2025_paper.html)

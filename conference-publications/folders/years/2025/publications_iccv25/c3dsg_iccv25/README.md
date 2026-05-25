@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Controllable 3D Outdoor Scene Generation via Scene Graphs)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Controllable_3D_Outdoor_Scene_Generation_via_Scene_Graphs_ICCV_2025_paper.html)

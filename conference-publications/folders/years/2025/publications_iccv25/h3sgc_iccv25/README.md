@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Hierarchical 3D Scene Graphs Construction Outdoors)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Nyffeler_Hierarchical_3D_Scene_Graphs_Construction_Outdoors_ICCV_2025_paper.html)

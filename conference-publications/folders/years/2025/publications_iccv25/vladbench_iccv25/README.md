@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Fine-Grained_Evaluation_of_Large_Vision-Language_Models_in_Autonomous_Driving_ICCV_2025_paper.html)

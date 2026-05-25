@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Shou_Graph_Domain_Adaptation_with_Dual-branch_Encoder_and_Two-level_Alignment_for_ICCV_2025_paper.html)

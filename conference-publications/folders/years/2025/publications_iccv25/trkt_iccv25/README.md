@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](TRKT: Weakly Supervised Dynamic Scene Graph Generation with Temporal-enhanced Relation-aware Knowledge Transferring)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Xu_TRKT_Weakly_Supervised_Dynamic_Scene_Graph_Generation_with_Temporal-enhanced_Relation-aware_ICCV_2025_paper.html)

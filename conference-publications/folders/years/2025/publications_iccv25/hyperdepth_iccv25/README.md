@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Hyper-Depth: Hypergraph-based Multi-Scale Representation Fusion for Monocular Depth Estimation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Bie_Hyper-Depth_Hypergraph-based_Multi-Scale_Representation_Fusion_for_Monocular_Depth_Estimation_ICCV_2025_paper.html)

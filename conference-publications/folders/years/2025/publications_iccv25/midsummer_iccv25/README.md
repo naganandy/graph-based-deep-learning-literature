@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](MiDSummer: Multi-Guidance Diffusion for Controllable Zero-Shot Immersive Gaussian Splatting Scene Generation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Hu_MiDSummer_Multi-Guidance_Diffusion_for_Controllable_Zero-Shot_Immersive_Gaussian_Splatting_Scene_ICCV_2025_paper.html)

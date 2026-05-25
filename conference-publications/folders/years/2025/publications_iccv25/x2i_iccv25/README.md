@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Ma_X2I_Seamless_Integration_of_Multimodal_Understanding_into_Diffusion_Transformer_via_ICCV_2025_paper.html)

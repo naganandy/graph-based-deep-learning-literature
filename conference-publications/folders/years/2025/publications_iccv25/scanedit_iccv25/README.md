@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](ScanEdit: Hierarchically-Guided Functional 3D Scan Editing)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Boudjoghra_ScanEdit_Hierarchically-Guided_Functional_3D_Scan_Editing_ICCV_2025_paper.html)

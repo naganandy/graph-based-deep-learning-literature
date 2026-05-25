@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Text-to-Any-Skeleton Motion Generation Without Retargeting)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Text-to-Any-Skeleton_Motion_Generation_Without_Retargeting_ICCV_2025_paper.html)

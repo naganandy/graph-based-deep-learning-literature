@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Trust but Verify: Programmatic VLM Evaluation in the Wild)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Prabhu_Trust_but_Verify_Programmatic_VLM_Evaluation_in_the_Wild_ICCV_2025_paper.html)

@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Consistent Time-of-Flight Depth Denoising via Graph-Informed Geometric Attention)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Consistent_Time-of-Flight_Depth_Denoising_via_Graph-Informed_Geometric_Attention_ICCV_2025_paper.html)

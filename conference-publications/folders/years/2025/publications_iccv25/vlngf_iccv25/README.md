@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](Vision-Language Neural Graph Featurization for Extracting Retinal Lesions)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Hassan_Vision-Language_Neural_Graph_Featurization_for_Extracting_Retinal_Lesions_ICCV_2025_paper.html)

@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Hu_SPADE_Spatial-Aware_Denoising_Network_for_Open-vocabulary_Panoptic_Scene_Graph_Generation_ICCV_2025_paper.html)

@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [openaccess](3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding)
+- [openaccess](https://openaccess.thecvf.com/content/ICCV2025/html/Zemskova_3DGraphLLM_Combining_Semantic_Graphs_and_Large_Language_Models_for_3D_ICCV_2025_paper.html)
