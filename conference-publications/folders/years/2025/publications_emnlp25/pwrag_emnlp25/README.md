@@ -11,4 +11,4 @@ year = {2025}
 ```
 
 links
-- [acl](https://aclanthology.org/2025.emnlp-main.1167/)
+- [aclanthology](https://aclanthology.org/2025.emnlp-main.1167/)
