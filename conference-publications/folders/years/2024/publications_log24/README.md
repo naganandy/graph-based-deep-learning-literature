@@ -1,4 +1,4 @@
-# [Publications in LoG 2024](https://openreview.net/group?id=logconference.io/LOG/2024/Conference#tab-your-consoles)
+# [Publications in LoG 2024](https://openreview.net/group?id=logconference.io/LOG/2024/Conference)
 
 
 
