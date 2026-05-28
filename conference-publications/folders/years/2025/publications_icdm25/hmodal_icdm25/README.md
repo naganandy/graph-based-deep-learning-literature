@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{hmodal_icdm25,
-title = {{HyperModal: Dynamic Hypergraph Contrastive Learning for Multi-Modal Representation }},
+title = {{HyperModal: Dynamic Hypergraph Contrastive Learning for Multi-Modal Representation}},
 author = {Al Kulaib, Lulwah},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1023--1029},

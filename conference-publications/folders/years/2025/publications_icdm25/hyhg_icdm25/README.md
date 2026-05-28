@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{hyhg_icdm25,
-title = {{HyHG: A Temporal Hypergraph Contrastive Learning Framework for Biomedical Hypothesis Generation }},
+title = {{HyHG: A Temporal Hypergraph Contrastive Learning Framework for Biomedical Hypothesis Generation}},
 author = {Shariatmadari, Amir Hassan and Guo, Sikun and Sheffield, Nathan C. and Zhang, Aidong and Jha, Kishlay},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {703--712},

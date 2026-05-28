@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{lhgel_icdm25,
-title = {{LHGEL: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation }},
+title = {{LHGEL: Large Heterogeneous Graph Ensemble Learning using Batch View Aggregation}},
 author = {Shen, Jiajun and Jin, Yufei and He, Yi and Zhu, Xingquan},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {713--722},

@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{lced_icdm25,
-title = {{Link Completion for Dynamic Knowledge Graphs with Entity Drift }},
+title = {{Link Completion for Dynamic Knowledge Graphs with Entity Drift}},
 author = {Zheng, Xiulin and Li, Pei-Pei and He, Yi and Wu, Xindong},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1722--1731},

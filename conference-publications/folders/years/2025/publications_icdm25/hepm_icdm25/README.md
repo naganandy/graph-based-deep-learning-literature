@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{hepm_icdm25,
-title = {{Tracking Latent Communities Evolution with Hierarchical Edge Partition Models }},
+title = {{Tracking Latent Communities Evolution with Hierarchical Edge Partition Models}},
 author = {Yu, Xincan and Fang, Nan and Liao, Hao and Yang, Sikun},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1672--1681},

@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{fans_icdm25,
-title = {{Neural Autoregressive Flows for Markov Boundary Learning }},
+title = {{Neural Autoregressive Flows for Markov Boundary Learning}},
 author = {Nguyen, Khoa and Duong, Bao and Huynh, Viet and Nguyen, Thin},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {632--641},

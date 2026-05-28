@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{cgle_icdm25,
-title = {{CGLE: Class-Label Graph Link Estimator for Link Prediction }},
+title = {{CGLE: Class-Label Graph Link Estimator for Link Prediction}},
 author = {Mazumder, Ankit and Bedathur, Srikanta},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {595--604},

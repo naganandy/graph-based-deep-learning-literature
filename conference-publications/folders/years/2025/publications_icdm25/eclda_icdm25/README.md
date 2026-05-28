@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{eclda_icdm25,
-title = {{EC-LDA: Label Distribution Inference Attack Against Federated Graph Learning with Embedding Compression }},
+title = {{EC-LDA: Label Distribution Inference Attack Against Federated Graph Learning with Embedding Compression}},
 author = {Cheng, Tong and Fu, Jie and Ling, Xinpeng and Li, Huifa and Chen, Zhili and Qian, Haifeng and Gong, Junqing},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {159--168},

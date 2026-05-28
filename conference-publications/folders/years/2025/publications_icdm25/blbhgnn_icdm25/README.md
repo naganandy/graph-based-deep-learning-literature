@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{blbhgnn_icdm25,
-title = {{BLB-HGNN: Bag of Little Bootstraps for Training Heterogeneous GNNs }},
+title = {{BLB-HGNN: Bag of Little Bootstraps for Training Heterogeneous GNNs}},
 author = {Vadlamani, Aditya T. and Salarian, Sama and Gurukar, Saket and Parthasarathy, Srinivasan},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1555--1564},

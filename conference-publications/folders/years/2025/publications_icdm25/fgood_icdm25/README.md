@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{fgood_icdm25,
-title = {{Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering }},
+title = {{Federated Graph Out-of-Distribution Generalization via Representation Propagation and Scattering}},
 author = {Zhu, Yukai and Sun, He and Xiao, Mingjun},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {993--1002},

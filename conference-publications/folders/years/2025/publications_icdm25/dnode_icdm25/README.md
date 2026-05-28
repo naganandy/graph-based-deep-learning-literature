@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{dnode_icdm25,
-title = {{DelayNetODE: Delay-Aware System Modelling Using Graph Attention and Continuous-Time Neural Dynamics }},
+title = {{DelayNetODE: Delay-Aware System Modelling Using Graph Attention and Continuous-Time Neural Dynamics}},
 author = {Karunadhika, Saumya and Luo, Ling and Oetomo, Bastian and Discepola, Michele and Kentish, Sandra and Gras, Sally and Aickelin, Uwe},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {367--376},

@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{prompteg_icdm25,
-title = {{PromptEG: Scalable Prompt-Based Temporal Generalization on Evolving Graphs }},
+title = {{PromptEG: Scalable Prompt-Based Temporal Generalization on Evolving Graphs}},
 author = {Ma, Tingyan and Lu, Bin and Zhao, Ze and Gan, Xiaoying and Fu, Luoyi and Wang, Xinbing and Zhou, Chenghu},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {565--574},

@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{faimrl_icdm25,
-title = {{FAIM-RL: A Reinforcement Learning Approach for Fairness-Aware Adaptive Influence Maximization }},
+title = {{FAIM-RL: A Reinforcement Learning Approach for Fairness-Aware Adaptive Influence Maximization}},
 author = {Wang, Fangzheng and Zhou, Yi and Wang, Yanhao and Karras, Panagiotis and Li, Yuchen},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {783--792},

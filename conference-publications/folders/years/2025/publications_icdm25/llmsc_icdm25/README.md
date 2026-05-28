@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{llmsc_icdm25,
-title = {{When LLM Meets Simplicial Complex: A Novel Graph Prompt Learning on Ethereum Transaction Networks }},
+title = {{When LLM Meets Simplicial Complex: A Novel Graph Prompt Learning on Ethereum Transaction Networks}},
 author = {Liu, Yuxin and Chan, Stephen and Chu, Jeffrey and Zhang, Yuanyuan and Chen, Yuzhou},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1390--1399},

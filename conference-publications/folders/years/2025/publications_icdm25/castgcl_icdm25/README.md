@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{castgcl_icdm25,
-title = {{Class-Aware Spatio-Temporal Graph Contrastive Learning for Multivariate Time Series Data }},
+title = {{Class-Aware Spatio-Temporal Graph Contrastive Learning for Multivariate Time Series Data}},
 author = {Wang, Yining and Li, Ke and Han, Fujun and Liu, Shuhan and Hou, Xuan and Teng, Dejun and Peng, Zhaohui},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1576--1584},

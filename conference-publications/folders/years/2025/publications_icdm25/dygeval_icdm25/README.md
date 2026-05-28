@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{dygeval_icdm25,
-title = {{Test-Time GNN Model Evaluation on Dynamic Graphs }},
+title = {{Test-Time GNN Model Evaluation on Dynamic Graphs}},
 author = {Li, Bo and Zheng, Xin and Jin, Ming and Wang, Can and Pan, Shirui},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {437--446},

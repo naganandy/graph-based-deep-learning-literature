@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{noah_icdm25,
-title = {{Attributed Hypergraph Generation with Realistic Interplay Between Structure and Attributes }},
+title = {{Attributed Hypergraph Generation with Realistic Interplay Between Structure and Attributes}},
 author = {Chun, Jaewan and Yoon, Seokbum and Choe, Minyoung and Lee, Geon and Shin, Kijung},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {189--198},

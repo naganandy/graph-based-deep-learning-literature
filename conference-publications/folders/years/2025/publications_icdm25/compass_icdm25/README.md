@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{compass_icdm25,
-title = {{Reasoning Over User Preferences: Knowledge Graph-Augmented LLMs for Explainable Conversational Recommendations }},
+title = {{Reasoning Over User Preferences: Knowledge Graph-Augmented LLMs for Explainable Conversational Recommendations}},
 author = {Qiu, Zhangchi and Luo, Linhao and Pan, Shirui and Liew, Alan Wee-Chung},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1495--1504},

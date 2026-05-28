@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{dla_icdm25,
-title = {{Incorporating Dynamic Logic Alignment into Knowledge Graph Reasoning Based on Reinforcement Learning }},
+title = {{Incorporating Dynamic Logic Alignment into Knowledge Graph Reasoning Based on Reinforcement Learning}},
 author = {Weng, Yiyang and Li, Tong and Tang, Zifang and Wang, Yiting and Yang, Zhen},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1623--1632},

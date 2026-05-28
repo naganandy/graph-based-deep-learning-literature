@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{echo_icdm25,
-title = {{ECHO: Effective Coreset-Driven Learning via Hierarchical Optimizations }},
+title = {{ECHO: Effective Coreset-Driven Learning via Hierarchical Optimizations}},
 author = {Diallo, Alec F. and Li, Weihe and Patras, Paul},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1155--1164},

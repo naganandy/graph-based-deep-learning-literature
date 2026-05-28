@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{hypsch_icdm25,
-title = {{HyperSearch: Prediction of New Hyperedges Through Unconstrained yet Efficient Search }},
+title = {{HyperSearch: Prediction of New Hyperedges Through Unconstrained yet Efficient Search}},
 author = {Choo, Hyunjin and Bu, Fanchen and Hwang, Hyunjin and Yoon, Young-Gyu and Shin, Kijung},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {179--188},

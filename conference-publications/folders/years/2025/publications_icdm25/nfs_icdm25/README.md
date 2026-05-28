@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{nfs_icdm25,
-title = {{Negative-Free Graph Contrastive Learning for Recommendation }},
+title = {{Negative-Free Graph Contrastive Learning for Recommendation}},
 author = {Liu, Junping and Yu, Mingchao and Hu, Xinrong and Yang, Jie and Guo, Yi and Li, Wanqing and Zhang, Wenbin},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {517--526},

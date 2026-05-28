@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{disenrec_icdm25,
-title = {{Heterogeneous Graph-Based Sequential Recommendation with Disentangled Methods }},
+title = {{Heterogeneous Graph-Based Sequential Recommendation with Disentangled Methods}},
 author = {Chen, Jinpeng and Guan, Huachen and Zhang, Fan and Yang, Zhenye and He, Jianxiang and Gao, Hongbo and Wei, Kaimin},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {140--149},

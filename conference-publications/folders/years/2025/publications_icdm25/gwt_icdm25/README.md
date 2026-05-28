@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{gwt_icdm25,
-title = {{Heterogeneous Graph Anomaly Detection with Graph Wavelet Transformer }},
+title = {{Heterogeneous Graph Anomaly Detection with Graph Wavelet Transformer}},
 author = {Zhang, Xiaoou and Zhou, Chuan and Liu, Yang and Zhang, Shuai and Zhang, Peng and Zhu, Yujia and Liu, Qingyun},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {923--932},

@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{gslstm_icdm25,
-title = {{Modeling the Impact of U.S.-China Flight Connectivity on Pandemic Dynamics and China's Economy }},
+title = {{Modeling the Impact of U.S.-China Flight Connectivity on Pandemic Dynamics and China's Economy}},
 author = {Mu, Yuhong and Jiang, Mengyu and Zhang, Shanshan and Yang, Lichao},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1420--1424},

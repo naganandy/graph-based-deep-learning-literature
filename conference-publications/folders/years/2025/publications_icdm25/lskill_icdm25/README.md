@@ -2,7 +2,7 @@
 
 ```
 @inproceedings{lskill_icdm25,
-title = {{LifelongSkill: Toward Modality-Varying Lifelong Learning with Latent Knowledge Hypergraph }},
+title = {{LifelongSkill: Toward Modality-Varying Lifelong Learning with Latent Knowledge Hypergraph}},
 author = {Chen, Jiayi and Jha, Kishlay and Zhang, Aidong},
 booktitle = {2025 IEEE International Conference on Data Mining (ICDM)},
 pages = {1105--1114},
