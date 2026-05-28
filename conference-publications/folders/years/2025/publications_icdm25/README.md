@@ -2,28 +2,10 @@
 
 
 
-# Heterophily
-- [Hypergraph Representation Learning with Adaptive Broadcasting and Receiving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/bhygnn_icdm25/README.md)
+# Link Prediction
 - [CGLE: Class-Label Graph Link Estimator for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/cgle_icdm25/README.md)
-
-
-
-# Fairness
-- [The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/geverbmlp_icdm25/README.md)
-- [FAIM-RL: A Reinforcement Learning Approach for Fairness-Aware Adaptive Influence Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/faimrl_icdm25/README.md)
-
-
-
-# Scalability
 - [Hierarchical Structure Enhanced Graph Representation for Link Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/hselp_icdm25/README.md)
-- [Neural Autoregressive Flows for Markov Boundary Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/fans_icdm25/README.md)
-- [Sc-GRIP: a Graph Convolutional Approach to Infer Gene Interaction Polarity from Single-Cell Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/scgrip_icdm25/README.md)
-
-
-
-# Explainability
-- [DelayNetODE: Delay-Aware System Modelling Using Graph Attention and Continuous-Time Neural Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/dnode_icdm25/README.md)
-- [CAST-GNN: Continual Adaptive Learning for Custom Spatio-Temporal Knowledge Graphs via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/castgnn_icdm25/README.md)
+- [PiGLeT: Probabilistic Message Passing for Semi-Supervised Link Sign Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/piglet_icdm25/README.md)
 
 
 
@@ -39,6 +21,7 @@
 - [Uncertainty Quantification of Conformalized Spatio-Temporal Graph Convolutional Network on Forecasting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/cpstgcn_icdm25/README.md)
 - [Modeling the Impact of U.S.-China Flight Connectivity on Pandemic Dynamics and China's Economy](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/gslstm_icdm25/README.md)
 - [Tracking Latent Communities Evolution with Hierarchical Edge Partition Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/hepm_icdm25/README.md)
+- [DelayNetODE: Delay-Aware System Modelling Using Graph Attention and Continuous-Time Neural Dynamics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/dnode_icdm25/README.md)
 
 
 
@@ -57,6 +40,7 @@
 
 
 # Hypergraphs
+- [Hypergraph Representation Learning with Adaptive Broadcasting and Receiving](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/bhygnn_icdm25/README.md)
 - [HyperSearch: Prediction of New Hyperedges Through Unconstrained yet Efficient Search](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/hypsch_icdm25/README.md)
 - [Attributed Hypergraph Generation with Realistic Interplay Between Structure and Attributes](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/noah_icdm25/README.md)
 - [Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/fedhgl_icdm25/README.md)
@@ -65,6 +49,7 @@
 
 
 # Knowledge Graphs
+- [CAST-GNN: Continual Adaptive Learning for Custom Spatio-Temporal Knowledge Graphs via Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/castgnn_icdm25/README.md)
 - [Incorporating Dynamic Logic Alignment into Knowledge Graph Reasoning Based on Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/dla_icdm25/README.md)
 - [Link Completion for Dynamic Knowledge Graphs with Entity Drift](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/lced_icdm25/README.md)
 
@@ -103,6 +88,9 @@
 
 
 # Miscellaneous
-- [PiGLeT: Probabilistic Message Passing for Semi-Supervised Link Sign Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/piglet_icdm25/README.md)
 - [Edge Probability Graph Models Beyond Edge Independency: Concepts, Analyses, and Algorithms](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/epgm_icdm25/README.md)
 - [Towards Propagation-Aware Representation Learning for Supervised Social Media Graph Analytics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/rprl_icdm25/README.md)
+- [The Demon is in Ambiguity: Revisiting Situation Recognition with Single Positive Multi-Label Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/geverbmlp_icdm25/README.md)
+- [FAIM-RL: A Reinforcement Learning Approach for Fairness-Aware Adaptive Influence Maximization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/faimrl_icdm25/README.md)
+- [Neural Autoregressive Flows for Markov Boundary Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/fans_icdm25/README.md)
+- [Sc-GRIP: a Graph Convolutional Approach to Infer Gene Interaction Polarity from Single-Cell Data](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_icdm25/scgrip_icdm25/README.md)
