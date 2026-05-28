@@ -3,7 +3,7 @@
 
 
 # Heterophily
-- [Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_log25/bufgra_log25/README.md)
+- [Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_log25/buffergraph_log25/README.md)
 - [Complex-Weighted Convolutional Networks: Provable Expressiveness via Complex Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_log25/cwcn_log25/README.md)
 
 
