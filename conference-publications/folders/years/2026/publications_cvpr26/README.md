@@ -2,22 +2,28 @@
 
 
 
+# Gaussian Splatting
+- [Geometry-Aware Cross-Modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/geocga_cvpr26/README.md)
+- [SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/svgs_cvpr26/README.md)
+- [ReLaGS: Relational Language Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/relags_cvpr26/README.md)
+- [GS\textasciicircum2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/gs2_cvpr26/README.md)
+- [CoRoGS: Contextual Gaussian Splatting for Robust Large-Deviation View Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/corogs_cvpr26/README.md)
+
+
+
 # Scene Graph Generation
 - [Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/flowsg_cvpr26/README.md)
 - [DSFlash: Comprehensive Panoptic Scene Graph Generation in Realtime](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/dsflash_cvpr26/README.md)
 - [Robo-SGG: Exploiting Layout-Oriented Normalization and Restitution Can Improve Robust Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/robosgg_cvpr26/README.md)
 - [Mixture-of-Experts based Feature Decoupling for Open Vocabulary Scene Graph Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/moefd_cvpr26/README.md)
-- [ReLaGS: Relational Language Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/relags_cvpr26/README.md)
 - [NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/neurorule_cvpr26/README.md)
-- [End-to-End Hyper-Relational Information Extraction for Engineering Diagrams via Dynamically Tokenized Relation Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/dtrt_cvpr26/README.md)
-- [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/spatialqa_cvpr26/README.md)
 
 
 
 # Scene Graphs
 - [RE-VLM: Event-Augmented Vision-Language Model for Scene Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/revlm_cvpr26/README.md)
+- [End-to-End Hyper-Relational Information Extraction for Engineering Diagrams via Dynamically Tokenized Relation Transformer](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/dtrt_cvpr26/README.md)
 - [Describe Anything Anywhere At Any Moment](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/daaam_cvpr26/README.md)
-- [BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/bussard_cvpr26/README.md)
 - [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/vlmloc_cvpr26/README.md)
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/msgnav_cvpr26/README.md)
 - [SIR: Structured Image Representations for Explainable Robot Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/sir_cvpr26/README.md)
@@ -64,9 +70,7 @@
 # Transformers
 - [Adaptive Learned Image Compression with Graph Neural Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/glic_cvpr26/README.md)
 - [GraPHFormer: A Multimodal Graph Persistent Homology Transformer for the Analysis of Neuroscience Morphologies](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/graphformer_cvpr26/README.md)
-- [Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/aard_cvpr26/README.md)
 - [LookasideVLN: Direction-Aware Aerial Vision-and-Language Navigation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/lookasidevln_cvpr26/README.md)
-- [Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/anoco_cvpr26/README.md)
 - [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/srhpf_cvpr26/README.md)
 - [Unified Vector Floorplan Generation via Markup Representation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/fmlm_cvpr26/README.md)
 - [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/resihmr_cvpr26/README.md)
@@ -92,7 +96,6 @@
 - [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/pop_cvpr26/README.md)
 - [Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/scale_cvpr26/README.md)
 - [ZINA: Multimodal Fine-grained Hallucination Detection and Editing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/zina_cvpr26/README.md)
-- [IEBGL:An Interpretability-Enhanced Brain Graph Learning Framework with LLM-Instructed Topology and Literature-Augmented Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/iebgl_cvpr26/README.md)
 - [Vibe Spaces for Creatively Connecting and Expressing Visual Concepts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/vspace_cvpr26/README.md)
 
 
@@ -106,11 +109,18 @@
 
 
 
+# Brain Data
+- [IEBGL:An Interpretability-Enhanced Brain Graph Learning Framework with LLM-Instructed Topology and Literature-Augmented Semantics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/iebgl_cvpr26/README.md)
+- [Virtual Nodes Guided Dynamic Graph Neural Network for Brain Tumor Segmentation with Missing Modalities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/vngnn_cvpr26/README.md)
+- [Continual Learning for fMRI-Based Brain Disorder Diagnosis via Functional Connectivity Matrices Generative Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/forge_cvpr26/README.md)
+
+
+
+
 # Diffusion Models
 - [PhyOceanCast: Global Ocean Forecasting with Physics-Informed Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/phyoceancast_cvpr26/README.md)
 - [Nestwork: Conditional 3D Furnished House Layout Generation through Latent Heterogeneous Graph Diffusion](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/nestwork_cvpr26/README.md)
 - [Semantic Derivative Flow: Graph-Guided Diffusion for Controllable Instance Interactions](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/sdf_cvpr26/README.md)
-- [SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/svgs_cvpr26/README.md)
 - [Training-free Motion Factorization for Compositional Video Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/mfcvg_cvpr26/README.md)
 - [ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/viterbiplannet_cvpr26/README.md)
 - [Match-and-Fuse: Consistent Generation from Unstructured Image Sets](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/mnf_cvpr26/README.md)
@@ -127,17 +137,18 @@
 - [Differentiable Laplacian Matrix Guided Superpixel Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/lap_cvpr26/README.md)
 - [Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/muses_cvpr26/README.md)
 - [RoboTAG: End-to-end Robot Pose Estimation via Topological Alignment Graph](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/robotag_cvpr26/README.md)
+- [Beyond Euclidean Gossip: KL-Barycentric Consensus on Heterogeneous and Imbalanced Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/klbc_cvpr26/README.md)
+- [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/acepgo_cvpr26/README.md)
+- [Camouflage-aware Image-Text Retrieval via Expert Collaboration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/cecnet_cvpr26/README.md)
+- [ObjectMorpher: 3D-Aware Image Editing via Deformable 3DGS](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/omorph_cvpr26/README.md)
 
 
 
 # Videos
 - [EagleNet: Energy-Aware Fine-Grained Relationship Learning Network for Text-Video Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/eaglenet_cvpr26/README.md)
 - [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/causalot_cvpr26/README.md)
-- [LayoutAD: Exploring Semantic-Geometric Misalignment Reasoning for Scene Layout Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/layoutad_cvpr26/README.md)
 - [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/gemtfl_cvpr26/README.md)
 - [EgoAVU: Egocentric Audio-Visual Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/egoavu_cvpr26/README.md)
-- [VMD-FACT: A New Video Dataset and MLLM-based method for Detecting Realistic AI-Generated Video Misinformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/ieeg_cvpr26/README.md)
-- [CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/curve_cvpr26/README.md)
 - [Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/g2frag_cvpr26/README.md)
 - [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/demo2tutorial_cvpr26/README.md)
 - [EthoCLIP: Ontology-Enhanced Video-Language Pretraining for Animal Behavior Understanding](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/ethoclip_cvpr26/README.md)
@@ -183,7 +194,6 @@
 # Prompting
 - [SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/spegc_cvpr26/README.md)
 - [Prompt-Free Unknown Label Generation for Open World Detection in Remote Sensing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/hsgdet_cvpr26/README.md)
-- [Geometry-Aware Cross-Modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/geocga_cvpr26/README.md)
 
 
 
@@ -208,32 +218,38 @@
 
 
 # Benchmarks
-- [Camouflage-aware Image-Text Retrieval via Expert Collaboration](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/cecnet_cvpr26/README.md)
+- [VMD-FACT: A New Video Dataset and MLLM-based method for Detecting Realistic AI-Generated Video Misinformation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/ieeg_cvpr26/README.md)
+- [CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/curve_cvpr26/README.md)
 - [Towards Human-Like Robot Handwriting via Contour-Aware Generation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/ghtr_cvpr26/README.md)
-- [Graph Attention Prototypical Network for Robust Few-Shot Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/gapnet_cvpr26/README.md)
 - [Towards Dynamic Modality Alignment in Multimodal Continual Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/dagr_cvpr26/README.md)
 - [POGA: Paraphrased and Oppositional Graph Alignment for Fine-Grained Cross-Modal Retrieval](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/poga_cvpr26/README.md)
 - [ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/activepolicy_cvpr26/README.md)
+- [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/spatialqa_cvpr26/README.md)
+- [R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/r2g_cvpr26/README.md)
+
+
+
+# Anomaly Detection
+- [BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/bussard_cvpr26/README.md)
+- [Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/aard_cvpr26/README.md)
+- [Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/anoco_cvpr26/README.md)
+- [LayoutAD: Exploring Semantic-Geometric Misalignment Reasoning for Scene Layout Anomaly Detection](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/layoutad_cvpr26/README.md)
+
+
+
+# CAD
+- [FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/fovnet_cvpr26/README.md)
+- [CAD-Refiner: A Unified Framework for CAD Generation and Iterative Editing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/cadrefiner_cvpr26/README.md)
 
 
 
 # Miscellaneous
-- [From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/afm_cvpr26/README.md)
-- [GS\textasciicircum2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/gs2_cvpr26/README.md)
-- [CoRoGS: Contextual Gaussian Splatting for Robust Large-Deviation View Synthesis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/corogs_cvpr26/README.md)
-- [Virtual Nodes Guided Dynamic Graph Neural Network for Brain Tumor Segmentation with Missing Modalities](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/vngnn_cvpr26/README.md)
-- [FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/fovnet_cvpr26/README.md)
+- [Graph Attention Prototypical Network for Robust Few-Shot Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/gapnet_cvpr26/README.md)
 - [FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/feast_cvpr26/README.md)
-- [R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/r2g_cvpr26/README.md)
-- [Beyond Euclidean Gossip: KL-Barycentric Consensus on Heterogeneous and Imbalanced Images](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/klbc_cvpr26/README.md)
+- [From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/afm_cvpr26/README.md)
 - [Dual Graph Regularized Deep Unfolding Network for Guided Depth Map Super-resolution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/lapnet_cvpr26/README.md)
 - [Reliable Policy Transfer for Safety-Aware End-to-End Driving with Deep Reinforcement Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/rptdrl_cvpr26/README.md)
-- [CAD-Refiner: A Unified Framework for CAD Generation and Iterative Editing](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/cadrefiner_cvpr26/README.md)
-- [Continual Learning for fMRI-Based Brain Disorder Diagnosis via Functional Connectivity Matrices Generative Replay](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/forge_cvpr26/README.md)
-- [ObjectMorpher: 3D-Aware Image Editing via Deformable 3DGS](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/omorph_cvpr26/README.md)
 - [Discovering Adaptive Task Dependencies for Efficient Multi-Task Representation Compression](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/atdc_cvpr26/README.md)
-- [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/acepgo_cvpr26/README.md)
 - [NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/neurino_cvpr26/README.md)
 - [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/reta_cvpr26/README.md)
 - [Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/edapseg_cvpr26/README.md)
-- [BrepVGAE: Variational Graph Autoencoder with Unified Latent Representation for B-rep](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_cvpr26/brepvgae_cvpr26/README.md)
