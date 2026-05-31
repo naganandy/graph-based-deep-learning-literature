@@ -49,6 +49,11 @@ Publications within each conference and year below are organised into topic-spec
 <br> </br>
 <br> </br>
 
+
+* ### [Learning On Graphs Conference](https://logconference.org/) - [2025](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_log25/README.md) | [2024](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/README.md) |  [2023](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/README.md) | [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
+
+
+
 # Top 10 Most Cited Publications (on Graph Neural Networks)
 - [Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/gcn_iclr17/README.md)
 - [Graph Attention Networks](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/publications_conf18/gan_iclr18/README.md)
@@ -60,7 +65,3 @@ Publications within each conference and year below are organised into topic-spec
 - [Spectral Networks and Locally Connected Networks on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/graphcnn_iclr14/README.md)
 - [How Powerful are Graph Neural Networks?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2019/publications_iclr19/gin_iclr19/README.md)
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/graphcnn_neurips15/README.md)
-
-
-
-* ### [Learning On Graphs Conference](https://logconference.org/) - [2025](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_log25/README.md) | [2024](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/README.md) |  [2023](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/README.md) | [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
