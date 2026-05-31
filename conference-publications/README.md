@@ -1,7 +1,7 @@
 # [Conferences](https://aideadlin.es/)
 
 - NeurIPS 2026 (Dec, decisions late Sep)
-- ICDM 2026 (Dec)
+- ICDM 2026 (Nov)
 - EMNLP 2026 (Oct)
 - ECCV 2026 (Sep)
 - KDD 2026 (Aug)
