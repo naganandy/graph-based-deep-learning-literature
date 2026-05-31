@@ -46,11 +46,14 @@ Publications within each conference and year below are organised into topic-spec
     * ### [EMNLP](https://2025.emnlp.org/) - [2025](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_emnlp25/README.md) | [2024](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_emnlp24/README.md) | [2023](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_emnlp23/README.md) | [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_emnlp22/README.md) | [2021](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2021/publications_emnlp21/README.md) | [2020](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2020/publications_emnlp20/README.md) | [2019](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2019/publications_emnlp19/README.md) | [2018](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2018/README.MD#emnlp-2018-nov) | [2017](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2017_and_Earlier/README.MD#emnlp-2017)
 
 <br> </br>
-<br> </br>
-<br> </br>
 
 
 * ### [Learning On Graphs Conference](https://logconference.org/) - [2025](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2025/publications_log25/README.md) | [2024](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2024/publications_log24/README.md) |  [2023](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2023/publications_log23/README.md) | [2022](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2022/publications_log22/README.md)
+
+
+<br> </br>
+<br> </br>
+<br> </br>
 
 
 
