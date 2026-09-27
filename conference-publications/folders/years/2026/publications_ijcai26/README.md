@@ -1,6 +1,4 @@
-# [IJCAI 2026: Deep Learning with Graphs](https://www.ijcai.org/proceedings/2026/)
-
-> Inclusion rule: retain papers with **both** a substantive graph, knowledge-graph, scene-graph or hypergraph component and a deep-learning model (e.g., GNN, neural graph encoder, transformer, diffusion network, or LLM). Relevant surveys of deep graph learning are included. Pure graph algorithms, shallow graph optimization, and work with only a peripheral or proposed-future graph component are excluded.
+# [Publications in IJCAI 2026](https://www.ijcai.org/proceedings/2026/)
 
 # GNN Architectures & Message-Passing Dynamics
 
