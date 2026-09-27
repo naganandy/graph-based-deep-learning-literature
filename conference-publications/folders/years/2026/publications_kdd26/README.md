@@ -1,4 +1,4 @@
-# Publications in KDD 2025 [V.1](https://dl.acm.org/doi/proceedings/10.1145/3770854) and [V.2](https://dl.acm.org/doi/proceedings/10.1145/3770855)
+# Publications in KDD 2026 [V.1](https://dl.acm.org/doi/proceedings/10.1145/3770854) and [V.2](https://dl.acm.org/doi/proceedings/10.1145/3770855)
 
 
 # GNN Expressivity, Architectures & Learning Theory
