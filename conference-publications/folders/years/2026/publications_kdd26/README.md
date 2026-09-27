@@ -74,7 +74,7 @@ LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://github.c
 
 
 
-# Graph Foundation Models & LLM–Graph Integration
+# Graph Foundation Models & LLM and Graph Integration
 
 ## Cross-Domain Pretraining & Graph Foundation Models
 - [Test-Time Search for Automated GFM Fine-Tuning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_kdd26/gfmtuner_kdd26/README.md)
@@ -87,7 +87,7 @@ LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://github.c
 - [Advancing Graph Few-Shot Learning via In-Context Learning](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_kdd26/vision_kdd26/README.md)
 - [Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_kdd26/graphssr_kdd26/README.md)
 
-## LLM–GNN Learning on Text-Attributed Graphs
+## LLM and GNN Learning on Text-Attributed Graphs
 - [Semi-Supervised Text-Attributed Graph Distillation](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_kdd26/stad_kdd26/README.md)
 - [Continual-GraphLLM: Dynamic Graph Large Language Model with Invariance Regularized Adaptive Multi-Scale Experts](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_kdd26/continualgraphllm_kdd26/README.md)
 - [Both Topology and Text Matter: Revisiting LLM-guided Out-of-Distribution Detection on Text-attributed Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_kdd26/lgplug_kdd26/README.md)
