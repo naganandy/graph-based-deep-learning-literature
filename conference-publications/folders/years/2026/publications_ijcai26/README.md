@@ -136,7 +136,7 @@
 - [KG-MultiMS: a Knowledge Graph-Enhanced Multimodal Framework  for Multiple Sclerosis](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_ijcai26/kgmultims_ijcai26/README.md)
 - [ElderMTL: Multi-Task Affect Monitoring for Elderly Care](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_ijcai26/eldermtl_ijcai26/README.md)
 
-## Gene–Disease Prediction, Clinical Graphs & Biomedical Embeddings
+## Gene and Disease Prediction, Clinical Graphs & Biomedical Embeddings
 - [GDAs-OT: A Prediction Method of Gene-Disease Associations Based on Optimal Transport for Identifying Genes Related to Immune-Related Adverse Events](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_ijcai26/gdasot_ijcai26/README.md)
 - [MedFiTRG: Jointly Learning Dynamic Temporal and Cross-Patient Graphs for Clinical Outcome Prediction](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_ijcai26/medfitrg_ijcai26/README.md)
 - [Structure-Aware Contrastive Learning for Biomedical Embeddings: Bridging the Gap Between HPO and Clinical Literature](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_ijcai26/nsalign_ijcai26/README.md)
