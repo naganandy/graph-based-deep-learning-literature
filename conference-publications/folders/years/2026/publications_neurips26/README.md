@@ -1,4 +1,4 @@
-# [Publications in NeurIPS 2025](https://nips.cc/Conferences/2026/Schedule)
+# [Publications in NeurIPS 2026](https://nips.cc/Conferences/2026/Schedule)
 
 ## Graph architectures and expressive power (32)
 
