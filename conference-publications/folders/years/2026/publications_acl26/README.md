@@ -1,4 +1,4 @@
-# [ACL 2026 — Graph + Deep Learning Papers](https://aclanthology.org/events/acl-2026/)
+# [Publications in ACL 2026](https://aclanthology.org/events/acl-2026/)
 
 # Structured Knowledge & Knowledge Graph NLP
 
