@@ -1,7 +1,5 @@
 # [Publications in ICML 2026](https://icml.cc/Conferences/2026/Schedule)
 
-> Categorized from `method.txt` (423 entries). Each paper is listed once under its primary topic. Every subcategory includes at least two papers. The classification follows the structure of the NeurIPS 2026 `README.md` and is based on the supplied titles.
-
 
 # GNN Expressivity, Architectures & Learning Theory
 
