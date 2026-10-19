@@ -11,7 +11,7 @@
 - [Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/ebgnn_icml26/README.md)
 - [GI-GCN: Global Interacted Graph Convolutional Networks via Dominant Sets for Graph Classification](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/gigcn_icml26/README.md)
 - [Adaptive Recurrent Message Passing for Test Time Computing on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/adar_icml26/README.md)
-- [InvGNN: Learning Invertible Node Representations on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/invgn n_icml26/README.md)
+- [InvGNN: Learning Invertible Node Representations on Graphs](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/invgnn_icml26/README.md)
 
 ## GNN Expressivity, Algorithmic Reasoning & Theoretical Limits
 - [Which Algorithms Can Graph Neural Networks Learn?](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/algognn_icml26/README.md)
