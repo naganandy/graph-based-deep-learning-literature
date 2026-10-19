@@ -1,8 +1,8 @@
-# [Conferences](https://aideadlin.es/)
+# [Conferences](http://aideadlines.org/?sub=ML,CV,NLP,RO,SP,DM,AP,KR,HCI,IRSM,MISC)
 
+- KDD 2027 (Aug)
 - TheWebConf 2027 (May)
 - ICLR 2027 (Apr)
-- KDD 2027 (Aug)
 - AAAI 2027 (Feb)
 - NeurIPS 2026 (Dec)
 - ICDM 2026 (Nov)
