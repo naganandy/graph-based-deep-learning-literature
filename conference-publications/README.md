@@ -589,7 +589,6 @@ Program-Grounded Evidence Composition for Interpretable Graph Classification](ht
 <details>
 <summary> more </summary>
 
-
 - [Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/gnnmim_icml26/README.md)
 - [Agentic Framework for Epidemiological Modeling](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/epiagt_icml26/README.md)
 - [Learning Context-Conditioned Predicate Semantics via Prototype Feedback](https://github.com/naganandy/graph-based-deep-learning-literature/blob/master/conference-publications/folders/years/2026/publications_icml26/aligng_icml26/README.md)
