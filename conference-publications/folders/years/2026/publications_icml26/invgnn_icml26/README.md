@@ -1,7 +1,7 @@
 # InvGNN: Learning Invertible Node Representations on Graphs
 
 ```
-@inproceedings{invgn n_icml26,
+@inproceedings{invgnn_icml26,
 title = {{I}nv{GNN}: Learning Invertible Node Representations on Graphs},
 author = {Nikolentzos, Giannis and Kelesis, Dimitrios and Nakis, Nikolaos},
 booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
