@@ -12,4 +12,3 @@
 
 links
 - [springer](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_10)
-- [doi](https://doi.org/10.1007/978-3-032-37718-0_10)
