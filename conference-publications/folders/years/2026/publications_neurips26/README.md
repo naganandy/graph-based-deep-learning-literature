@@ -365,7 +365,7 @@
 - [LLM-WikiRace: A Benchmark for Planning and Reasoning over Real-World Knowledge Graphs](https://nips.cc/Conferences/2026/Schedule?showEvent=139824)
 - [ClinMAS: A Knowledge-Grounded Multi-Agent Simulation Framework for Evaluating Clinical Reasoning in LLMs](https://nips.cc/Conferences/2026/Schedule?showEvent=139102)
 - [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](https://nips.cc/Conferences/2026/Schedule?showEvent=139669)
-- [PerturbReason: A Knowledge-Grounded Benchmark and Framework for Cell-State–Conditioned Mechanistic Reasoning of Perturbation Effects](https://nips.cc/Conferences/2026/Schedule?showEvent=139067)
+- [PertReason: A Knowledge-Grounded Benchmark and Framework for Cell-State–Conditioned Mechanistic Reasoning of Perturbation Effects](https://nips.cc/Conferences/2026/Schedule?showEvent=139067)
 - [EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge](https://nips.cc/Conferences/2026/Schedule?showEvent=139530)
 
 ## Knowledge Graphs for Biomedical & Scientific LLM Reasoning
